@@ -1,0 +1,44 @@
+# Site settings
+locale: "it-IT"
+title: OpenSTAManager
+title_separator: "-"
+email: info@openstamanager.com
+description: "Documentazione del gestionale open-source OpenSTAManager"
+baseurl: ""
+url: "https://devcode-it.github.io"
+github_username: "devcode-it"
+repository: "devcode-it/devcode-it.github.io"
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+collections:
+  openstamanager:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _openstamanager
+  - scope:
+      path: ""
+      type: openstamanager
+    values:
+      layout: single
+      toc: true
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: false
+      sidebar:
+        nav: "osm"
+
+# Analytics
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-42808312-1
+    anonymize_ip: false

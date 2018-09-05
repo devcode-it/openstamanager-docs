@@ -1,0 +1,56 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: Versioni
+    children:
+      - title: "2.4"
+        url: /2.4
+      - title: "2.3.1"
+        url: /2.3.1
+      - title: "2.3"
+        url: /2.3
+
+osm:
+  - title: Introduzione
+    children:
+      - title: "Installazione"
+        url: 2.4.2/installazione
+      - title: "Aggiornamento"
+        url: 2.4.2/aggiornamento
+      - title: "Contribuire"
+        url: 2.4.2/contribuire
+  - title: Strutture
+    children:
+      - title: "Moduli"
+        url: 2.4.2/structure/moduli
+      - title: "Plugin"
+        url: 2.4.2/structure/plugin
+      - title: "Stampe"
+        url: 2.4.2/structure/stampe
+      - title: "Widget"
+        url: 2.4.2/structure/widget
+  - title: Approfondimenti
+    children:
+      - title: "Nucleo"
+        url: 2.4.2/more/nucleo
+      - title: "Upload"
+        url: 2.4.2/more/upload
+      - title: "Extra"
+        url: 2.4.2/more/extra
+      - title: "API"
+        url: 2.4.2/more/api
+  - title: Personalizzazione
+    children:
+      - title: "Framework"
+        url: 2.4.2/base/framework
+      - title: "Assets"
+        url: 2.4.2/base/assets
+  - title: Link utili
+    children:
+      - title: "Documentazione"
+        url: docs/
+      - title: "Sito web"
+        url: http://www.openstamanager.com
+      - title: "Forum"
+        url: http://www.openstamanager.com/forum
