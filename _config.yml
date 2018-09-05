@@ -17,7 +17,7 @@ minimal_mistakes_skin: "default"
 collections:
   openstamanager:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 # Defaults
 defaults:
