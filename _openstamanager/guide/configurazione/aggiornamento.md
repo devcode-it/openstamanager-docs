@@ -48,3 +48,4 @@ In alcuni casi particolari, può essere necessario riprendere forzatamente l'ese
 Questo viene reso possibile visitando l'URL a cui è possibile accedere a OpenSTAManager con l'aggiunta del testo `?force`.
 
 **Attenzione**: quest'azione è sconsigliata a utenti non esperti.
+{: .notice--danger}

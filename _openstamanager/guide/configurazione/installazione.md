@@ -67,7 +67,7 @@ In particolare, viene richiesta la presenza di un *web server* [Apache](https://
 - MySQL >= 5.6.5
 
 Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo:
-{% include figure path="basic.png" alt="Controllo sui requisiti PHP" caption="Requisto PHP non soddisfatto" %}
+{% include figure path="basic.png" alt="Controllo sui requisiti PHP" caption="Requisito PHP non soddisfatto" %}
 
 Successivamente, se il controllo precedente viene soddisfatto, il software verrà effettivamente avviato e sarà possibile procedere nella configurazione.
 
@@ -84,9 +84,9 @@ Una volta corretti correttamente i requisiti, cliccare su **Successivo**.
 
 ## Licenza
 
-La scheramata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
+La schermata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
 
-OpenSTAManager viene reso disponibile tramite la licenza **GPL-3.0**, che ne permette l'uso commerciale e la personalizzazione a patto di mantenere un riferimento al progetto iniziale rimuovendo la resposabilità di eventuali problematiche agli sviluppatori originali.
+OpenSTAManager viene reso disponibile tramite la licenza **GPL-3.0**, che ne permette l'uso commerciale e la personalizzazione a patto di mantenere un riferimento al progetto iniziale rimuovendo la responsabilità di eventuali problematiche agli sviluppatori originali.
 
 **Non è possibile procedere all'utilizzo del software senza aver accettato la licenza.**
 
@@ -96,7 +96,7 @@ Una volta accettata la licenza, cliccare su **Successivo**.
 
 ## Database
 
-Una volta corretti i requisiti e accettata la licenza, viene resa disponibile la pagina dedicata alla configurazione del software per l'accesso al databas MySQL.
+Una volta corretti i requisiti e accettata la licenza, viene resa disponibile la pagina dedicata alla configurazione del software per l'accesso al database MySQL.
 
 {% include figure path="config.png" alt="Pagina di configurazione" caption="Screenshot delle pagina di configurazione" %}
 
