@@ -14,15 +14,18 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-    {% if !img.url %}
-        {% assign img.url = img.path %}
-    {% endif %}
     {% if img.url %}
+        {% assign url = img.url %}
+      {% else %}
+        {% assign url = img.path %}
+    {% endif %}
+
+    {% if url %}
       <a href=
-        {% if img.url contains "://" %}
-          "{{ img.url }}"
+        {% if url contains "://" %}
+          "{{ url }}"
         {% else %}
-          "{{ page.url }}{{ img.url | relative_url }}"
+          "{{ page.url }}{{ url | relative_url }}"
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >

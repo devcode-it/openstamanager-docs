@@ -1,7 +1,7 @@
 ---
 title: Versioni
-pagination: false
-description: An appendix of hosted documentation for nearly every release of Bootstrap, from v1 through v4.
+permalink: /openstamanager/versioni/
+description: Elenco della documentazione per versione di OpenSTAManager.
 sidebar:
     nav: none
 ---
@@ -14,15 +14,11 @@ sidebar:
     {% for version in release.versions %}
     {% if forloop.first %}<ul>{% endif %}
     <li>
+        <a href="{{ site.baseurl }}/openstamanager/{{ version.v }}/">
+            {{ version.v }}
+        </a>
         {% if version.v == site.docs-version %}
-        <a class="list-group-item list-group-item-action py-2 text-primary d-flex justify-content-between align-items-center" href="{{ site.baseurl }}/openstamanager/{{ version.v }}/">
-            {{ version.v }}
-            <span class="badge badge-primary">Latest</span>
-        </a>
-        {% else %}
-        <a class="list-group-item list-group-item-action py-2 text-primary" href="{{ site.baseurl }}/openstamanager/{{ version.v }}/">
-            {{ version.v }}
-        </a>
+        <span class="btn btn--primary">Ultima release</span>
         {% endif %}
     </li>
     {% if forloop.last %}</ul>{% endif %}

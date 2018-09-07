@@ -19,11 +19,17 @@ I passaggi necessari per la compilazione dei sorgenti sono i seguenti:
 - Installare Ruby:
     ```bash
     choco install ruby -y
+    choco install msys2 -y
     ```
-- Installare Ruby:
+- Installare Jekyll e Bundler:
     ```bash
     gem install jekyll bundler
     ```
+
+E' quindi necessario eseguire il seguente comando nella cartella della documentazione:
+ ```bash
+bundle install
+```
 
 ## Testing
 

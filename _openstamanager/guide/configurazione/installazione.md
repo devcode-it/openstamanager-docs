@@ -78,7 +78,7 @@ Viene quindi caricata la pagina per il controllo della configurazione del *web s
 
 {% include gallery id="requirements" caption="Requisiti interni del software" %}
 
-Nel caso vengano mostrati dei componenti in rosso, è consigliato procedere all'attivazione del modulo/estensione seguendo le linee guida ufficiali del relativi software ([PHP]() o [Apache](https://stackoverflow.com/a/5758551)).
+Nel caso vengano mostrati dei componenti in rosso, è consigliato procedere all'attivazione del modulo/estensione seguendo le linee guida ufficiali del relativi software ([PHP](http://php.net/manual/it/install.pecl.windows.php) o [Apache](https://stackoverflow.com/a/5758551)).
 
 Una volta corretti correttamente i requisiti, cliccare su **Successivo**.
 
@@ -86,7 +86,7 @@ Una volta corretti correttamente i requisiti, cliccare su **Successivo**.
 
 La scheramata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
 
-OpenSTAManager viene reso disponibile tramite una licenza **GPL-3.0**, che ne permette l'uso commerciale e la personalizzazione a patto di mantenere un riferimento al progetto iniziale rimuovendo la resposabilità di eventuali problematiche agli sviluppatori originali.
+OpenSTAManager viene reso disponibile tramite la licenza **GPL-3.0**, che ne permette l'uso commerciale e la personalizzazione a patto di mantenere un riferimento al progetto iniziale rimuovendo la resposabilità di eventuali problematiche agli sviluppatori originali.
 
 **Non è possibile procedere all'utilizzo del software senza aver accettato la licenza.**
 
