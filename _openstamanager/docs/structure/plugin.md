@@ -1,5 +1,7 @@
 ---
 title: Plugin
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 Pagina in costruzione.

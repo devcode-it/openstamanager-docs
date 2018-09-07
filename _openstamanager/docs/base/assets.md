@@ -1,25 +1,16 @@
 ---
 title: Assets
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 > Web assets are things like CSS, JavaScript and image files that make the frontend of your site look and work great.
 >
-> \-- <cite>[Symfony](http://symfony.com/doc/current/best_practices/web-assets.html)</cite>
+> <cite>[Symfony](http://symfony.com/doc/current/best_practices/web-assets.html)</cite>
 
 Gli assets sono, all’interno dei moderni ambienti di sviluppo web, il cuore pulsante del software in relazione al layout e al livello di accessibilità; in particolare,il termine assets fa solitamente riferimento ai componenti di natura grafica di un software, quali immagini, fonts e icone, linguaggi di scripting client-side (JavaScript) e fogli di stile a cascata (_Cascading Style Sheets_).
 
 Il progetto utilizza [Yarn](https://yarnpkg.com/) per gestire l'installazione e l'aggiornamento degli assets e [Gulp](http://gulpjs.com/) per compilarli e associarli con le personalizzazioni. Viene inoltre richiesta la presenza di [Git](https://git-scm.com/) asll'interno del sistema operativo.
-
-<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:true withLinks:true -->
-
-- [Struttura](#struttura)
-- [Personalizzazione](#personalizzazione)
-    - [Tema grafico](#tema-grafico)
-    - [Aggiornamento e installazione pacchetti](#aggiornamento-e-installazione-pacchetti)
-    - [Compilazione](#compilazione)
-- [Assets predefiniti](#assets-predefiniti)
-
-<!-- /TOC -->
 
 ## Struttura
 

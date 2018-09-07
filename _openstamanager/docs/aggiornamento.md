@@ -1,5 +1,7 @@
 ---
 title: Aggiornamento
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 **Attenzione**: Questa documentazione è esclusivamente relativa all'aggiornamento del software. Per maggiori informazioni sull'installazione consultare la documentazione relativa nella sezione [Installazione](Installazione.md).
@@ -7,17 +9,6 @@ title: Aggiornamento
 Esistono due procedure ufficiale per effettuare l'aggiornamento di OpenSTAManager in modo corretto: una semplificata (_consigliata_) e una manuale.
 
 In ogni caso, il corretto procedimento prevede di [scaricare una release ufficiale del progetto](https://github.com/devcode-it/openstamanager/releases) ed **effettuare un backup della versione corrente** (comprensivo di file e database).
-
-<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:true withLinks:true -->
-
-- [Aggiornamento semplificato](#aggiornamento-semplificato)
-- [Aggiornamento manuale](#aggiornamento-manuale)
-- [Migrazione dalla versione 1.x](#migrazione-dalla-versione-1x)
-- [Recupero della password](#recupero-della-password)
-    - [Account comune](#account-comune)
-    - [Account amministrativo](#account-amministrativo)
-
-<!-- /TOC -->
 
 ## Aggiornamento semplificato
 

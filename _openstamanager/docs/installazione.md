@@ -1,5 +1,7 @@
 ---
 title: Installazione
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 ## Requisiti

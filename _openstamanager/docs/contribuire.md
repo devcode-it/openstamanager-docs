@@ -1,5 +1,7 @@
 ---
 title: Contribuire
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 Sei interessato a contribuire allo sviluppo di OpenSTAManger? Ottimo, sei il benvenuto!

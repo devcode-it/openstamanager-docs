@@ -1,22 +1,14 @@
 ---
 title: Framework
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 > Un framework, termine della lingua inglese che può essere tradotto come intelaiatura o struttura, in informatica e specificatamente nello sviluppo software, è un'architettura logica di supporto (spesso un'implementazione logica di un particolare design pattern) su cui un software può essere progettato e realizzato, spesso facilitandone lo sviluppo da parte del programmatore.
 >
-> \-- <cite>[Wikipedia](https://it.wikipedia.org/wiki/Framework)</cite>
+> <cite>[Wikipedia](https://it.wikipedia.org/wiki/Framework)</cite>
 
 Il progetto utilizza [Composer](https://getcomposer.org/) per gestire le librerie PHP in modo completamente gratuito e open-source. Questo permette di completare l'installazione e l'aggiornamento dei diversi framework in modo facile ed intuitivo, senza doversi preoccupare in modo eccessivo delle dipendenze delle diverse librerie.
-
-<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:true withLinks:true -->
-
-- [Struttura](#struttura)
-- [Personalizzazione](#personalizzazione)
-    - [Aggiornamento](#aggiornamento)
-    - [Installazione di nuovi pacchetti](#installazione-di-nuovi-pacchetti)
-- [Framework predefiniti](#framework-predefiniti)
-
-<!-- /TOC -->
 
 ## Struttura
 

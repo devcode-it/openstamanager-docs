@@ -1,5 +1,7 @@
 ---
 title: Nucleo
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 ## Struttura

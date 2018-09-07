@@ -1,49 +1,25 @@
 ---
 title: Moduli
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 > Un modulo (software) è un componente software autonomo e ben identificato, e quindi facilmente riusabile.
 >
-> \-- <cite>[Wikipedia](https://it.wikipedia.org/wiki/Modulo#Informatica)</cite>
+> <cite>[Wikipedia](https://it.wikipedia.org/wiki/Modulo#Informatica)</cite>
 
 All'interno del progetto, i moduli vengono genericamente definiti quali sistemi di gestione delle funzionalità del gestionale; proprio per questo, la loro struttura e composizione risulta spesso variabile e differenziata.
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
 - Nucleo;
-- [Stampe](Stampe.md);
-- [Widget](Widget.md);
-- [Plugin](Plugin.md).
+- [Stampe](stampe.md);
+- [Widget](widget.md);
+- [Plugin](plugin.md).
 
 OpenSTAManager presenta inoltre una struttura nativamente predisposta alla personalizzazione delle funzioni principali, il che rende il progetto ancora più complicato da comprendere a prima vista.
 
 Di seguito viene presentate le strutture principali più comuni supportate dal gestionale; per ulteriori approfondimenti, si consiglia di controllare il codice sorgente dei moduli ufficiali.
-
-<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:true withLinks:true -->
-
-- [Struttura](#struttura)
-    - [actions.php](#actionsphp)
-    - [add.php e edit.php](#addphp-e-editphp)
-    - [init.php](#initphp)
-    - [controller_after.php e controller_before.php](#controllerafterphp-e-controllerbeforephp)
-    - [modutil.php](#modutilphp)
-- [Database](#database)
-    - [zz_modules](#zzmodules)
-    - [zz_permissions e zz_group_module](#zzpermissions-e-zzgroupmodule)
-    - [zz_views e zz_group_view](#zzviews-e-zzgroupview)
-    - [zz_plugins e zz_widgets](#zzplugins-e-zzwidgets)
-- [Consigli per lo sviluppo](#consigli-per-lo-sviluppo)
-    - [Progettazione](#progettazione)
-    - [Sviluppo](#sviluppo)
-    - [Test](#test)
-- [Installazione](#installazione)
-    - [Archivio ZIP](#archivio-zip)
-        - [update/VERSIONE.sql](#updateversionesql)
-        - [update/unistall.php](#updateunistallphp)
-        - [MODULE](#module)
-- [Moduli di base](#moduli-di-base)
-
-<!-- /TOC -->
 
 ## Struttura
 
@@ -168,7 +144,7 @@ Siete dunque pregati di identificare chiaramente tutte le caratteristiche del Vo
 
 > E' bene trascurare le fasi di analisi e di progetto e precipitarsi all'implementazione allo scopo di guadagnare il tempo necessario per rimediare agli errori commessi per aver trascurato la fase di analisi e di progetto.
 >
-> \-- <cite>Legge di Mayers</cite>
+> <cite>Legge di Mayers</cite>
 
 ### Sviluppo
 
@@ -181,7 +157,7 @@ Siete inoltre pregati di indicare i bug noti.
 
 > Se c’è una remota possibilità che qualcosa vada male, sicuramente ciò accadrà e produrrà il massimo danno.
 >
-> \-- <cite>Legge di Murphy</cite>
+> <cite>Legge di Murphy</cite>
 
 ## Installazione
 

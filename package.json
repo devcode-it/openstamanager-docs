@@ -1,9 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "build": "bundle exec jekyll build",
-        "serve": "bundle exec jekyll serve",
-        "publish": "shx echo \"github: true\" > twbsconfig.yml && npm run docs-compile -- --config _config.yml,twbsconfig.yml && shx rm ./twbsconfig.yml",
+        "serve": "bundle exec jekyll serve --config '_config.yml,_config_dev.yml'",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "license": "GPL-3.0"

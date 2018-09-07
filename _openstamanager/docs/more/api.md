@@ -1,32 +1,15 @@
 ---
 title: API
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 > Con application programming interface (in acronimo API, in italiano interfaccia di programmazione di un'applicazione), in informatica, si indica ogni insieme di procedure disponibili al programmatore, di solito raggruppate a formare un set di strumenti specifici per l'espletamento di un determinato compito all'interno di un certo programma.
 >
-> \-- <cite>[Wikipedia](https://it.wikipedia.org/wiki/Application_programming_interface)</cite>
+> <cite>[Wikipedia](https://it.wikipedia.org/wiki/Application_programming_interface)</cite>
 
 L'API del progetto è attualmente ancora in sviluppo, e pertanto le funzioni disponibili potrebbero essere piuttosto ridotte.
 Di seguito sono elencate le basi per connettersi al sistema e ottenere i dati a cui si è interessati.
-
-<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:true withLinks:true -->
-
-- [Requisiti aggiuntivi](#requisiti-aggiuntivi)
-- [Standard di comunicazione](#standard-di-comunicazione)
-    - [Ottenere la chiave](#ottenere-la-chiave)
-    - [Formato dei componenti](#formato-dei-componenti)
-- [Output](#output)
-    - [Stati](#stati)
-    - [Lettura](#lettura)
-- [Personalizzazione](#personalizzazione)
-- [Richieste di lettura](#richieste-di-lettura)
-    - [Interventi](#interventi)
-    - [Anagrafiche](#anagrafiche)
-    - [Richieste disabilitate](#richieste-disabilitate)
-        - [Modifiche](#modifiche)
-        - [Eliminazioni](#eliminazioni)
-
-<!-- /TOC -->
 
 ## Requisiti aggiuntivi
 

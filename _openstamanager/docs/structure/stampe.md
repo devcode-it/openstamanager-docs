@@ -1,5 +1,7 @@
 ---
 title: Stampe
+sidebar:
+    nav: "docs-sidebar"
 ---
 
 Pagina in costruzione.

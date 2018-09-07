@@ -1,6 +1,10 @@
 ---
 title: Extra
+sidebar:
+    nav: "docs-sidebar"
 ---
+
+Funzioni extra.
 
 ## Campi personalizzati
 
