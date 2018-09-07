@@ -1,6 +1,6 @@
 # Site settings
 locale: "it-IT"
-title: DevCode
+title: OpenSTAManager
 title_separator: "-"
 email: info@devcode.it
 description: "Documentazione del gestionale open-source OpenSTAManager"

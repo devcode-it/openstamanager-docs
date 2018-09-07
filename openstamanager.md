@@ -1,5 +1,6 @@
 ---
 title: OpenSTAManager
+site_title: DevCode
 layout: splash
 header:
   overlay_color: "#000"
