@@ -18,10 +18,10 @@
           {% if nav.url contains "://" %}
             {% assign nav_url = nav.url %}
           {% else %}
-            {% assign nav_url = nav.url | relative_url %}
+            {% assign nav_url = navigation_baseurl | append: nav.url | relative_url %}
           {% endif %}
 
-          <a href="{{ navigation_baseurl }}{{ nav_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          <a href="{{ nav_url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
@@ -33,7 +33,7 @@
             {% if child.url contains "://" %}
               {% assign child_url = child.url %}
             {% else %}
-              {% assign child_url = child.url | relative_url %}
+              {% assign child_url = navigation_baseurl | append: child.url | relative_url %}
             {% endif %}
 
             {% comment %} set "active" class on current page {% endcomment %}
@@ -43,7 +43,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ navigation_baseurl }}{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}

@@ -14,7 +14,7 @@ osm-menu:
     url: /openstamanager/versioni/
 
 docs-sidebar:
-  baseurl: /openstamanager/2.4.2/docs
+  baseurl: /openstamanager/2.4.2/docs/
   links:
     - title: Introduzione
       children:
@@ -53,14 +53,14 @@ docs-sidebar:
     - title: Link utili
       children:
         - title: "Documentazione"
-          url: http://www./openstamanager.com/docs
+          url: http://www.openstamanager.com/docs
         - title: "Sito web"
-          url: http://www./openstamanager.com
+          url: http://www.openstamanager.com
         - title: "Forum"
-          url: http://www./openstamanager.com/forum
+          url: http://www.openstamanager.com/forum
 
 guide-sidebar:
-  baseurl: /openstamanager/2.4.2/guide
+  baseurl: /openstamanager/2.4.2/guide/
   links:
     - title: Configurazione
       children:
