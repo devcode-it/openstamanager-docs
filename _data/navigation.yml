@@ -71,15 +71,7 @@ guide-sidebar:
         - title: "Inizializzazione"
           url: configurazione/inizializzazione/
     - title: Caratteristiche
-      children:
-        - title: "Moduli"
-          url: caratteristiche/moduli/
-        - title: "Plugin"
-          url: caratteristiche/plugin/
-        - title: "Widget"
-          url: caratteristiche/widget/
-        - title: "Upload"
-          url: caratteristiche/upload/
+      url: caratteristiche/
     - title: Anagrafiche
       children:
         - title: "Creazione"
