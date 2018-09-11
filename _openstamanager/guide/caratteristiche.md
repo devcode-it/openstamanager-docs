@@ -39,7 +39,7 @@ Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di 
 
 ## Opzioni di controllo
 
-Parallelamente alla possibilità di selezionare il periodo temparale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
+Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
 {% include figure path="options.png" alt="Opzioni" caption="Screenshot delle opzioni generali" %}
 
@@ -86,7 +86,7 @@ I moduli che permettono la creazione di nuovi elementi presentano un pulsante ap
 {% include figure path="add-button.png" alt="Pulsante di creazione di un nuovo record" caption="Screenshot del pulsante di creazione di un nuovo record in **Anagrafiche**" %}
 
 Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del software per permettere di inserire le informazioni del nuovo elemento.
-{% include figure path="add.png" alt="Scheramta di creazione di un nuovo record" caption="Screenshot della schermata di creazione di un nuovo record in **Anagrafiche**" %}
+{% include figure path="add.png" alt="Schermata di creazione di un nuovo record" caption="Screenshot della schermata di creazione di un nuovo record in **Anagrafiche**" %}
 
 ### Modifica record
 

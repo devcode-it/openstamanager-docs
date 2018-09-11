@@ -73,6 +73,9 @@ guide-sidebar:
     - title: Caratteristiche
       url: caratteristiche/
     - title: Anagrafiche
+      url: modules/anagrafiche/
       children:
         - title: "Creazione"
-          url: anagrafiche/creazione/
+          url: modules/anagrafiche/creazione/
+        - title: "Modifica"
+          url: modules/anagrafiche/modifica/
