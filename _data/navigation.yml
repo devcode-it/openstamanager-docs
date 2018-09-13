@@ -79,3 +79,18 @@ guide-sidebar:
           url: modules/anagrafiche/creazione/
         - title: "Modifica"
           url: modules/anagrafiche/modifica/
+        - title: "Sedi"
+          url: modules/anagrafiche/sedi/
+        - title: "Referenti"
+          url: modules/anagrafiche/referenti/
+        - title: "Zone"
+          url: modules/anagrafiche/zone/
+    - title: Gestione Email
+      url: modules/email/
+      children:
+        - title: "Account"
+          url: modules/email/account/
+        - title: "Template"
+          url: modules/email/template/
+        - title: "Invio"
+          url: modules/email/invio/
