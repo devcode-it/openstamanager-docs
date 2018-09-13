@@ -16,7 +16,7 @@ Eventualmente, è possibile inserire maggiori informazioni fin dalla creazione s
 
 {% include gallery id="add" caption="Schermate di creazione di una nuova anagrafica" %}
 
-## Informazioni richieste
+## Caratteristiche
 
 La versione standard del sistema di creazione anagrafica richiede esclusivamente l'inserimento della *Ragione sociale* e la selezione della relativa tipologia.
 

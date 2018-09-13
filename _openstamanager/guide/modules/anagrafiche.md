@@ -2,7 +2,7 @@
 title: Modulo Anagrafiche
 ---
 
-Il modulo dedicato alla gestione delle anagrafiche permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
+Il modulo **Anagrafiche** permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
 
 Proprio per facilitare la categorizzazione di questi *stakeholder*, sono disponibili cinque principali tipologie di
 anagrafiche:
@@ -14,13 +14,13 @@ anagrafiche:
 
 Il gestionale permette inoltre di memorizzare le informazioni relative ai referenti aziendali e alle sedi lavorative delle società esterne, generando autonomamente statistiche basilari riguardanti interventi eseguiti, fatture emesse, preventivi effettuati e contratti lavorati.
 
-{% include figure path="module.png" alt="Modulo Anagrafiche" caption="Screenshot dell modulo Anagrafiche" %}
+{% include figure path="module.png" alt="Modulo Anagrafiche" caption="Screenshot del modulo **Anagrafiche**" %}
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Anagrafiche**.
 
-## Struttura
+## Caratteristiche
 
 Questo modulo possiede un sotto-modulo incentrato sulla gestione delle zone lavorative (denominato **Zone**), raggiungibile all'espansione del menu laterale.
 
