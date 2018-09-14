@@ -9,7 +9,7 @@ screen:
     title: "Schermata di modifica di una zona"
 ---
 
-Il modulo **Zone** è dedicato alla gestione di suddivisioni logiche del territorio da parte dell'azienda.
+Il modulo **Zone** è dedicato alla gestione delle eventuali suddivisioni, da parte dell'azienda, del territorio in aree.
 Grazie ad esso, è possibile assegnare specifiche anagrafiche ad una zona di servizio per tecnici specifici e gestire in modo dinamico le attività visualizzate nella **Dashboard**.
 
 {% include figure path="controller.png" alt="Modulo Zone" caption="Screenshot del modulo **Zone**" %}
