@@ -6,7 +6,7 @@ Il plugin **Sedi** è una componente del modulo **Anagrafiche** dedicata alla co
 
 ## Navigazione
 
-Il plugin è raggiungibile, all'interno dell'area di modifica di un record del modulo **Anagrafiche**, attraverso il menu dedicato nella sezione alta a destra della schermata, sotto la dicitura **Sedi**.
+Il plugin è raggiungibile, all'interno dell'area di modifica di un *record* del modulo **Anagrafiche**, attraverso il menu dedicato nella sezione alta a destra della schermata, sotto la dicitura **Sedi**.
 
 ## Caratteristiche
 

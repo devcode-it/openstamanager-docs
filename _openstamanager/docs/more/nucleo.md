@@ -46,6 +46,7 @@ In particolare si occupa parallelamente della funzionalità di aggiunta al volo,
 Il file `ajax_dataload.php` gestisce il caricamento dinamico dei dati in varie sezioni del sito, relativamente alle operazioni di auto-completamento dei form e della ricerca globale.
 
 **Attenzione**: questo sistema è ormai deprecato e, tranne in rari casi, completamente sostituito dall'utilizzo del file `ajax_select.php` e dal plugin [Select2](https://select2.github.io/).
+{: .notice--danger}
 
 ### ajax_dataload.php
 
@@ -53,7 +54,7 @@ Il file `ajax_dataload.php` gestisce il caricamento dinamico dei dati nelle tabe
 
 ### ajax_select.php
 
-Il file `ajax_select.php` gestisce il caricamento dinamico dei dati nei diversi select abilitati, garantendo l'accesso a tutti i record senza provocare rallentamenti (persino per numeri più elevati).
+Il file `ajax_select.php` gestisce il caricamento dinamico dei dati nei diversi select abilitati, garantendo l'accesso a tutti i *record* senza provocare rallentamenti (persino per numeri più elevati).
 
 ### bug.php
 
@@ -76,6 +77,7 @@ Il file `config.inc.php` contiene tutte le informazioni per accedere correttamen
 
 **Attenzione**: questo file non è presente di default poiché obbligatoriamente da personalizzare tramite la procedura di installazione.
 La struttura di base può essere comunque osservata all'interno del file `config.example.php`.
+{: .notice--danger}
 
 ### controller.php
 
@@ -100,6 +102,7 @@ Il file `info.php` contiene la sezione informativa relativa al progetto, indican
 Il file `log.php` permette di visualizzare le informazioni relative agli ultimi 100 tentativi di accesso.
 
 **Attenzione**: nel caso in cui l'utente sia un amministratore, le informazioni accessibili sono relative a **tutti** gli utenti (al contrario, un utente normale può visualizzare esclusivamente i propri tentativi).
+{: .notice--danger}
 
 ### composer.json, gulpfile.js, package.json
 
@@ -144,7 +147,8 @@ Si ricorda che è possibile creare una personalizzazione di questa pagina nella 
 La cartella `lib` contiene le librerie personalizzate e le funzioni utilizzate dall'intero gestionale nei diversi moduli.
 
 **Attenzione**: sono qui presenti solo i metodi generali e comunemente riutilizzati.
-Per maggiori informazioni riguardanti la locazione delle funzioni specifiche di un modulo, visitare la sezione [Moduli](Moduli.md).
+Per maggiori informazioni riguardanti la locazione delle funzioni specifiche di un modulo, visitare la sezione [Moduli](moduli.md).
+{: .notice--danger}
 
 ### deprecated.php
 

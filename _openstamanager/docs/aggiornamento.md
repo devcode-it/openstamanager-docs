@@ -4,7 +4,9 @@ sidebar:
     nav: "docs-sidebar"
 ---
 
-**Attenzione**: Questa documentazione è esclusivamente relativa all'aggiornamento del software. Per maggiori informazioni sull'installazione consultare la documentazione relativa nella sezione [Installazione](Installazione.md).
+**Attenzione**: Questa documentazione è esclusivamente relativa all'aggiornamento del software.
+Per maggiori informazioni sull'installazione consultare la documentazione relativa nella sezione [Installazione](installazione.md).
+{: .notice--danger}
 
 Esistono due procedure ufficiale per effettuare l'aggiornamento di OpenSTAManager in modo corretto: una semplificata (_consigliata_) e una manuale.
 
@@ -53,6 +55,7 @@ E' possibile effettuare la migrazione da una qualsiasi versione 1.x alla nuova 2
 Dopo l'esecuzione di queste azioni, il gestionale renderà disponibile l'interfaccia di aggiornamento.
 
 **Attenzione**: le stampe di _Interventi_, _Riepilogo interventi_, _Contratti_ e _Preventivi_ potrebbero non essere compatibili per via dell’aggiornamento degli orari di lavoro, perciò è possibile riscrivere solo la parte di calcolo ore o partire dal template nuovo e apportare le dovute modifiche.
+{: .notice--danger}
 
 ## Recupero della password
 

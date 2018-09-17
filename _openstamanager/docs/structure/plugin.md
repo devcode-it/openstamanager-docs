@@ -5,6 +5,7 @@ sidebar:
 ---
 
 Pagina in costruzione.
+{: .notice--info}
 
 ## Installazione
 

@@ -25,7 +25,7 @@ In particolare, per permettere un maggiore senso logico nella navigazione dei da
 
 ### Dati cliente
 
-Il primo raggruppamento di informazioni sull'anagrafica consiste nell'insieme dei dati relativi al cliente selezionato.
+Il primo raggruppamento di informazioni consiste nell'insieme dei dati relativi al cliente selezionato.
 
 {% include figure path="section-1.png" alt="Dati cliente" caption="Screenshot della sezione dei dati cliente" %}
 
@@ -37,7 +37,7 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
  - Preventivo collegato
  - Contratto collegato
 
-Per maggiori informazioni sulla relazine dell'attività con **Preventivi** e **Contratti**, visitare la sezione relativa [in costruzione].
+Per maggiori informazioni sulla relazine dell'attività con [**Preventivi**](../../preventivi.md) e [**Contratti**](../../contratti.md), visitare le sezioni relative.
 
 ### Dati intervento
 
@@ -74,7 +74,7 @@ Per maggiori informazioni sulla gestione di queste informazioni, visitare la [se
 Nella parte superiore della pagina viene inoltre permessa la visualizzazione di una serie di opzioni dedicate al modulo **Attività**:
  - Stampa dell'attività
  - Invio del rapportino via email
- - Visualizzazione dell'anteprima della stampa e [firma conclusiva dell'attività](#informazioni-di-firma)
+ - Visualizzazione dell'anteprima della stampa e [firma conclusiva dell'attività](#anteprima-e-firma)
 
 {% include figure path="options.png" alt="Opzioni" caption="Screenshot della opzioni dell'attività" %}
 

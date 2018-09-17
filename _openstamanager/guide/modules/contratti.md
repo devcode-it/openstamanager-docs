@@ -1,7 +1,5 @@
 ---
-title: Widget
-sidebar:
-    nav: "docs-sidebar"
+title: Modulo Contratti
 ---
 
 Pagina in costruzione.

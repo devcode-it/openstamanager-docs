@@ -30,7 +30,9 @@ Per procedere all'installazione è necessario seguire i seguenti punti:
 5. Inserire i dati di configurazione per collegarsi al database.
 6. Procedere all'installazione del software, cliccando sul pulsante **Installa**.
 
-**Attenzione**: è possibile che l'installazione richieda del tempo. Si consiglia pertanto di attendere almeno qualche minuto senza alcun cambiamento nella pagina di installazione (in particolare, della progress bar presente) prima di cercare una possibile soluzione nelle discussioni del forum o nella sezione dedicata.
+**Attenzione**: è possibile che l'installazione richieda del tempo.
+Si consiglia pertanto di attendere almeno qualche minuto senza alcun cambiamento nella pagina di installazione (in particolare, della progress bar presente) prima di cercare una possibile soluzione nelle discussioni del forum o nella sezione dedicata.
+{: .notice--danger}
 
 ### Versioni
 
@@ -102,6 +104,7 @@ Il gestionale è stato testato con successo su Mac OS X con [MAMP](http://www.ma
 ### Schermata bianca
 
 **Attenzione**: a partire dalla versione 2.3 questo problema non è più presente.
+{: .notice--danger}
 
 Nel caso si verifichi il problema di schermata bianca iniziale è necessario controllare i valori delle variabili `$rootdir` e `$docroot` nelle prime righe di _core.php_. Una possibile soluzione, implementata dalla versione 2.3, potrebbe essere:
 
@@ -125,6 +128,7 @@ Si ricorda comunque che:
 ### Blocco dell'installazione (0%)
 
 **Attenzione**: a partire dalla versione 2.3 questo problema non è più presente.
+{: .notice--danger}
 
 Nel caso l'installazione iniziale del database si blocchi allo 0% è necessario effettuare la seguente modifica nelle righe 15, 16 e 17 del file `lib\dbo.class.php` (https://www.openstamanager.com/forum/viewtopic.php?f=4&t=88353#p93976):
 

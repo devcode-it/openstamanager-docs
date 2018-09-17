@@ -1,7 +1,5 @@
 ---
-title: Widget
-sidebar:
-    nav: "docs-sidebar"
+title: Modulo Preventivi
 ---
 
 Pagina in costruzione.

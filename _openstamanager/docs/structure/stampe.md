@@ -5,14 +5,15 @@ sidebar:
 ---
 
 Pagina in costruzione.
+{: .notice--info}
 
 ## MPDF
 
 **Attenzione**: come indicato nel secondo punto in http://mpdf.github.io/tables/auto-layout-algorithm.html, MPDF effettua un resizing del font nel caso il contenuto di una cella superi l'altezza totale di una pagina.
 Fino a quel punto, il rendering funziona perfettamente.
+{: .notice--danger}
 
 Nel caso fosse per esempio aumentare le dimensioni del font, si consiglia di effettuare alcuni test per controllare se le tabelle vengono renderizzate nel modo corretto e previsto.
-
 
 ## HTML2PDF
 

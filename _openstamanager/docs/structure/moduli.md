@@ -38,9 +38,9 @@ Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percors
 
 Il gestionale supporta in modo nativo questa struttura, che può essere ampliata e personalizzata secondo le proprie necessità: si consiglia pertanto di analizzare i moduli **Iva**, **Dashboard** e **Contratti** per esempi di diversa complessità.
 
-> **Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i *moduli fisici*, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale.
->
-> Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](#database).
+**Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i *moduli fisici*, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale.
+Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](#database).
+{: .notice--danger}
 
 ### actions.php
 
@@ -48,7 +48,7 @@ Il file `actions.php` gestisce tutte le operazioni supportate dal modulo.
 
 In generale, le diverse operazioni vengono gestite attraverso attraverso una logica basata su casi (solitamente, il parametro `op` permette di identificare quale azione viene richiesta); il funzionamento a livello di programmazione può essere comunque sottoposto a scelte personali.
 
-L'unico requisito effettivo risulta relativo alle operazioni di creazione dei nuovi record, per cui deve essere definito all'interno della variabile `$id_record` l'identificativo del nuovo elemento.
+L'unico requisito effettivo risulta relativo alle operazioni di creazione dei nuovi *record*, per cui deve essere definito all'interno della variabile `$id_record` l'identificativo del nuovo elemento.
 Per osservare questo sistema, si consiglia di analizzare il relativo file del modulo **Iva**.
 
 ### add.php e edit.php
@@ -58,7 +58,8 @@ Il file `add.php` contiene il template HTML dedicato all'inserimento di nuovi el
 In base alla configurazione del modulo nel database, il file `edit.php` può assumere il ruolo di gestore della sezione principale dell'interno modulo.
 Esempi di questa gestione si possono osservare nei moduli **Dashboard** e  **Gestione componenti** (si veda la sezione [zz_modules](#zzmodules)).
 
-> **Attenzione**: il progetto individua in automatico la presenza del file `add.php` e agisce di conseguenza per permettere o meno l'inserimento di nuovi record.
+**Attenzione**: il progetto individua in automatico la presenza del file `add.php` e agisce di conseguenza per permettere o meno l'inserimento di nuovi *record*.
+{: .notice--danger}
 
 ### init.php
 
@@ -170,7 +171,8 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 
 Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)).
 
-> **Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
+**Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
+{: .notice--danger}
 
 ### Archivio ZIP
 

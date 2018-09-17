@@ -37,6 +37,19 @@ defaults:
       navigation:
         nav: "osm-menu"
 
+# Footer
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/openstamanager"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/devcode-it/openstamanager"
+    - label: "Sito ufficiale"
+      icon: "fas fa-external-link-alt"
+      url: "https://www.openstamanager.com/"
+
 # Analytics
 analytics:
   provider: "google"

@@ -14,38 +14,7 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-    {% if img.url %}
-        {% assign url = img.url %}
-      {% else %}
-        {% assign url = img.path %}
-    {% endif %}
-
-    {% if url %}
-      <a href=
-        {% if url contains "://" %}
-          "{{ url }}"
-        {% else %}
-          "{{ page.url }}{{ url | relative_url }}"
-        {% endif %}
-        {% if img.title %}title="{{ img.title }}"{% endif %}
-      >
-        <img src=
-          {% if img.path contains "://" %}
-            "{{ img.path }}"
-          {% else %}
-            "{{ page.url }}{{ img.path | relative_url }}"
-          {% endif %}
-          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-      </a>
-    {% else %}
-      <img src=
-        {% if img.path contains "://" %}
-          "{{ img.path }}"
-        {% else %}
-          "{{ page.url }}{{ img.path | relative_url }}"
-        {% endif %}
-        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
-    {% endif %}
+    {% include image path=img.path alt=img.alt title=img.title %}
   {% endfor %}
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>

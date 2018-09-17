@@ -3,10 +3,10 @@ title: Creazione anagrafica
 add:
   - path: add.png
     alt: "Creazione record (ridotto)"
-    title: "Creazione di un nuovo record (ridotto)"
+    title: "Creazione di un nuovo *record* (ridotto)"
   - path: add-full.png
     alt: "Creazione record (esteso)"
-    title: "Creazione di un nuovo record (esteso)"
+    title: "Creazione di un nuovo *record* (esteso)"
 ---
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.

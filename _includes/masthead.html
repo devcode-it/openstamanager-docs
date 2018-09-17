@@ -3,11 +3,18 @@
 {% else %}
   {% assign navigation = 'main' %}
 {% endif %}
+
+{%- if page.site_title -%}
+  {%- assign site_title = page.site_title -%}
+{%- else -%}
+  {%- assign site_title = site.title -%}
+{%- endif -%}
+
 <div class="masthead">
     <div class="masthead__inner-wrap">
       <div class="masthead__menu">
         <nav id="site-nav" class="greedy-nav">
-          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          <a class="site-title" href="{{ '/' | relative_url }}">{{ site_title }}</a>
           <ul class="visible-links">
             {%- for link in site.data.navigation[navigation] -%}
               {%- if link.url contains '://' -%}

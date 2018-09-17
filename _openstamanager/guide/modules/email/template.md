@@ -47,7 +47,7 @@ In particolare, oltre ai campi previsti alla creazione, vengono resi disponibili
 Tra questi campi, *Contenuto* e *Oggetto* prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo.
 L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Instruzioni per i campi automatici**.
 
-La sostituzione di queste componenti dipende dai contenuti del record da cui viene inviata l'email.
+La sostituzione di queste componenti dipende dai contenuti del *record* da cui viene inviata l'email.
 Per maggiori informazioni, visitare la documentazione di [invio email](invio.md).
 
 Di seguito un esempio di un template collegato ad un modulo con valori automatici.

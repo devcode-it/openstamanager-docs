@@ -61,6 +61,7 @@ yarn run build-OSM
 ```
 
 **Attenzione**: la compilazione è fondamentale a seguito di ogni modifica degli assets, poiché altrimenti i file utilizzati dal progetto non saranno aggiornati.
+{: .notice--danger}
 
 ## Assets predefiniti
 

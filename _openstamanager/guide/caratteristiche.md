@@ -83,24 +83,24 @@ Esempi di questa struttura sono presenti nei moduli **Dashboard** e **Statistich
 ### Creazione record
 
 I moduli che permettono la creazione di nuovi elementi presentano un pulsante apposito vicino all'intestazione della pagina.
-{% include figure path="add-button.png" alt="Pulsante di creazione di un nuovo record" caption="Screenshot del pulsante di creazione di un nuovo record in **Anagrafiche**" %}
+{% include figure path="add-button.png" alt="Pulsante di creazione di un nuovo *record*" caption="Screenshot del pulsante di creazione di un nuovo *record* in **Anagrafiche**" %}
 
 Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del software per permettere di inserire le informazioni del nuovo elemento.
-{% include figure path="add.png" alt="Schermata di creazione di un nuovo record" caption="Screenshot della schermata di creazione di un nuovo record in **Anagrafiche**" %}
+{% include figure path="add.png" alt="Schermata di creazione di un nuovo *record*" caption="Screenshot della schermata di creazione di un nuovo *record* in **Anagrafiche**" %}
 
 ### Modifica record
 
 I moduli che permetto la modifica dei propri elementi visualizzano una schermata apposita dedicata alla gestione delle informazioni complete dei *record*.
 
 Di seguito è possibile osservare una generica schermata che permette la suddetta modifica:
-{% include figure path="editor.png" alt="Schermata di modifica del record" caption="Screenshot della schermata di modifica del record di **Anagrafiche**" %}
+{% include figure path="editor.png" alt="Schermata di modifica del *record*" caption="Screenshot della schermata di modifica del *record* di **Anagrafiche**" %}
 
 ## Widget
 
 Ogni modulo può presentare delle strutture denominate *widget*, che si presentano secondo una grafica comune ma possono eseguire una singola azione a seguito del click al di sopra di esse.
 In generale, queste componenti sono presenti nella parte alta o bassa della pagina (in base alla configurazione).
 
-E' inoltre possibile che vi sia una differenza tra i widget all'interno della schermata principale del modulo e nella sezione di modifica del record.
+E' inoltre possibile che vi sia una differenza tra i widget all'interno della schermata principale del modulo e nella sezione di modifica del *record*.
 
 {% include figure path="widgets.png" alt="Sezione dei widgets" caption="Screenshot della sezione dei widgets in **Anagrafiche**" %}
 
@@ -115,7 +115,7 @@ I plugin possono presentare comportamenti molto diversi, e sono in generale sepa
 
 Per maggiori informazioni, visitare la documentazione dei moduli.
 
-Per gli amministratori, è inoltre presente un plugin *sperimentale* denominato **Info** che permette di visualizzare la cronologia di modifica del record.
+Per gli amministratori, è inoltre presente un plugin *sperimentale* denominato **Info** che permette di visualizzare la cronologia di modifica del *record*.
 {: .notice--warning}
 
 ## Upload

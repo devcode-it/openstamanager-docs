@@ -1,38 +1,3 @@
 <figure class="{{ include.class }}">
-  {% if include.url %}
-      {% assign url = include.url %}
-    {% else %}
-      {% assign url = include.path %}
-  {% endif %}
-
-  {% if url %}
-    <a href=
-      {% if url contains "://" %}
-        "{{ url }}"
-      {% else %}
-        "{{ page.url }}{{ url | relative_url }}"
-      {% endif %}
-      {% if include.caption %}title="{{ include.caption }}"{% endif %}
-    >
-      <img src=
-        {% if include.path contains "://" %}
-          "{{ include.path }}"
-        {% else %}
-          "{{ page.url }}{{ include.path | relative_url }}"
-        {% endif %}
-        alt="{% if include.alt %}{{ include.alt }}{% endif %}">
-    </a>
-  {% else %}
-    <img src=
-      {% if include.path contains "://" %}
-        "{{ include.path }}"
-      {% else %}
-        "{{ page.url }}{{ include.path | relative_url }}"
-      {% endif %}
-      alt="{% if include.alt %}{{ include.alt }}{% endif %}">
-  {% endif %}
-
-  {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
-  {% endif %}
+  {% include image path=include.path alt=include.alt caption=include.caption %}
 </figure>

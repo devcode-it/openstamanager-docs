@@ -25,3 +25,9 @@ E' inoltre presente un plugin nella sezione di modifica del modulo, **Impianti**
 ## Particolarità
 
 Il modulo presenta la possibilità di integrare/trasformare l'attività in una fattura.
+
+E' possibile ottenere una visualizzazione grafica degli interventi attraverso il modulo **Dashboard**, che permette inoltre di filtrare in modo piuttosto avanzato i contenuti da mostrare.
+{% include figure path="dashboard.png" alt="Modulo Dashboard" caption="Screenshot del modulo **Dashboard**" %}
+
+E' inoltre disponibile, per gli utenti di tipo Tecnici, un sistema di sincronizzazione automatico della **Dashboard** con calendari esterni attraverso il sistema API ufficiale.
+Maggiori informazioni sono ottenibili cliccando sul nome dell'utente in alto a sinistra.

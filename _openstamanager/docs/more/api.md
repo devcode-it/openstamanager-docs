@@ -22,6 +22,7 @@ Se queste requisito non viene soddisfatto, l'installazione del gestionale proced
 Nel caso, a seguito dell'installazione di OpenSTAManager, venisse aggiornato il servizio MySQL per permettere il funzionamento dell'API, sarà necessaro causare l'esecuzione della procedura di aggiornamento del gestionale, che organizzarà correttamente il database per la compatibilità con l'API.
 
 **Attenzione**: il solo aggiornamento del servizio MySQL senza il successivo aggiornamento del gestionale potrebbe causare malfunzionamenti di vario genere nell'utilizzo dell'API.
+{: .notice--danger}
 
 ## Standard di comunicazione
 
