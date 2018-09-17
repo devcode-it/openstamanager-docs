@@ -85,6 +85,13 @@ guide-sidebar:
           url: modules/anagrafiche/referenti/
         - title: "Zone"
           url: modules/anagrafiche/zone/
+    - title: Attività
+      url: modules/attivita/
+      children:
+        - title: "Creazione"
+          url: modules/attivita/creazione/
+        - title: "Modifica"
+          url: modules/attivita/modifica/
     - title: Gestione Email
       url: modules/email/
       children:

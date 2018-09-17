@@ -44,11 +44,9 @@ analytics:
     tracking_id: UA-42808312-1
     anonymize_ip: false
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-relative-links
 

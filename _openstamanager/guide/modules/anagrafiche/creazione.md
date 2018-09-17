@@ -11,7 +11,7 @@ add:
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-Il modulo **Anagrafiche** presenta quindi la possibilità di inserire le informazioni relativa alla nuova anagrafica da creare, mostrando di default una versione basilare delle informazioni richieste.
+Il modulo **Anagrafiche** presenta quindi la possibilità di inserire le informazioni relative alla nuova anagrafica da creare, mostrando di default una versione basilare delle informazioni richieste.
 Eventualmente, è possibile inserire maggiori informazioni fin dalla creazione sfruttando la sezione **Dati anagrafici**.
 
 {% include gallery id="add" caption="Schermate di creazione di una nuova anagrafica" %}

@@ -39,7 +39,7 @@ Per maggiori informazioni riguardanti lo sviluppo di un modulo, consultare la se
 
 Il file `add.php` è dedicato alla gestione dei form di creazione nuovi elementi all'interno dei vari moduli.
 
-In particolare si occupa parallelamente della funzionalità di aggiunta al volo, visibile in azione nei modulo **Interventi**, **Articoli** e in alcuni altri punti del software.
+In particolare si occupa parallelamente della funzionalità di aggiunta al volo, visibile in azione nei modulo **Attività**, **Articoli** e in alcuni altri punti del software.
 
 ### ajax_complete.php
 

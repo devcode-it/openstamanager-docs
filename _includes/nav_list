@@ -37,7 +37,7 @@
             {% endif %}
 
             {% comment %} set "active" class on current page {% endcomment %}
-            {% if child.url == page.url %}
+            {% if child_url == page.url %}
               {% assign active = "active" %}
             {% else %}
               {% assign active = "" %}

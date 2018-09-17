@@ -26,7 +26,7 @@ E' inoltre possibile indicare un numero predefinito di chilometri (sotto il camp
 
 ### Contatti
 
-Viene quindi presentata una selezioni di campi relativi alle informazioni di contatto relative all'anagrafica, quali:
+Viene quindi presentata una selezione di campi relativi alle informazioni di contatto relative all'anagrafica, quali:
  - Telefono
  - Fax
  - Cellulare
