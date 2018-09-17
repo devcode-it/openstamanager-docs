@@ -4,7 +4,7 @@ title: Creazione attività
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-Il modulo **Attività** presenta quindi la possibilità di inserire le informazioni complete relativa alla nuova attività da creare.
+Il modulo **Attività** presenta quindi la possibilità di inserire le informazioni complete relative alla nuova attività da creare.
 
 {% include figure path="add.png" alt="Creazione di un nuovo record" caption="Schermate di creazione di una nuova attività" %}
 

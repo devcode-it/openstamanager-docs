@@ -106,6 +106,8 @@ guide-sidebar:
           url: modules/impianti/creazione/
         - title: "Modifica"
           url: modules/impianti/modifica/
+        - title: "Gestione componenti"
+          url: modules/impianti/componenti/
     - title: Gestione Email
       url: modules/email/
       children:
