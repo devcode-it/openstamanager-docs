@@ -7,7 +7,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 ## Caratteristiche
 
 Una volta all'interno di questa parte del sistema, il modulo **Anagrafiche** permette di completare *tutte* le informazioni che il gestionale supporta per le anagrafiche.
-In particolare, per permettere un maggiore senso logico nella navigazione dei dati anagrafici, la sezione di modifica è suddivisa in 3 raggruppamenti.
+In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti.
 
 ### Dati anagrafici
 

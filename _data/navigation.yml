@@ -92,6 +92,20 @@ guide-sidebar:
           url: modules/attivita/creazione/
         - title: "Modifica"
           url: modules/attivita/modifica/
+    - title: Articoli
+      url: modules/articoli/
+      children:
+        - title: "Creazione"
+          url: modules/articoli/creazione/
+        - title: "Modifica"
+          url: modules/articoli/modifica/
+    - title: Impianti
+      url: modules/impianti/
+      children:
+        - title: "Creazione"
+          url: modules/impianti/creazione/
+        - title: "Modifica"
+          url: modules/impianti/modifica/
     - title: Gestione Email
       url: modules/email/
       children:

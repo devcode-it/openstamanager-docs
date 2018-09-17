@@ -38,7 +38,7 @@ In base alla selezione dei tecnici, i campi *Data attività*, *Orario inizio* e 
 ### Creazione anagrafica al volo
 
 Nella schermata di creazione di una nuova attività viene permessa la creazione al volo dell'anagrafica di tipo *Cliente* relativa al nuovo *record*.
-Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del Cliente.
+Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo *Cliente*.
 
 {% include figure path="select.png" alt="Pulsante di creazione al volo" caption="Pulsante di creazione anagrafica al volo" %}
 
@@ -51,4 +51,4 @@ Una volta completata la creazione in questione, l'anagrafica creata verrà autom
 
 ## Particolarità
 
-Non è possibile creare un'attività senza sessioni di lavoro di almeno un tecnico, ma è però possibile rimuovere la sessione di lavoro predefinita manualmente dopo aver creato il nuovo *record*.
+Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.
