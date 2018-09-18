@@ -67,6 +67,7 @@ Per maggiori informazioni sulla gestione di queste informazioni, visitare la [se
 ### Tabella dei costi totali
 
 
+
 {% include figure path="section-4.png" alt="Informazioni aggiuntive" caption="Screenshot della sezione di informazioni aggiuntive" %}
 
 ## Opzioni

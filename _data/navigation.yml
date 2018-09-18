@@ -108,6 +108,20 @@ guide-sidebar:
           url: modules/impianti/modifica/
         - title: "Gestione componenti"
           url: modules/impianti/componenti/
+    - title: Preventivi
+      url: modules/preventivi/
+      children:
+        - title: "Creazione"
+          url: modules/preventivi/creazione/
+        - title: "Modifica"
+          url: modules/preventivi/modifica/
+    - title: Contratti
+      url: modules/contratti/
+      children:
+        - title: "Creazione"
+          url: modules/contratti/creazione/
+        - title: "Modifica"
+          url: modules/contratti/modifica/
     - title: Gestione Email
       url: modules/email/
       children:
