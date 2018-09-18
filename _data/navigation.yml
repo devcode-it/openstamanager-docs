@@ -131,3 +131,5 @@ guide-sidebar:
           url: modules/email/template/
         - title: "Invio"
           url: modules/email/invio/
+        - title: "Gmail"
+          url: modules/email/gmail/
