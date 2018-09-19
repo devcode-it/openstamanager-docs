@@ -1,6 +1,7 @@
 ---
 title: OpenSTAManager
 site_title: DevCode
+permalink: /openstamanager/
 layout: splash
 header:
   overlay_color: "#000"
