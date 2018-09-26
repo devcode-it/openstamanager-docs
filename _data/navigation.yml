@@ -46,6 +46,8 @@ docs-sidebar:
           url: more/api/
     - title: Personalizzazione
       children:
+        - title: "Codice"
+          url: base/code/
         - title: "Framework"
           url: base/framework/
         - title: "Assets"
