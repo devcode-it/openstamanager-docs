@@ -37,6 +37,8 @@ La schermata di modifica, sebbene molto simile a quella di creazione, permette i
 
 {% include figure path="edit.png" alt="Modifica sede" caption="Schermata di modifica di una sede" %}
 
+E' inoltre possibile indicare un numero predefinito di chilometri (sotto il campo **Distanza/Km**) da riportare su eventuali **Attività** create per l'anagrafica con la sede relativa.
+
 In particolare, se l'impostazione **Google Maps API key** viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
 
 ## Particolarità
