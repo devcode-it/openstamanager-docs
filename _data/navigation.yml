@@ -124,6 +124,8 @@ guide-sidebar:
           url: modules/contratti/creazione/
         - title: "Modifica"
           url: modules/contratti/modifica/
+        - title: "Pianificazione attività"
+          url: modules/contratti/pianificazione/
     - title: Gestione Email
       url: modules/email/
       children:
