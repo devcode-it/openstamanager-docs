@@ -54,12 +54,13 @@ docs-sidebar:
           url: base/assets/
     - title: Link utili
       children:
-        - title: "Documentazione"
-          url: http://www.openstamanager.com/docs
         - title: "Sito web"
           url: http://www.openstamanager.com
         - title: "Forum"
           url: http://www.openstamanager.com/forum
+
+#        - title: "Documentazione"
+#          url: http://www.openstamanager.com/docs
 
 guide-sidebar:
   baseurl: /openstamanager/2.4.2/guide/

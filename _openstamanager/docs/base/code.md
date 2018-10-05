@@ -82,34 +82,32 @@ In questo caso, le modifiche dovranno considerare numerosi file poichè il compo
 
 Una volta completata la gestione del modulo attraverso oggetti Eloquent, sarà possibile limitare la modifica ai soli file `modules/anagrafiche/custom/src/Articolo.php` e `modules/anagrafiche/custom/src/Riga.php` sovrascrivendo i metodi di base *setSubtotale* e *setIdIvaAttribute*:
 ```php
-public function setSubtotale($prezzo, $qta)
+public function fixSubtotale()
 {
-    $this->qta = $qta;
-
     $iva = database()->fetchOne('SELECT * FROM co_iva WHERE id = :id_iva', [
         ':id_iva' => $this->idiva,
     ]);
 
-    $netto = $prezzo / (1 + $iva['percentuale'] / 100);
-    $iva = $prezzo - $netto;
+    $netto = $this->costo_unitario / (1 + $iva['percentuale'] / 100);
+    $iva = $this->costo_unitario - $netto;
 
-    $this->subtotale = $netto * $qta;
-    $this->iva = $iva * $qta;
+    $this->subtotale = $netto * $this->qta;
+    $this->iva = $iva * $this->qta;
+
+    $this->fixIvaIndetraibile();
 }
 
-public function setIdIvaAttribute($value)
+public function fixIva()
 {
-    $this->attributes['idiva'] = $value;
-
     $iva = database()->fetchOne('SELECT * FROM co_iva WHERE id = :id_iva', [
-        ':id_iva' => $value,
+        ':id_iva' => $this->idiva,
     ]);
     $descrizione = $iva['descrizione'];
 
-    $valore = ($this->subtotale - $this->sconto) * $iva['percentuale'] / 100;
-
     $this->desc_iva = $descrizione;
 
+    $this->fixSubtotale();
+    //$valore = ($this->subtotale - $this->sconto) * $iva['percentuale'] / 100;
     //$this->iva = $valore;
     //$this->iva_indetraibile = $valore / 100 * $iva['indetraibile'];
 }
