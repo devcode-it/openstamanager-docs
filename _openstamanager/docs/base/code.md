@@ -78,9 +78,9 @@ Modulo considerato: **Fatture**.
 In alcuni casi complessi, può essere necessario modificare più sezioni di codice all'interno del modulo e in sezioni separate.
 Un esempio può essere individuato nella gestione delle righe delle fatture di OpenSTAManager, nel caso si voglia inserire nel campo *Costo unitario* il costo aggiuntivo di IVA.
 
-In questo caso, le modifiche dovranno considerare numerosi file poichè il comportamento dovrà essere replicato in modo indipendete in tutte le procedure di creazione/modifica righe (file `modules/anagrafiche/custom/actions.php` e `modules/anagrafiche/custom/modutil.php`).
+In questo caso, le modifiche dovranno considerare numerosi file poichè il comportamento dovrà essere replicato in modo indipendete in tutte le procedure di creazione/modifica righe (file `modules/fatture/custom/actions.php` e `modules/fatture/custom/modutil.php`).
 
-Una volta completata la gestione del modulo attraverso oggetti Eloquent, sarà possibile limitare la modifica ai soli file `modules/anagrafiche/custom/src/Articolo.php` e `modules/anagrafiche/custom/src/Riga.php` sovrascrivendo i metodi di base *setSubtotale* e *setIdIvaAttribute*:
+Una volta completata la gestione del modulo attraverso oggetti Eloquent, sarà possibile limitare la modifica ai soli file `modules/fatture/custom/src/Articolo.php` e `modules/fatture/custom/src/Riga.php` sovrascrivendo i metodi di base *setSubtotale* e *setIdIvaAttribute*:
 ```php
 public function fixSubtotale()
 {
@@ -111,4 +111,9 @@ public function fixIva()
     //$this->iva = $valore;
     //$this->iva_indetraibile = $valore / 100 * $iva['indetraibile'];
 }
+```
+
+Ovviamente, bisgonerà adeguare di conseguenza il file `modules/fatture/custom/row-edit.php` nella riga di individuazione del prezzo:
+```php
+$result['prezzo'] = ($riga['subtotale'] + $riga['iva']) / $riga['qta'];
 ```
