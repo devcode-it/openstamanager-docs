@@ -65,6 +65,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-relative-links
+  - jekyll-include-cache
 
 relative_links:
   enabled: true
