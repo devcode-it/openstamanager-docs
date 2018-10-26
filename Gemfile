@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-relative-links"
   gem "jemoji"
+  gem "jekyll-include-cache"
   gem "jekyll-sitemap"
 end
 
