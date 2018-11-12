@@ -138,5 +138,5 @@ guide-sidebar:
           url: modules/email/invio/
         - title: "Gmail"
           url: modules/email/gmail/
-		- title: "Aruba"
+    		- title: "Aruba"
           url: modules/email/aruba/
