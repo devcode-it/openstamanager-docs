@@ -12,4 +12,4 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
  
 ## Particolarità
 
-Nel caso in cui si continui a verificare l'errore: PHPMailer: SMTP Error: Could not connect to SMTP host, provare a disabilitare l'estensione PHP openssl.
+Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
