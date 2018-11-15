@@ -11,7 +11,7 @@ L'installazione del gestionale richiede la presenza di un server web con abilita
 - PHP >= 5.6
 - MySQL >= 5.6.5
 
-Per ulteriori informazioni sui pacchetti che forniscono questi elementi di default, visitare la sezione [Installazione](https://devcode-it.github.io/openstamanager/2.4.2/docs/installazione/) della documentazione.
+Per ulteriori informazioni sui pacchetti che forniscono questi elementi di default, visitare la sezione [Installazione](../../docs/installazione/) della documentazione.
 
 ## Installazione
 
@@ -59,7 +59,7 @@ In alternativa alla sequenza di comandi precedente, è possibile utilizzare il s
 yarn run develop-OSM
 ```
 
-Per ulteriori informazioni, visitare le sezioni [Assets](https://devcode-it.github.io/openstamanager/2.4.2/docs/base/assets/) e [Framework](https://devcode-it.github.io/openstamanager/2.4.2/docs/base/framework/) della documentazione.
+Per ulteriori informazioni, visitare le sezioni [Assets](../../docs/base/assets/) e [Framework](../../docs/base/framework/) della documentazione.
 
 ## Strumenti utili
 
