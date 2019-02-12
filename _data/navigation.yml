@@ -7,14 +7,14 @@ none:
 
 osm-menu:
   - title: Guida
-    url: /openstamanager/2.4.2/guide/
+    url: /openstamanager/2.4.5/guide/
   - title: Tecnico
-    url: /openstamanager/2.4.2/docs/
+    url: /openstamanager/2.4.5/docs/
   - title: Versioni
     url: /openstamanager/versioni/
 
 docs-sidebar:
-  baseurl: /openstamanager/2.4.2/docs/
+  baseurl: /openstamanager/2.4.5/docs/
   links:
     - title: Introduzione
       children:
@@ -63,7 +63,7 @@ docs-sidebar:
 #          url: http://www.openstamanager.com/docs
 
 guide-sidebar:
-  baseurl: /openstamanager/2.4.2/guide/
+  baseurl: /openstamanager/2.4.5/guide/
   links:
     - title: Configurazione
       children:
