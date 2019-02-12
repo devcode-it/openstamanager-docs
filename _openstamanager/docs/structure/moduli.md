@@ -169,7 +169,7 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 - Selezionare l'archivio scaricato nella selezione file della sezione "Carica un nuovo modulo";
 - Cliccare il pulsante "Carica".
 
-Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)).
+Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/en/zip.installation.php).
 
 **Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
 {: .notice--danger}
