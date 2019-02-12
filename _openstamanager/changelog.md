@@ -1,26 +1,28 @@
 ---
-title: OpenSTAManager 2.4.5
-permalink: /openstamanager/2.4.5/
+title: OpenSTAManager 2.4.6
+permalink: /openstamanager/2.4.6/
 sidebar:
     nav: none
 ---
 
 ### Aggiunto (Added)
 
- - Introduzione dello split payment
- - Introduzione dei campi Nome e Cognome per le anagrafiche
- - Introduzione della possibilità di non verificare il certificato SSL per gli account email
- - Introduzione calcolo del guadagno in fase di aggiunta righe nei documenti
+ - Introduzione della seconda ritenuta (ad esempio, *Contributo Enasarco*)
+ - Introduzione della fatturazione per conto terzi
+ - Aggiunto stato elaborazione fattura elettronica per **Fatture di vendita**
+ - Aggiunto codice cig, cup e identificativo documento per **Preventivi**
 
 ### Modificato (Changed)
 
  - Miglioramento della generazione xml per le Fatture Elettroniche
  - Miglioramento procedura importazione xml per le Fatture Elettroniche
- - Gestite righe di tipo descrizione nelle Fatture Elettroniche
- 
+ - Gestito split payment nella fattura elettronica
+
 ### Fixed
 
- - Fix calcolo codice intervento
- - Fix dei filtri per la stampa del riepilogo interventi
+ - Fix del calcolo dei codice preventivo, ordine, ddt e fattura
+ - Fix valori non riportati in fase di inserimento di una nuova attività
+ - Fix aggiunta del contratto in fattura
+ - Fix aggiunta articolo in attività
+ - Fix calcolo sconto per nota di credito fa fattura di vendita
  - Risolti altri bug minori
-

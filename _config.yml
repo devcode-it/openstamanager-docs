@@ -14,12 +14,12 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dirt"
 
-docs-version: 2.4.5
+docs-version: 2.4.6
 
 collections:
   openstamanager:
     output: true
-    permalink: /:collection/2.4.5/:path/
+    permalink: /:collection/2.4.6/:path/
 
 # Defaults
 defaults:
