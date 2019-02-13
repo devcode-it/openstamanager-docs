@@ -1,6 +1,6 @@
 ---
-title: OpenSTAManager 2.4.6
-permalink: /openstamanager/2.4.6/
+title: OpenSTAManager 2.4.2
+permalink: /openstamanager/2.4.2/
 sidebar:
     nav: none
 ---
