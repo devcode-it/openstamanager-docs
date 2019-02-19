@@ -8,6 +8,8 @@ Il plugin **Sedi** è una componente del modulo **Anagrafiche** dedicata alla co
 
 Il plugin è raggiungibile, all'interno dell'area di modifica di un *record* del modulo **Anagrafiche**, attraverso il menu dedicato nella sezione alta a destra della schermata, sotto la dicitura **Sedi**.
 
+{% include figure path="SediEReferenti_Sedi.png" alt="Creazione Sedi" caption="Plugin Sedi" %}
+
 ## Caratteristiche
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (*modal*).

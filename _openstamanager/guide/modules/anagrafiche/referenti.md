@@ -10,6 +10,8 @@ Può essere sfruttato per creare una rubrica di contatti per l'anagrafica e indi
 
 Il plugin è raggiungibile, all'interno dell'area di modifica di un *record* del modulo **Anagrafiche**, attraverso il menu dedicato nella sezione alta a destra della schermata, sotto la dicitura **Sedi**.
 
+{% include figure path="SediEReferenti_Referenti.png" alt="Creazione referente" caption="Plugin Referenti" %}
+
 ## Caratteristiche
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (*modal*).

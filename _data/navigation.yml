@@ -6,6 +6,8 @@ main:
 none:
 
 osm-menu:
+  - title: FAQ
+    url: /openstamanager/FAQ/
   - title: Guida
     url: /openstamanager/2.4.6/guide/
   - title: Tecnico
@@ -59,6 +61,15 @@ docs-sidebar:
         - title: "Forum"
           url: http://www.openstamanager.com/forum
 
+docs-sidebar1:
+  baseurl: /openstamanager/FAQ
+  links:
+    - title: Fatturazione elettronica
+      children: 
+        - title: "Introduzione"
+          url:
+
+
 #        - title: "Documentazione"
 #          url: http://www.openstamanager.com/docs
 
@@ -75,6 +86,13 @@ guide-sidebar:
           url: configurazione/inizializzazione/
     - title: Caratteristiche
       url: caratteristiche/
+    - title: Dashboard
+      url: modules/dashboard  
+      children:
+        - title: "Creazione"
+          url: modules/dashboard/creazione
+        - title: "Modifica"
+          url: modules/dashboard/modifica
     - title: Anagrafiche
       url: modules/anagrafiche/
       children:
@@ -88,6 +106,81 @@ guide-sidebar:
           url: modules/anagrafiche/referenti/
         - title: "Zone"
           url: modules/anagrafiche/zone/
+        - title: "Impianti del cliente"
+          url: modules/anagrafiche/impiantidelcliente
+        - title: "Ddt del cliente"
+          url: modules/anagrafiche/ddtdelcliente
+        - title: "Statistiche"
+          url: modules/anagrafiche/statistiche 
+        - title: "Maps" 
+          url: modules/anagrafiche/maps   
+    - title: Gestione Documentale
+      url: modules/gestionedocumentale
+      children:
+        - title: "Creazione"
+          url: modules/gestionedocumentale/creazione
+        - title: "Modifica"
+          url: modules/gestionedocumentale/modifica
+        - title: "Categorie Documenti"
+          url: modules/gestionedocumentale/categoriedocumenti
+        - title: "Creazione"
+          url: "modules/gestionedocumentale/creazione1"
+        - title: "Modifica"
+          url: "modules/gestionedocumentale/modifica1"  
+
+    - title: Vendite
+      children: 
+        - title: "Contratti"
+          url: modules/contratti/
+        - title: "Creazione"
+          url: modules/contratti/creazione
+        - title: "Modifica"
+          url: modules/contratti/modifica
+        - title: "Preventivi"
+          url: modules/preventivi/
+        - title: "Creazione"
+          url: modules/preventivi/creazione
+        - title: "Modifica"
+          url: modules/preventivi/modifica
+        - title: "Ordini cliente"
+          url: modules/vendite/ordiniCliente
+        - title: "Creazione"
+          url: modules/vendite/creazione
+        - title: "Modifica"
+          url: modules/vendite/modifica
+        - title: "Fatture di vendita"
+          url: modules/vendite/fattureDiVendita
+        - title: "Creazione"
+          url: modules/vendite/creazionefatturevendita
+        - title: "Modifica"
+          url: modules/vendite/modificafatturevendita
+        - title: "Plugin Fatture di vendita"
+          url: modules/vendite/plugin1
+        - title: "Plugin Ordini cliente"
+          url: modules/vendite/plugin
+          children:     
+            - title: "Contratti"
+              url: modules/vendite/
+            - title: "Preventivi"
+              url: modules/preventivi/
+    - title: Acquisti
+      children:
+        - title: "Ordini fornitore"
+          url: modules/acquisti/ordinifornitore
+        - title: "Creazione"
+          url: modules/acquisti/creazione
+        - title: "Modifica"
+          url: modules/acquisti/modifica            
+        - title: "Fatture di acquisto"
+          url: modules/acquisti/fatturediacquisto
+        - title: "Creazione"
+          url: "modules/acquisti/creazione1"
+        - title: "Modifica"              
+          url: "modules/acquisti/modifica1"
+        - title: "Plugin Ordini fornitore"
+          url: "modules/acquisti/plugin"
+        - title: "Plugin Fatture di acquisto"
+          url: "modules/acquisti/plugin1"
     - title: Attività
       url: modules/attivita/
       children:
@@ -95,15 +188,85 @@ guide-sidebar:
           url: modules/attivita/creazione/
         - title: "Modifica"
           url: modules/attivita/modifica/
-    - title: Articoli
-      url: modules/articoli/
+        - title: "Tipi di attività"
+          url: modules/attivita/tipidiattivita
+        - title: "Creazione"
+          url: modules/attivita/creazionetipidiattivita
+        - title: "Modifica"
+          url: modules/attivita/modificatipidiattivita
+        - title: "Stati di attività"
+          url: modules/attivita/statidiattivita
+        - title: "Creazione"
+          url: modules/attivita/creazionestatidiattivita
+        - title: "Modifica"
+          url: modules/attivita/modificastatidiattivita
+        - title: "Tecnici e tariffe"
+          url: modules/attivita/tecnicietariffe
+        - title: "Voci di servizio"
+          url: modules/attivita/vocidiservizio
+    - title: Contabilità
+      children:
+        - title: "Stampe Contabili"
+          url: modules/contabilita/stampecontabili
+        - title: "Prima nota"
+          url: modules/contabilita/primanota
+        - title: "Creazione"
+          url: modules/contabilita/creazione
+        - title: "Modifica"
+          url: modules/contabilita/modifica
+        - title: "Piano dei conti"
+          url: modules/contabilita/pianodeiconti
+        - title: "Scadenzario"
+          url: modules/contabilita/scadenzario 
+    - title: Magazzino
+      children: 
+        - title: "Articoli"
+          url: modules/magazzino/articoli
+        - title: "Creazione"
+          url: modules/magazzino/creazione
+        - title: "Modifica"
+          url: modules/magazzino/modifica  
+        - title: "Listini"
+          url: modules/magazzino/listini
+        - title: "Creazione"
+          url: modules/magazzino/creazionelistini
+        - title: "Modifica"
+          url: modules/magazzino/modificalistini  
+        - title: "Movimenti"
+          url: modules/magazzino/movimenti 
+        - title: "Automezzi"
+          url: modules/magazzino/automezzi
+        - title: "Creazione"
+          url: modules/magazzino/creazioneautomezzi
+        - title: "Modifica"
+          url: modules/magazzino/modificaautomezzi
+        - title: "Ddt in uscita"
+          url: modules/magazzino/ddtinuscita
+        - title: "Creazione"
+          url: modules/magazzino/creazioneddtinuscita
+        - title: "Modifica"
+          url: modules/magazzino/modificaddtinuscita    
+        - title: "Ddt in entrata"
+          url: modules/magazzino/ddtinentrata 
+        - title: "Creazione"
+          url: modules/magazzino/creazioneddtinentrata
+        - title: "Modifica"
+          url: modules/magazzino/modificaddtinentrata
+        - title: "Plugin"
+          url: modules/magazzino/plugin  
+    - title: MyImpianti
+      url: modules/impianti/
       children:
         - title: "Creazione"
-          url: modules/articoli/creazione/
+          url: modules/impianti/creazione
         - title: "Modifica"
-          url: modules/articoli/modifica/
-    - title: Impianti
-      url: modules/impianti/
+          url: modules/impianti/modifica
+        - title : "Gestione componenti"
+          url: modules/impianti/componenti
+        - title: "Creazione"
+          url: modules/impianti/creazionecategorieimpianti
+        - title: "Modifica"
+          url: modules/impianti/modificacategorieimpianti
       children:
         - title: "Creazione"
           url: modules/impianti/creazione/
@@ -111,22 +274,26 @@ guide-sidebar:
           url: modules/impianti/modifica/
         - title: "Gestione componenti"
           url: modules/impianti/componenti/
-    - title: Preventivi
-      url: modules/preventivi/
-      children:
-        - title: "Creazione"
-          url: modules/preventivi/creazione/
-        - title: "Modifica"
-          url: modules/preventivi/modifica/
-    - title: Contratti
-      url: modules/contratti/
-      children:
-        - title: "Creazione"
-          url: modules/contratti/creazione/
-        - title: "Modifica"
-          url: modules/contratti/modifica/
-        - title: "Pianificazione attività"
-          url: modules/contratti/pianificazione/
+        - title: "Categorie impianti"
+          url: modules/impianti/categorieimpianti  
+    - title: "Statistiche"
+      url: modules/statistiche
+    #- title: Preventivi
+     # url: modules/preventivi/
+     # children:
+      #  - title: "Creazione"
+       #   url: modules/preventivi/creazione/
+        #- title: "Modifica"
+         # url: modules/preventivi/modifica/
+   # - title: Contratti
+    #  url: modules/contratti/
+     # children:
+      #  - title: "Creazione"
+       #   url: modules/contratti/creazione/
+        #- title: "Modifica"
+         # url: modules/contratti/modifica/
+       # - title: "Pianificazione attività"
+        #  url: modules/contratti/pianificazione/
     - title: Gestione Email
       url: modules/email/
       children:
@@ -140,3 +307,19 @@ guide-sidebar:
           url: modules/email/gmail/
         - title: "Aruba"
           url: modules/email/aruba/
+    - title: Strumenti
+      url: modules/strumenti/
+      children:
+        - title: "Utenti e permessi"
+          url: modules/strumenti/utentiepermessi
+        - title: "Impostazioni"
+          url: modules/strumenti/impostazioni
+        - title: "Tabelle"
+          url: modules/strumenti/tabelle
+        - title: "Segmenti"
+          url: modules/strumenti/segmenti
+        - title: "Import"
+          url: modules/strumenti/import
+        - title: "Backup"
+          url: modules/strumenti/backup
+          

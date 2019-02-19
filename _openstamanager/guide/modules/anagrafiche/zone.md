@@ -19,3 +19,5 @@ Grazie ad esso, è possibile assegnare specifiche anagrafiche ad una zona di ser
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Zone** visibile dall'espansione del menu **Anagrafiche**.
+
+{% include figure path="NavigazioneZone.png" alt="Modulo Zone" caption="Screenshot del link **Zone**" %}
