@@ -51,7 +51,7 @@ Fare la spunta su tutte e 3 le caselle e premere continua.
 + Compliare i campi campi richiesti e cliccare su *AVVIA LA MIA PROVA GRATUITA*
 
 **ATTENZIONE** 
-Mettendo i dati della carta di credito non verrà fatto alcun addebito, è richiesta solamente per verifica.
+Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica.
 
 
 

@@ -113,7 +113,20 @@ guide-sidebar:
         - title: "Statistiche"
           url: modules/anagrafiche/statistiche 
         - title: "Maps" 
-          url: modules/anagrafiche/maps   
+          url: modules/anagrafiche/maps
+    - title: Gestione Email
+      url: modules/email/
+      children:
+        - title: "Account"
+          url: modules/email/account/
+        - title: "Template"
+          url: modules/email/template/
+        - title: "Invio"
+          url: modules/email/invio/
+        - title: "Gmail"
+          url: modules/email/gmail/
+        - title: "Aruba"
+          url: modules/email/aruba/             
     - title: Gestione Documentale
       url: modules/gestionedocumentale
       children:
@@ -294,19 +307,6 @@ guide-sidebar:
          # url: modules/contratti/modifica/
        # - title: "Pianificazione attività"
         #  url: modules/contratti/pianificazione/
-    - title: Gestione Email
-      url: modules/email/
-      children:
-        - title: "Account"
-          url: modules/email/account/
-        - title: "Template"
-          url: modules/email/template/
-        - title: "Invio"
-          url: modules/email/invio/
-        - title: "Gmail"
-          url: modules/email/gmail/
-        - title: "Aruba"
-          url: modules/email/aruba/
     - title: Strumenti
       url: modules/strumenti/
       children:
@@ -314,12 +314,39 @@ guide-sidebar:
           url: modules/strumenti/utentiepermessi
         - title: "Impostazioni"
           url: modules/strumenti/impostazioni
-        - title: "Tabelle"
-          url: modules/strumenti/tabelle
+        - title: Tabelle
+        - title: "IVA"
+          url: modules/strumenti/tabelle/IVA
+        - title: "Causali"
+          url: modules/strumenti/tabelle/causali
+        - title: "Aspetto beni"
+          url: modules/strumenti/tabelle/aspettobeni
+        - title: "Unità di misura"
+          url: modules/strumenti/tabelle/unitadimisura
+        - title: "Porto"
+          url: modules/strumenti/tabelle/porto
+        - title: "Pagamenti"
+          url: modules/strumenti/tabelle/pagamenti
+        - title: "Categorie articoli"
+          url: modules/strumenti/tabelle/categoriearticoli
+        - title: "Ritenute acconto"
+          url: modules/strumenti/tabelle/ritenuteacconto
+        - title: "Banche"
+          url: modules/strumenti/tabelle/banche
+        - title: "Modelli prima nota"
+          url: modules/strumenti/tabelle/modelliprimanota
+        - title: "Tipi di spedizione"
+          url: modules/strumenti/tabelle/tipidispedizione
+        - title: "Rivalse"
+          url: modules/strumenti/tabelle/rivalse
+        - title: "Ritenute contributi"
+          url: modules/strumenti/tabelle/ritenutecontributi
         - title: "Segmenti"
           url: modules/strumenti/segmenti
         - title: "Import"
           url: modules/strumenti/import
         - title: "Backup"
           url: modules/strumenti/backup
-          
+        - title: "Aggiornamenti"
+          url: modules/strumenti/aggiornamenti
+

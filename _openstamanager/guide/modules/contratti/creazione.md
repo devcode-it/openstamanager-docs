@@ -1,5 +1,5 @@
 ---
-title: Creazione preventivi
+title: Creazione contratti
 ---
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
