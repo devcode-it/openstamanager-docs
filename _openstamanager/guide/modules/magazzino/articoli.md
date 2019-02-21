@@ -10,6 +10,8 @@ Il modulo **Articoli** permette all’azienda di gestire le informazioni riguard
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Articoli** visibile dall'espansione del menu **Magazzino**.
 
+{% include figure path="NavigazioneArticoli.png" alt="Modulo Articoli" caption="Screenshot del modulo **Articoli**" %}
+
 ## Caratteristiche
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 3 widget specializzati:

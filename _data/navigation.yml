@@ -167,9 +167,9 @@ guide-sidebar:
           url: modules/vendite/creazionefatturevendita
         - title: "Modifica"
           url: modules/vendite/modificafatturevendita
-        - title: "Plugin Fatture di vendita"
+        - title: "Azioni aggiungitve Fatture di vendita"
           url: modules/vendite/plugin1
-        - title: "Plugin Ordini cliente"
+        - title: "Azioni aggiuntive Ordini cliente"
           url: modules/vendite/plugin
           children:     
             - title: "Contratti"
@@ -190,9 +190,9 @@ guide-sidebar:
           url: "modules/acquisti/creazione1"
         - title: "Modifica"              
           url: "modules/acquisti/modifica1"
-        - title: "Plugin Ordini fornitore"
+        - title: "Azioni aggiuntive Ordini fornitore"
           url: "modules/acquisti/plugin"
-        - title: "Plugin Fatture di acquisto"
+        - title: "Azioni aggiuntive Fatture di acquisto"
           url: "modules/acquisti/plugin1"
     - title: Attività
       url: modules/attivita/
@@ -265,7 +265,7 @@ guide-sidebar:
           url: modules/magazzino/creazioneddtinentrata
         - title: "Modifica"
           url: modules/magazzino/modificaddtinentrata
-        - title: "Plugin"
+        - title: "Azioni aggiuntive"
           url: modules/magazzino/plugin  
     - title: MyImpianti
       url: modules/impianti/
@@ -276,19 +276,12 @@ guide-sidebar:
           url: modules/impianti/modifica
         - title : "Gestione componenti"
           url: modules/impianti/componenti
+        - title: "Categorie impianti"
+          url: modules/impianti/categorieimpianti
         - title: "Creazione"
           url: modules/impianti/creazionecategorieimpianti
         - title: "Modifica"
-          url: modules/impianti/modificacategorieimpianti
-      children:
-        - title: "Creazione"
-          url: modules/impianti/creazione/
-        - title: "Modifica"
-          url: modules/impianti/modifica/
-        - title: "Gestione componenti"
-          url: modules/impianti/componenti/
-        - title: "Categorie impianti"
-          url: modules/impianti/categorieimpianti  
+          url: modules/impianti/modificacategorieimpianti  
     - title: "Statistiche"
       url: modules/statistiche
     #- title: Preventivi

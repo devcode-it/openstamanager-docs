@@ -53,6 +53,14 @@ Fare la spunta su tutte e 3 le caselle e premere continua.
 **ATTENZIONE** 
 Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica.
 
+Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e cliccare *Credenziali*
+
+{% include figure path="ApiEServizi.png" alt="Plugin Google Maps" caption="" %}
+
+Cliccare su *Crea credenziali*, selezionare *Chiave API*. Ora la chiave API è stata creata.
+
+{% include figure path="ChiaveAPI.png" alt="Plugin Google Maps" caption="" %}
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Plugin Ordini cliente
+title: Azioni aggiuntive Ordini cliente
 ---
 
 Selezionando o creando un *record* in **Ordini cliente** sono presenti nella parte in alto a destra dei *plugin* che consentono diverse opzioni quali:

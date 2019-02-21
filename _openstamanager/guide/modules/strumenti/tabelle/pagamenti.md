@@ -19,7 +19,7 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 E' sufficiente inserire la *Descrizione* e *Codice Modalità(Fatturazione Elettronica)*
 
-{% include figure path="AggiungereCausali.PNG" alt="Causali" caption="Creazione **Pagamenti**" %}
+{% include figure path="AggiungerePagamento.PNG" alt="Causali" caption="Creazione **Pagamenti**" %}
 
 ## Modifica
 La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al *record* all'interno della tabella della schermata principale.

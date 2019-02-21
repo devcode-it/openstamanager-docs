@@ -11,4 +11,5 @@ Il sotto-modulo è raggiungibile attraverso il menu laterale del gestionale, sot
 
 ### Caratteristiche
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un *record* del modulo **Ordini fornitore** presenta la possiblità di utilizzare diversi strumenti, chiamati [plugin](plugin.md)
+La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un *record* del modulo **Ordini fornitore** presenta la possiblità di utilizzare diverse [Azioni aggiuntive](plugin.md)
+

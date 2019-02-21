@@ -1,5 +1,5 @@
 ---
-title: Plugin
+title: Azioni aggiuntive
 ---
 
 Selezionando o creando un *record* in **Ddt in uscita** sono presenti nella parte in alto a destra dei *plugin* che consentono diverse opzioni quali:

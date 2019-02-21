@@ -1,5 +1,5 @@
 ---
-title: Plugin Fatture di vendita
+title: Azioni aggiuntive Fatture di vendita
 ---
 
 Selezionando o creando un *record* in **Fatture di vendita** sono presenti nella parte in alto a destra dei *plugin* che consentono diverse opzioni quali:

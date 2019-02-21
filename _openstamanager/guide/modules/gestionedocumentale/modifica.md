@@ -11,4 +11,4 @@ Così facendo è possibile modificare:
 - Categoria
 - Data
 
-In aggiunta è possibile allegare un file cliccando su *carica*.
+In aggiunta è possibile allegare un file cliccando su *Carica*.

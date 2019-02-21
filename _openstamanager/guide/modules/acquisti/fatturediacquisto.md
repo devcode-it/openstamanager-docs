@@ -14,5 +14,4 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 ### Caratteristiche
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un *record* del modulo **Fatture di acquisto** presenta la possiblità di utilizzare diversi strumenti, chiamati [plugin](plugin1.md)
-
+La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un *record* del modulo **Fatture di acquisto** presenta la possiblità di utilizzare diverse [Azioni aggiuntive](plugin1.md)
