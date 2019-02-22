@@ -7,7 +7,7 @@ none:
 
 osm-menu:
   - title: FAQ
-    url: /openstamanager/FAQ/
+    url: /openstamanager/2.4.6/FAQ/
   - title: Guida
     url: /openstamanager/2.4.6/guide/
   - title: Tecnico
@@ -61,14 +61,21 @@ docs-sidebar:
         - title: "Forum"
           url: http://www.openstamanager.com/forum
 
-docs-sidebar1:
-  baseurl: /openstamanager/FAQ
+FAQ-sidebar:
+  baseurl: /openstamanager/2.4.6/FAQ/
   links:
     - title: Fatturazione elettronica
       children: 
         - title: "Introduzione"
-          url:
-
+          url: introduzione/
+        - title: "Come funziona su OpenSTAManager"
+          url: funzionamento/
+        ##- title: "Come poterla inviare"
+        ##  url: 
+        - title: "Errori frequenti"
+          url: errori/
+        - title: "FAQ Fatturazione Elettronica"
+          url: FAQFatturazioneElettronica/
 
 #        - title: "Documentazione"
 #          url: http://www.openstamanager.com/docs
@@ -303,6 +310,8 @@ guide-sidebar:
     - title: Strumenti
       url: modules/strumenti/
       children:
+        - title: "Viste"
+          url: modules/strumenti/viste
         - title: "Utenti e permessi"
           url: modules/strumenti/utentiepermessi
         - title: "Impostazioni"

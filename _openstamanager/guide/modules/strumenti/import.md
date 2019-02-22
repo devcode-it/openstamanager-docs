@@ -27,3 +27,7 @@ La quale mostrerà il contenuto di ogni colonna. Cliccando su **Avvia importazio
 {% include figure path="Importazione.PNG" alt="Import" caption="*Importazione* registrata" %}
 
 
+## ATTENZIONE
+Prima di caricare il file CSV è **OBBLIGATORIO** aggiungere un campo per il **Tipo**.
+
+{% include figure path="TipoCSV.PNG" alt="Import" caption="Aggiungere  **TIPO**" %}

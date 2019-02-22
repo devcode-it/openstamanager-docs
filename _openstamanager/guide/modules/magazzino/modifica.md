@@ -9,7 +9,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 Una volta all'interno di questa parte del sistema, il modulo **Articolo** permette di completare *tutte* le informazioni che il gestionale supporta per gli articolo.
 In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in vari raggruppamenti.
 
-### Dati dell'articolo
+ Dati dell'articolo
 
 Il primo raggruppamento di informazioni sull'articolo consiste nell'insieme delle infomazioni basilari relative.
 
