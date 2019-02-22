@@ -1,6 +1,0 @@
----
-description: FAQ
----
-
-# FAQ
-
