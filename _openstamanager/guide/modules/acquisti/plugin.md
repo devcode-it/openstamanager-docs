@@ -2,13 +2,14 @@
 title: Plugin Ordini fornitore
 ---
 
-Selezionando o creando un *record* in **Ordini fornitore** sono presenti nella parte in alto a destra dei *plugin* che consentono diverse opzioni quali:
+# plugin
 
-{% include figure path="pluginOrdiniFornitore.PNG" alt="Ordini Cliente" caption="Plugin **Ordini fornitore**" %}
+Selezionando o creando un _record_ in **Ordini fornitore** sono presenti nella parte in alto a destra dei _plugin_ che consentono diverse opzioni quali:
 
-- stampa ordine fornitore
-    - stampa ordine fornitore(senza costi)
-- invia ordine (tramite mail)
-- Crea
-    - ddt
-    - fattura
+* stampa ordine fornitore
+  * stampa ordine fornitore\(senza costi\)
+* invia ordine \(tramite mail\)
+* Crea
+  * ddt
+  * fattura
+

@@ -2,11 +2,12 @@
 title: Azioni aggiuntive Fatture di vendita
 ---
 
-Selezionando o creando un *record* in **Fatture di vendita** sono presenti nella parte in alto a destra dei *plugin* che consentono diverse opzioni quali:
+# plugin1
 
-{% include figure path="PluginFattureDiVendita.PNG" alt="Ordini Cliente" caption="Plugin Ordini cliente" %}
+Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella parte in alto a destra dei _plugin_ che consentono diverse opzioni quali:
 
-- stampa fattura di vendita
-    - stampa fattura di vendita(senza intestazione)
-- invia fattura (tramite mail/PEC)
-- Duplica fattura
+* stampa fattura di vendita
+  * stampa fattura di vendita\(senza intestazione\)
+* invia fattura \(tramite mail/PEC\)
+* Duplica fattura
+

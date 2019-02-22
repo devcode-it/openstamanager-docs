@@ -1,30 +1,26 @@
 ---
-title : Statistiche
+title: Statistiche
 ---
 
-Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un andamento di *Vendite e acquisti* e *interventi per tipologia* nell'anno corrente.
+# statistiche
+
+Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un andamento di _Vendite e acquisti_ e _interventi per tipologia_ nell'anno corrente.
 
 Il modulo è diviso nelle seguenti sezioni:
-- Vendite e acquisti
 
-{% include figure path="ScreenVenditeEAcquisti.PNG" alt="Statistiche" caption="Screenshot *Vendite e acquisti*" %}
+* Vendite e acquisti
 
-Segnalando in verde il *Fatturato* e in rosso gli *Acquisti*, entrambi con IVA esclusa.
+Segnalando in verde il _Fatturato_ e in rosso gli _Acquisti_, entrambi con IVA esclusa.
 
-- Clienti TOP
-
-{% include figure path="ScreenClientiTop.PNG" alt="Statistiche" caption="Screenshot *Clienti TOP*" %}
+* Clienti TOP
 
 Visualizza i clienti migliori.
 
-- Articoli più venduti
-
-{% include figure path="ScreenArticoliVenduti.PNG" alt="Statistiche" caption="Screenshot *Articoli Venduti*" %}
+* Articoli più venduti
 
 Visualizza gli articoli più venduti con annesso codice, descrizione e quantità.
 
-- Interventi per tipologia
+* Interventi per tipologia
 
-{% include figure path="ScreenInterventiPerTipologia.PNG" alt="Statistiche" caption="Screenshot *Interventi per tipologia*" %}
+Un istogramma che visualizza gli _Interventi per tipologia_.
 
-Un istogramma che visualizza gli *Interventi per tipologia*.

@@ -2,8 +2,9 @@
 title: Modifica automezzi
 ---
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al *record* all'interno della tabella della schermata principale.
+# modificaautomezzi
 
-{% include figure path="ModificaAutomezzi.png" alt="Modifica automezzi" caption="Schermata di creazione di un *Automezzo*" %}
+La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
 
-Nella schermata soprastante mostra i possibili campi modificabili cliccando sopra un *record*.
+Nella schermata soprastante mostra i possibili campi modificabili cliccando sopra un _record_.
+

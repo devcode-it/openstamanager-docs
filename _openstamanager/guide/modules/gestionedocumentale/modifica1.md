@@ -2,8 +2,9 @@
 title: Modifica Categorie documenti
 ---
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al *record* all'interno della tabella della schermata principale.
+# modifica1
 
-{% include figure path="ModificaCategorieDocumenti.png" alt="Screenshot Modifica Categorie documenti" caption="Modifica Categorie documenti" %}
+La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
 
-Così facendo è possibile modificare la descrizione di un *record*.
+Così facendo è possibile modificare la descrizione di un _record_.
+
