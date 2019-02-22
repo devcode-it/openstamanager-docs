@@ -1,8 +1,10 @@
 ---
 title: Widget
 sidebar:
-    nav: "docs-sidebar"
+  nav: docs-sidebar
 ---
 
-Pagina in costruzione.
-{: .notice--info}
+# widget
+
+Pagina in costruzione. {: .notice--info}
+

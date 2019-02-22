@@ -2,8 +2,9 @@
 title: Modifica Ordini fornitore
 ---
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al *record* all'interno della tabella della schermata principale.
+# modifica
 
-{% include figure path="ModificaOrdiniFornitore.PNG" alt="Modifica ordini fornitore" caption="Modifica **Ordini fornitore**" %}
+La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
 
-L'immagine soprastante mostra i campi modificabili cliccando sul *record*.
+L'immagine soprastante mostra i campi modificabili cliccando sul _record_.
+

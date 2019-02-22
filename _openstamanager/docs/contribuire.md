@@ -1,18 +1,18 @@
 ---
 title: Contribuire
 sidebar:
-    nav: "docs-sidebar"
+  nav: docs-sidebar
 ---
+
+# contribuire
 
 Sei interessato a contribuire allo sviluppo di OpenSTAManger? Ottimo, sei il benvenuto!
 
-Siamo entusiasti di ogni nuova contribuzione che otteniamo dalla nostra community.
-Ci sono molti modi per contribuire: segnalare bug, richiedere miglioramenti, scrivere tutorial, migliorare la documentazione, ...
+Siamo entusiasti di ogni nuova contribuzione che otteniamo dalla nostra community. Ci sono molti modi per contribuire: segnalare bug, richiedere miglioramenti, scrivere tutorial, migliorare la documentazione, ...
 
-Non serve essere degli esperti programmatori per aiutarci! :smile_cat:
+Non serve essere degli esperti programmatori per aiutarci! :smile\_cat:
 
-Leggi le seguenti sezioni per scoprire come ti consigliamo di procedere.
-Se ti serve un aiuto, crea una issue su GitHub.
+Leggi le seguenti sezioni per scoprire come ti consigliamo di procedere. Se ti serve un aiuto, crea una issue su GitHub.
 
 ## Linee guida
 
@@ -25,14 +25,13 @@ Per il momento non abbiamo adottato un vero e proprio codice di condotta, ma ti 
 ### Stile del codice
 
 Utilizziamo principalmente due strumenti per mantenere consistente nel tempo lo stile del codice:
-- [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-- [EditorConfig](http://editorconfig.org)
 
-PHP CS Fixer viene utilizzato per formattare automaticamente il codice PHP e aumentare la sua comprensibilità.
-La configurazione può essere trovata nel file [.php_cs](https://github.com/devcode-it/openstamanager/blob/master/.php_cs).
+* [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+* [EditorConfig](http://editorconfig.org)
 
-EditorConfig viene sfruttato per mantenere la consistenza nella formattazione di base dei diversi altri file utilizzati nel progetto.
-La configurazione può essere trovata nel file [.editorconfig](https://github.com/devcode-it/openstamanager/blob/master/.editorconfig).
+PHP CS Fixer viene utilizzato per formattare automaticamente il codice PHP e aumentare la sua comprensibilità. La configurazione può essere trovata nel file [.php\_cs](https://github.com/devcode-it/openstamanager/blob/master/.php_cs).
+
+EditorConfig viene sfruttato per mantenere la consistenza nella formattazione di base dei diversi altri file utilizzati nel progetto. La configurazione può essere trovata nel file [.editorconfig](https://github.com/devcode-it/openstamanager/blob/master/.editorconfig).
 
 Maggiori informazioni sui plugin che permettono di integrare questi strumenti sono disponibili nei relativi siti.
 
@@ -51,8 +50,7 @@ Per capire se hai individuato un problema di sicurezza, prova a farti queste dom
 * Posso accedere a qualcosa a cui non dovrei avere accesso?
 * Posso disabilitare qualcosa per altre persone?
 
-Se la risposta a una di queste domande è positiva, allora probabilmente hai individuato un problema di sicurezza.
-Considera però che anche in caso negativo potrebbe trattarsi di un problema di questo tipo, quindi se sei insicuro contattaci comunque via email.
+Se la risposta a una di queste domande è positiva, allora probabilmente hai individuato un problema di sicurezza. Considera però che anche in caso negativo potrebbe trattarsi di un problema di questo tipo, quindi se sei insicuro contattaci comunque via email.
 
 ## Segnalare un bug
 
@@ -66,7 +64,7 @@ Se sei in grado di risolvere uno dei bug segnalati oppure vuoi completare una nu
 
 ## Community
 
-Siamo presenti su [Facebook](https://www.facebook.com/openstamanager), e il nostro forum ufficiale è disponibile all'indirizzo <http://www.openstamanager.com/forum/>.
+Siamo presenti su [Facebook](https://www.facebook.com/openstamanager), e il nostro forum ufficiale è disponibile all'indirizzo [http://www.openstamanager.com/forum/](http://www.openstamanager.com/forum/).
 
 Cerchiamo di essere disponibili quanto possibile, ma non sempre riusciamo a rispondere tempestivamente.
 
@@ -74,12 +72,15 @@ Cerchiamo di essere disponibili quanto possibile, ma non sempre riusciamo a risp
 
 Il progetto presenta, a partire dalla versione 2.4.2, un insieme di test per facilitare il controllo sul corretto funzionamento del gestionale.
 
-Per eseguire i test è necessario seguire le seguenti istruzioni (https://codeception.com/docs/modules/WebDriver):
-- Scaricare (Selenium Server)[https://docs.seleniumhq.org/download/] e salvarlo come `selenium-server-standalone.jar` nella cartella principale
-- Scaricare (ChromeDriver)[https://sites.google.com/a/chromium.org/chromedriver/getting-started], rendendolo eseguibile da riga di comando (su Windows, aggiungerlo al PATH)
-- Configurare localmente Codeception nel file `codeception.yml` con l'URL del web server locale
-- Eseguire su shell differenti i seguenti comandi:
-```bash
-npm run tests-server    # Avvia i server per i test di funzionamento grafico
-npm run tests-OSM       # Avvia i test
-```
+Per eseguire i test è necessario seguire le seguenti istruzioni \([https://codeception.com/docs/modules/WebDriver](https://codeception.com/docs/modules/WebDriver)\):
+
+* Scaricare \(Selenium Server\)\[[https://docs.seleniumhq.org/download/](https://docs.seleniumhq.org/download/)\] e salvarlo come `selenium-server-standalone.jar` nella cartella principale
+* Scaricare \(ChromeDriver\)\[[https://sites.google.com/a/chromium.org/chromedriver/getting-started](https://sites.google.com/a/chromium.org/chromedriver/getting-started)\], rendendolo eseguibile da riga di comando \(su Windows, aggiungerlo al PATH\)
+* Configurare localmente Codeception nel file `codeception.yml` con l'URL del web server locale
+* Eseguire su shell differenti i seguenti comandi:
+
+  ```bash
+  npm run tests-server    # Avvia i server per i test di funzionamento grafico
+  npm run tests-OSM       # Avvia i test
+  ```
+

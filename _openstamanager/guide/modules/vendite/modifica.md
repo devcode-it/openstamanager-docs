@@ -2,19 +2,17 @@
 title: Modifica Ordini cliente
 ---
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al *record* all'interno della tabella della schermata principale.
+# modifica
 
-Una volta entrati in questa parte del sistema si può procedere al completamento e alla modifica del *record*.
+La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
 
-{% include figure path="IntestazioneOrdiniCliente.PNG" alt="Modifica Ordini Cliente" caption="Campi intestazione **Ordini cliente**" %}
+Una volta entrati in questa parte del sistema si può procedere al completamento e alla modifica del _record_.
 
-C'è la possibiltà di aggiungere, sotto la sezione ***Righe***:
-- Articolo
-- Riga
-- Descrizione
+C'è la possibiltà di aggiungere, sotto la sezione _**Righe**_:
 
-{% include figure path="RigheOrdiniClienti.PNG" alt="Modifica Ordini Cliente" caption="Campi righe **Ordini Cliente**" %}
+* Articolo
+* Riga
+* Descrizione
 
-E' possibile aggiungere ***Allegati*** caricandoli dal proprio computer specificando nome e categoria.
+E' possibile aggiungere _**Allegati**_ caricandoli dal proprio computer specificando nome e categoria.
 
-{% include figure path="AllegatiOrdiniClienti.PNG" alt="Modifica Ordini Cliente" caption="Campi allegati **Ordini cliente**" %}
