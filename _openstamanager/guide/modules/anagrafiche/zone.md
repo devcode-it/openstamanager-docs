@@ -2,20 +2,18 @@
 title: Modulo Zone
 screen:
   - path: add.png
-    alt: "Schermata di creazione zona"
-    title: "Schermata di creazione di una nuova zona"
+    alt: Schermata di creazione zona
+    title: Schermata di creazione di una nuova zona
   - path: edit.png
-    alt: "Schermata di modifica zona"
-    title: "Schermata di modifica di una zona"
+    alt: Schermata di modifica zona
+    title: Schermata di modifica di una zona
 ---
 
-Il modulo **Zone** è dedicato alla gestione delle eventuali suddivisioni, da parte dell'azienda, del territorio in aree.
-Grazie ad esso, è possibile assegnare specifiche anagrafiche ad una zona di servizio per tecnici specifici e gestire in modo dinamico le attività visualizzate nella **Dashboard**.
+# zone
 
-{% include figure path="controller.png" alt="Modulo Zone" caption="Screenshot del modulo **Zone**" %}
-
-{% include gallery id="screen" caption="Schermate del modulo" %}
+Il modulo **Zone** è dedicato alla gestione delle eventuali suddivisioni, da parte dell'azienda, del territorio in aree. Grazie ad esso, è possibile assegnare specifiche anagrafiche ad una zona di servizio per tecnici specifici e gestire in modo dinamico le attività visualizzate nella **Dashboard**.
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Zone** visibile dall'espansione del menu **Anagrafiche**.
+
