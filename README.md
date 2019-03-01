@@ -1,44 +1,25 @@
-# Documentazione dei progetti DevCode
+# Documentazione DevCode
 
-Questa repository contiene i file che formano l'applicazione ufficiale del gestionale OpenSTAManager.
+Benvenuto nella guida di OpenSTAManager!
 
-* [Windows](./#windows)
-* [Testing](./#testing)
+Qui puoi trovare le istruzioni di base per la configurazione e l'utilizzo di questo software.
 
-## Windows
+### Struttura
 
-I passaggi necessari per la compilazione dei sorgenti sono i seguenti:
+Il menu di sinistra è il principale strumento per la navigazione in questo sito.
 
-* [Installare Chocolatey](https://chocolatey.org/install) da Amministratori
+Puoi trovarvi in particolare due sezioni generali:
 
-  ```bash
-    @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-  ```
+* **Configurazione**, dedicata alle informazioni sull'installazione e l'aggiornamento del gestionale
+* **Caratteristiche**, dedicata alle strutture più comuni presenti in OpenSTAManager
 
-* Installare Ruby e msys2 con chaintool:
+Le altre sezioni riguardano dei raggruppamenti di moduli e plugin tramite la logica di funzionamento del software.
 
-  ```bash
-    choco install ruby -y
-    choco install msys2 -y
-  ```
+Buona navigazione!
 
-* Installare Jekyll e Bundler:
+### Proposte
 
-  ```bash
-    gem install jekyll bundler
-  ```
+Hai delle proposte per migliorare questa documentazione? Video, immagini, descrizioni, esempi,... sono tutti i benvenuti!
 
-E' quindi necessario eseguire il seguente comando nella cartella della documentazione:
-
-```bash
-bundle install
-```
-
-## Testing
-
-Sono disponibili i seguenti comandi per semplificare il testing:
-
-```bash
-npm run serve         # Avvia Jekyll in locale (http://localhost:4000/)
-```
+Contattaci attraverso il [forum ufficiale](http://www.openstamanager.com/forum/) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
 

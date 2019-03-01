@@ -1,0 +1,12 @@
+# Preventivi
+
+Il modulo **Preventivi** permette di gestire le informazioni relative ai preventivi dell'azienda.
+
+![Screenshot interfaccia preventivi](../../../../.gitbook/assets/module%20%281%29.png)
+
+### Navigazione
+
+Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Preventivi** visibile dall'espansione del menu **Vendite**.
+
+![Screenshot navigazione preventivi](../../../../.gitbook/assets/navigazionepreventivi.PNG)
+
