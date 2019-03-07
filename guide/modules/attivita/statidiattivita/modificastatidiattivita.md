@@ -22,3 +22,5 @@ Una volta all'interno di questa parte del sistema, il modulo **Stati di attivit�
 
 Spuntando la casella **Questo è uno stato completato** gli interventi che si trovano in quello stato verranno considerati come completati.
 
+Spuntando la casella **Abilita notifiche** verrà segnalato al **Tecnico** assegnato a quell'attività un eventuale cambiamento di stato. Selezionando un **Template email**  e specificando un destinatario è possibile segnalare un cambiamento di stato ad un altra persona oltre al **Tecnico** coinvolto.
+

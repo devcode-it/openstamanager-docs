@@ -1,4 +1,4 @@
-# Documentazione DevCode
+# Documentazione OpenSTAManager
 
 Benvenuto nella guida di OpenSTAManager!
 
@@ -21,5 +21,5 @@ Buona navigazione!
 
 Hai delle proposte per migliorare questa documentazione? Video, immagini, descrizioni, esempi,... sono tutti i benvenuti!
 
-Contattaci attraverso il [forum ufficiale](http://www.openstamanager.com/forum/) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
+Contattaci attraverso il [forum ufficiale](https://www.openstamanager.com/forum/viewforum.php?f=15&sid=66b8733c2b7e05ed082abad7261c694a) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
 

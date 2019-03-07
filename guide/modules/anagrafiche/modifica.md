@@ -78,7 +78,11 @@ L'ultimo raggruppamento di informazioni presenta una serie di elementi non fonda
 
 ### Allegati
 
-In questa sezione è possibile caricare un file dal proprio computer specificandone la categoria
+In questa sezione è possibile caricare un file dal proprio computer specificandone la categoria.
+
+### ATTENZIONE
+
+Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine \(jpg,png,...\) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato\( ad esempio sulla stampa di una attività, di una fattura di vendita, di un  preventivo, etc...\)
 
 ![Screenshot sezione allegati](../../../.gitbook/assets/allegati%20%281%29.PNG)
 

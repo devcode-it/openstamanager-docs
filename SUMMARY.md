@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documentazione DevCode](README.md)
+* [Documentazione OpenSTAManager](README.md)
 * [Guida](guide/README.md)
   * [Configurazione](guide/configurazione/README.md)
     * [Installazione](guide/configurazione/installazione.md)
