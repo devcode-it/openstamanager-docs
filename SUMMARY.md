@@ -169,4 +169,9 @@
     * [Codice](docs/base/code.md)
     * [Framework](docs/base/framework.md)
     * [Assets](docs/base/assets.md)
+* [Moduli acquistabili](moduli-acquistabili/README.md)
+  * [Modulo Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
+    * [Installazione](moduli-acquistabili/modulo-vendita-al-banco/installazione-1.md)
+    * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
+    * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
 

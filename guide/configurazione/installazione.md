@@ -99,7 +99,9 @@ OpenSTAManager viene reso disponibile tramite la licenza **GPL-3.0**, che ne per
 
 Una volta accettata la licenza, cliccare su **Successivo**.
 
+{% hint style="warning" %}
 **Non è possibile procedere all'utilizzo del software senza aver accettato la licenza.**
+{% endhint %}
 
 ![Errore di licenza](../../.gitbook/assets/license-error.png)
 

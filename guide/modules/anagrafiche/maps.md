@@ -48,7 +48,9 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../../.gitbook/assets/co
 * Cliccare su ![](../../../.gitbook/assets/accettaecontinua.PNG) , accettando i termini di servizio
 * Compilare i campi campi richiesti e cliccare su _**AVVIA LA MIA PROVA GRATUITA**_
 
-**ATTENZIONE** Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica. Se si prova in qualche modo a saltare l'inserimento del metodo di pagamento e a generare comunque l'API, essa non funzionerà. L'inserimento del metodo di pagamento è obbligatorio.
+{% hint style="warning" %}
+Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica. Se si prova in qualche modo a saltare l'inserimento del metodo di pagamento e a generare comunque l'API, essa non funzionerà. L'inserimento del metodo di pagamento è obbligatorio.
+{% endhint %}
 
 ![API e servizi](../../../.gitbook/assets/apieservizi.PNG)
 

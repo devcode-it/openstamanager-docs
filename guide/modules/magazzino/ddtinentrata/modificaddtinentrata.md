@@ -8,7 +8,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 ## Caratteristiche
 
-Una volta all'interno di questa parte del sistema, il modulo **Ddt in entrata** permette di completare _tutte_ le informazioni che il gestionale supporta per gli articolo. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti:
+Una volta all'interno di questa parte del sistema, il modulo **Ddt in entrata** permette di completare _tutte_ le informazioni che il gestionale supporta per ddt in entrata. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti:
 
 * [Intestazione](modificaddtinentrata.md#intestazione)
 * [Righe](modificaddtinentrata.md#righe)

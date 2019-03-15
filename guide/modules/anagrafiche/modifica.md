@@ -82,7 +82,9 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 
 ### ATTENZIONE
 
+{% hint style="danger" %}
 Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine \(jpg,png,...\) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato\( ad esempio sulla stampa di una attività, di una fattura di vendita, di un  preventivo, etc...\)
+{% endhint %}
 
 ![Screenshot sezione allegati](../../../.gitbook/assets/allegati%20%281%29.PNG)
 
@@ -98,5 +100,7 @@ Una volta completata la creazione del nuovo elemento anagrafico, il gestionale p
 
 ## Fatturazione Elettronica
 
+{% hint style="info" %}
 Per quanto riguarda la **Fatturazione Elettronica** è stata creata una sezione apposita, [clicca qui](../../../faq-1/fatturazione-elettronica/) per visualizzarla!
+{% endhint %}
 

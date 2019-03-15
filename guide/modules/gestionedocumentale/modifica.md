@@ -16,5 +16,7 @@ Così facendo è possibile modificare:
 
 In aggiunta è possibile allegare un file cliccando su ![](../../../.gitbook/assets/carica.PNG) .
 
+{% hint style="info" %}
 Quando vado a caricare un allegato in qualsiasi schermata, viene creata una **categoria** in base a quella indicata, in questo modo , quando vado a caricare un nuovo allegato mi appaiono tra i consigliati le diverse categorie precedentemente create permettendo così di creare delle sezioni. E' comunque possibile creare una nuova categoria.
+{% endhint %}
 
