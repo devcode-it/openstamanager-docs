@@ -4,7 +4,9 @@ title: Ordini cliente
 
 # Ordini cliente
 
+{% hint style="info" %}
 Il modulo **Ordini cliente** permette all'utente di creare un documento per richiedere prodotti o servizi da parte di un cliente stabilendone tempistiche e tipo di pagamento.
+{% endhint %}
 
 ## Navigazione
 

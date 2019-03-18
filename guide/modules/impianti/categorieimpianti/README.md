@@ -4,7 +4,9 @@ title: Categorie impianti
 
 # Categorie impianti
 
+{% hint style="info" %}
 Il modulo **Categorie impianti** permette di raggruppare impianti per _categoria_.
+{% endhint %}
 
 ![Screenshot interfaccia categorie impianti](../../../../.gitbook/assets/interfacciacategorieimpianti%20%283%29.PNG)
 

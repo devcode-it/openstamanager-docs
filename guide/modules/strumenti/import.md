@@ -4,7 +4,9 @@ title: Import
 
 # Import
 
-Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nel modulo _Articoli_ o _Anagrafiche_
+{% hint style="info" %}
+Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nel modulo _Articoli_ o _Anagrafiche._
+{% endhint %}
 
 ![Screenshot interfaccia import](../../../.gitbook/assets/screenimport.PNG)
 
@@ -32,13 +34,17 @@ La quale mostrerà il contenuto di ogni colonna. Cliccando su ![](../../../.gitb
 
 ### Attenzione
 
+{% hint style="warning" %}
 Se devi importare un file **CSV** di una **Anagrafica** devi andare ad aggiungere nel file una colonna **Tipologia** specificando il **Tipo di anagrafica\(Agente,Vettore,Cliente,Azienda,Fornitore\)**
+{% endhint %}
 
 ![Aggiunta campo Tipologia al file CSV](../../../.gitbook/assets/tipologiacliente.PNG)
 
+{% hint style="warning" %}
 Non andando a specificare la **Tipologia** nel modulo **Anagrafiche** il campo **Tipo** rimarrà vuoto.
 
 Nell'immagine sottostante il _record_ con **Ragione sociale Test** ha il campo **Tipo** vuoto, mentre nel successivo _record_ è presente, proprio perché è specificata la **Tipologia** nel file **CSV.** 
+{% endhint %}
 
 ![Anagrafica importata correttamente](../../../.gitbook/assets/importazioneclienteok.PNG)
 

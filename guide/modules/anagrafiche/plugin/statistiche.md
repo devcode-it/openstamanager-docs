@@ -4,7 +4,9 @@ title: Plugin Statistiche
 
 # Statistiche
 
+{% hint style="info" %}
 Il plugin **Statistiche** è una componente del modulo **Anagrafiche** dedicata al riepilogo.
+{% endhint %}
 
 ![Screenshot plugin statistiche](../../../../.gitbook/assets/pluginstatistiche.PNG)
 

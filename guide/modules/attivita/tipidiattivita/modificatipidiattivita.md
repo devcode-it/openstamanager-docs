@@ -14,5 +14,7 @@ Una volta all'interno di questa parte del sistema, il modulo **Tipi di attività
 
 ### ATTENZIONE
 
+{% hint style="warning" %}
 Eliminando un **tipo di attività** collegato ad un intervento vengono rimossi anche gli interventi collegati!
+{% endhint %}
 

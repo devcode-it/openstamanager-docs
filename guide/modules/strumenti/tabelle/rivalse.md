@@ -4,7 +4,9 @@ title: Rivalse
 
 # Rivalse
 
+{% hint style="info" %}
 Il modulo **Rivalse** permette di aggiungere nuove _Rivalse_ al relativo campo dei relativi moduli.
+{% endhint %}
 
 ![Screenshot interfaccia rivalse](../../../../.gitbook/assets/rivalse.PNG)
 

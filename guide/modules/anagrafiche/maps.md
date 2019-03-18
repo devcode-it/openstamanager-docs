@@ -4,7 +4,9 @@ title: Plugin Google Maps
 
 # Maps
 
-Nella modifica e nella fase di creazione di una nuova **anagrafica** è possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente latitudine e longitudine.
+{% hint style="info" %}
+Nella modifica e nella fase di creazione di una nuova **anagrafica** è possibile visualizzare attraverso _Google Maps_ l'indirizzo indicato ed eventualmente definire manualmente latitudine e longitudine.
+{% endhint %}
 
 Per fare ciò basta cliccare sopra il link mostrato nella figura sottostante
 
@@ -49,7 +51,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../../.gitbook/assets/co
 * Compilare i campi campi richiesti e cliccare su _**AVVIA LA MIA PROVA GRATUITA**_
 
 {% hint style="warning" %}
-Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica. Se si prova in qualche modo a saltare l'inserimento del metodo di pagamento e a generare comunque l'API, essa non funzionerà. L'inserimento del metodo di pagamento è obbligatorio.
+**Attenzione:** Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica. Se si prova in qualche modo a saltare l'inserimento del metodo di pagamento e a generare comunque l'API, essa non funzionerà. L'inserimento del metodo di pagamento è obbligatorio.
 {% endhint %}
 
 ![API e servizi](../../../.gitbook/assets/apieservizi.PNG)

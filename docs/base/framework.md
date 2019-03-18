@@ -10,7 +10,9 @@ sidebar:
 >
 > [Wikipedia](https://it.wikipedia.org/wiki/Framework)
 
+{% hint style="info" %}
 Il progetto utilizza [Composer](https://getcomposer.org/) per gestire le librerie PHP in modo completamente gratuito e open-source. Questo permette di completare l'installazione e l'aggiornamento dei diversi framework in modo facile ed intuitivo, senza doversi preoccupare in modo eccessivo delle dipendenze delle diverse librerie.
+{% endhint %}
 
 ## Struttura
 
@@ -20,9 +22,11 @@ La modifica dei contenuti di `vendor` è altamente sconsigliata, poichè qualunq
 
 ## Personalizzazione
 
+{% hint style="info" %}
 Nel caso si rivelasse necessario aggiornare i framework presenti o installare nuove librerie, è necessario avere disponibile una corretta e funzionante [installazione locale di Composer](https://getcomposer.org/download/).
 
 Una volta completata l'installazione di Composer è possibile, partendo dalla cartella del gestionale, iniziare l'aggiornamento e la personalizzazione tramite le seguenti operazioni.
+{% endhint %}
 
 ### Aggiornamento
 

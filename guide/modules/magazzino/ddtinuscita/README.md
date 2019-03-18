@@ -4,7 +4,9 @@ title: Ddt in uscita
 
 # Ddt in uscita
 
+{% hint style="info" %}
 Il modulo **Ddt in uscita** permette di creare una bolla quando viene concesso del materiale.
+{% endhint %}
 
 ![Screenshot interfaccia ddt in uscita](../../../../.gitbook/assets/interfacciaddtinuscita.PNG)
 

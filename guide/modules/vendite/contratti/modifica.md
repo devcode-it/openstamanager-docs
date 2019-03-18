@@ -62,7 +62,9 @@ E' quindi possibile procedere alla modifica e all'eventuale rimozione della spes
 
 ### Attenzione
 
+{% hint style="warning" %}
 Se voglio monitorare il consumo delle ore mi basterà aggiungere una **Riga,** inserire una **descrizione,** selezionare **ore** come **Unità di misura** e inserire nel campo **Q.tà** il numero delle ore, come nell'esempio che segue: 
+{% endhint %}
 
 ![](../../../../.gitbook/assets/oreore%20%281%29.png)
 

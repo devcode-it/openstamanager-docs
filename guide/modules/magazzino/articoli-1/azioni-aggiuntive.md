@@ -9,5 +9,5 @@ Nella parte superiore della pagina viene inoltre permessa la visualizzazione di 
 
 ### Duplica articolo
 
-La funzione _Duplica articolo_ permette la creazione di un articolo simile a quello corrente, con quantità, seriali e movimenti reimpostati ai valori predefiniti.
+La funzione _**Duplica articolo**_ permette la creazione di un articolo simile a quello corrente, con quantità, seriali e movimenti reimpostati ai valori predefiniti.
 

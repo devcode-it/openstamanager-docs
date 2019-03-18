@@ -56,7 +56,7 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 
 ![Screenshot ore di lavoro](../../../.gitbook/assets/screenoredilavoro.PNG)
 
-\#In base alla selezione dei tecnici, i campi _Data attività_, _Orario inizio_ e _Orario fine_ creeranno altrettante \#sessioni di lavoro dopo aver completato l'inizializzazione della nuova attività.
+\#
 
 ### Creazione anagrafica al volo
 

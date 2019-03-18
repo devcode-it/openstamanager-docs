@@ -4,7 +4,9 @@ title: Categorie documenti
 
 # Categorie documenti
 
+{% hint style="info" %}
 Nel modulo **Categorie documenti** vengono gestite le categorie per i documenti utilizzabili nella sezione _**Categoria**_ nella creazione nel modulo **Gestione Documentale**.
+{% endhint %}
 
 ![Screenshot interfaccia categorie documenti ](../../../../.gitbook/assets/screencategoriedocumenti.PNG)
 

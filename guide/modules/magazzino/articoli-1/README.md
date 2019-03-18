@@ -4,7 +4,9 @@ title: Modulo Articoli
 
 # Articoli
 
+{% hint style="info" %}
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
+{% endhint %}
 
 ![Screenshot interfaccia articoli](../../../../.gitbook/assets/interfacciaarticoli.PNG)
 

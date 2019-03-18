@@ -2,7 +2,9 @@
 
 ## Pianificazione attività
 
+{% hint style="info" %}
 Il plugin **Pianificazione attività** è una componente del modulo **Contratti** dedicata alla completa gestione della pianificazione delle attività \(_promemoria_\) relative ai contratti registrati all'interno di OpenSTAManager.
+{% endhint %}
 
 ## Navigazione
 

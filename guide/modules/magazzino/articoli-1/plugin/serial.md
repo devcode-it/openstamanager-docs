@@ -1,6 +1,8 @@
 # Serial
 
+{% hint style="info" %}
 **Serial** viene reso utilizzabile solo per articoli che permettono l'utilizzo dei numeri seriali \(opzione interna _Abilita serial number_\).
+{% endhint %}
 
 ![Screenshot plugin magazzino](../../../../../.gitbook/assets/pluginmagazzino.PNG)
 

@@ -4,7 +4,9 @@ title: Plugin Impianti del cliente
 
 # Impianti del cliente
 
+{% hint style="info" %}
 Il plugin **Impianti del cliente** è una componente del modulo **Anagrafiche** dedicata alla completa visualizzazione degli impianti del cliente.
+{% endhint %}
 
 ### Navigazione
 

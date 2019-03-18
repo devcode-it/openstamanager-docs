@@ -4,7 +4,9 @@ title: Statistiche
 
 # Statistiche
 
+{% hint style="info" %}
 Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un andamento di _Vendite e acquisti_ e _interventi per tipologia_ nell'anno corrente.
+{% endhint %}
 
 Il modulo è diviso nelle seguenti sezioni:
 

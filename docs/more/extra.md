@@ -6,8 +6,6 @@ sidebar:
 
 # Extra
 
-Funzioni extra.
-
 ## Campi personalizzati
 
 A partire dalla versione 2.4 è possibile sfruttare dei campi personalizzati per aggiungere informazioni ai moduli principali in modo dinamico.

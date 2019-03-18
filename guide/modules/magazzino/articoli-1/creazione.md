@@ -23,7 +23,9 @@ Il sistema di creazione di un nuovo elemento richiede la compilazione di alcune 
 
 ### Creazione categoria al volo
 
+{% hint style="info" %}
 Nella schermata di creazione di un nuovo articolo viene permessa la creazione al volo delle **Categorie** relative al nuovo _record_. Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo _Categoria_.
+{% endhint %}
 
 ![Screenshot creazione categoria al volo](../../../../.gitbook/assets/fast-add.png)
 

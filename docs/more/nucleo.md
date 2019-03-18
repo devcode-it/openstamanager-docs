@@ -29,7 +29,9 @@ Scaricando la versione GIT del progetto dovreste trovare una struttura di base m
 
 Analizzeremo ora in dettaglio la funzione delle diverse cartelle e dei relativi contenuti. Si avverte che il gestionale è fortemente basato sulla correttezza contemporanea di molti file: siete pertanto pregati di astenervi da modifiche o, se queste dovessero rivelarsi necessarie, procedere alla creazione di un relativo file custom nella cartella del file. E' comunque consigliabile richiedere l'assistenza ufficiale.
 
+{% hint style="info" %}
 Per maggiori informazioni riguardanti la procedura di personalizzazione, rivolgersi alle specifiche sezioni di ogni settore.
+{% endhint %}
 
 ## Root
 
@@ -95,7 +97,9 @@ Il file `info.php` contiene la sezione informativa relativa al progetto, indican
 
 Il file `log.php` permette di visualizzare le informazioni relative agli ultimi 100 tentativi di accesso.
 
-**Attenzione**: nel caso in cui l'utente sia un amministratore, le informazioni accessibili sono relative a **tutti** gli utenti \(al contrario, un utente normale può visualizzare esclusivamente i propri tentativi\). {: .notice--danger}
+{% hint style="warning" %}
+**Attenzione**: nel caso in cui l'utente sia un amministratore, le informazioni accessibili sono relative a **tutti** gli utenti \(al contrario, un utente normale può visualizzare esclusivamente i propri tentativi\). 
+{% endhint %}
 
 ### composer.json, gulpfile.js, package.json
 
@@ -139,7 +143,9 @@ Si ricorda che è possibile creare una personalizzazione di questa pagina nella 
 
 La cartella `lib` contiene le librerie personalizzate e le funzioni utilizzate dall'intero gestionale nei diversi moduli.
 
+{% hint style="warning" %}
 **Attenzione**: sono qui presenti solo i metodi generali e comunemente riutilizzati. Per maggiori informazioni riguardanti la locazione delle funzioni specifiche di un modulo, visitare la sezione [Moduli](../../guide/modules/).
+{% endhint %}
 
 ### deprecated.php
 
@@ -185,5 +191,7 @@ I file `VERSIONE.php` contengono l'insieme di operazioni PHP \(e, talvolta, SQL\
 
 ## Cartella vendor
 
+{% hint style="info" %}
 Per maggiori informazioni riguardanti la cartella `vendor` e i suoi contenuti, rivolgersi alla sezione [Framework](../base/framework.md).
+{% endhint %}
 

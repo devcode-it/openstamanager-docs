@@ -4,7 +4,9 @@ title: Plugin Sedi
 
 # Sedi
 
+{% hint style="info" %}
 Il plugin **Sedi** è una componente del modulo **Anagrafiche** dedicata alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
+{% endhint %}
 
 ## Navigazione
 
@@ -46,5 +48,7 @@ In particolare, se l'impostazione [**Google Maps API key**](../maps.md) viene im
 
 ## Particolarità
 
+{% hint style="info" %}
 La sede legale, predefinita per l'anagrafica, non viene registrata allo stesso modo delle altre sedi. Sarà pertanto impossibile eliminare completamente la sede legale da un'anagrafica.
+{% endhint %}
 

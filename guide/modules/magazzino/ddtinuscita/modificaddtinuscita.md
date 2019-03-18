@@ -60,7 +60,9 @@ E' quindi possibile procedere alla modifica e all'eventuale rimozione della spes
 
 ## Attenzione
 
+{% hint style="warning" %}
 Prima di procedere alla stampa bisogna completare i seguenti campi dell'anagrafica:
+{% endhint %}
 
 * Codice fiscale
 * Città

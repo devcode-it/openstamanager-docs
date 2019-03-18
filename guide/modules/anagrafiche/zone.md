@@ -11,7 +11,9 @@ screen:
 
 # Zone
 
+{% hint style="info" %}
 Il modulo **Zone** è dedicato alla gestione delle eventuali suddivisioni, da parte dell'azienda, del territorio in aree. Grazie ad esso, è possibile assegnare specifiche anagrafiche ad una zona di servizio per tecnici specifici e gestire in modo dinamico le attività visualizzate nella **Dashboard**.
+{% endhint %}
 
 ## Navigazione
 

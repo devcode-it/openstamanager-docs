@@ -4,7 +4,9 @@ title: Tipi di attività
 
 # Tipi di attività
 
+{% hint style="info" %}
 Il modulo **Tipi di attività** permette di creare una sorta di tariffario da assegnare ad un **Tecnico** per lo svolgimento di un'attività. Offre di base due _record_:
+{% endhint %}
 
 * GEN\(Generico\)
 * ODS\(Ordine di servizio\)

@@ -8,7 +8,9 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 ![Screenshot creazione listini](../../../../.gitbook/assets/aggiungerelistini.PNG)
 
+{% hint style="info" %}
 Un **Listino** si aggiunge assegnandoli un _nome_ e uno _sconto_, come nell'esempio che segue:
+{% endhint %}
 
 ![Screenshot creazione listini](../../../../.gitbook/assets/aggiuntalistini.PNG)
 

@@ -6,7 +6,9 @@ sidebar:
 
 # Stampe
 
+{% hint style="info" %}
 All'interno del gestionale, vengono considerate _stampe_ tutte le strutture che si occupano di generare dei file PDF che l'utente può successivamente visualizzare ed eventualmente salvare/stampare.
+{% endhint %}
 
 Tutte le stampe di OpenSTAManager sono contenute all'interno della cartella `templates/`, raggruppate per nome in un cartelle indipendenti.
 

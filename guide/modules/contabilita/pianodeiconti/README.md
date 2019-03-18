@@ -4,7 +4,9 @@ title: Piano dei conti
 
 # Piano dei conti
 
+{% hint style="info" %}
 Il modulo **Piano dei conti** visualizza un documento con tutti i conti registrati da un'azienda o da un privato.
+{% endhint %}
 
 ![Screenshot interfaccia piano dei conti](../../../../.gitbook/assets/screenpianodeiconti.PNG)
 

@@ -1,6 +1,8 @@
 # Viste
 
+{% hint style="info" %}
 Il modulo **Viste** permette di apportare delle modifiche ai _campi_ dei moduli.
+{% endhint %}
 
 ![Screenshot interfaccia viste](../../../.gitbook/assets/screenviste.PNG)
 

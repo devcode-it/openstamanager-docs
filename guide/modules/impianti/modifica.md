@@ -39,5 +39,7 @@ E' inoltre possibile completare alcune informazioni relative alla posizione dell
 
 ## Particolarità
 
+{% hint style="info" %}
 L'immagine dell'articolo viene considerata a tutti gli effetti come un upload tradizionale.
+{% endhint %}
 

@@ -1,6 +1,8 @@
 # Anagrafiche
 
+{% hint style="info" %}
 Il modulo **Anagrafiche** permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
+{% endhint %}
 
 ![Screenshot Anagrafiche](../../../.gitbook/assets/interfacciaanagrafiche.PNG)
 
@@ -49,7 +51,9 @@ Di questi, **Ddt del cliente** e **Impianti del cliente** sono utilizzabili escl
 
 ### Particolarità
 
+{% hint style="info" %}
 Il modulo presenta la possibilità di creare una singola anagrafica di tipo _Azienda_ per motivi logico-funzionali. Questa anagrafica viene inoltre memorizzata nelle impostazioni di OpenSTAManager sotto l'impostazione nascosta **Azienda predefinita**.
 
 Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico, per evitare di rimuovere informazioni necessarie al resto del gestionale. Sarà quindi possibile ripristinare, sotto richiesta di assistenza, eventuali elementi rimossi erroneamente.
+{% endhint %}
 

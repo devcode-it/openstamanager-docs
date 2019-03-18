@@ -4,7 +4,9 @@ title: Segmenti
 
 # Segmenti
 
+{% hint style="info" %}
 Il modulo **Segmenti** permette di aggiungere delle opzioni selezionabili nei campi di creazione di un record di un determinato modulo.
+{% endhint %}
 
 Esempio:
 
@@ -58,8 +60,8 @@ Nella sezione _**Segmento**_ è possibile modificare:
 Nella sezione _**Sezionale**_ è possibile fare la spunta su:
 
 * Sezionale fiscale
-* Predefinito note di credito\(per renderlo predefinito per le      note di credito\)
-* Predefinito note di debito\(per renderlo predefinito per le       note di debito\)
+* Predefinito note di credito\(per renderlo predefinito per le note di credito\)
+* Predefinito note di debito\(per renderlo predefinito per le note di debito\)
 
 ## Istruzioni per il campo maschera
 

@@ -4,7 +4,9 @@ title: Ritenute acconto
 
 # Ritenute acconto
 
-Il modulo **Ritenute Acconto** permette di aggiungere nuove _Ritenute Acconto_ al relativo campo
+{% hint style="info" %}
+Il modulo **Ritenute Acconto** permette di aggiungere nuove _Ritenute Acconto_ al relativo campo.
+{% endhint %}
 
 ![Screenshot interfaccia ritenute acconto ](../../../../.gitbook/assets/ritenuteacconto.PNG)
 

@@ -2,7 +2,9 @@
 
 ## Gestione documentale
 
-Il modulo gestione documentale permette di creare un elenco di _documenti_ gestibili per categoria.
+{% hint style="info" %}
+Il modulo **gestione documentale** permette di creare un elenco di _documenti_ gestibili per categoria.
+{% endhint %}
 
 ![Screenshot interfaccia gestione documentale](../../../.gitbook/assets/interfacciagestionedocumentale.PNG)
 

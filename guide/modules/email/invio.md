@@ -14,7 +14,9 @@ screen:
 
 # Invio
 
-La funzione di invio email è una caratteristica integrata in OpenSTAManager, che si basa sulle strutture fornite dai moduli **Account email** e **Template email** per semplificare la gestone delle informazioni relative.
+{% hint style="info" %}
+La funzione di invio email è una caratteristica integrata in OpenSTAManager, che si basa sulle strutture fornite dai moduli **Account email** e **Template email** per semplificare la gestione delle informazioni relative.
+{% endhint %}
 
 Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono almeno un template collegato, ed è accessibile attraverso il pulsante dedicato nella sezione in alto a destra della schermata.
 
@@ -35,5 +37,7 @@ Viene inoltre fornita la possibilità, oltre ad impostare manualmente i destinat
 
 ## Particolarità
 
+{% hint style="warning" %}
 Nel caso l'account email legato al template non sia stato completato correttamente, viene mostrato un messaggio di avvertenza relativo.
+{% endhint %}
 

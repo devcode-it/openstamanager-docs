@@ -4,7 +4,9 @@ title: Aggiornamenti
 
 # Aggiornamenti
 
+{% hint style="info" %}
 Il modulo **Aggiornamenti** offre diverse possibilità, quali:
+{% endhint %}
 
 * Carica un aggiornamento
 * Ricerca aggiornamenti
@@ -49,7 +51,9 @@ Visualizza una serie di informazioni relative ai moduli, quali:
 
 ## Attenzione
 
+{% hint style="info" %}
 Cliccando sopra un ingranaggio si può disabilitare un _modulo_
+{% endhint %}
 
 ## Widgets
 
@@ -64,5 +68,7 @@ Visualizza una serie di informazioni relative ai _Widgets_, quali:
 
 ## Attenzione
 
+{% hint style="info" %}
 Cliccando sopra una freccia si può modificare la posizione di un _Widget_
+{% endhint %}
 

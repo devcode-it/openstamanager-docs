@@ -4,7 +4,9 @@ title: Account email
 
 # Account email
 
+{% hint style="info" %}
 Il modulo **Account email** permette all’azienda di gestire tutte le informazioni riguardanti gli account email utilizzati da OpenSTAManager per l'eventuale invio di email con contenuti specifici dei diversi moduli.
+{% endhint %}
 
 Questo modulo è complementare a [**Template email**](template.md), che si occupa di gestire le informazioni di base dell'email da inviare.
 
@@ -54,5 +56,7 @@ Viene inoltre permessa l'impostazione di un qualsiasi account email come predefi
 
 ## Particolarità
 
+{% hint style="info" %}
 L'account email predefinito impostato nelle versioni precedenti attraverso le impostazioni viene importato come _Account email da Impostazioni_.
+{% endhint %}
 

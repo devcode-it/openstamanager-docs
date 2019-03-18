@@ -1,6 +1,8 @@
 # Contratti
 
+{% hint style="info" %}
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
+{% endhint %}
 
 ![Screenshot interfaccia contratti ](../../../../.gitbook/assets/contratti.PNG)
 

@@ -4,7 +4,9 @@ title: Scadenzario
 
 # Scadenzario
 
+{% hint style="info" %}
 Il modulo **Scadenzario** visualizza un registro dove sono annotate le scadenze di pagamenti da effettuare e da ricevere.
+{% endhint %}
 
 ![Screenshot interfaccia scadenzario](../../../.gitbook/assets/screenscadenzario.PNG)
 

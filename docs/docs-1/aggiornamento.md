@@ -6,9 +6,11 @@ sidebar:
 
 # Aggiornamento
 
+{% hint style="warning" %}
 **Attenzione**: Questa documentazione è esclusivamente relativa all'aggiornamento del software. Per maggiori informazioni sull'installazione consultare la documentazione relativa nella sezione [Installazione](installazione.md). 
+{% endhint %}
 
-Esistono due procedure ufficiale per effettuare l'aggiornamento di OpenSTAManager in modo corretto: una semplificata \(_consigliata_\) e una manuale.
+Esistono due procedure ufficiali per effettuare l'aggiornamento di OpenSTAManager in modo corretto: una semplificata \(_consigliata_\) e una manuale.
 
 In ogni caso, il corretto procedimento prevede di [scaricare una release ufficiale del progetto](https://github.com/devcode-it/openstamanager/releases) ed **effettuare un backup della versione corrente** \(comprensivo di file e database\).
 
@@ -21,7 +23,13 @@ L'utilizzo di questa procedura è però sottoposto alla seguenti condizioni nell
 * `upload_max_filesize` &gt;= 16MB
 * `post_max_size` &gt;= 16MB
 
-Di seguito la procedura: 1. Accedere con un account amministrativo 2. Entrare nel modulo **Aggiornamenti** \(disponibile nel menu principale a sinistra, eventualmente sotto la dicitura **Strumenti**\) 3. Selezionare il file _.zip_ della release attraverso l'apposita sezione "Carica un aggiornamento" e cliccare sul pulsante "Carica"
+Di seguito la procedura: 
+
+1. Accedere con un account amministrativo
+
+2. Entrare nel modulo **Aggiornamenti** \(disponibile nel menu principale a sinistra, eventualmente sotto la dicitura **Strumenti**\) 
+
+3. Selezionare il file _.zip_ della release attraverso l'apposita sezione "Carica un aggiornamento" e cliccare sul pulsante "Carica"
 
 Dopo l'esecuzione di queste azioni, il gestionale effettuerà automaticamente il logout di tutti gli utenti connessi e renderà disponibile l'interfaccia di aggiornamento.
 
@@ -29,7 +37,13 @@ Dopo l'esecuzione di queste azioni, il gestionale effettuerà automaticamente il
 
 La procedura di aggiornamento manuale è resa disponibile per ovviare ai problemi relativi al caricamento del file _.zip_ \(in alcuni casi il file non viene correttamente rilevato, non sono disponibili i permessi per caricare file oppure la dimensione del file eccede il limite di upload sul server\).
 
-Di seguito la procedura: 1. De-comprimere il contenuto del file _.zip_ in una cartella temporanea 2. Rinominare il file `VERSION` dell'installazione corrente in `VERSION.old` \(rispettando minuscole e maiuscole\) \[facoltativo a partire dalla versione 2.3\] 3. Copiare i file della nuova versione dalla cartella temporanea alla cartella del server, in modo che le cartelle principali \(`files`, `modules`, `templates`, ...\) vengano sovrascritte
+Di seguito la procedura: 
+
+1. De-comprimere il contenuto del file _.zip_ in una cartella temporanea 
+
+2. Rinominare il file `VERSION` dell'installazione corrente in `VERSION.old` \(rispettando minuscole e maiuscole\) \[facoltativo a partire dalla versione 2.3\] 
+
+3. Copiare i file della nuova versione dalla cartella temporanea alla cartella del server, in modo che le cartelle principali \(`files`, `modules`, `templates`, ...\) vengano sovrascritte
 
 Dopo l'esecuzione di queste azioni, il gestionale effettuerà automaticamente il logout di tutti gli utenti connessi e renderà disponibile l'interfaccia di aggiornamento.
 
@@ -49,7 +63,9 @@ E' possibile effettuare la migrazione da una qualsiasi versione 1.x alla nuova 2
 
 Dopo l'esecuzione di queste azioni, il gestionale renderà disponibile l'interfaccia di aggiornamento.
 
-**Attenzione**: le stampe di _Interventi_, _Riepilogo interventi_, _Contratti_ e _Preventivi_ potrebbero non essere compatibili per via dell’aggiornamento degli orari di lavoro, perciò è possibile riscrivere solo la parte di calcolo ore o partire dal template nuovo e apportare le dovute modifiche. {: .notice--danger}
+{% hint style="warning" %}
+**Attenzione**: le stampe di _Interventi_, _Riepilogo interventi_, _Contratti_ e _Preventivi_ potrebbero non essere compatibili per via dell’aggiornamento degli orari di lavoro, perciò è possibile riscrivere solo la parte di calcolo ore o partire dal template nuovo e apportare le dovute modifiche.
+{% endhint %}
 
 ## Recupero della password
 
@@ -61,7 +77,9 @@ Può però essere necessario **reimpostare** la password, in particolare se è s
 
 Per procedere alla reimpostazione della password di un account comune \(non amministrativo\) è necessario accedere con un account amministrativo e utilizzare il modulo **Utenti e permessi** \(**Gestione permessi** per versioni precedenti alla 2.3\), disponibile sotto la dicitura **Strumenti**. In particolare, una volta entrati nella corretta categoria di accesso \(_Agenti_, _Amministratori_, _Clienti_, ...\) dell'account da modificare, è possibile utilizzare la procedura semplificata di cambio password attraverso l'_icona del lucchetto aperto_.
 
+{% hint style="warning" %}
 Nel caso non sia possibile accedere con un account amministrativo, contattare l'amministratore.
+{% endhint %}
 
 ### Account amministrativo
 

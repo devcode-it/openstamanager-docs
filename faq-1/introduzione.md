@@ -2,7 +2,7 @@
 
 Benvenuto nella sezione FAQ di OpenSTAManager!
 
-**F**requently **A**sked **Q**uestion, abbiamo deciso di creare questa sezione per rispondere alle domande che vengono poste più frequentemente riguardante l'utilizzo di _**OpenSTAManager**_ e per aiutare all'utilizzo della [_**Fatturazione Elettronica**_](fatturazione-elettronica/)_\*\*\*\*_
+**F**requently **A**sked **Q**uestion, abbiamo deciso di creare questa sezione per rispondere alle domande che vengono poste più frequentemente riguardante l'utilizzo di _**OpenSTAManager**_ e per aiutare all'utilizzo della [_**Fatturazione Elettronica**_](fatturazione-elettronica/)_**.**_
 
 ### Struttura
 

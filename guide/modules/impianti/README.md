@@ -1,6 +1,8 @@
 # MyImpianti
 
-Il modulo **Impianti** permette all’azienda di gestire le informazioni riguardanti gli impianti dei clienti registrati su OpenSTAManager, integrando in particolare la relazione con il modulo **Attività** e i relativi elementi.
+{% hint style="info" %}
+Il modulo **Impianti** permette all’azienda di gestire le informazioni riguardanti gli impianti dei clienti registrati su OpenSTAManager, integrando in particolare la relazione con il modulo [**Attività**](../attivita/) e i relativi elementi.
+{% endhint %}
 
 ![Screenshot interfaccia myimpianti](../../../.gitbook/assets/interfacciacategorieimpianti.PNG)
 

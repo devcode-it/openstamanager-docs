@@ -14,7 +14,9 @@ Il modulo **Tipi di attività** presenta quindi la possibilità di inserire le i
 
 **ATTENZIONE**
 
+{% hint style="warning" %}
 **Tempo standard** accetta valori compresi tra 0,25 e 25 ore, esempi:
+{% endhint %}
 
 * 60 minuti= 1 ora
 * 30 minuti= 0,5 ore

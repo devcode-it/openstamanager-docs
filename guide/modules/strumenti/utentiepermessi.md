@@ -1,6 +1,8 @@
 # Utenti e permessi
 
+{% hint style="info" %}
 Il modulo **Utenti e permessi** permette di assegnare determinati utenti ad un gruppo,concedendoli dei privilegi.
+{% endhint %}
 
 ![Screenshot interfaccia utenti e permessi ](../../../.gitbook/assets/utentiepermessi.PNG)
 

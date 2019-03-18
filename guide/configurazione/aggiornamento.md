@@ -43,9 +43,11 @@ In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consu
 
 ## Aggiornamento in corso
 
+{% hint style="info" %}
 Mentre l'aggiornamento è in esecuzione, il gestionale rimarrà bloccato per tutti gli utenti ad eccezione di quello responsabile dell'inizio della procedura di aggiornamento.
 
 Nel caso la procedura rimanga persistente per un periodo molto prolungato di tempo, è possibile che si sia verificato un errore non rilevato dall'utente durante l'aggiornamento. In questo caso si consiglia di consultare la sezione di [Ripresa forzata](aggiornamento.md#ripresa-forzata) oppure di contattare gli sviluppatori ufficiali.
+{% endhint %}
 
 ## Ripresa forzata
 
@@ -53,5 +55,7 @@ In alcuni casi particolari, può essere necessario riprendere forzatamente l'ese
 
 Questo viene reso possibile visitando l'URL a cui è possibile accedere a OpenSTAManager con l'aggiunta del testo `?force`.
 
+{% hint style="warning" %}
 **Attenzione**: quest'azione è sconsigliata a utenti non esperti.
+{% endhint %}
 

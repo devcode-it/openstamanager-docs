@@ -1,6 +1,8 @@
 # Preventivi
 
+{% hint style="info" %}
 Il modulo **Preventivi** permette di gestire le informazioni relative ai preventivi dell'azienda.
+{% endhint %}
 
 ![Screenshot interfaccia preventivi](../../../../.gitbook/assets/module%20%281%29.png)
 

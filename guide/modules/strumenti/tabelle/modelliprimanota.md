@@ -4,7 +4,9 @@ title: Modelli prima nota
 
 # Modelli prima nota
 
+{% hint style="info" %}
 Il modulo **Modelli prima nota** permette di aggiungere nuovi _Modelli prima nota_ al relativo campo nella creazione di una **Prima nota**:
+{% endhint %}
 
 ![Screenshot interfaccia modelli prima nota](../../../../.gitbook/assets/modelliprimanota.PNG)
 

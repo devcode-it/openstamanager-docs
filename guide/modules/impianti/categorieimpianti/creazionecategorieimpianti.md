@@ -8,7 +8,9 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 ![Screenshot creazione categorie impianti](../../../../.gitbook/assets/aggiuntacategorieimpianti.PNG)
 
+{% hint style="info" %}
 Il modulo **Categorie impianti** ha quindi la possibilità di creare una _categoria_ che permette di raggruppare determinati _impianti_.
+{% endhint %}
 
 ![Screenshot creazione categorie impianti](../../../../.gitbook/assets/campicategorieimpianti.PNG)
 

@@ -1,6 +1,8 @@
 # Dashboard
 
+{% hint style="info" %}
 **Dashboard** è il primo modulo presente in OpenSTAManager, grazie al calendario, offre una visione generale degli interventi e attraverso l'applicazione dei filtri è possibile ridurre il campo di ricerca per uno sguardo più approfondito su determinate operazioni. 
+{% endhint %}
 
 ![Opzioni di filtraggio](../../../.gitbook/assets/filtridashboard.PNG)
 
@@ -50,9 +52,11 @@ Cliccando su un intervento nel calendario è possibile accedere alla schermata d
 
 Se un _widget_ è stato rimosso è possibile aggiungerlo tramite il modulo **Strumenti**, cliccando il modulo **Aggiornamenti** selezionando l'ingranaggio del _widget_ che si desidera aggiungere.
 
-Dal modulo **Strumenti** è anche possibile disattivare un _widget_ attivo, selezionando l'ingranaggio del _widget_ che si desidera aggiungere.
+Dal modulo **Strumenti** è anche possibile disattivare un _widget_ attivo, selezionando l'ingranaggio del _widget_ che si desidera disattivare.
 
+{% hint style="info" %}
 Per maggiori approfondimenti andare sul modulo [Aggiornamenti](../strumenti/aggiornamenti.md).
+{% endhint %}
 
 ![Aggiungere o rimuovere Widget](../../../.gitbook/assets/aggiungerewidget.PNG)
 

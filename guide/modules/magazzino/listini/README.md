@@ -4,7 +4,9 @@ title: Listini
 
 # Listini
 
+{% hint style="info" %}
 Il modulo **Listini** permette di creare dei gruppi con un determinato sconto, associabili a dei clienti.
+{% endhint %}
 
 ![Screenshot interfaccia listini](../../../../.gitbook/assets/schermatalistini.PNG)
 

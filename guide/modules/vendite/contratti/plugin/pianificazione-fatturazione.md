@@ -2,7 +2,9 @@
 
 ## **Pianificazione fatturazione**
 
+{% hint style="info" %}
 Il plugin **Pianificazione fatturazione** è una componente del modulo **Contratti** dedicata alla completa gestione della pianificazione delle fatture relative ai contratti registrati all'interno di OpenSTAManager.
+{% endhint %}
 
 ## Caratteristiche
 

@@ -4,7 +4,9 @@ title: Causali
 
 # Causali
 
+{% hint style="info" %}
 Il modulo **Causali** permette di aggiungere nuove _causali_ al campo _**Causale trasporto**_ nella creazione di un **Ddt**:
+{% endhint %}
 
 ![Screenshot interfaccia causali](../../../../.gitbook/assets/screencausali.PNG)
 

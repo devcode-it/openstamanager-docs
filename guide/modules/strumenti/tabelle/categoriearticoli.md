@@ -4,7 +4,9 @@ title: Categorie articoli
 
 # Categorie articoli
 
+{% hint style="info" %}
 Il modulo **Categorie articoli** permette di aggiungere nuove _Categorie articoli_ al campo _**Categorie articoli**_ nella creazione di un **Articolo**:
+{% endhint %}
 
 ![Screenshot interfaccia categorie articoli](../../../../.gitbook/assets/categoriearticoli.PNG)
 

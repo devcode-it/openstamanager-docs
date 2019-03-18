@@ -4,9 +4,11 @@ title: Template email
 
 # Template email
 
+{% hint style="info" %}
 Il modulo **Template email** permette all’azienda di gestire le informazioni di base riguardanti i contenuti e le caratteristiche delle email che OpenSTAManager può eventualmente procedere a inviare.
 
 Questo modulo è complementare a [**Account email**](account.md), che si occupa di gestire le informazioni degli account email utilizzati per l'invio delle email.
+{% endhint %}
 
 ## Navigazione
 

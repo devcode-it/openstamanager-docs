@@ -4,7 +4,9 @@ title: Account Gmail
 
 # Gmail
 
+{% hint style="info" %}
 Per configurare correttamente un account email Gmail all'interno di OpenSTAManager è necessario completare nel seguente modo le informazioni dell'elemento del modulo [**Account email**](account.md):
+{% endhint %}
 
 * _Server SMTP_: `smtp.gmail.com`
 * _Username SMTP_: indirizzo email \(example@gmail.com, oppure example@domain.com\)

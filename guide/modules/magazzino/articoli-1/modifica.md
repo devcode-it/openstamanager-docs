@@ -8,7 +8,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 ## Caratteristiche
 
-Una volta all'interno di questa parte del sistema, il modulo **Articolo** permette di completare _tutte_ le informazioni che il gestionale supporta per gli articolo. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti:
+Una volta all'interno di questa parte del sistema, il modulo **Articolo** permette di completare _tutte_ le informazioni che il gestionale supporta per l' articolo. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti:
 
 * [Dati dell'articolo](modifica.md#dati-dellarticolo)
 * [Dati di acquisto e vendita](modifica.md#dati-di-acquisto-e-vendita)
@@ -34,9 +34,9 @@ In particolare, attraverso questa sezione è possibile procedere alla modifica d
 
 Vengono rese inoltre disponibili alcune altre opzioni estremamente importanti per la gestione interna dell'articolo:
 
-* _Abilita serial number_ permette l'abilitazione della gestione dei numeri seriali per l'articolo
-* _Seleziona per rendere attivo l'articolo_ permette, se disabilitato, di impedire l'utilizzo dell'articolo
-* _Modifica quantità manualmente_ permette la creazione di un movimento manuale
+* _**Abilita serial number**_ ****permette l'abilitazione della gestione dei numeri seriali per l'articolo
+* _**Seleziona per rendere attivo l'articolo**_ permette, se disabilitato, di impedire l'utilizzo dell'articolo
+* _**Modifica quantità manualmente**_ permette la creazione di un movimento manuale
 
 ### Dati di acquisto e vendita
 
@@ -72,5 +72,7 @@ L'ultimo raggruppamento di informazioni presenta la previsione di rincaro/sconto
 
 ## Particolarità
 
+{% hint style="info" %}
 L'immagine dell'articolo viene considerata a tutti gli effetti come un upload tradizionale.
+{% endhint %}
 

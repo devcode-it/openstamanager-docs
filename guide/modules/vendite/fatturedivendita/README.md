@@ -4,7 +4,9 @@ title: Fatture Di Vendita
 
 # Fatture di vendita
 
+{% hint style="info" %}
 Il modulo **Fatture di vendita** permette all'utente di creare una fattura di vendita con la possibilità di verificare tramite _widget_, posti in alto, il _**Fatturato**_ ed eventuali _**Crediti da clienti**_, entrambi con IVA inclusa.
+{% endhint %}
 
 ![Screenshot interfaccia fatture di vendita](../../../../.gitbook/assets/screenfatturedivendita.PNG)
 

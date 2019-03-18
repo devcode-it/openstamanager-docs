@@ -4,7 +4,9 @@ title: Aspetto beni
 
 # Aspetto beni
 
+{% hint style="info" %}
 Il modulo **Aspetto beni** permette di aggiungere nuovi _aspetti_ al campo _**Aspetto beni**_ nella creazione di un **Ddt**.
+{% endhint %}
 
 ![Screenshot interfaccia aspetto beni](../../../../.gitbook/assets/aspettobeni.PNG)
 

@@ -4,7 +4,9 @@ title: Ritenute contributi
 
 # Ritenute contributi
 
+{% hint style="info" %}
 Il modulo **Ritenute contributi** permette di aggiungere nuove _Ritenute_ al campo _**Ritenute contributi**_.
+{% endhint %}
 
 ![Screenshot interfaccia ritenute contributi](../../../../.gitbook/assets/ritenutecontributi.PNG)
 

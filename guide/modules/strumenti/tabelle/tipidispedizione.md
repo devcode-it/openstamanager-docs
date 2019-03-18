@@ -4,7 +4,9 @@ title: Tipi di spedizione
 
 # Tipi di spedizione
 
+{% hint style="info" %}
 Il modulo **Tipi di spedizione** __permette di aggiungere nuovi __**Tipi di spedizione** __al relativo campo richiesto nei diversi moduli.
+{% endhint %}
 
 ![Screenshot interfaccia tipi di spedizione](../../../../.gitbook/assets/tipidispedizione.PNG)
 

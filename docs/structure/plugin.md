@@ -6,7 +6,9 @@ sidebar:
 
 # Plugin
 
+{% hint style="warning" %}
 Pagina in costruzione.
+{% endhint %}
 
 ## Installazione
 
@@ -22,7 +24,7 @@ modulo.zip
 
 Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) \(download effettuabile da [qui](http://openstamanager.com/download/plugin_di_esempio.zip)\).
 
-#### update
+#### UPDATE
 
 Contrariamente ai moduli, i plugin non supportano la modifica del database in fase di installazione e aggiornamento.
 

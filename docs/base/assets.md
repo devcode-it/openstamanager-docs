@@ -22,11 +22,13 @@ Gli assets personalizzati del progetto sono al contrario contenuti all'interno d
 
 ## Personalizzazione
 
-L'introduzione di una gestione automatizzata rende, di fatto, maggiromente semplificata la gestione delle dipendeze grafiche del progetto, portando però al tempo stesso alla necessità di utilizzare una specifica procedura per aggiornare e personalizzare gli assets. Si ricorda che è altamente sconsigliato modificare i contenuti delle cartelle `node_modules` o `assets/dist` in modo manuale, poiché tali modifiche andrebbero perse a seguito di ogni aggiornamento.
+{% hint style="info" %}
+L'introduzione di una gestione automatizzata rende, di fatto, maggiormente semplificata la gestione delle dipendenze grafiche del progetto, portando però al tempo stesso alla necessità di utilizzare una specifica procedura per aggiornare e personalizzare gli assets. Si ricorda che è altamente sconsigliato modificare i contenuti delle cartelle `node_modules` o `assets/dist` in modo manuale, poiché tali modifiche andrebbero perse a seguito di ogni aggiornamento.
+{% endhint %}
 
 ### Tema grafico
 
-La personalizzazione dello stile del gestionale può essere effettuata a partire dal foglio di stile `assets/src/css/themes/default.css`, contentente le principali impoistazioni grafiche del progetto. L'aggiunta di un nuovo tema richieda la creazione di un file indipendente nella stessa cartella, rinominando la classe CSS generica con il nome della skin inserita \(da `.skin-default` a `.skin-nome`\).
+La personalizzazione dello stile del gestionale può essere effettuata a partire dal foglio di stile `assets/src/css/themes/default.css`, contenente le principali impostazioni grafiche del progetto. L'aggiunta di un nuovo tema richieda la creazione di un file indipendente nella stessa cartella, rinominando la classe CSS generica con il nome della skin inserita \(da `.skin-default` a `.skin-nome`\).
 
 Una volta eseguita la task automatica di compilazione, il nuovo file varrà aggiunto in `themes.min.css` di `assets/css`.
 
@@ -34,7 +36,7 @@ Per modificare lo stile utilizzato dal gestionale, vedere la variabile `$theme` 
 
 ### Aggiornamento e installazione pacchetti
 
-Nel caso si rivelasse necessario installare o aggiornare i pacchetti predisposti dal gestionale, è necessario procedere all'esecuzione dei comdani caratteristici di Yarn e successivamente eseguire una compliazione degli assets.
+Nel caso si rivelasse necessario installare o aggiornare i pacchetti predisposti dal gestionale, è necessario procedere all'esecuzione dei comandi caratteristici di Yarn e successivamente eseguire una compliazione degli assets.
 
 L'installazione di nuovi pacchetti viene eseguita attraverso il seguente comando:
 
@@ -58,7 +60,9 @@ Per compilare gli assets, sia quelli gestiti da Yarn che quelli personalizzati, 
 yarn run build-OSM
 ```
 
-**Attenzione**: la compilazione è fondamentale a seguito di ogni modifica degli assets, poiché altrimenti i file utilizzati dal progetto non saranno aggiornati. {: .notice--danger}
+{% hint style="warning" %}
+**Attenzione**: la compilazione è fondamentale a seguito di ogni modifica degli assets, poiché altrimenti i file utilizzati dal progetto non saranno aggiornati.
+{% endhint %}
 
 ## Assets predefiniti
 

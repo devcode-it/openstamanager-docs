@@ -24,7 +24,7 @@ Una volta ricevuto il file .zip è necessario caricare il file nel gestionale se
 
 ![](../../.gitbook/assets/passaggio4-1.png)
 
-5. Successivamente apparirà una schermata che chiederà di aggiornare il database. Cliccare su                                       **Aggiorna.**
+5. Apparirà una schermata che chiederà di aggiornare il database. Cliccare su                                       **Aggiorna.**
 
 6. Ora il modulo è attivo,visualizzabile a sinistra sotto il modulo **Strumenti**.
 

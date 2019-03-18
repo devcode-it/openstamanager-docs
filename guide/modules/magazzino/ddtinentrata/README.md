@@ -4,7 +4,9 @@ title: Ddt in entrata
 
 # Ddt in entrata
 
+{% hint style="info" %}
 Il modulo **Ddt in Entrata** permette di creare una bolla quando viene consegnato del materiale.
+{% endhint %}
 
 ![Screenshot interfaccia ddt in entrata](../../../../.gitbook/assets/interfacciaddtinentrata.PNG)
 

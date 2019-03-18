@@ -4,7 +4,13 @@ title: Plugin Ddt del cliente
 
 # Ddt del cliente
 
-Il plugin **Ddt del cliente** è una componente del modulo **Anagrafiche** dedicata alla completa visualizzazione dei Ddt del cliente\(I ddt senza righe non saranno visualizzati\).
+{% hint style="info" %}
+Il plugin **Ddt del cliente** è una componente del modulo **Anagrafiche** dedicata alla completa visualizzazione dei Ddt del cliente.
+{% endhint %}
+
+{% hint style="warning" %}
+**Attenzione:** i ddt senza righe non saranno visualizzati.
+{% endhint %}
 
 ### Navigazione
 

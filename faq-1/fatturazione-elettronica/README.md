@@ -2,7 +2,9 @@
 
 ## Introduzione 
 
+{% hint style="info" %}
 La fatturazione elettronica è un sistema **digitale** di **emissione**, **trasmissione** e **conservazione** delle fatture. Questo significa che non servirà più stampare e conservare la versione cartacea delle fatture, ma basterà generare un file XML con determinate caratteristiche, e dovrà essere inviato al **Sistema Di Interscambio** \(SDI\), un sistema di smistamento e archiviazione fatture elettroniche gestito dall’**Agenzia Entrate**.
+{% endhint %}
 
 Dal 1° gennaio 2019, la fattura elettronica è obbligatoria fra privati, ossia fra aziende titolari di partita IVA, ad eccezione di alcune categorie particolari di contribuenti.
 
@@ -22,7 +24,9 @@ Dopo l'invio della fattura, cambierà lo stato in **elaborazione** nella vista p
 
 ![](../../.gitbook/assets/statoinelaborazione.PNG)
 
+{% hint style="warning" %}
 Le ricevute di consegna delle **Fatture elettroniche** non sono immediate, serve verificare che la fattura sia stata ricevuta correttamente cercando le ricevute dopo qualche, o il giorno successivo dell'invio. Per cercare le ricevute e aggiornare gli stati delle **Fatture di vendita**, dalla lista delle fatture di vendita, si deve cliccare in alto a destra sul plugin **Ricevute** **FE**  e premere **Ricerca.**
+{% endhint %}
 
 ![Cliccare su Ricevute FE](../../.gitbook/assets/ricevutefe.PNG)
 
@@ -43,7 +47,9 @@ Gli stati possono essere:
 
 ### Fatture passive
 
-Per scaricare le fatture passive dai fornitori, è necessario aprire il modulo **Acquisti,**andare su **Fatture di acquisto** e cliccare in alto a destra su **Fatturazione elettronica**. Nella sezione **Fatture da importare** sarà presente una lista di file XML con un tasto **importa** a fianco, il quale permette di importare le **Fatture passive** con un passaggio intermedio. E' possibile visualizzare un'anteprima delle fatture passive cliccando sul tasto di **Visualizza**
+{% hint style="info" %}
+Per scaricare le fatture passive dai fornitori, è necessario aprire il modulo [**Acquisti**](../../guide/modules/acquisti/)**,**andare su **Fatture di acquisto** e cliccare in alto a destra su **Fatturazione elettronica**. Nella sezione **Fatture da importare** sarà presente una lista di file XML con un tasto **importa** a fianco, il quale permette di importare le **Fatture passive** con un passaggio intermedio. E' possibile visualizzare un'anteprima delle fatture passive cliccando sul tasto di **Visualizza**
+{% endhint %}
 
 ![](../../.gitbook/assets/fatturapassiva.PNG)
 

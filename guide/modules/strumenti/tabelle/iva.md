@@ -4,7 +4,9 @@ title: IVA
 
 # IVA
 
+{% hint style="info" %}
 Il modulo **IVA** consente di aggiungere una tipologia di IVA selezionabile nel rispettivo _campo_ nei vari moduli.
+{% endhint %}
 
 ![Screenshot interfaccia IVA](../../../../.gitbook/assets/schermataiva.PNG)
 

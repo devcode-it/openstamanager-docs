@@ -4,7 +4,9 @@ title: Banche
 
 # Banche
 
+{% hint style="info" %}
 Il modulo **Banche** __permette di aggiungere nuove _Banche_ selezionabili nel relativo campo dei diversi moduli.
+{% endhint %}
 
 ![Screenshot interfaccia banche](../../../../.gitbook/assets/banche.PNG)
 

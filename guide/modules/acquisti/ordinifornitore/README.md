@@ -4,7 +4,9 @@ title: Ordini fornitore
 
 # Ordini fornitore
 
+{% hint style="info" %}
 Il modulo **Ordini fornitore** permette all'utente di creare un documento che permette di richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
+{% endhint %}
 
 ![Screenshot interfaccia ordini fornitore](../../../../.gitbook/assets/schermataordinifornitore.PNG)
 

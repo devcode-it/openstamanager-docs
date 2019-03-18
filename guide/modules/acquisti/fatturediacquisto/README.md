@@ -4,7 +4,9 @@ title: Fatture di acquisto
 
 # Fatture di acquisto
 
+{% hint style="info" %}
 Il modulo **Fatture di acquisto** permette all'utente di creare una fattura di acquisto con la possibilità di verificare tramite _widget_, posti in alto,gli _**acquisti**_ ed eventuali _**debiti verso fornitori**_,entrambi con IVA inclusa.
+{% endhint %}
 
 ## Navigazione
 

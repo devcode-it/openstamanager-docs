@@ -4,7 +4,9 @@ title: Pagamenti
 
 # Pagamenti
 
-Il modulo **Pagamenti** permette di aggiungere nuovi tipi di _pagamento_ selezionabile nel rispettivo campo dei diversi moduli
+{% hint style="info" %}
+Il modulo **Pagamenti** permette di aggiungere nuovi tipi di _pagamento_ selezionabile nel rispettivo campo dei diversi moduli.
+{% endhint %}
 
 ![Screenshot interfaccia pagamenti ](../../../../.gitbook/assets/pagamenti.PNG)
 

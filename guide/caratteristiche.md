@@ -4,7 +4,9 @@ title: Caratteristiche
 
 # Caratteristiche
 
+{% hint style="info" %}
 OpenSTAManager presenta un'interfaccia generale piuttosto chiara, basata su strutture comuni e solitamente di semplice utilizzo.
+{% endhint %}
 
 ## Navigazione
 
@@ -42,7 +44,9 @@ Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di 
 
 ## Opzioni di controllo
 
+{% hint style="info" %}
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
+{% endhint %}
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
@@ -56,9 +60,11 @@ Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
 ## Modulo
 
+{% hint style="info" %}
 I moduli sono la componente principale della struttura di OpenSTAManager. Sono progettati per avere una struttura facilmente personalizzabile e mantenere comportamenti indipendenti dal resto del software.
 
 Ogni modulo si occupa in genere di un singolo argomento, che può essere rappresentato e considerato in vari modi. La navigazione è permessa attraverso il [menu laterale](caratteristiche.md#navigazione).
+{% endhint %}
 
 ![](../.gitbook/assets/controller.png)
 
@@ -100,9 +106,11 @@ Di seguito è possibile osservare una generica schermata che permette la suddett
 
 ## Widget
 
-Ogni modulo può presentare delle strutture denominate _widget_, che si presentano secondo una grafica comune ma possono eseguire una singola azione a seguito del click al di sopra di esse. In generale, queste componenti sono presenti nella parte alta o bassa della pagina \(in base alla configurazione\).
+{% hint style="info" %}
+Ogni modulo può presentare delle strutture denominate _**widget**_, che si presentano secondo una grafica comune ma possono eseguire una singola azione a seguito del click al di sopra di esse. In generale, queste componenti sono presenti nella parte alta o bassa della pagina \(in base alla configurazione\).
 
-E' inoltre possibile che vi sia una differenza tra i widget all'interno della schermata principale del modulo e nella sezione di modifica del _record_.
+E' inoltre possibile che vi sia una differenza tra i _**widget**_ all'interno della schermata principale del modulo e nella sezione di modifica del _record_.
+{% endhint %}
 
 ![](../.gitbook/assets/widgets.png)
 

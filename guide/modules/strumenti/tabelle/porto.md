@@ -4,7 +4,9 @@ title: Porto
 
 # Porto
 
+{% hint style="info" %}
 Il modulo **Porto** permette di aggiungere nuovi tipi di _Porto_ al campo _**Porto**_ nella creazione di un **Ddt**:
+{% endhint %}
 
 ![Screenshot interfaccia porto](../../../../.gitbook/assets/screenporto.PNG)
 
@@ -32,5 +34,7 @@ Si presenterà quindi questa schermata:
 
 ![Screenshot modifica porto ](../../../../.gitbook/assets/modificaporto.PNG)
 
+{% hint style="info" %}
 Spuntando la casella _**Porto predefinito**_ il _porto_ sarà impostato _predefinito_ come _Porto_ predefinito per i _Ddt_.
+{% endhint %}
 

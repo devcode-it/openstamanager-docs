@@ -1,6 +1,8 @@
 # Creazione
 
+{% hint style="info" %}
 Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le informazioni di base relative al nuovo impianto da creare. La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+{% endhint %}
 
 ![](../../.gitbook/assets/vendita2.png)
 
@@ -48,7 +50,7 @@ Suddivisa in due campi:
 
 Un articolo può essere aggiunto in due differenti maniere:
 
-1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggierà di rosso.
+1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggerà di rosso.
 2. Andando a selezionare su **Articolo** l'articolo interessato.
 
 ### Particolarità 

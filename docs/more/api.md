@@ -10,7 +10,9 @@ sidebar:
 >
 > [Wikipedia](https://it.wikipedia.org/wiki/Application_programming_interface)
 
+{% hint style="info" %}
 L'API del progetto è attualmente ancora in sviluppo, e pertanto le funzioni disponibili potrebbero essere piuttosto ridotte. Di seguito sono elencate le basi per connettersi al sistema e ottenere i dati a cui si è interessati.
+{% endhint %}
 
 ## Requisiti aggiuntivi
 
@@ -22,7 +24,9 @@ Se queste requisito non viene soddisfatto, l'installazione del gestionale proced
 
 Nel caso, a seguito dell'installazione di OpenSTAManager, venisse aggiornato il servizio MySQL per permettere il funzionamento dell'API, sarà necessaro causare l'esecuzione della procedura di aggiornamento del gestionale, che organizzarà correttamente il database per la compatibilità con l'API.
 
+{% hint style="warning" %}
 **Attenzione**: il solo aggiornamento del servizio MySQL senza il successivo aggiornamento del gestionale potrebbe causare malfunzionamenti di vario genere nell'utilizzo dell'API. 
+{% endhint %}
 
 ## Standard di comunicazione
 

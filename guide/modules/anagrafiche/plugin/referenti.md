@@ -4,7 +4,9 @@ title: Plugin Referenti
 
 # Referenti
 
+{% hint style="info" %}
 Il plugin **Referenti** è una componente del modulo **Anagrafiche** dedicata alla completa gestione degli eventuali referenti relativi alle anagrafiche registrate all'interno di OpenSTAManager.
+{% endhint %}
 
 Può essere sfruttato per creare una rubrica di contatti per l'anagrafica e indicare una specifica persona rilevante per eventuali **Attività**, **Contratti** e **Preventivi**.
 

@@ -30,7 +30,9 @@ Per procedere all'installazione è necessario seguire i seguenti punti:
 5. Inserire i dati di configurazione per collegarsi al database.
 6. Procedere all'installazione del software, cliccando sul pulsante **Installa**.
 
-**Attenzione**: è possibile che l'installazione richieda del tempo. Si consiglia pertanto di attendere almeno qualche minuto senza alcun cambiamento nella pagina di installazione \(in particolare, della progress bar presente\) prima di cercare una possibile soluzione nelle discussioni del forum o nella sezione dedicata. {: .notice--danger}
+{% hint style="warning" %}
+**Attenzione**: è possibile che l'installazione richieda del tempo. Si consiglia pertanto di attendere almeno qualche minuto senza alcun cambiamento nella pagina di installazione \(in particolare, della progress bar presente\) prima di cercare una possibile soluzione nelle discussioni del forum o nella sezione dedicata.
+{% endhint %}
 
 ### Versioni
 
@@ -55,7 +57,9 @@ In alternativa alla sequenza di comandi precedente, è possibile utilizzare il s
 yarn run develop-OSM
 ```
 
+{% hint style="info" %}
 Per ulteriori informazioni, visitare le sezioni [Assets](../base/assets.md) e [Framework](../base/framework.md) della documentazione.
+{% endhint %}
 
 ## Strumenti utili
 
@@ -92,13 +96,15 @@ sudo apt-get install phpmyadmin
 
 La piattaforma Apple non è stata oggetto di molti test: pertanto si consiglia di individuare in prima persona un server web funzionante e con caratteristiche corrispondenti ai requisiti indicati.
 
-Il gestionale è stato testato con successo su Mac OS X con [MAMP](http://www.mamp.info/en/) e XAMPP.
+Il gestionale è stato testato con successo su Mac OS X con [MAMP](http://www.mamp.info/en/) e [XAMPP](https://www.apachefriends.org/it/index.html).
 
 ## Problemi comuni
 
 ### Schermata bianca
 
+{% hint style="warning" %}
 **Attenzione**: a partire dalla versione 2.3 questo problema non è più presente. 
+{% endhint %}
 
 Nel caso si verifichi il problema di schermata bianca iniziale è necessario controllare i valori delle variabili `$rootdir` e `$docroot` nelle prime righe di _core.php_. Una possibile soluzione, implementata dalla versione 2.3, potrebbe essere:
 
@@ -121,7 +127,9 @@ Si ricorda comunque che:
 
 ### Blocco dell'installazione \(0%\)
 
+{% hint style="warning" %}
 **Attenzione**: a partire dalla versione 2.3 questo problema non è più presente. 
+{% endhint %}
 
 Nel caso l'installazione iniziale del database si blocchi allo 0% è necessario effettuare la seguente modifica nelle righe 15, 16 e 17 del file `lib\dbo.class.php` \([https://www.openstamanager.com/forum/viewtopic.php?f=4&t=88353\#p93976](https://www.openstamanager.com/forum/viewtopic.php?f=4&t=88353#p93976)\):
 

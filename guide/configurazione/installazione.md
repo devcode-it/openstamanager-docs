@@ -62,7 +62,9 @@ Questa procedura può essere suddivisa in tre sezioni differenti:
 
 ## Requisiti
 
+{% hint style="info" %}
 Il software permette in automatico di controllare se l'ambiente di utilizzo presenta una configurazione adeguata per il suo corretto funzionamento.
+{% endhint %}
 
 In particolare, viene richiesta la presenza di un _web server_ [Apache](https://httpd.apache.org/) con il linguaggio di programmazione [PHP](http://php.net) e il [DBMS MySQL](https://www.mysql.com), richiedendo le seguenti versioni minime:
 

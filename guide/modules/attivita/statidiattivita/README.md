@@ -4,7 +4,9 @@ title: Stati di attività
 
 # Stati di attività
 
+{% hint style="info" %}
 Il modulo **Stati di attività** offre di base 4 stati, assegnabili ad un tecnico,quali:
+{% endhint %}
 
 * CALL\(Chiamata\)
 * FAT\(Fatturato\)

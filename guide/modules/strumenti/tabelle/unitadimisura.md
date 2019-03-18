@@ -4,7 +4,9 @@ title: Unità di misura
 
 # Unità di misura
 
+{% hint style="info" %}
 Il modulo **Unità di misura** permette di aggiungere nuove _Unità di misura_ nel rispettivo campo nella creazione di un **Articolo**:
+{% endhint %}
 
 ![Screenshot interfaccia unit&#xE0; di misura](../../../../.gitbook/assets/unitadimisura.PNG)
 

@@ -14,7 +14,7 @@ All'interno del progetto, i moduli vengono genericamente definiti quali sistemi 
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
-* Nucleo;
+* [Nucleo](../more/nucleo.md);
 * [Stampe](stampe.md);
 * [Widget](widget.md);
 * [Plugin](plugin.md).
@@ -42,7 +42,9 @@ Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percors
 
 Il gestionale supporta in modo nativo questa struttura, che può essere ampliata e personalizzata secondo le proprie necessità: si consiglia pertanto di analizzare i moduli **Iva**, **Dashboard** e **Contratti** per esempi di diversa complessità.
 
+{% hint style="warning" %}
 **Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database \(per sempio, **Movimenti**\), si veda la sezione [Database](moduli.md#database).
+{% endhint %}
 
 ### actions.php
 
@@ -169,7 +171,9 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 
 Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` \(per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)\).
 
-**Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager. {: .notice--danger}
+{% hint style="warning" %}
+**Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
+{% endhint %}
 
 ### Archivio ZIP
 
