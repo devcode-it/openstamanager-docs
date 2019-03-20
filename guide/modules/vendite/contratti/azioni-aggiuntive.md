@@ -15,7 +15,7 @@ Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in
 ### Rinnova
 
 {% hint style="info" %}
-La funzionalità _Rinnova_ viene resa disponibile se il campo _Rinnovabile_ del contratto viene selezionato. In questo caso, una volta definite le date di accettazione e conclusione \(_Data accettazione_ e _Data conclusione_\), sarà possibile sfruttare questa opzione per copiare il contratto con le rispettive date traslate di conseguenza a partire dal giorno successivo alla _Data conclusione_.
+La funzionalità _Rinnova_ viene resa disponibile se il campo _Rinnovabile_ del contratto viene selezionato. In questo caso, una volta definite le date di accettazione e conclusione \(_**Data accettazione**_ e _**Data conclusione**_\), sarà possibile sfruttare questa opzione per copiare il contratto con le rispettive date traslate di conseguenza a partire dal giorno successivo alla _Data conclusione_.
 {% endhint %}
 
 ![](../../../../.gitbook/assets/rinnova.PNG)

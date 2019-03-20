@@ -34,7 +34,7 @@ Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzari
 
 #### 2. Da record
 
-Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto ha pagato il cliente e successivamente cliccare su ![](../.gitbook/assets/salva.png) . Esempio:
+Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva.png) . Esempio:
 
 ![](../.gitbook/assets/metodo2.png)
 
@@ -48,7 +48,7 @@ Cliccando su ![](../.gitbook/assets/+aggiungi.png) andrò ad aggiungere il movim
 
 ![](../.gitbook/assets/metodo3-1.png)
 
-Così facendo si toglie la fattura dallo **Scadenzario** ed è visibile il movimento in **Prima nota.**
+Così facendo la **fattura** non sarà presente nello **Scadenzario** e sarà visibile il movimento in **Prima nota.**
 
 ### Caratteristiche
 
@@ -57,8 +57,10 @@ Al momento nello **Scadenzario** sono presenti sia le **Fatture di acquisto** si
 Per tenere traccia dei pagamenti scaduti e da effettuare è necessario filtrare la ricerca andando ad inserire in **Data scadenza** mese e anno, nel seguente formato: mese/anno es. 02/2019. Cosi' facendo vedrò i pagamenti scaduti e da effettuare nel mese e anno selezionato. Il filtraggio può essere fatto anche solo digitando l'anno es: 2018.
 
 {% hint style="warning" %}
-I pagamenti scaduti e da effettuare che vanno oltre la **Data di scadenza** saranno visualizzati in **rosso** 
+I pagamenti scaduti e da effettuare che vanno oltre la **Data di scadenza** saranno visualizzati in **rosso.**
 {% endhint %}
+
+![](../.gitbook/assets/pagamentiscadutiodaeffettuare%20%281%29.png)
 
 ### Stampa
 

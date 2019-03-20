@@ -15,7 +15,7 @@ Per registrare un **contratto** di manutenzione su quei determinati impianti cre
 Lo screenshot soprastante appare quando si va a creare un contratto, importante, però, è fare attenzione ai campi segnati in rosso:
 
 * **Rinnovabile:** Spunto il campo se il contratto è rinnovabile.
-* **Preavviso per rinnovo:** In questo campo si indicano i giorni di preavviso per il rinnovo del contratto. Quindi, in base a quanti giorni prima ho indicato il **Preavviso per** **rinnovo** mi appariranno nel modulo **Dashboard** nel _widget_ **Contratti in scadenza** il numero di contratti che stanno per scadere. Per esempio se ho specificato il **Preavviso** di 90 giorni, il 90esimo giorno dalla data del rinnovo quel contratto mi apparirà nel widget **Contratti in scadenza.**
+* **Preavviso per rinnovo:** In questo campo si indicano i giorni di preavviso per il rinnovo del contratto. Quindi, in base a quanti giorni ho indicato il **Preavviso per** **rinnovo** mi appariranno nel modulo **Dashboard** nel _widget_ **Contratti in scadenza** il numero di contratti che stanno per scadere. Per esempio se ho specificato il **Preavviso** di 90 giorni, il 90esimo giorno dalla data del rinnovo quel contratto mi apparirà nel widget **Contratti in scadenza.**
 
 ![](../.gitbook/assets/contrattiinscadenza%20%281%29.png)
 
@@ -37,9 +37,9 @@ Sotto alla sezione **intestazione** è presente la sezione **Costi unitari** nel
 * Costo al km\(tecnico\)
 * Diritto di chiamata\(tecnico\)
 
-Se nel prezzo del **contratto** sono inclusi i costi specificati sopra è possible mettere tutti i campi a **0.**
+Se nel **contratto** sono inclusi i costi specificati sopra in **Costi unitari** è possible mettere tutti i campi a **0.**
 
-Se si vuole creare un proprio **Tipo attività** lo si può fare in [**Attività**](../guide/modules/attivita/) ****su [**Tipi di attività**](../guide/modules/attivita/tipidiattivita/)**.** In questo modo verrà visualizzato nella sezione **Costi unitari**.
+Se si vuole creare un proprio **Tipo attività** lo si può fare in [**Attività**](../guide/modules/attivita/) ****su [**Tipi di attività**](../guide/modules/attivita/tipidiattivita/)**.** In questo modo il **tipo di attività** verrà visualizzato nella sezione **Costi unitari**.
 
 ![](../.gitbook/assets/righe-annuali%20%281%29.png)
 
