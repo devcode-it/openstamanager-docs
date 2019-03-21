@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 **Vendita al banco** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo permette la vendita al banco di prodotti con o senza codice a barre.
+
+[Clicca qui](https://www.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto 
 {% endhint %}
 
 ### Installazione
@@ -24,7 +26,7 @@ Una volta ricevuto il file .zip è necessario caricare il file nel gestionale se
 
 ![](../../.gitbook/assets/passaggio4-1.png)
 
-5. Apparirà una schermata che chiederà di aggiornare il database. Cliccare su                                       **Aggiorna.**
+5. Apparirà una schermata che chiederà di aggiornare il database. Cliccare su                                               **Aggiorna.**
 
 6. Ora il modulo è attivo,visualizzabile a sinistra sotto il modulo **Strumenti**.
 

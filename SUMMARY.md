@@ -178,4 +178,8 @@
     * [Installazione](moduli-acquistabili/modulo-vendita-al-banco/installazione-1.md)
     * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
     * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
+  * [Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
+    * [Installazione](moduli-acquistabili/email-ticketing/installazione.md)
+    * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
+    * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)
 
