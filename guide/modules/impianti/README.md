@@ -10,7 +10,7 @@ Il modulo **Impianti** permette all’azienda di gestire le informazioni riguard
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **MyImpianti**.
 
-![Screenshot navigazione categorie impianti](../../../.gitbook/assets/posizionecategorieimpianti.PNG)
+![](../../../.gitbook/assets/navigazionemyimpinati.png)
 
 ### Caratteristiche
 
