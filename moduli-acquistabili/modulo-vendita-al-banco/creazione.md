@@ -46,7 +46,7 @@ Suddivisa in due campi:
 * Articolo
 * E una tabella, dove verranno visualizzate una serie di informazioni riferite all'articolo, come nell'esempio che segue:
 
-![](blob:https://docs.openstamanager.com/1f9f014b-2d0b-4ad7-a74a-8882ab5cac5a)
+![](../../.gitbook/assets/tabella.png)
 
 Un articolo può essere aggiunto in due differenti maniere:
 
