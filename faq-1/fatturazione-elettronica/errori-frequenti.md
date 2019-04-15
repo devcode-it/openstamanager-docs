@@ -19,13 +19,6 @@ Di seguito sono riportati dei caratteri che spesso vengono utilizzati ma che non
 Altre cause di **scarto** sono:
 
 * Assenza di **dati obbligatori** nel documento
-* Il file contiene aliquota a zero quindi in esenzione, ma non è stata specificata la Natura tra le seguenti:
-  * **N1** escluse ex art.15
-  * **N2** non soggette 
-  * **N3** non imponibili
-  * **N4** esenti
-  * **N5** regime del margine
-  * **N6** inversione contabile\(reverse charge\)
 * Duplicazione di fattura\(stesso numero, stesso cedente/prestatore e anno\).
 * il file contiene una data antecedente ad un documento già inviato ad esso collegato \(Esempio: si sta inviando una fattura del 01/03/2019 a cui è collegata una fattura di acconto o nota di credito del 10/03/2019\).
 * Indicazione del **codice destinatario** in lettere minuscole. Il sistema lo riconosce solo quando è composto da lettere **MAIUSCOLE** e/o numeri in cifra.
