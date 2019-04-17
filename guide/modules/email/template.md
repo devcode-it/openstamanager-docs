@@ -65,3 +65,7 @@ La sostituzione di queste componenti dipende dai contenuti del _record_ da cui v
 
 Sono presenti dei template predefiniti per diversi moduli, personalizzabili a piacimento.
 
+{% hint style="info" %}
+Inserendo un'indirizzo email nel campo "**CC**" di un relativo **Template** ogni email verrà inviata anche all'indirizzo email inserito in "**CC"** oltre al destinatario principale dell'email. Questo, per esempio, può essere utile se voglio inviare un'email ad un **Cliente** e al commercialista.
+{% endhint %}
+
