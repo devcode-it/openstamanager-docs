@@ -57,11 +57,11 @@ Per completare l'importazione, gli unici dati obbligatori sono quelli contrasseg
 
 * Tipo fattura
 * Pagamento 
-* Dati contabili\( IVA e conto\). Il conto è soggettivo. Nel dubbio, scegliere **spese varie** se non si sta tenendo la contabilità interna .
+* Dati contabili\( IVA e conto\). Il conto è soggettivo. Nel dubbio, scegliere **spese varie** se non si sta tenendo la contabilità interna.
 
+### Particolarità
 
-
-\*\*\*\*
-
-
+{% hint style="warning" %}
+**ATTENZIONE:** Quando emetto una **Fattura** per le **PA** devo verificare di aver inserito il **codice fiscale** nella rispettiva **Anagrafica,** altrimenti, all'invio della fattura,comparirà il seguente errore: **00305-1.4.1.1.2 IdCodice non valido**. 
+{% endhint %}
 
