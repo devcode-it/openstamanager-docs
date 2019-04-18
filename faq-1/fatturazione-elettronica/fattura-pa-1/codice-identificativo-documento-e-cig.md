@@ -4,13 +4,13 @@
 Quando si vuole emettere una fattura verso le PA è necessario riportare il **CIG** e il **Codice identificativo documento**. Come inserire questi due parametri in **OpenSTAManager**?
 {% endhint %}
 
-Il primo passo è quello di specificare nella creazione di un'anagrafica **Cliente** la tipologia **Ente pubblico**:
+Il primo passo è quello di specificare nella creazione di un'anagrafica la tipologia **Ente pubblico** o **Azienda**:
 
-![](../../../.gitbook/assets/anagraficapercig%20%281%29.png)
+![](../../../.gitbook/assets/anagraficapercig.png)
 
-Se l'anagrafica è già stata creata basta modificarla e selezionare tipologia **Ente pubblico:**
+Se l'anagrafica è già stata creata basta modificarla e selezionare tipologia **Ente pubblico** o **Azienda:**
 
-![](../../../.gitbook/assets/modifcaclienteenepubblico.png)
+![](../../../.gitbook/assets/modifcaclienteenepubblico%20%281%29.png)
 
 Ora, nella creazione di un **Contratto**, è possibile compilare i campi necessari per l'emissione di una Fattura verso le PA:
 
