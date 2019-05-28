@@ -8,12 +8,14 @@ title: Plugin Statistiche
 Il plugin **Statistiche** è una componente del modulo **Anagrafiche** dedicata al riepilogo.
 {% endhint %}
 
-![Screenshot plugin statistiche](../../../../.gitbook/assets/pluginstatistiche.PNG)
+![](../../../../.gitbook/assets/statistiche249.png)
 
-Il plugin presenta 4 sezioni che portano ai rispettivi moduli, quali:
+Il plugin presenta 6 sezioni che, se contenenti dei dati,portano ai rispettivi moduli, quali:
 
-* Interventi
 * Preventivi
 * Contratti
+* Ordini cliente
+* Attività
+* DDT in uscita
 * Fatture
 

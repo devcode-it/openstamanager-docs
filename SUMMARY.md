@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Documentazione OpenSTAManager](README.md)
+* [Novità 2.4.9](novita-2.4.9.md)
 * [Guida](guide/README.md)
   * [Configurazione](guide/configurazione/README.md)
     * [Installazione](guide/configurazione/installazione.md)
@@ -115,6 +116,7 @@
     * [MyImpianti](guide/modules/impianti/README.md)
       * [Creazione](guide/modules/impianti/creazione.md)
       * [Modifica](guide/modules/impianti/modifica.md)
+      * [Azioni aggiuntive](guide/modules/impianti/azioni-aggiuntive.md)
       * [Plugin](guide/modules/impianti/plugin/README.md)
         * [Componenti](guide/modules/impianti/plugin/componenti-1.md)
         * [Interventi svolti](guide/modules/impianti/plugin/interventi-svolti.md)
@@ -143,8 +145,9 @@
         * [Ritenute contributi](guide/modules/strumenti/tabelle/ritenutecontributi.md)
       * [Segmenti](guide/modules/strumenti/segmenti.md)
       * [Import](guide/modules/strumenti/import.md)
+      * [Stato dei servizi](guide/modules/strumenti/aggiornamenti.md)
       * [Backup](guide/modules/strumenti/backup.md)
-      * [Aggiornamenti](guide/modules/strumenti/aggiornamenti.md)
+      * [Aggiornamenti](guide/modules/strumenti/aggiornamenti-1.md)
 * [Guida operativa](guida-operativa/README.md)
   * [Contabilità](guida-operativa/contabilita.md)
   * [Assistenza tecnica](guida-operativa/assistenza-tecnica.md)

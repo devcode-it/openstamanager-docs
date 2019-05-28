@@ -26,6 +26,8 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Stato
 * Fornitore
 * Riferimento sede
+* Data registrazione
+* Data competenza
 * Tipo fattura
 * Pagamento
 * Banca
@@ -35,7 +37,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note
 * Note aggiuntive\(interne\)
 
-![Screenshot sezione fatture di acquisto ](../../../../.gitbook/assets/intestazionefatturadiacquisto.PNG)
+![](../../../../.gitbook/assets/fatturadiacquisto249.png)
 
 ### Righe
 

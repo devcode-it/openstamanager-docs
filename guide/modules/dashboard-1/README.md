@@ -14,15 +14,16 @@ L' utente ha a disposizione delle strutture, chiamate _widget,_ che permettono d
 
 * Promemoria contratti da pianificare
 * Promemoria attività da pianificare
-* Ordini di servizio da impostare
 * Scadenze
 * Articoli in esaurimento
 * Preventivi in lavorazione
 * Contratti in scadenza
 * Rate contrattuali
 * Stampa calendario
+* Attività in programmazione
+* Attività confermate
 
-![](../../../.gitbook/assets/widgetdashboard.PNG)
+![](../../../.gitbook/assets/widget249.png)
 
 Un _widget_ molto utile è **Stampa calendario** , cliccando su di esso, specificando _anno_ e _mese,_ è possibile avere una stampa del calendario.
 

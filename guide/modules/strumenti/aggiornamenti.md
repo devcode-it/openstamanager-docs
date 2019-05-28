@@ -2,40 +2,22 @@
 title: Aggiornamenti
 ---
 
-# Aggiornamenti
+# Stato dei servizi
 
 {% hint style="info" %}
-Il modulo **Aggiornamenti** offre diverse possibilità, quali:
+Il modulo **Stato dei servizi** offre due sezioni, quali:
 {% endhint %}
 
-* Carica un aggiornamento
-* Ricerca aggiornamenti
 * Moduli installati
 * Widgets
 
-![Screenshot interfaccia aggiornamenti](../../../.gitbook/assets/schermata.PNG)
+![](../../../.gitbook/assets/statodeiservizi249%20%281%29.png)
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
 
-![Screenshot navigazione aggiornamenti](../../../.gitbook/assets/navigazioneaggiornamenti.png)
-
-## Carica un aggiornamento
-
-Form che permette di caricare:
-
-![Form di caricamento di un aggiornamento ](../../../.gitbook/assets/screenaggiornamenti.PNG)
-
-* aggiornamenti del gestionale
-* Innesti di moduli
-* innesti di plugin
-
-## Ricerca aggiornamenti
-
-![Screenshot ricerca aggiornamenti](../../../.gitbook/assets/ricercaaggiornamenti.PNG)
-
-Cliccando su _Ricerca_ il programma fa un controllo automatico della presenza di aggiornamenti del gestionale
+![](../../../.gitbook/assets/navigazionestatodeiserivizi249-1.png)
 
 ## Moduli installati
 

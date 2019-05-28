@@ -50,13 +50,14 @@ Parallelamente alla possibilità di selezionare il periodo temporale, vengono re
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
-![](../.gitbook/assets/options%20%281%29.png)
+![](../.gitbook/assets/notifica249.png)
 
-* Stampare la schermata attuale attraverso il browser
-* Visitare la pagina per la segnalazione dei bug
-* Visitare l'elenco dei propri tentativi di accesso
-* Visitare la pagina di informazioni integrata in OpenSTAManager
-* Effettuare il logout
+* Una prima versione di sistema di notifiche che, attualmente, notifica la presenza di fatture passive e ricevute da importare.
+* Stampare la schermata attuale attraverso il browser.
+* Visitare la pagina per la segnalazione dei bug.
+* Visitare l'elenco dei propri tentativi di accesso.
+* Visitare la pagina di informazioni integrata in OpenSTAManager.
+* Effettuare il logout.
 
 ## Modulo
 

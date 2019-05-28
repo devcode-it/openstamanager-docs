@@ -11,6 +11,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 Una volta all'interno di questa parte del sistema, il modulo **Anagrafiche** permette di completare _tutte_ le informazioni che il gestionale supporta per le anagrafiche. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti:
 
 * [Intestazione](modificafatturevendita.md#intestazione)
+* [Marca da bollo](modificafatturevendita.md#marca-da-bollo)
 * [Righe](modificafatturevendita.md#righe)
 * [Allegati](modificafatturevendita.md#allegati)
 
@@ -34,6 +35,16 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note aggiuntive\(interne\)
 
 ![Screenshot sezione intestazione](../../../../.gitbook/assets/intestazionefatturedivendita%20%281%29.PNG)
+
+### Marca da bollo
+
+La sezione **marca da bollo** presenta 3 opzioni:
+
+* Addebita marca da bollo
+* Marca da bollo automatica \(applicata solo se il totale della fattura è maggiore di 77,47€\)
+* Importo marca da bollo
+
+![](../../../../.gitbook/assets/marcadabollo249.png)
 
 ### Righe
 
