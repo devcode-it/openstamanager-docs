@@ -1,6 +1,6 @@
 # Documentazione OpenSTAManager
 
-Benvenuto nella guida di OpenSTAManager!
+Benvenuto nella guidaa di OpenSTAManager!
 
 Qui puoi trovare le istruzioni di base per la configurazione e l'utilizzo di questo software.
 
