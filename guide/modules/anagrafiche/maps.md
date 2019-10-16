@@ -25,6 +25,7 @@ Apparirà questa schermata:
 ![Screenshot creazione API Key](../../../.gitbook/assets/googleplatform1.PNG)
 
 Fare la spunta su tutte e 3 le caselle e premere ![](../../../.gitbook/assets/continua.PNG) .
+(Maps API, Geocoding API, Places API)
 
 * Entrare con la vostra email
 * Inserire email
