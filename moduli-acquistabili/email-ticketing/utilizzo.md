@@ -14,25 +14,25 @@ Esempio del funzionamento:
 
 ![](../../.gitbook/assets/cliente0.png)
 
-2. Nel modulo **Attività** verrà creato l'intervento, in stato **Da pianificare** 
+1. Nel modulo **Attività** verrà creato l'intervento, in stato **Da pianificare** 
 
 ![](../../.gitbook/assets/gestionale0.png)
 
-3. Cliccare sull'attività e in alto a destra fare click su **Conversazioni** 
+1. Cliccare sull'attività e in alto a destra fare click su **Conversazioni** 
 
 ![](../../.gitbook/assets/conversazionigestionale1.png)
 
-4. Appariranno le **conversazioni** con il **cliente** via email, quindi apparirà anche la richiesta effettuata dal cliente nel punto 1
+1. Appariranno le **conversazioni** con il **cliente** via email, quindi apparirà anche la richiesta effettuata dal cliente nel punto 1
 
-![](../../.gitbook/assets/797979797979797%20%281%29.png)
+![](../../.gitbook/assets/797979797979797-1.png)
 
-5. In fondo alla pagina è presente il tasto ![](../../.gitbook/assets/rispondi.png) , cliccare per rispondere alla richiesta del **cliente**.
+1. In fondo alla pagina è presente il tasto ![](../../.gitbook/assets/rispondi.png) , cliccare per rispondere alla richiesta del **cliente**.
 
 ![](../../.gitbook/assets/14141414141.png)
 
-Spuntando **Notifica di lettura** potrò vedere se il **cliente** ha visualizzato la mail. 
+Spuntando **Notifica di lettura** potrò vedere se il **cliente** ha visualizzato la mail.
 
-7. L' email è stata inviata al **cliente** correttamente
+1. L' email è stata inviata al **cliente** correttamente
 
 ![](../../.gitbook/assets/invioacliente.png)
 

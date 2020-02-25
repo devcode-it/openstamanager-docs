@@ -6,7 +6,7 @@ La prima cosa da fare è andare a configurare Il proprio **IMAP**:
 
 ![](../../.gitbook/assets/imap.png)
 
-2. Comparirà questa schermata:
+1. Comparirà questa schermata:
 
 ![](../../.gitbook/assets/emailticketing.png)
 
@@ -17,7 +17,7 @@ Dove sarà necessario compilare i seguenti campi:
 * **Imap password**
 * **Cartella mail processate** 
 
-Finita la compilazione, per salvare le impostazioni, cliccare sul tasto ![](../../.gitbook/assets/salva%20%281%29.png) . 
+Finita la compilazione, per salvare le impostazioni, cliccare sul tasto ![](../../.gitbook/assets/salva-1.png) .
 
 Ora tutto è pronto per utilizzare il modulo.
 

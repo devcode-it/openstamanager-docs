@@ -1,8 +1,2 @@
 # Modulo Vendita al banco
 
- 
-
-
-
-
-

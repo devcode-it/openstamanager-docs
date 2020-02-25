@@ -11,7 +11,7 @@ Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le in
 * Intestazione
 * Articoli
 
-### Intestazione
+## Intestazione
 
 La sezione **Intestazione** si presenta nel seguente modo:
 
@@ -34,7 +34,7 @@ Il **Pagamento** presenta due possibilità: **Rimessa diretta** o **Contanti**
 
 **Note** presenta la possibilità di aggiungere delle note interne
 
-### Articoli
+## Articoli
 
 La sezione **Articoli** si presenta nel seguente modo:
 
@@ -53,7 +53,7 @@ Un articolo può essere aggiunto in due differenti maniere:
 1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggerà di rosso.
 2. Andando a selezionare su **Articolo** l'articolo interessato.
 
-### Particolarità 
+## Particolarità
 
 Una volta inserito un articolo posso eseguire diverse azioni grazie a questi pulsanti ![](../../.gitbook/assets/undefined.png) :
 
