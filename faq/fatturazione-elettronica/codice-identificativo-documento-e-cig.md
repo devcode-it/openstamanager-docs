@@ -22,9 +22,9 @@ I **Dati appalto** verranno visualizzati quando si aggiunge un **Contratto** ad 
 
 ![](../../.gitbook/assets/aggiuntofatturedivendita.png)
 
-Un' ulteriore verifica della presenza o meno dei **Dati appalto** è presente nell'anteprima della fattura cliccando su **Visualizza** in **Fatturazione elettronica:**
+Un' ulteriore verifica della presenza o meno dei **Dati appalto** è disponibile nell'anteprima della fattura, visualizzabile tramite il pulsante **Visualizza** in **Fatturazione elettronica:**
 
-![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/visualizzafe-1.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ![](../../.gitbook/assets/visualizzacigecodiceidentificavodocumento.png)
 
@@ -32,7 +32,7 @@ Infine sono visibili nel file XML generato:
 
 ![](../../.gitbook/assets/cigecodiceidentificativodocumentoxml.png)
 
-{% hint style="warning" %}
-La logica precedentemente spiegata non vale solo nell'inserimento di un **Contratto** ma anche per **Ordine cliente** e **Interventi**
+{% hint style="info" %}
+La logica precedentemente spiegata vale per l'inserimento di **Contratti, Ordini cliente** e **Interventi.**
 {% endhint %}
 
