@@ -31,11 +31,11 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/conti
 * Entrare con la vostra email
 * Inserire email
 
-![inserire email](../../.gitbook/assets/email-4.PNG)
+![inserire email](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/email-4.PNG)
 
 * Inserire password
 
-![inserire password](../../.gitbook/assets/password-2.PNG)
+![inserire password](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/password-2.PNG)
 
 * Se appare nuovamente la schermata del punto uno fare nuovamente la spunta sulle 3 caselle, se non appare, invece, apparirà questa schermata:
 

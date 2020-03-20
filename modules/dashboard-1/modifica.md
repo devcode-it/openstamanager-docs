@@ -24,7 +24,7 @@ Il primo raggruppamento permette di:
 * Cambiare lo **stato** dell'attività
 * Aggiungere **note interne** 
 
-![Screenshot modifica intervento ](../../.gitbook/assets/datiintervento-1.PNG)
+![Screenshot modifica intervento ](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/datiintervento-1.PNG)
 
 ### Ore di lavoro
 

@@ -30,7 +30,7 @@ Grazie a **Opzioni di visualizzazione** è possibile modificare diversi campi, q
 * Nome del modulo\(Modificare il nome che identifica il modulo\)
 * Query personalizzata\(Scrivere una query in sostituzione a quella di default\)
 
-![Screenshot opzioni di visualizzazione viste](../../.gitbook/assets/opzionidivisualizzazione-1.PNG)
+![Screenshot opzioni di visualizzazione viste](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/opzionidivisualizzazione-1.PNG)
 
 Grazie a **Campi disponibili** è possibile cambiare:
 
@@ -46,7 +46,7 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 * Sommabile\(se il campo è da sommare\)
 * Formattabile\(se il campo si può formattare\(data,ora,anno,..\)\)
 
-![Screenshot modifica campo](../../.gitbook/assets/campidisponibili1-1.PNG)
+![Screenshot modifica campo](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/campidisponibili1-1.PNG)
 
 Grazie a **Ordine di visualizzazione** posso cambiare l'ordine dei campi trascinando il campo.
 

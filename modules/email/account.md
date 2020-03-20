@@ -14,7 +14,7 @@ Questo modulo è complementare a [**Template email**](template.md), che si occup
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Account email** visibile dall'espansione del menu **Gestione email**.
 
-![Screenshot navigazione account email](../../.gitbook/assets/navigazioneaccountemail-1.PNG)
+![Screenshot navigazione account email](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/navigazioneaccountemail-1.PNG)
 
 ## Caratteristiche
 

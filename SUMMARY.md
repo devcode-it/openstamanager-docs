@@ -5,6 +5,7 @@
   * [Installazione](configurazione/installazione.md)
   * [Inizializzazione](configurazione/inizializzazione.md)
   * [Aggiornamento](configurazione/aggiornamento.md)
+  * [Backup](configurazione/backup.md)
 * [Caratteristiche](caratteristiche.md)
 * [Moduli](modules/README.md)
   * [Dashboard](modules/dashboard-1/README.md)

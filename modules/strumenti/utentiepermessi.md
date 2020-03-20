@@ -32,7 +32,7 @@ Si presenterà quindi questa schermata:
 
 Nella quale è possibile aggiungere un _utente_ al gruppo appena selezionato:
 
-![](../../.gitbook/assets/aggiungtiutente-1.PNG)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/aggiungtiutente-1.PNG)
 
 Aggiungendo un _utente_, per potergli permettere l'accesso, bisogna assegnarli:
 

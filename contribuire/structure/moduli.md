@@ -14,9 +14,9 @@ All'interno del progetto, i moduli vengono genericamente definiti quali sistemi 
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
-* [Nucleo](../more/nucleo.md);
+* [Nucleo]();
 * [Stampe](stampe.md);
-* [Widget](widget.md);
+* [Widget]();
 * [Plugin](plugin.md).
 
 OpenSTAManager presenta inoltre una struttura nativamente predisposta alla personalizzazione delle funzioni principali, il che rende il progetto ancora più complicato da comprendere a prima vista.

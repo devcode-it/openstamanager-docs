@@ -11,5 +11,5 @@ Nella sezione **costi generali** andando sopra un record,cliccando sul simbolo !
 
 ![](../../../.gitbook/assets/modificaconto.PNG)
 
-Cliccando sul simbolo ![](../../../.gitbook/assets/elimina-1.PNG) è possibile eliminare il _conto_ selezionato.
+Cliccando sul simbolo ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/elimina-1.PNG) è possibile eliminare il _conto_ selezionato.
 

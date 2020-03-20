@@ -14,7 +14,7 @@ Il modulo **Scadenzario** visualizza un registro dove sono annotate le scadenze 
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Scadenzario** visibile dall'espansione del menu **Contabilità**.
 
-![](../../.gitbook/assets/navigazionescadenzario-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/navigazionescadenzario-1.png)
 
 In basso è possibile eseguire 3 opzioni di stampa:
 

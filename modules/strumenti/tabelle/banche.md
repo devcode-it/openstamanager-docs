@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screen creazione banche](../../../.gitbook/assets/aggiuntabanche-1.PNG)
+![Screen creazione banche](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/aggiuntabanche-1.PNG)
 
 E' sufficiente inserire _Nome_, _IBAN_ e _BIC\(Bank Identifier Code\)_ per creare un record in **Banche**.
 

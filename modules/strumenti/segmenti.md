@@ -10,7 +10,7 @@ Il modulo **Segmenti** permette di aggiungere delle opzioni selezionabili nei ca
 
 Esempio:
 
-![Screenshot segmenti](../../.gitbook/assets/esempiosegmenti-1.PNG)
+![Screenshot segmenti](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/esempiosegmenti-1.PNG)
 
 ![Screenshot segmenti in fatture di vendita](../../.gitbook/assets/esempio1segmenti.PNG)
 
@@ -28,7 +28,7 @@ Dove si avranno questi campi da compilare:
 
 ![Screenshot creazione segmenti ](../../.gitbook/assets/aggiungeresegmenti.PNG)
 
-Per concludere la creazione di un _segmento_ cliccare su ![](../../.gitbook/assets/+aggiungi%20%281%29.PNG) , dove comparirà questa schermata:
+Per concludere la creazione di un _segmento_ cliccare su ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/+aggiungi%20%281%29.PNG) , dove comparirà questa schermata:
 
 ![Screenshot creazione segmento](../../.gitbook/assets/creazionesegmento.PNG)
 

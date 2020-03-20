@@ -26,7 +26,7 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione template email](../../.gitbook/assets/add-templateemail-1.PNG)
+![Screenshot creazione template email](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/add-templateemail-1.PNG)
 
 Viene quindi data la possibilità di completare le informazioni di base del nuovo template, quali:
 

@@ -34,7 +34,7 @@ In particolare, attraverso questa sezione è possibile procedere alla modifica d
 
 Vengono rese inoltre disponibili alcune altre opzioni estremamente importanti per la gestione interna dell'articolo:
 
-* _**Abilita serial number**_ _\*\*_permette l'abilitazione della gestione dei numeri seriali per l'articolo
+* _**Abilita serial number**_ \_\*\*\_permette l'abilitazione della gestione dei numeri seriali per l'articolo
 * _**Seleziona per rendere attivo l'articolo**_ permette, se disabilitato, di impedire l'utilizzo dell'articolo
 * _**Modifica quantità manualmente**_ permette la creazione di un movimento manuale
 

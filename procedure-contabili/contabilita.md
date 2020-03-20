@@ -60,7 +60,7 @@ Per tenere traccia dei pagamenti scaduti e da effettuare è necessario filtrare 
 I pagamenti scaduti e da effettuare che vanno oltre la **Data di scadenza** saranno visualizzati in **rosso.**
 {% endhint %}
 
-![](../.gitbook/assets/pagamentiscadutiodaeffettuare-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/pagamentiscadutiodaeffettuare-1.png)
 
 ### Stampa
 

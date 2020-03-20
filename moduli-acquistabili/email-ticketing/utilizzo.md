@@ -24,7 +24,7 @@ Esempio del funzionamento:
 
 1. Appariranno le **conversazioni** con il **cliente** via email, quindi apparirà anche la richiesta effettuata dal cliente nel punto 1
 
-![](../../.gitbook/assets/797979797979797-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/797979797979797-1.png)
 
 1. In fondo alla pagina è presente il tasto ![](../../.gitbook/assets/rispondi.png) , cliccare per rispondere alla richiesta del **cliente**.
 

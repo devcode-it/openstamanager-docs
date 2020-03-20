@@ -24,7 +24,7 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 E' sufficiente inserire una _Descrizione_, la _Percentuale_ e una _Percentuale Indetraibile_ per creare una nuova **Ritenuta di Acconto**.
 
-![Screenshot creazione rivalse](../../../.gitbook/assets/aggiungererivalse-1.PNG)
+![Screenshot creazione rivalse](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/aggiungererivalse-1.PNG)
 
 ## Modifica
 

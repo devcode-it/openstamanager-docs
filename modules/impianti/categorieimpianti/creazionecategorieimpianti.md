@@ -16,5 +16,5 @@ Il modulo **Categorie impianti** ha quindi la possibilità di creare una _catego
 
 Compilando i campi soprastanti si va a creare una nuova **Categoria di impianti**
 
-![](../../../.gitbook/assets/interfacciacategorieimpianti-2.PNG)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/interfacciacategorieimpianti-2.PNG)
 

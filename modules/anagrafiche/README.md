@@ -26,7 +26,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Questo modulo possiede un modulo incentrato sulla gestione delle zone lavorative \(denominato [**Zone**](zone.md)\), raggiungibile all'espansione del menu laterale.
 
-![Navigazione Zone](../../.gitbook/assets/navigazionezone-1.PNG)
+![Navigazione Zone](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/navigazionezone-1.PNG)
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 6 widget per il filtraggio automatico delle anagrafiche per tipo:
 

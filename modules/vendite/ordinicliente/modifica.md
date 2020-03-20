@@ -31,7 +31,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note
 * Note aggiuntive\(interne\)
 
-![Modifica sezione intestazione ordini cliente](../../../.gitbook/assets/intestazioneordinicliente-1.PNG)
+![Modifica sezione intestazione ordini cliente](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/intestazioneordinicliente-1.PNG)
 
 ## Righe
 
@@ -47,11 +47,11 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr�
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Creazione righe ordini cliente](../../../.gitbook/assets/righeordiniclienti-1.PNG)
+![Creazione righe ordini cliente](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righeordiniclienti-1.PNG)
 
 ## Allegati
 
 In fine è possibile aggiungere un **allegato** caricandolo dal proprio computer.
 
-![Caricamento allegati ordini cliente](../../../.gitbook/assets/allegati-1.PNG)
+![Caricamento allegati ordini cliente](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/allegati-1.PNG)
 

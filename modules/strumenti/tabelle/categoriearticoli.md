@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione categorie articoli](../../../.gitbook/assets/aggiuntacategoriearticoli-1.PNG)
+![Screenshot creazione categorie articoli](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/aggiuntacategoriearticoli-1.PNG)
 
 E' sufficiente inserire il _Nome_, una _Data_ e un eventuale _Nota_ per creare una nuova **Categorie articoli**.
 

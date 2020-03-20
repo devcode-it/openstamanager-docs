@@ -17,7 +17,7 @@ Lo screenshot soprastante appare quando si va a creare un contratto, importante,
 * **Rinnovabile:** Spunto il campo se il contratto è rinnovabile.
 * **Preavviso per rinnovo:** In questo campo si indicano i giorni di preavviso per il rinnovo del contratto. Quindi, in base a quanti giorni ho indicato il **Preavviso per** **rinnovo** mi appariranno nel modulo **Dashboard** nel _widget_ **Contratti in scadenza** il numero di contratti che stanno per scadere. Per esempio se ho specificato il **Preavviso** di 90 giorni, il 90esimo giorno dalla data del rinnovo quel contratto mi apparirà nel widget **Contratti in scadenza.**
 
-![](../.gitbook/assets/contrattiinscadenza-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/contrattiinscadenza-1.png)
 
 * **Data accettazione:** Specificare la data di inizio del contratto.
 * **Data conclusione:** Specificare la data di fine del contratto.
@@ -41,7 +41,7 @@ Se nel **contratto** sono inclusi i costi specificati sopra in **Costi unitari**
 
 Se si vuole creare un proprio **Tipo attività** lo si può fare in [**Attività**](../modules/attivita/) **\*\*su \[**Tipi di attività**\]\(../guide/modules/attivita/tipidiattivita/\)**. **In questo modo il** tipo di attività **verrà visualizzato nella sezione** Costi unitari\*\*.
 
-![](../.gitbook/assets/righe-annuali-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righe-annuali-1.png)
 
 Sotto alla sezione **Costi unitari** è presente la sezione **Righe** nella quale posso andare ad aggiungere:
 

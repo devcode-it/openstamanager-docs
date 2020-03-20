@@ -18,7 +18,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 ### Caratteristiche
 
-Le spese inserite nella modifica di una **fattura** vengono visualizzate cliccando sul tasto ![](../../../.gitbook/assets/aggiungere-1.PNG) affianco al costo indicato:
+Le spese inserite nella modifica di una **fattura** vengono visualizzate cliccando sul tasto ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/aggiungere-1.PNG) affianco al costo indicato:
 
 ![](../../../.gitbook/assets/speseconti.PNG)
 

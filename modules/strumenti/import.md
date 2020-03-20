@@ -30,7 +30,7 @@ Proseguendo con il click sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) appa
 
 La quale mostrerà il contenuto di ogni colonna. Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo _Articoli_.
 
-![Screenshot import appena creato](../../.gitbook/assets/importazione-2.PNG)
+![Screenshot import appena creato](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/importazione-2.PNG)
 
 ### Attenzione
 

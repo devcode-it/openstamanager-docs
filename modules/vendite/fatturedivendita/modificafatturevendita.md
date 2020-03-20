@@ -33,7 +33,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note\(visibili anche in stampa\)
 * Note aggiuntive\(interne\)
 
-![Screenshot sezione intestazione](../../../.gitbook/assets/intestazionefatturedivendita-1.PNG)
+![Screenshot sezione intestazione](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/intestazionefatturedivendita-1.PNG)
 
 ### Righe
 
@@ -74,5 +74,5 @@ Questa sezione compare se si vuole fare una _fattura accompagnatoria di vendita_
 
 Il terzo e ultimo raggruppamento permette di **allegare** un file presente nel computer, specificando la categoria.
 
-![Screenshot allegati](../../../.gitbook/assets/allegatifatturedivendita-1.PNG)
+![Screenshot allegati](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/allegatifatturedivendita-1.PNG)
 

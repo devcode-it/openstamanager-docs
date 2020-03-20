@@ -10,7 +10,7 @@ Il primo passo è quello di specificare nella creazione di un'anagrafica la tipo
 
 Se l'anagrafica è già stata creata basta modificarla e selezionare tipologia **Ente pubblico** o **Azienda:**
 
-![](../../.gitbook/assets/modifcaclienteenepubblico-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/modifcaclienteenepubblico-1.png)
 
 Ora, nella creazione di un **Contratto**, è possibile compilare i campi necessari per l'emissione di una Fattura verso le PA:
 
@@ -24,7 +24,7 @@ I **Dati appalto** verranno visualizzati quando si aggiunge un **Contratto** ad 
 
 Un' ulteriore verifica della presenza o meno dei **Dati appalto** è presente nell'anteprima della fattura cliccando su **Visualizza** in **Fatturazione elettronica:**
 
-![](../../.gitbook/assets/visualizzafe-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/visualizzafe-1.png)
 
 ![](../../.gitbook/assets/visualizzacigecodiceidentificavodocumento.png)
 

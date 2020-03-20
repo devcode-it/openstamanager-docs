@@ -33,7 +33,7 @@ Una volta visitato il link precedente, comparirà il seguente contenuto. Sarà n
 
 ![Screenshot autenticazione a due fattori](../../.gitbook/assets/passwordperleapp.PNG)
 
-Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante ![](../../.gitbook/assets/genera-1.PNG) .
+Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/genera-1.PNG) .
 
 ![Screenshot autenticazione a due fattori](../../.gitbook/assets/genera.PNG)
 

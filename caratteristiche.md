@@ -50,7 +50,7 @@ Parallelamente alla possibilità di selezionare il periodo temporale, vengono re
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
-![](.gitbook/assets/options-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/options-1.png)
 
 * Stampare la schermata attuale attraverso il browser
 * Visitare la pagina per la segnalazione dei bug

@@ -52,7 +52,7 @@ Cliccando sui pulsanti relativi, è possibile procedere quindi alla creazione di
 * Righe \(spese generiche\)
 * Descrizioni \(righe dedicate alla stampa\)
 
-![](../../../.gitbook/assets/righe-1.PNG)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righe-1.PNG)
 
 Una volta inserite correttamente le informazioni richieste, la nuova spesa verrà aggiunta all'elenco del preventivo.
 
@@ -62,5 +62,5 @@ E' quindi possibile procedere alla modifica premendo il tasto ![](../../../.gitb
 
 Il modulo **allegati** permette l'importazione di un file caricandolo dal proprio computer, specificando la categoria.
 
-![](../../../.gitbook/assets/allegati-3.PNG)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/allegati-3.PNG)
 

@@ -16,7 +16,7 @@ La maggior parte delle stampe viene generata attraverso il framework [MPDF](http
 
 ## Struttura
 
-Ogni stampa e le caratteristiche di default \(cartella `templates/base/`\) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](../base/code.md).
+Ogni stampa e le caratteristiche di default \(cartella `templates/base/`\) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice]().
 
 Il sistema di template delle stampe presenta una gestione automatica per la sostituzione di alcune variabili comuni:
 

@@ -39,7 +39,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note
 * Note aggiuntive\(interne\)
 
-![Screenshot sezione intestazione](../../../.gitbook/assets/intestazioneddtinentrata-1.PNG)
+![Screenshot sezione intestazione](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/intestazioneddtinentrata-1.PNG)
 
 ### Righe
 
@@ -62,5 +62,5 @@ E' quindi possibile procedere alla modifica e all'eventuale rimozione della spes
 
 Il terzo raggruppamento di informazioni permette di caricare un file dal proprio computer specificando una categoria.
 
-![Screenshot caricamento allegati](../../../.gitbook/assets/allegatiddtinentrata-1.PNG)
+![Screenshot caricamento allegati](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/allegatiddtinentrata-1.PNG)
 

@@ -42,7 +42,7 @@ La sezione di modifica del modulo **Contratti** permette di procedere alla modif
 
 E' inoltre supportata la gestione automatica dello _Sconto incondizionato_ globale sul contratto.
 
-![Screenshot modifica contratti](../../../.gitbook/assets/intestazione-1.PNG)
+![Screenshot modifica contratti](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/intestazione-1.PNG)
 
 ### Righe
 
@@ -66,7 +66,7 @@ E' quindi possibile procedere alla modifica e all'eventuale rimozione della spes
 Se voglio monitorare il consumo delle ore mi basterà aggiungere una **Riga,** inserire una **descrizione,** selezionare **ore** come **Unità di misura** e inserire nel campo **Q.tà** il numero delle ore, come nell'esempio che segue:
 {% endhint %}
 
-![](../../../.gitbook/assets/oreore-1.png)
+![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/oreore-1.png)
 
 Successivamente, cliccando in altro a destra su _Consuntivo_ si potrà visualizzare:
 

@@ -48,7 +48,7 @@ install:
 Per procedere all'installazione di OpenSTAManager è necessario seguire i seguenti punti:
 
 1. [Scaricare una release ufficiale del progetto](https://github.com/devcode-it/openstamanager/releases).
-2. Creare una cartella \(ad esempio `openstamanager`\) nella root del _web server_ ed estrarvi il contenuto della release scaricata \(per maggiori informazioni, [consultare la documentazione tecnica]()\)
+2. Creare una cartella \(ad esempio `openstamanager`\) nella root del _web server_ ed estrarvi il contenuto della release scaricata \(per maggiori informazioni, [consultare la documentazione tecnica](installazione.md)\)
 3. Creare un database vuoto \(tramite [PHPMyAdmin](http://localhost/phpmyadmin/) o riga di comando\).
 4. Accedere a [http://localhost/openstamanager](http://localhost/openstamanager) dal vostro browser.
 
@@ -156,7 +156,7 @@ Una volta inseriti correttamente i parametri di configurazione, è sufficiente c
 
 ![Processi di installazione del database](../.gitbook/assets/installing.png)
 
-![Database installato con successo](../.gitbook/assets/installed-1.png)
+![Database installato con successo](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/installed-1.png)
 
 Per maggiori informazioni su questa procedura, oppure nel caso si verificassero degli errori, visitare la sezione **Aggiornamento**.
 

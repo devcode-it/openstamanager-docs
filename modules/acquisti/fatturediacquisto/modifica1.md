@@ -53,7 +53,7 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr√
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Screenshot creazione righe](../../../.gitbook/assets/righefatturadiacquisto-3.PNG)
+![Screenshot creazione righe](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righefatturadiacquisto-3.PNG)
 
 ## Allegati
 
