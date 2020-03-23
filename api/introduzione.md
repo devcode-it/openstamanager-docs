@@ -20,7 +20,7 @@ L'accesso all'API viene garantito esclusivamente tramite il token personale di a
 
 Cliccando sulla sezione evidenziata in rosso, si apre una pagina dedicata alla visualizzazione delle informazioni personali dell'utente e che permette la modifica della password e della foto profilo, oltre che la visualizzazione del token per l'API.
 
-![Informazioni sull&apos;utente](../.gitbook/assets/image%20%2810%29.png)
+![Informazioni sull&apos;utente](../.gitbook/assets/image%20%2813%29.png)
 
 Nella sezione denominata **API** sono disponibili il token e l'URL per accedere al sistema API del gestionale.
 
@@ -85,7 +85,7 @@ In particolare, sono presenti i seguenti _status_:
 * `401: Non autorizzato` - Accesso non autorizzato.
 * `404: Non trovato` - La risorsa richiesta non risulta disponibile.
 * `500: Errore del server` - Il gestionale non è in grado di completare la richiesta.
-* `503: Servizio non disponibile` - L'API del gestionale non è abilitata.
+* `503: Servizio non disponibile` - L'API del gestionale non è abilitata a causa della versione troppo vecchia di MySQL \(&gt;= 5.6.5\).
 
 ### Modalità di utilizzo
 

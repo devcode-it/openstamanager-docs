@@ -51,6 +51,8 @@ module_to = "Nome del modulo di destinazione e visualizzazione"
 position = "Tipo di modulo (valori disponibili: tab)"
 ```
 
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example).
+
 ### Procedura semplificata
 
 Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o aggiornare, si può procedere con i seguenti passaggi per caricare il file nel gestionale.
@@ -73,7 +75,7 @@ Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o
 
 * Dopo il refresh della pagina, può essere richiesto di aggiornare il database
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 In seguito a questi passaggi, dovrebbe essere possibile continuare a utilizzare il gestionale normalmente e trovare di conseguenza i nuovi componenti presenti all'interno.
 

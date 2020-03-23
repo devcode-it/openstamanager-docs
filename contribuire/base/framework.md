@@ -10,9 +10,7 @@ sidebar:
 >
 > [Wikipedia](https://it.wikipedia.org/wiki/Framework)
 
-{% hint style="info" %}
 Il progetto utilizza [Composer](https://getcomposer.org/) per gestire le librerie PHP in modo completamente gratuito e open-source. Questo permette di completare l'installazione e l'aggiornamento dei diversi framework in modo facile ed intuitivo, senza doversi preoccupare in modo eccessivo delle dipendenze delle diverse librerie.
-{% endhint %}
 
 ## Struttura
 

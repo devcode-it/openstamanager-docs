@@ -6,9 +6,7 @@ sidebar:
 
 # Codice
 
-{% hint style="info" %}
 OpenSTAManager presenta una struttura nativamente predisposta alla personalizzazione delle funzioni principali: di seguito verranno fornite le specifiche tecniche per modificare il comportamento per le sezioni abilitate in tal senso.
-{% endhint %}
 
 {% hint style="warning" %}
 Ogni modifica sui file del gestionale potrebbe provocare errori e problematiche imprevedibili all'interno di OpenSTAManager. Si sconsiglia pertanto di non intraprendere queste azioni se non si è estremamente sicuri delle proprie conoscenza informatiche.
@@ -124,7 +122,7 @@ public function fixIva()
 }
 ```
 
-Ovviamente, bisgonerà adeguare di conseguenza il file `modules/fatture/custom/row-edit.php` nella riga di individuazione del prezzo:
+Ovviamente, bisognerà adeguare di conseguenza il file `modules/fatture/custom/row-edit.php` nella riga di individuazione del prezzo:
 
 ```php
 $result['prezzo'] = ($riga['subtotale'] + $riga['iva']) / $riga['qta'];
