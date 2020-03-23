@@ -1,14 +1,12 @@
-# Assistenza tecnica
-
-## Contratti di manutenzione
+# Contratti di manutenzione
 
 {% hint style="info" %}
-Come creo dei contratti di manutenzione su impianti,dispositivi o macchine?
+Come creo dei contratti di manutenzione su impianti, dispositivi o macchine?
 {% endhint %}
 
-Per creare un contratto di manutenzione su impianti,dispositivi o macchine la prima cosa da fare è creare uno o più **impianti**. [Cliccare qui](../modules/impianti/) per la guida di creazione di un impianto\(vedere anche **Creazione** e **Modifica**\).
+Per creare un contratto di manutenzione su impianti, dispositivi o macchine la prima cosa da fare è creare uno o più **impianti**. [Cliccare qui](../modules/impianti/) per la guida di creazione di un impianto \(vedere anche **Creazione** e **Modifica**\).
 
-Per registrare un **contratto** di manutenzione su quei determinati impianti creo un **contratto**, specificando però determinati campi, di seguito spiegati. [Cliccare qui ](../modules/vendite/contratti/)per la guida di creazione di un contratto\(vedere anche **Creazione** e **Modifica**\).
+Per registrare un **contratto** di manutenzione su quei determinati impianti creo un **contratto**, specificando però determinati campi, di seguito spiegati. [Cliccare qui ](../modules/vendite/contratti/)per la guida di creazione di un contratto \(vedere anche **Creazione** e **Modifica**\).
 
 ![](../.gitbook/assets/contrattoannuale.png)
 
@@ -39,7 +37,7 @@ Sotto alla sezione **intestazione** è presente la sezione **Costi unitari** nel
 
 Se nel **contratto** sono inclusi i costi specificati sopra in **Costi unitari** è possible mettere tutti i campi a **0.**
 
-Se si vuole creare un proprio **Tipo attività** lo si può fare in [**Attività**](../modules/attivita/) **\*\*su \[**Tipi di attività**\]\(../guide/modules/attivita/tipidiattivita/\)**. **In questo modo il** tipo di attività **verrà visualizzato nella sezione** Costi unitari\*\*.
+Se si vuole creare un proprio **Tipo attività** lo si può fare attraverso il modulo dedicato  [Tipi di attività](../modules/attivita/tipidiattivita/), sotto [**Attività**](../modules/attivita/). In questo modo il tipo di attività verrà visualizzato nella sezione **Costi unitari**.
 
 ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righe-annuali-1.png)
 

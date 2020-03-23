@@ -163,18 +163,17 @@
 
 ## Procedure contabili
 
-* [Contabilità](procedure-contabili/contabilita.md)
+* [Incassi e pagamenti](procedure-contabili/contabilita.md)
 * [Magazzino](procedure-contabili/magazzino.md)
-* [Assistenza tecnica](procedure-contabili/assistenza-tecnica.md)
+* [Contratti di manutenzione](procedure-contabili/assistenza-tecnica.md)
 
 ## Moduli a pagamento <a id="moduli-acquistabili"></a>
 
+* [Installazione  e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
 * [Modulo Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
-  * [Installazione](moduli-acquistabili/modulo-vendita-al-banco/installazione-1.md)
   * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
   * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
 * [Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
-  * [Installazione](moduli-acquistabili/email-ticketing/installazione.md)
   * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
   * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)
 
