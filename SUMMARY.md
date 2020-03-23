@@ -189,3 +189,8 @@
   * [Codice identificativo documento e CIG](faq/fatturazione-elettronica/codice-identificativo-documento-e-cig.md)
   * [Errori frequenti nella compilazione](faq/fatturazione-elettronica/errori-frequenti.md)
 
+## API
+
+* [Introduzione](api/introduzione.md)
+* [Retrieve](api/retrieve.md)
+
