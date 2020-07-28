@@ -6,7 +6,7 @@ Il modulo **Attività** risulta essere una delle componenti fondamentali di Open
 Questa sezione si contraddistingue, in particolare, per la possibilità di fissare in modo dinamico gli appuntamenti lavorativi e gestire contemporaneamente molteplici tecnici con le relative tariffe \(oraria, al km e sul diritto di chiamata\).
 {% endhint %}
 
-![Screenshot interfaccia attivit&#xE0;](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/module-4.png)
+![](../../.gitbook/assets/module%20%284%29.png)
 
 ## Navigazione
 

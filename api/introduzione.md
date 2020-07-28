@@ -20,7 +20,7 @@ L'accesso all'API viene garantito esclusivamente tramite il token personale di a
 
 Cliccando sulla sezione evidenziata in rosso, si apre una pagina dedicata alla visualizzazione delle informazioni personali dell'utente e che permette la modifica della password e della foto profilo, oltre che la visualizzazione del token per l'API.
 
-![Informazioni sull&apos;utente](../.gitbook/assets/image%20%2813%29.png)
+![Informazioni sull&apos;utente](../.gitbook/assets/image%20%2810%29.png)
 
 Nella sezione denominata **API** sono disponibili il token e l'URL per accedere al sistema API del gestionale.
 
