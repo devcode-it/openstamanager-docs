@@ -15,7 +15,7 @@ Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le in
 
 La sezione **Intestazione** si presenta nel seguente modo:
 
-![](../../.gitbook/assets/vendita3.png)
+![](../../.gitbook/assets/vend2.png)
 
 Suddivisa nei campi:
 
@@ -38,7 +38,7 @@ Il **Pagamento** presenta due possibilità: **Rimessa diretta** o **Contanti**
 
 La sezione **Articoli** si presenta nel seguente modo:
 
-![](../../.gitbook/assets/vendita4.png)
+![](../../.gitbook/assets/vend3.png)
 
 Suddivisa in due campi:
 
@@ -46,9 +46,9 @@ Suddivisa in due campi:
 * Articolo
 * E una tabella, dove verranno visualizzate una serie di informazioni riferite all'articolo, come nell'esempio che segue:
 
-![](../../.gitbook/assets/tabella.png)
-
 Un articolo può essere aggiunto in due differenti maniere:
+
+![](../../.gitbook/assets/vend4.png)
 
 1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggerà di rosso.
 2. Andando a selezionare su **Articolo** l'articolo interessato.

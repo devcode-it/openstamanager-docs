@@ -170,10 +170,13 @@
 ## Moduli a pagamento <a id="moduli-acquistabili"></a>
 
 * [Installazione  e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
-* [Modulo Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [Modulo Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
   * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
   * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
+* [Modulo Sincronizzazione](moduli-acquistabili/modulo-sincronizzazione.md)
+* [Modulo Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
+* [Modulo Budget](moduli-acquistabili/budget.md)
+* [Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
   * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
   * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)

@@ -14,5 +14,5 @@ Per maggiori informazioni sulle modalità di installazione e aggiornamento del m
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà alla destra la schermata seguente.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LZJeLg23eVDvrCv74U7%2F-La1CytZA2DtKl0O8Gak%2F-La1G9ofvPZC5eIq-ASt%2FVenditaAlBanco.png?alt=media&token=42eac49f-6cc7-4d0d-906d-729b09d57fd2)
+![](../../.gitbook/assets/vend1.png)
 

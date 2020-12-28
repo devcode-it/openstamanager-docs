@@ -1,4 +1,4 @@
-# Modulo Import FE
+# Import FE
 
 **Import FE** è un modulo acquistabile da **OpenstaSTAManager.** Il modulo permette di importare in OSM le fatture elettroniche relative al ciclo attivo \(vendita\).
 
