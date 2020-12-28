@@ -1,4 +1,4 @@
-# Modulo Disponibilità tecnici
+# Disponibilità tecnici
 
 **Disponibilità tecnici** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo  permette di **gestire la disponibilità dei tecnici**, con la possibilità di selezionare più tecnici e mostrare la loro disponibilità in diversi formati\(mese/settimana/giorno\).
 

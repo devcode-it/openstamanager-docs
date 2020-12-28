@@ -1,4 +1,4 @@
-# Modulo Vendita al banco
+# Vendita al banco
 
 **Vendita al banco** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo permette la vendita al banco di prodotti con o senza codice a barre.
 
