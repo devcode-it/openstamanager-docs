@@ -170,6 +170,7 @@
 ## Moduli a pagamento <a id="moduli-acquistabili"></a>
 
 * [Installazione  e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
+* [Modulo Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [Modulo Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
   * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
   * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
