@@ -173,7 +173,7 @@
 * [Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
   * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
   * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
-* [Sincronizzazione](moduli-acquistabili/modulo-sincronizzazione.md)
+* [E-commerce](moduli-acquistabili/modulo-sincronizzazione.md)
 * [Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
 * [Budget](moduli-acquistabili/budget.md)
 * [Import FE](moduli-acquistabili/modulo-import-fe.md)

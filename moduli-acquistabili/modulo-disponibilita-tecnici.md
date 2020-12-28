@@ -16,3 +16,13 @@ A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici**
 
 ![](../.gitbook/assets/disp1.png)
 
+Attraverso l'applicazione del filtro questo modulo offre una visione  degli **Interventi** in base al tecnico e al calendario selezionato, ****e permette uno sguardo più approfondito su determinate operazioni.
+
+![](../.gitbook/assets/disp2.png)
+
+Grazie al calendario è inoltre possibile creare interventi direttamente dal modulo. 
+
+![](../.gitbook/assets/disp3.png)
+
+Cliccando su un intervento nel calendario è possibile accedere alla schermata di modifica corrispondente.
+

@@ -1,4 +1,4 @@
-# Sincronizzazione
+# E-commerce
 
 **Sincronizzazione** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del gestionale OpenSTAManager verso servizi esterni attraverso una procedura basata sul concetto di importazione ed esportazione dei dati.
 
