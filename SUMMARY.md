@@ -167,7 +167,7 @@
 * [Magazzino](procedure-contabili/magazzino.md)
 * [Contratti di manutenzione](procedure-contabili/assistenza-tecnica.md)
 * [Fattura elettronica](procedure-contabili/fattura-elettronica/README.md)
-  * [Decreto Rilancio 2020](procedure-contabili/fattura-elettronica/superbonus-110.md)
+  * [Decreto Rilancio 2020](procedure-contabili/fattura-elettronica/decreto-rilancio-2020.md)
 
 ## Moduli a pagamento <a id="moduli-acquistabili"></a>
 
