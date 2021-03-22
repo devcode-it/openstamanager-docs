@@ -26,7 +26,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Questo modulo possiede un modulo incentrato sulla gestione delle zone lavorative \(denominato [**Zone**](zone.md)\), raggiungibile all'espansione del menu laterale.
 
-![Navigazione Zone](../../../.gitbook/assets/navigazionezone%20%281%29.PNG)
+![Navigazione Zone](../../../.gitbook/assets/navigazionezone%20%281%29%20%281%29.PNG)
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 6 widget per il filtraggio automatico delle anagrafiche per tipo:
 

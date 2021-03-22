@@ -65,7 +65,7 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr√
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Screenshot creazione righe](../../../../.gitbook/assets/righefatturedivendta.PNG)
+![Screenshot creazione righe](../../../../.gitbook/assets/righefatturedivendta%20%281%29.PNG)
 
 ### Dati fattura accompagnatoria 
 
@@ -85,7 +85,7 @@ Questa sezione compare se si vuole fare una _fattura accompagnatoria di vendita_
 
 Il terzo e ultimo raggruppamento permette di **allegare** un file presente nel computer, specificando la categoria.
 
-![Screenshot allegati](../../../../.gitbook/assets/allegatifatturedivendita%20%281%29.PNG)
+![Screenshot allegati](../../../../.gitbook/assets/allegatifatturedivendita%20%281%29%20%281%29.PNG)
 
 ##  <a id="attenzione"></a>
 

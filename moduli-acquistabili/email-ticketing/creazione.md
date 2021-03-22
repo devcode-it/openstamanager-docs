@@ -17,7 +17,7 @@ Dove sarà necessario compilare i seguenti campi:
 * **Imap password**
 * **Cartella mail processate** 
 
-Finita la compilazione, per salvare le impostazioni, cliccare sul tasto ![](../../.gitbook/assets/salva%20%281%29.png) . 
+Finita la compilazione, per salvare le impostazioni, cliccare sul tasto ![](../../.gitbook/assets/salva%20%282%29%20%281%29.png) . 
 
 Ora tutto è pronto per utilizzare il modulo.
 

@@ -18,7 +18,7 @@ La possibilità di creare nuovi elementi viene resa disponibile dal pulsante ![]
 
 Come descritto sopra, la creazione di nuovi elementi viene resa disponibile dal pulsante _Pianifica ora_. Una volta cliccato il pulsate, verrà aperto un messaggio informativo con la richiesta di selezionare la tipologia di attività relativa al nuovo promemoria; successivamente verranno richieste le **zone per le quali pianificare la fatturazione** con relativo mese.
 
-![GIF Creazione pianificazione fatturazione](../../../../../.gitbook/assets/pianificazionefatturazione%20%281%29.gif)
+![GIF Creazione pianificazione fatturazione](../../../../../.gitbook/assets/pianificazionefatturazione%20%281%29%20%281%29.gif)
 
 ## 
 

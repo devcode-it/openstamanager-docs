@@ -6,7 +6,7 @@
 Parti che definiscono un **impianto,** per capirne meglio il funzionamento [cliccare qui](../componenti.md).
 {% endhint %}
 
-![Screenshot plugin componenti](../../../../.gitbook/assets/screencomponenti.PNG)
+![Screenshot plugin componenti](../../../../.gitbook/assets/screencomponenti%20%285%29.PNG)
 
 ### 
 

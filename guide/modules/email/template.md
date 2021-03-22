@@ -26,7 +26,7 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione template email](../../../.gitbook/assets/add-templateemail%20%281%29.PNG)
+![Screenshot creazione template email](../../../.gitbook/assets/add-templateemail%20%281%29%20%281%29.PNG)
 
 Viene quindi data la possibilità di completare le informazioni di base del nuovo template, quali:
 

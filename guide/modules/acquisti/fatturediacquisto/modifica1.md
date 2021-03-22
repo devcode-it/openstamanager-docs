@@ -55,11 +55,11 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr√
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Screenshot creazione righe](../../../../.gitbook/assets/righefatturadiacquisto%20%283%29.PNG)
+![Screenshot creazione righe](../../../../.gitbook/assets/righefatturadiacquisto%20%283%29%20%283%29.PNG)
 
 ### Allegati
 
 In fine √® possibile aggiungere un **allegato** caricandolo dal proprio computer.
 
-![Screenshot caricamento allegati](../../../../.gitbook/assets/allegatifatturadiacquisto.PNG)
+![Screenshot caricamento allegati](../../../../.gitbook/assets/allegatifatturadiacquisto%20%281%29.PNG)
 

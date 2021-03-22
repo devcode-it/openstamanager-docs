@@ -24,7 +24,7 @@ Esempio del funzionamento:
 
 4. Appariranno le **conversazioni** con il **cliente** via email, quindi apparirà anche la richiesta effettuata dal cliente nel punto 1
 
-![](../../.gitbook/assets/797979797979797%20%281%29.png)
+![](../../.gitbook/assets/797979797979797%20%281%29%20%281%29.png)
 
 5. In fondo alla pagina è presente il tasto ![](../../.gitbook/assets/rispondi.png) , cliccare per rispondere alla richiesta del **cliente**.
 

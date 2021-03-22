@@ -39,7 +39,7 @@ Attraverso questa sezione, √® possibile procedere alla modifica delle informazio
 * Note
 * Note aggiuntive\(interne\)
 
-![Screenshot sezione intestazione](../../../../.gitbook/assets/intestazioneddtinentrata%20%281%29.PNG)
+![Screenshot sezione intestazione](../../../../.gitbook/assets/intestazioneddtinentrata%20%281%29%20%281%29.PNG)
 
 ### Righe
 
@@ -56,13 +56,13 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr√
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Screenshot creazione righe](../../../../.gitbook/assets/righeddtinentrata.PNG)
+![Screenshot creazione righe](../../../../.gitbook/assets/righeddtinentrata%20%281%29.PNG)
 
 ### Allegati
 
 Il terzo raggruppamento di informazioni permette di caricare un file dal proprio computer specificando una categoria.
 
-![Screenshot caricamento allegati](../../../../.gitbook/assets/allegatiddtinentrata%20%281%29.PNG)
+![Screenshot caricamento allegati](../../../../.gitbook/assets/allegatiddtinentrata%20%281%29%20%281%29.PNG)
 
  
 

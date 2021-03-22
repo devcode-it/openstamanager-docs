@@ -29,11 +29,11 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../../.gitbook/assets/co
 * Entrare con la vostra email
 * Inserire email
 
-![inserire email](../../../.gitbook/assets/email%20%284%29.PNG)
+![inserire email](../../../.gitbook/assets/email%20%284%29%20%284%29.PNG)
 
 * Inserire password
 
-![inserire password](../../../.gitbook/assets/password%20%282%29.PNG)
+![inserire password](../../../.gitbook/assets/password%20%283%29.PNG)
 
 * Se appare nuovamente la schermata del punto uno fare nuovamente la spunta sulle 3 caselle, se non appare, invece, apparirà questa schermata:
 
@@ -56,7 +56,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../../.gitbook/assets/co
 
 ![API e servizi](../../../.gitbook/assets/apieservizi.PNG)
 
-Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](../../../.gitbook/assets/credenziali.PNG) 
+Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](../../../.gitbook/assets/credenziali%20%281%29.PNG) 
 
 ![Generazione API Key](../../../.gitbook/assets/chiaveapi.PNG)
 

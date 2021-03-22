@@ -17,7 +17,7 @@ Lo screenshot soprastante appare quando si va a creare un contratto, importante,
 * **Rinnovabile:** Spunto il campo se il contratto è rinnovabile.
 * **Preavviso per rinnovo:** In questo campo si indicano i giorni di preavviso per il rinnovo del contratto. Quindi, in base a quanti giorni ho indicato il **Preavviso per** **rinnovo** mi appariranno nel modulo **Dashboard** nel _widget_ **Contratti in scadenza** il numero di contratti che stanno per scadere. Per esempio se ho specificato il **Preavviso** di 90 giorni, il 90esimo giorno dalla data del rinnovo quel contratto mi apparirà nel widget **Contratti in scadenza.**
 
-![](../.gitbook/assets/contrattiinscadenza%20%281%29.png)
+![](../.gitbook/assets/contrattiinscadenza%20%281%29%20%281%29.png)
 
 * **Data accettazione:** Specificare la data di inizio del contratto.
 * **Data conclusione:** Specificare la data di fine del contratto.

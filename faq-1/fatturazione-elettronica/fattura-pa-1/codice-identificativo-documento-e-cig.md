@@ -24,7 +24,7 @@ I **Dati appalto** verranno visualizzati quando si aggiunge un **Contratto** ad 
 
 Un' ulteriore verifica della presenza o meno dei **Dati appalto** è presente nell'anteprima della fattura cliccando su **Visualizza** in **Fatturazione elettronica:**
 
-![](../../../.gitbook/assets/visualizzafe%20%281%29.png)
+![](../../../.gitbook/assets/visualizzafe%20%281%29%20%281%29.png)
 
 ![](../../../.gitbook/assets/visualizzacigecodiceidentificavodocumento.png)
 

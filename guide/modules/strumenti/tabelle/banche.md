@@ -8,7 +8,7 @@ title: Banche
 Il modulo **Banche** __permette di aggiungere nuove _Banche_ selezionabili nel relativo campo dei diversi moduli.
 {% endhint %}
 
-![Screenshot interfaccia banche](../../../../.gitbook/assets/banche.PNG)
+![Screenshot interfaccia banche](../../../../.gitbook/assets/banche%20%281%29.PNG)
 
 ## Navigazione
 
@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screen creazione banche](../../../../.gitbook/assets/aggiuntabanche%20%281%29.PNG)
+![Screen creazione banche](../../../../.gitbook/assets/aggiuntabanche%20%281%29%20%281%29.PNG)
 
 E' sufficiente inserire _Nome_, _IBAN_ e _BIC\(Bank Identifier Code\)_ per creare un record in **Banche**.
 

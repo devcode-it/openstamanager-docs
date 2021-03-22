@@ -18,7 +18,7 @@ Dove il campo **Quantità** è bloccato e quindi impossibile da modificare. Per 
 
 ![](../.gitbook/assets/quantitamodificata.png)
 
-Così facendo è possibile modificare la **Quantità,** inoltre, viene aggiunto in automatico dal gestionale il campo obbligatorio **Descrizione movimento,** dove si deve inserire una piccola descrizione, e **Data movimento** dove si può andare a specificare una **Data** legata al movimento. Dopo aver modificato la **Quantità** e una descrizione premere il tasto  ![](../.gitbook/assets/salva%20%282%29.png) per portare le modifiche desiderate.
+Così facendo è possibile modificare la **Quantità,** inoltre, viene aggiunto in automatico dal gestionale il campo obbligatorio **Descrizione movimento,** dove si deve inserire una piccola descrizione, e **Data movimento** dove si può andare a specificare una **Data** legata al movimento. Dopo aver modificato la **Quantità** e una descrizione premere il tasto  ![](../.gitbook/assets/salva%20%282%29%20%282%29.png) per portare le modifiche desiderate.
 
 Ora la **Quantità** di forbici non è più -5,00 ma 15,00, cioè la cifra inserita precedentemente.
 
