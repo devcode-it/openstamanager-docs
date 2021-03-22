@@ -14,11 +14,11 @@ Il modulo permetterà di:
 [clic](https://www.openstamanager.com/prodotto/modulo-import-fe-ciclo-attivo/)[ca qui](https://www.openstamanager.com/prodotto/modulo-import-fe-ciclo-attivo/) per procedere all'acquisto
 {% endhint %}
 
-### Installazione e aggiornamento
+## Installazione e aggiornamento
 
 Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
 
-### Utilizzo
+## Utilizzo
 
 A seguito dell'installazione del modulo, cliccando su **Vendite -&gt; Fatture di Vendita** apparirà in alto a destra il menù dei plugin, cliccando su **Importazione FE** apparirà la schermata seguente.
 

@@ -12,9 +12,9 @@ Il sistema API del gestionale è attualmente in sviluppo, e pertanto le funzioni
 Le informazioni qui descritte sono valida a partire dalla versione 2.4 del gestionale.
 {% endhint %}
 
-### Metodo di accesso
+## Metodo di accesso
 
-L'accesso all'API viene garantito esclusivamente tramite il token personale di accesso dell'utente, individuabile nella sezione dedicata alle informazioni sull'account. 
+L'accesso all'API viene garantito esclusivamente tramite il token personale di accesso dell'utente, individuabile nella sezione dedicata alle informazioni sull'account.
 
 ![Area di informazioni dell&apos;utente](../.gitbook/assets/informazioni-utente.png)
 
@@ -32,7 +32,7 @@ Richiesta di accesso
 {% endapi-method-summary %}
 
 {% api-method-description %}
-Si ricordi che, come indicato in Modalità di utilizzo,  il contenuto della richiesta deve essere formattato come JSON: `{"resource":"login", "username": "<username>", "password", "<password>"}`
+Si ricordi che, come indicato in Modalità di utilizzo, il contenuto della richiesta deve essere formattato come JSON: `{"resource":"login", "username": "<username>", "password", "<password>"}`
 {% endapi-method-description %}
 
 {% api-method-spec %}
@@ -58,7 +58,7 @@ Password dell'utente
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -66,7 +66,7 @@ Password dell'utente
 {% endapi-method-spec %}
 {% endapi-method %}
 
-### Gestione degli accessi
+## Gestione degli accessi
 
 E' disponibile un sistema di gestione degli accessi basilare per l'amministratore del gestionale, che può abilitare l'accesso degli utenti attraverso il modulo [**Utenti e permessi**](../modules/strumenti/utentiepermessi.md).
 
@@ -74,7 +74,7 @@ E' disponibile un sistema di gestione degli accessi basilare per l'amministrator
 Non è al momento disponibile un sistema di permessi per il sistema API, e pertanto chiunque possegga un token può accedere a tutte le informazioni che l'API rende disponibile.
 {% endhint %}
 
-### Messaggi di errore
+## Messaggi di errore
 
 In base allo stato dell'API e alla richiesta effettuata, è possibile che vengano restituiti dei messaggi di stato che informano l'utilizzatore del risultato della richiesta.
 
@@ -87,7 +87,7 @@ In particolare, sono presenti i seguenti _status_:
 * `500: Errore del server` - Il gestionale non è in grado di completare la richiesta.
 * `503: Servizio non disponibile` - L'API del gestionale non è abilitata a causa della versione troppo vecchia di MySQL \(&gt;= 5.6.5\).
 
-### Modalità di utilizzo
+## Modalità di utilizzo
 
 Ogni richiesta di comunicazione con l'API deve essere composta di una chiave di accesso e di un'operazione richiesta, e deve essere formattata secondo il formato JSON.
 

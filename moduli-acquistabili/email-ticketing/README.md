@@ -6,7 +6,7 @@
 [Clicca qui](https://www.openstamanager.com/prodotto/email-ticketing/) per procedere all'acquisto
 {% endhint %}
 
-### Installazione e aggiornamento
+## Installazione e aggiornamento
 
 Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](../installazione-e-aggiornamento.md).
 

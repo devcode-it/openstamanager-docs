@@ -8,7 +8,7 @@ description: >-
 
 OpenSTAManager presenta una struttura modulare appositamente pensata per prevedere l'installazione di moduli aggiuntivi e la personalizzazione di quelli esistenti.
 
-### Formato del pacchetto
+## Formato del pacchetto
 
 Al momento il gestionale supporta l'installazione diretta di due componenti tramite la [procedura semplificata](installazione-e-aggiornamento.md#procedura-semplificata) del modulo **Aggiornamenti**: moduli e plugin. Questi componenti possono essere installati e aggiornati in gruppo o singolarmente tramite un apposito archivio ZIP, che segue una struttura di base ben definita.
 
@@ -53,7 +53,7 @@ position = "Tipo di modulo (valori disponibili: tab)"
 
 Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example).
 
-### Procedura semplificata
+## Procedura semplificata
 
 Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o aggiornare, si può procedere con i seguenti passaggi per caricare il file nel gestionale.
 

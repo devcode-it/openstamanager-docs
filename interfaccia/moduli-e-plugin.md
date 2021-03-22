@@ -20,8 +20,6 @@ La schermata principale più comune nei moduli del gestionale presentano è una 
 * Selezionare diversi record attraverso le relative righe per esportarli \(in formato CSV\), stamparli o copiarli
 * Selezionare dei record per effettuare delle azioni generali specifiche del modulo
 
-
-
 ![Esempio dell&apos;interfaccia con tabella generale](../.gitbook/assets/table.png)
 
 Esempi di questo comportamento sono individuabili in **Anagrafiche**, **Attività**, **Articoli** e in molti altri moduli predefiniti.
@@ -66,7 +64,7 @@ Alcuni moduli presentano una componente generale per permettere l'inserimento di
 
 ## Plugin
 
-I plugin sono dei moduli che sono sottoposti alla gestione gerarchica di un altro modulo, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, visibili nella sezione in alto a destra della schermata dei moduli. 
+I plugin sono dei moduli che sono sottoposti alla gestione gerarchica di un altro modulo, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, visibili nella sezione in alto a destra della schermata dei moduli.
 
 ![Plugin](../.gitbook/assets/plugins.png)
 

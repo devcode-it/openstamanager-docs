@@ -1,16 +1,16 @@
 # Budget
 
-**Budget** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo budget permette di visualizzare sotto-forma di grafico e tabella l'**andamento economico** \(costi/ricavi\) e l'**andamento finanziario** \(entrate/uscite\). Oltre all'andamento reale, permette di integrare anche le **previsioni di costi e ricavi**, e delle **entrate** e **uscite**. 
+**Budget** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo budget permette di visualizzare sotto-forma di grafico e tabella l'**andamento economico** \(costi/ricavi\) e l'**andamento finanziario** \(entrate/uscite\). Oltre all'andamento reale, permette di integrare anche le **previsioni di costi e ricavi**, e delle **entrate** e **uscite**.
 
 {% hint style="info" %}
 [Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto
 {% endhint %}
 
-### Installazione e aggiornamento
+## Installazione e aggiornamento
 
 Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
 
-### Utilizzo
+## Utilizzo
 
 A seguito dell'installazione del modulo, cliccando su **Budget** apparirà alla destra la seguente schermata.
 
@@ -18,7 +18,7 @@ A seguito dell'installazione del modulo, cliccando su **Budget** apparirà alla 
 
 ![](../.gitbook/assets/budg5.png)
 
-Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza. 
+Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza.
 
 ![](../.gitbook/assets/budg6.png)
 

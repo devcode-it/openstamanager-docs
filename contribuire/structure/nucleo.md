@@ -107,7 +107,7 @@ Per maggiori informazioni questi file, consultare le sezioni [Framework ](../bas
 
 ## Cartella api
 
-Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API]().
+Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](nucleo.md).
 
 ## Cartella assets
 

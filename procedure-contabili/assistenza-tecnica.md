@@ -37,7 +37,7 @@ Sotto alla sezione **intestazione** è presente la sezione **Costi unitari** nel
 
 Se nel **contratto** sono inclusi i costi specificati sopra in **Costi unitari** è possible mettere tutti i campi a **0.**
 
-Se si vuole creare un proprio **Tipo attività** lo si può fare attraverso il modulo dedicato  [Tipi di attività](../modules/attivita/tipidiattivita/), sotto [**Attività**](../modules/attivita/). In questo modo il tipo di attività verrà visualizzato nella sezione **Costi unitari**.
+Se si vuole creare un proprio **Tipo attività** lo si può fare attraverso il modulo dedicato [Tipi di attività](../modules/attivita/tipidiattivita/), sotto [**Attività**](../modules/attivita/). In questo modo il tipo di attività verrà visualizzato nella sezione **Costi unitari**.
 
 ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/righe-annuali-1.png)
 

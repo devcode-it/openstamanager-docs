@@ -6,11 +6,11 @@
 [Clicca qui](https://www.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto
 {% endhint %}
 
-### Installazione e aggiornamento
+## Installazione e aggiornamento
 
 Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](../installazione-e-aggiornamento.md).
 
-### Utilizzo
+## Utilizzo
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà alla destra la schermata seguente.
 

@@ -10,5 +10,3 @@ La sezione seguente contiene le informazioni fondamentali sulle procedure di ins
 
 {% page-ref page="backup.md" %}
 
-
-

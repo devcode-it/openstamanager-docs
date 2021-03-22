@@ -11,11 +11,11 @@ Servizi/Provider al momento disponibili:
 [Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto
 {% endhint %}
 
-### Installazione e aggiornamento
+## Installazione e aggiornamento
 
 Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
 
-### Utilizzo
+## Utilizzo
 
 A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** apparirà alla destra la seguente schermata.
 

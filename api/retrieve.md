@@ -6,7 +6,7 @@ Le operazioni di _retrieve_ permettono di ottenere le informazioni registrate ne
 In base alle capacità del server in cui il gestionale è installato, è possibile un rallentamento del server in caso di molteplici richieste contemporanee all'API.
 {% endhint %}
 
-### Standard di funzionamento
+## Standard di funzionamento
 
 Considerando la potenziale quantità delle informazioni restituite, il sistema API del gestionale restituisce le informazioni richieste presentando una paginazione di default di 200 record \(impostazione _Lunghezza pagine per API_\).
 
@@ -54,7 +54,7 @@ Array che indica l'ordinamento da impostare sulla richiesta
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -68,7 +68,7 @@ Il rispetto delle opzioni sopra indicate, come per la gestione della paginazione
 Questo è particolarmente rilevante in caso di personalizzazioni, interne o esterne, del software.
 {% endhint %}
 
-### Risorse disponibili
+## Risorse disponibili
 
 * Anagrafiche: `anagrafiche`
 * Interventi: `interventi`

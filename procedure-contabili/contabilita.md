@@ -4,7 +4,7 @@ OpenSTAManager permette di tenere traccia dei pagamenti scaduti e da effettuare 
 
 ![](../.gitbook/assets/scadenzario%20%281%29.png)
 
-### Visualizzazione scadenze
+## Visualizzazione scadenze
 
 Aprendo il modulo **Scadenzario** è possibile vedere le **Fatture di acquisto** e le **Fattura di vendita** in stato **Emessa**, suddivise per le scadenze relativamente registrate**.**
 
@@ -16,23 +16,23 @@ Esempio: creo un **Fattura di vendita** inserendo come pagamento **Bonifico 30/6
 
 ![](../.gitbook/assets/interfacciascandezario.png)
 
-### Chiudere una fattura
+## Chiudere una fattura
 
 Quando la **Fattura di vendita** è stata pagata dal cliente, per non visualizzarla più nello **Scadenzario** si possono adottare **3** metodi differenti:
 
-#### 1. Da emessa a pagato
+### 1. Da emessa a pagato
 
 Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cambiando lo stato della fattura da **Emessa** a **Pagato.** Esempio:
 
 ![](../.gitbook/assets/stato.png)
 
-#### 2. Da record
+### 2. Da record
 
 Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva.png) . Esempio:
 
 ![](../.gitbook/assets/metodo2.png)
 
-#### 3. Da record \(più completo\)
+### 3. Da record \(più completo\)
 
 Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e successivamente cliccando il tasto ![](../.gitbook/assets/aggiungiprimanota.png) , dove apparirà questa schermata:
 
@@ -44,7 +44,7 @@ Cliccando su ![](../.gitbook/assets/+aggiungi.png) andrò ad aggiungere il movim
 
 Così facendo la **fattura** non sarà presente nello **Scadenzario** e sarà visibile il movimento in **Prima nota.**
 
-### Caratteristiche
+## Caratteristiche
 
 Al momento nello **Scadenzario** sono presenti sia le **Fatture di acquisto** sia le **Fatture di vendita.** Le fatture con importo **positivo** sono **Fatture di vendita,** le fatture con importo **negativo** sono **Fatture di acquisto.** Nelle prossime versioni è prevista la divisione dello **Scadenzario** in **Scadenzario Fatture di vendita** e **Scadenzario Fatture di acquisto.**
 
@@ -54,7 +54,7 @@ Per tenere traccia dei pagamenti scaduti e da effettuare è necessario filtrare 
 I pagamenti scaduti e da effettuare che vanno oltre la **Data di scadenza** saranno visualizzati in **rosso.**
 {% endhint %}
 
-### Stampa
+## Stampa
 
 Il gestionale offre anche delle opzioni di **stampa**, presenti sotto la tabella, quali:
 
