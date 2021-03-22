@@ -35,7 +35,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Note
 * Note aggiuntive\(interne\)
 
-![Screenshot sezione fatture di acquisto ](../../../.gitbook/assets/intestazionefatturadiacquisto.PNG)
+![Screenshot sezione fatture di acquisto ](../../../.gitbook/assets/intestazionefatturadiacquisto%20%281%29.PNG)
 
 ## Righe
 
@@ -59,5 +59,5 @@ E' quindi possibile procedere alla modifica e all'eventuale rimozione della spes
 
 In fine è possibile aggiungere un **allegato** caricandolo dal proprio computer.
 
-![Screenshot caricamento allegati](../../../.gitbook/assets/allegatifatturadiacquisto.PNG)
+![Screenshot caricamento allegati](../../../.gitbook/assets/allegatifatturadiacquisto%20%281%29.PNG)
 

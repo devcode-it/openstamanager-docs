@@ -30,5 +30,5 @@ Visualizza gli articoli più venduti con annesso _codice_, _descrizione_ e _quan
 
 * Interventi per tipologia
 
-![Screenshot istogramma interventi per tipologia](../.gitbook/assets/screeninterventipertipologia.PNG)
+![Screenshot istogramma interventi per tipologia](../.gitbook/assets/screeninterventipertipologia%20%281%29.PNG)
 
