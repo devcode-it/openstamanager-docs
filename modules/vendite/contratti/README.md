@@ -14,9 +14,10 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 ## Caratteristiche
 
-Questo modulo presenta presenta 3 [plugin](./) nella sezione di modifica del modulo:
+Questo modulo presenta presenta 4 [plugin](./) nella sezione di modifica del modulo:
 
 * **Pianificazione fatturazione**
 * **Pianificazione attività**
 * **Consuntivo** per il monitoraggio del rapporto budget-spesa
+* **Rinnovi**
 

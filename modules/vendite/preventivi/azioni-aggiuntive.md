@@ -9,7 +9,7 @@ Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella
   * Stampa consuntivo preventivo
   * Stampa preventivo \(solo totale\)
   * Stampa preventivo \(senza totali\)
-  * stampa consuntivo preventivo interno
+  * Stampa consuntivo preventivo interno
 * Invia
   * Invia preventivo 
   * Invia consuntivo preventivo 

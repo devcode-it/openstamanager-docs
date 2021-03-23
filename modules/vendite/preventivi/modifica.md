@@ -47,7 +47,7 @@ E' inoltre supportata la gestione automatica dello _Sconto incondizionato_ globa
 
 ### Dati appalto
 
-Questa sezione è dedicata ai dati di appalto, le segunti informazioni sono da specificare nel caso l'attività fosse effettuata verso la Pubblica amministrazione:
+Questa sezione è dedicata ai dati di appalto, le seguenti informazioni sono da specificare nel caso l'attività fosse effettuata verso la Pubblica amministrazione:
 
 * Identificatore documento
 * Numero riga

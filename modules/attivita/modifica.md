@@ -78,7 +78,7 @@ Viene quindi presentata una selezione di campi relativi alle informazioni dell'a
 
 ### Dati appalto
 
-Questa sezione è dedicata ai dati di appalto, le segunti informazioni sono da specificare nel caso l'attività fosse effettuata verso la Pubblica amministrazione:
+Questa sezione è dedicata ai dati di appalto, le seguenti informazioni sono da specificare nel caso l'attività fosse effettuata verso la Pubblica amministrazione:
 
 * Identificatore documento
 * Numero riga
