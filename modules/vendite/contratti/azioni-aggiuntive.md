@@ -3,14 +3,16 @@
 Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni quali:
 
 * Stampa contratto
-  * Stampa contratto\(senza costi\)
-  * Stampa consuntivo contratto\(senza costi\)
+  * Stampa contratto\(senza prezzi\)
+  * Stampa consuntivo contratto\(senza prezzi\)
   * Stampa consuntivo contratto
+  * Stampa consuntivo contratto interno
 * Invia 
   * Invia contratto
   * Invia consuntivo contratto
 * Crea fattura
 * Rinnova
+* Duplica contratto
 
 ## Rinnova
 
