@@ -9,9 +9,10 @@ Selezionando o creando un _record_ in **Ordini fornitore** sono presenti nella p
 ![Screenshot azioni aggiuntive ordini fornitore](../../../.gitbook/assets/pluginordinifornitore.PNG)
 
 * stampa ordine fornitore
-  * stampa ordine fornitore\(senza costi\)
+  * stampa ordine fornitore\(senza prezzi\)
 * invia ordine \(tramite mail\)
 * Crea
-  * ddt
-  * fattura
+  * Ddt
+  * Fattura
+  * Attività
 
