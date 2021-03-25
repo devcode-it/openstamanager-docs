@@ -68,8 +68,8 @@ Il software permette in automatico di controllare se l'ambiente di utilizzo pres
 
 In particolare, viene richiesta la presenza di un _web server_ [Apache](https://httpd.apache.org/) con il linguaggio di programmazione [PHP](http://php.net) e il [DBMS MySQL](https://www.mysql.com), richiedendo le seguenti versioni minime:
 
-* PHP &gt;= 5.6
-* MySQL &gt;= 5.6.5
+* PHP &gt;= 7.2
+* MySQL &gt;= 5.7
 
 Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo:
 
