@@ -20,19 +20,7 @@ Esempio: creo un **Fattura di vendita** inserendo come pagamento **Bonifico 30/6
 
 Quando la **Fattura di vendita** è stata pagata dal cliente, per non visualizzarla più nello **Scadenzario** si possono adottare **3** metodi differenti:
 
-#### 1. Da emessa a pagato
-
-Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cambiando lo stato della fattura da **Emessa** a **Pagato.** Esempio:
-
-![](../.gitbook/assets/stato.png)
-
-#### 2. Da record
-
-Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva%20%282%29.png) . Esempio:
-
-![](../.gitbook/assets/metodo2.png)
-
-#### 3. Da record \(più completo\)
+#### 1. Con prima nota \(consigliato\)
 
 Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e successivamente cliccando il tasto ![](../.gitbook/assets/aggiungiprimanota.png) , dove apparirà questa schermata:
 
@@ -43,6 +31,18 @@ Cliccando su ![](../.gitbook/assets/+aggiungi.png) andrò ad aggiungere il movim
 ![](../.gitbook/assets/metodo3-1.png)
 
 Così facendo la **fattura** non sarà presente nello **Scadenzario** e sarà visibile il movimento in **Prima nota.**
+
+#### 2. Da scadenzario
+
+Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva%20%282%29.png) . Esempio:
+
+![](../.gitbook/assets/metodo2.png)
+
+#### 3. Cambiando solamente lo stato
+
+Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cambiando lo stato della fattura da **Emessa** a **Pagato.** Esempio:
+
+![](../.gitbook/assets/stato.png)
 
 ### Caratteristiche
 
