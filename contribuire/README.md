@@ -56,7 +56,7 @@ Se la risposta a una di queste domande è positiva, allora probabilmente hai ind
 
 Se hai individuato un bug e desideri segnalarlo, apri una nuova issue provando a mantenerti sulla base del [file di template su GitHub](https://github.com/devcode-it/openstamanager/blob/master/.github/ISSUE_TEMPLATE.md).
 
-Se vuoi suggerire una miglioramento di qualche tipo oppure una nuova funzionalità, sentiti libero di aprire una issue apposita dove spieghi dettagliatamente la modifica che vorresti, la sua utilità e il suo funzionamento generale
+Se vuoi suggerire un miglioramento di qualche tipo oppure una nuova funzionalità, sentiti libero di aprire una issue apposita dove spieghi dettagliatamente la modifica che vorresti, la sua utilità e il suo funzionamento generale
 
 ## Pull Request
 

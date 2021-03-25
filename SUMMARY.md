@@ -160,6 +160,7 @@
     * [Backup](modules/strumenti/backup.md)
     * [Aggiornamenti](modules/strumenti/aggiornamenti.md)
     * [Stato dei servizi](modules/strumenti/stato-dei-servizi.md)
+    * [Checklists](modules/strumenti/checklists.md)
 * [Contribuire](contribuire/README.md)
   * [Personalizzazione](contribuire/base/README.md)
     * [Codice](contribuire/base/code.md)

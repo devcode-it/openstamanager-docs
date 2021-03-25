@@ -29,46 +29,11 @@ Form che permette di caricare:
 
 * aggiornamenti del gestionale
 * Innesti di moduli
-* innesti di plugin
+* Innesti di plugin
 
 ## Ricerca aggiornamenti
 
 ![Screenshot ricerca aggiornamenti](../../.gitbook/assets/ricercaaggiornamenti.PNG)
 
 Cliccando su _Ricerca_ il programma fa un controllo automatico della presenza di aggiornamenti del gestionale
-
-## Moduli installati
-
-Visualizza una serie di informazioni relative ai moduli, quali:
-
-* Nome
-* Versione
-* Stato
-* Compatibilità
-* Opzioni
-
-![Screenshot moduli installati ](../../.gitbook/assets/screenmoduliinstallati.PNG)
-
-## Attenzione
-
-{% hint style="info" %}
-Cliccando sopra un ingranaggio si può disabilitare un _modulo_
-{% endhint %}
-
-## Widgets
-
-Visualizza una serie di informazioni relative ai _Widgets_, quali:
-
-* Nome
-* Posizione
-* Stato
-* Posizione\(per modificare la _Posizione_ di un determinato _Widget_\)
-
-![Screenshot widget](../../.gitbook/assets/screenwidgets.PNG)
-
-## Attenzione
-
-{% hint style="info" %}
-Cliccando sopra una freccia si può modificare la posizione di un _Widget_
-{% endhint %}
 
