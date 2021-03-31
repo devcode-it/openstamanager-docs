@@ -24,27 +24,19 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 ![Screenshot creazione import](../../.gitbook/assets/aggiungiimport.PNG)
 
-Proseguendo con il click sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
+Selezionando un modulo sarà visibile un ulteriore pulsante ![](../../.gitbook/assets/imp.png) , facendo click con il mouse si aprirà un file CSV di esempio di come importare i dati.
+
+Una volta creato il file CSV  cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/campiimport.PNG)
 
-La quale mostrerà il contenuto di ogni colonna. Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo _Articoli_.
-
-![Screenshot import appena creato](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/importazione-2.PNG)
+La quale mostrerà il contenuto di ogni colonna. Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo specificato.
 
 ### Attenzione
 
 {% hint style="warning" %}
-Se devi importare un file **CSV** di una **Anagrafica** devi andare ad aggiungere nel file una colonna **Tipologia** specificando il **Tipo di anagrafica\(Agente,Vettore,Cliente,Azienda,Fornitore\)**
+Consultare il file di esempio per importare i dati correttamente.
+
+Per importare un file **CSV** di un articolo aggiungendo il prezzo di listino lasciare vuota la colonna "Qta minima" e "Qta massima" per impostare un prezzo che non dipende dalle quantità.
 {% endhint %}
-
-![Aggiunta campo Tipologia al file CSV](../../.gitbook/assets/tipologiacliente.PNG)
-
-{% hint style="warning" %}
-Non andando a specificare la **Tipologia** nel modulo **Anagrafiche** il campo **Tipo** rimarrà vuoto.
-
-Nell'immagine sottostante il _record_ con **Ragione sociale Test** ha il campo **Tipo** vuoto, mentre nel successivo _record_ è presente, proprio perché è specificata la **Tipologia** nel file **CSV.**
-{% endhint %}
-
-![Anagrafica importata correttamente](../../.gitbook/assets/importazioneclienteok.PNG)
 
