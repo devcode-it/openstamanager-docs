@@ -32,6 +32,8 @@
   * [Gestione email](modules/email/README.md)
     * [Account email](modules/email/account.md)
     * [Template email](modules/email/template.md)
+    * [Newsletter](modules/email/newsletter.md)
+    * [Liste](modules/email/liste.md)
     * [Aruba](modules/email/aruba.md)
     * [Gmail](modules/email/gmail.md)
     * [Invio](modules/email/invio.md)
@@ -185,7 +187,7 @@
 * [Fattura elettronica](procedure-contabili/fattura-elettronica/README.md)
   * [Decreto Rilancio 2020](procedure-contabili/fattura-elettronica/decreto-rilancio-2020.md)
 
-## Moduli a pagamento <a id="moduli-acquistabili"></a>
+## Moduli premium <a id="moduli-acquistabili"></a>
 
 * [Installazione  e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
 * [Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
