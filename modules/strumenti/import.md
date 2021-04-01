@@ -24,19 +24,17 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 ![Screenshot creazione import](../../.gitbook/assets/aggiungiimport.PNG)
 
-Selezionando un modulo sarà visibile un ulteriore pulsante ![](../../.gitbook/assets/imp.png) , facendo click con il mouse si aprirà un file CSV di esempio di come importare i dati.
+Selezionando un modulo sarà visibile un ulteriore pulsante ![](../../.gitbook/assets/imp.png) , facendo click con il mouse si aprirà un file CSV di esempio di come importare i dati.  
+È possibile importare tre tipologie di dati:
 
-Una volta creato il file CSV  cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
+* Anagrafiche \(informazioni sulla creazione del file CSV su Import anagrafiche\)
+* Articoli \(informazioni sulla creazione del file CSV su [Import articoli](../magazzino/articoli-1/import-articoli.md)\)
+* Articoli \(informazioni sulla creazione del file CSV su [Import listini](../magazzino/listini/import-listini.md)\)
+
+Una volta creato il file CSV  e selezionato sul campo **File,** cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/campiimport.PNG)
 
-La quale mostrerà il contenuto di ogni colonna. Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo specificato.
-
-### Attenzione
-
-{% hint style="warning" %}
-Consultare il file di esempio per importare i dati correttamente.
-
-Per importare un file **CSV** di un articolo aggiungendo il prezzo di listino lasciare vuota la colonna "Qta minima" e "Qta massima" per impostare un prezzo che non dipende dalle quantità.
-{% endhint %}
+La quale mostrerà il contenuto di ogni colonna, se l'importazione è stata effettuata tenendo i stessi nomi delle colonne presenti nel file d'esempio i menù a tendina di ogni colonna saranno già selezionati automaticamente, in caso contrario selezionare manualmente le colonne corrispondenti.   
+Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo specificato.
 
