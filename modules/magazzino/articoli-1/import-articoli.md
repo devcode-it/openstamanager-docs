@@ -1,7 +1,7 @@
 # Import articoli
 
 {% hint style="info" %}
-È possibile importare i listini degli articoli in maniera massiva tramite il caricamento di un file CSV.
+È possibile importare i gli articoli in maniera massiva tramite il caricamento di un file CSV.
 {% endhint %}
 
 ### Procedura

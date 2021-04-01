@@ -27,7 +27,7 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 Selezionando un modulo sarà visibile un ulteriore pulsante ![](../../.gitbook/assets/imp.png) , facendo click con il mouse si aprirà un file CSV di esempio di come importare i dati.  
 È possibile importare tre tipologie di dati:
 
-* Anagrafiche \(informazioni sulla creazione del file CSV su Import anagrafiche\)
+* Anagrafiche \(informazioni sulla creazione del file CSV su [Import anagrafiche](../anagrafiche/import-anagrafiche.md)\)
 * Articoli \(informazioni sulla creazione del file CSV su [Import articoli](../magazzino/articoli-1/import-articoli.md)\)
 * Articoli \(informazioni sulla creazione del file CSV su [Import listini](../magazzino/listini/import-listini.md)\)
 

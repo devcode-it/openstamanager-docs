@@ -36,3 +36,7 @@ Si presenterà quindi questa schermata:
 
 Spuntando la casella _**Causale predefinita**_ la suddetta causale sarà impostata come causale di trasporto predefinita per i _Ddt_.
 
+Spuntando la casella _**Importabile?**_  la suddetta causale permetterà l'importazione a livello contabile del documento collegato in altri documenti \(per esempio, in fatture\).
+
+Spuntando la casella _**Abilita storno**_ la suddetta causale permetterà di stornare il documento come nota di credito.
+
