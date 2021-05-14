@@ -59,7 +59,7 @@ La componente **Acquisto** permette il completamento delle informazioni di:
 * _Conto predefinito_
 * _Unità di misura secondaria \(per le stampe ordini fornitori\)_
 * _Fattore moltiplicativo \(per le stampe ordini fornitori\)_
-* _Quantità multipla_
+* _Quantità multipla \(scorta minima dell'articolo a magazzino, è un campo di informazione non propone l'ordine al fornitore\)_
 
 La sezione **Vendita** presenta i seguenti campi:
 
