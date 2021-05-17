@@ -151,6 +151,6 @@ La riga iniziante da `#` è quella originale, mentre quella seguente è l'opzion
 
 Discussioni originali:
 
-* [\[RISOLTO\] Tabelle Mancanti](http://www.openstamanager.com/forum/viewtopic.php?f=2&t=86981)
+* [\[RISOLTO\] Tabelle Mancanti](https://forum.openstamanager.comviewtopic.php?f=2&t=86981)
 * [MySQL running in Strict Mode and giving me problems. How to fix this?](http://stackoverflow.com/questions/21667601/mysql-running-in-strict-mode-and-giving-me-problems-how-to-fix-this)
 

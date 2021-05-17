@@ -38,5 +38,5 @@ L'insieme di cambiamenti introdotti nel periodo compreso tra giugno 2016 e giugn
 
 Hai delle proposte per migliorare questa documentazione? Video, immagini, descrizioni, esempi,... sono tutti i benvenuti!
 
-Contattaci attraverso il [forum ufficiale](http://www.openstamanager.com/forum/) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
+Contattaci attraverso il [forum ufficiale](https://forum.openstamanager.com) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
 

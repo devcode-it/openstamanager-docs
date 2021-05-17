@@ -64,7 +64,7 @@ Se sei in grado di risolvere uno dei bug segnalati oppure vuoi completare una nu
 
 ## Community
 
-Siamo presenti su [Facebook](https://www.facebook.com/openstamanager), e il nostro forum ufficiale è disponibile all'indirizzo [http://www.openstamanager.com/forum/](http://www.openstamanager.com/forum/).
+Siamo presenti su [Facebook](https://www.facebook.com/openstamanager), e il nostro forum ufficiale è disponibile all'indirizzo [https://forum.openstamanager.com](https://forum.openstamanager.com).
 
 Cerchiamo di essere disponibili quanto possibile, ma non sempre riusciamo a rispondere tempestivamente.
 
