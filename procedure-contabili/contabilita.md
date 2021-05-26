@@ -28,7 +28,7 @@ Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzari
 
 ### 2. Da record
 
-Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva.png) . Esempio:
+Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](../.gitbook/assets/salva%20%282%29%20%282%29%20%282%29.png) . Esempio:
 
 ![](../.gitbook/assets/metodo2.png)
 

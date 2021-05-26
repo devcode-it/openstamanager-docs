@@ -8,7 +8,7 @@ title: Banche
 Il modulo **Banche** _\_permette di aggiungere nuove \_Banche_ selezionabili nel relativo campo dei diversi moduli.
 {% endhint %}
 
-![Screenshot interfaccia banche](../../../.gitbook/assets/banche.PNG)
+![Screenshot interfaccia banche](../../../.gitbook/assets/banche%20%281%29%20%281%29%20%281%29.PNG)
 
 ## Navigazione
 

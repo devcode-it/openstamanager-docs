@@ -65,7 +65,7 @@ Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o
 
 ![](../.gitbook/assets/passaggio2-2.png)
 
-* Cliccare sul tasto  ![](../.gitbook/assets/carica.png) per andare a caricare il modulo in OpenSTAManager.
+* Cliccare sul tasto  ![](../.gitbook/assets/carica%20%281%29.PNG) per andare a caricare il modulo in OpenSTAManager.
 
 ![](../.gitbook/assets/passaggio3.png)
 

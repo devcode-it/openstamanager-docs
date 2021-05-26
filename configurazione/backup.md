@@ -25,7 +25,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 L'esecuzione manuale del backup è estremamente semplice:
 
-![](../.gitbook/assets/creazionebackup%20%281%29.gif)
+![](../.gitbook/assets/creazionebackup%20%282%29%20%282%29%20%281%29.gif)
 
 ## Formato dei backup
 

@@ -8,7 +8,7 @@ title: Inizializzazione
 Una volta completata l'installazione del gestionale, ed in alcuni casi a seguito di un aggiornamento, può essere presentata un'ulteriore schermata per l'inizializzazione del software.
 {% endhint %}
 
-![Schermata di inizializzazione](../.gitbook/assets/info.png)
+![Schermata di inizializzazione](../.gitbook/assets/info%20%282%29.PNG)
 
 Attraverso questa funzionalità vengono generalmente completate delle informazioni di base per il funzionamento del software, suddivise secondo tre categorie:
 

@@ -6,7 +6,7 @@ title: Creazione intervento
 
 Utilizzando il calendario presente nella **Dashboard** è possibile aggiungere un intervento trascinando il mouse, come nell'esempio che segue:
 
-{% file src="../../.gitbook/assets/creazioneattivita.gif" caption="Creazione attività" %}
+{% file src="../../.gitbook/assets/creazioneattivita \(1\) \(1\) \(2\).gif" caption="Creazione attività" %}
 
 Creando un intervento come precedentemente indicato si hanno a disposizione una serie di campi da compilare, quali:
 
