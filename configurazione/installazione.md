@@ -71,9 +71,7 @@ In particolare, viene richiesta la presenza di un _web server_ [Apache](https://
 * PHP &gt;= 7.2
 * MySQL &gt;= 5.7
 
-Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo:
-
-![](../.gitbook/assets/basic.png)
+Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo.
 
 Successivamente, se il controllo precedente viene soddisfatto, il software verrà effettivamente avviato e sarà possibile procedere nella configurazione.
 
