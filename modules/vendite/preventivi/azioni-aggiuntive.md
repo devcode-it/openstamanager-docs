@@ -17,6 +17,7 @@ Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella
 * Crea nuova revisione
 * Crea
   * Ordine cliente
+  * Ordine fornitore
   * DDT in uscita
   * Contratto
   * Fattura

@@ -61,6 +61,8 @@ Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletame
 
 La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email. Per maggiori informazioni, visitare la documentazione di [invio email](invio.md).
 
+È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
+
 ## Particolarità
 
 Sono presenti dei template predefiniti per diversi moduli, personalizzabili a piacimento.
