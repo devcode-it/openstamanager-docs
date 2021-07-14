@@ -12,7 +12,7 @@ Per maggiori informazioni sulle modalità di installazione e aggiornamento del m
 
 Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 
-* P910 - PARAMETRI COMUNICAZIONE PROTOCOLLO: **CUSTOM XON/XOFF**
+* PARAMETRI COMUNICAZIONE PROTOCOLLO: **XON/XOFF**
 * BAUNDRATE: **9600**
 * BIT NUMBER: **\[8,NONE,1\]**
 * XON-XOFF TX FOOTER: **\[DISABILITATO\]**
@@ -20,6 +20,8 @@ Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 * HANDSHAKE: **\[XON/XOFF\]** 
 * MODO FPU: **\[DISABILITATO\]**
 * CANALE PC: **\[Ethernet\]**
+* VIRGOLA INCLUSA: **SI**
+* ECHO FULL: **NO**
 
 ### Utilizzo
 
