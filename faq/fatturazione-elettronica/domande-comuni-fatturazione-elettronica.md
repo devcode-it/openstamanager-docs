@@ -17,7 +17,7 @@ E' un codice che identifica il canale dello **SDI** su cui verranno ricevute le 
 Può succedere di emettere una fattura con importi, descrizioni e/o dati anagrafici errati.
 
 * Se la fattura non è stata inviata allo **SDI** non è un problema: va modificata e corretta.
-* Se la fattura è già stata inviata allo **SDI**, va emessa una nota di credito per annullarla e va emessa una nuova fattura. Sia la nota di credito che la nuova fattura vanno ovviamente inviate allo **SDI**
+* Se la fattura è già stata inviata allo **SDI**, ed è arrivata all'agenzia delle entrate, va emessa una nota di credito per annullarla e va emessa una nuova fattura. Sia la nota di credito che la nuova fattura vanno ovviamente inviate allo **SDI**
 * Se ci sono dati anagrafici errati, come la **partita IVA**, può essere che venga **scartata dallo SDI**. In questo caso vale sempre la nota di credito e l'emissione di una nuova fattura.
 
 ## **Entro quando va inviata la fattura allo SDI?**

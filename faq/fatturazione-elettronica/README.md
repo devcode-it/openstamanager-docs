@@ -36,10 +36,10 @@ Gli stati possono essere:
 
 * **In elaborazione:** la fattura è in transito dal gestionale al SDI\(Sistema Di Interscambio\) dell'Agenzia delle Entrate
 * **Consegnata:** la fattura è arrivata a destinazione al cliente
-* **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore. **IN QUESTO CASO VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA INVIATA ED EMETTERLA NUOVAMENTE CON LE DOVUTE CORREZIONI.**
+* **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI.**
 * **Mancata consegna:**  la fattura risulta inviata all'Agenzia delle Entrate, ma il ricevente non ha definito un canale tramite cui riceverla, per cui la visualizzerà solo accedendo al proprio cassetto fiscale. Questo caso è **frequente** nel caso di invio **fatture elettroniche** a persone fisiche o per aziende che non hanno definito un canale di ricezione. In questi casi, è necessario/consigliato inviare una copia di cortesia via mail o su supporto cartaceo per informare dell'invio della fattura elettronica 
-* **Accettata**\(solo Pubblica Amministrazione\): significa che la fattura è stata ricevuta e che il ricevente ha accettato i dati in essa contenuti.
-* **Rifiutata\(**solo Pubblica Amministrazione\): significa che la fattura è stata ricevuta ma il ricevente non ha accettato i dati in essa contenuti. **IN QUESTO CASO VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA INVIATA ED EMETTERLA NUOVAMENTE CON LE DOVUTE CORREZIONI**
+* **Accettata**\(solo Pubblica Amministrazione\): significa che la fattura è stata consegnata e che il ricevente ha accettato i dati in essa contenuti.
+* **Rifiutata\(**solo Pubblica Amministrazione\): significa che la fattura è stata consegnata ma il ricevente non ha accettato i dati in essa contenuti. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI**
 
 ### Fatture passive
 
