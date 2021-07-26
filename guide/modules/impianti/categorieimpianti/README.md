@@ -8,11 +8,11 @@ title: Categorie impianti
 Il modulo **Categorie impianti** permette di raggruppare impianti per _categoria_.
 {% endhint %}
 
-![Screenshot interfaccia categorie impianti](../../../../.gitbook/assets/interfacciacategorieimpianti%20%283%29%20%283%29.PNG)
+![Screenshot interfaccia categorie impianti](../../../../.gitbook/assets/interfacciacategorieimpianti%20%283%29%20%283%29%20%284%29%20%284%29.PNG)
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il modulo **MyImpianti**.
 
-![Screenshot navigazione categorie impianti](../../../../.gitbook/assets/posizionecategorieimpianti%20%283%29%20%282%29.PNG)
+![Screenshot navigazione categorie impianti](../../../../.gitbook/assets/posizionecategorieimpianti%20%283%29%20%283%29%20%283%29%20%282%29.PNG)
 

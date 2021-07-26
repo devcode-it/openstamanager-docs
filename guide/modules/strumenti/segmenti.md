@@ -28,7 +28,7 @@ Dove si avranno questi campi da compilare:
 
 ![Screenshot creazione segmenti ](../../../.gitbook/assets/aggiungeresegmenti.PNG)
 
-Per concludere la creazione di un _segmento_ cliccare su ![](../../../.gitbook/assets/+aggiungi.PNG) , dove comparirà questa schermata:
+Per concludere la creazione di un _segmento_ cliccare su ![](../../../.gitbook/assets/+aggiungi%20%281%29.PNG) , dove comparirà questa schermata:
 
 ![Screenshot creazione segmento](../../../.gitbook/assets/creazionesegmento.PNG)
 

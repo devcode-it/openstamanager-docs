@@ -10,5 +10,5 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 Successivamente si prosegue compilando i campi sottostanti:
 
-![Screenshot creazione prima nota](../../../../.gitbook/assets/campiprimanota%20%281%29%20%281%29.PNG)
+![Screenshot creazione prima nota](../../../../.gitbook/assets/campiprimanota%20%281%29%20%281%29%20%281%29.PNG)
 

@@ -16,5 +16,5 @@ Il modulo **Categorie impianti** ha quindi la possibilità di creare una _catego
 
 Compilando i campi soprastanti si va a creare una nuova **Categoria di impianti**
 
-![](../../../../.gitbook/assets/interfacciacategorieimpianti%20%283%29%20%282%29.PNG)
+![](../../../../.gitbook/assets/interfacciacategorieimpianti%20%283%29%20%283%29%20%284%29%20%282%29.PNG)
 

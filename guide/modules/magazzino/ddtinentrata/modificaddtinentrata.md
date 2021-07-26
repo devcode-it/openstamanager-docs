@@ -56,7 +56,7 @@ Una volta inserite correttamente le informazioni richieste, la nuova spesa verr√
 
 E' quindi possibile procedere alla modifica e all'eventuale rimozione della spesa attraverso i pulsanti dedicati della spesa.
 
-![Screenshot creazione righe](../../../../.gitbook/assets/righeddtinentrata%20%281%29.PNG)
+![Screenshot creazione righe](../../../../.gitbook/assets/righeddtinentrata%20%281%29%20%281%29%20%282%29.PNG)
 
 ### Allegati
 

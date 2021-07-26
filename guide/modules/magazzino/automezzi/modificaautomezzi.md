@@ -29,7 +29,7 @@ E aggiungere una _descrizione_
 
 Permette di assegnare un **Tecnico** responsabile di automezzo per un determinato periodo 
 
-![Screenshot sezione tecnici responsabili automezzo](../../../../.gitbook/assets/tecniciautomezzi%20%281%29.PNG)
+![Screenshot sezione tecnici responsabili automezzo](../../../../.gitbook/assets/tecniciautomezzi%20%281%29%20%282%29.PNG)
 
 ### Magazzino automezzo 
 

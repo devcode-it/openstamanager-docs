@@ -30,7 +30,7 @@ Grazie a **Opzioni di visualizzazione** è possibile modificare diversi campi, q
 * Nome del modulo\(Modificare il nome che identifica il modulo\)
 * Query personalizzata\(Scrivere una query in sostituzione a quella di default\)
 
-![Screenshot opzioni di visualizzazione viste](../../../.gitbook/assets/opzionidivisualizzazione%20%281%29%20%281%29.PNG)
+![Screenshot opzioni di visualizzazione viste](../../../.gitbook/assets/opzionidivisualizzazione%20%281%29%20%281%29%20%281%29%20%281%29.PNG)
 
 Grazie a **Campi disponibili** è possibile cambiare:
 

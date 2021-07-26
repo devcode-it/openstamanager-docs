@@ -32,7 +32,7 @@ Si presenterà quindi questa schermata:
 
 Nella quale è possibile aggiungere un _utente_ al gruppo appena selezionato:
 
-![](../../../.gitbook/assets/aggiungtiutente%20%281%29%20%281%29.PNG)
+![](../../../.gitbook/assets/aggiungtiutente%20%281%29%20%281%29%20%281%29%20%281%29.PNG)
 
 Aggiungendo un _utente_, per potergli permettere l'accesso, bisogna assegnarli:
 
