@@ -16,9 +16,34 @@ Per abilitare l'autenticazione OAuth2 per un account email è necessario utilizz
 
 L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione:
 
-* **Server SMTP**: imap.google.com 
-* **Porta SMTP**: 993
-* **Sicurezza SMTP**: ssl
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Configurazione IMAP</b>
+      </th>
+      <th style="text-align:left"><b>Configurazione SMTP</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Server SMTP</b>: imap.google.com</li>
+          <li><b>Porta</b>: 993</li>
+          <li><b>Sicurezza</b>: SSL</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Server</b>: smtp.gmail.com</li>
+          <li><b>Porta</b>: 587 / 465</li>
+          <li><b>Sicurezza</b>: TSL / SSL</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Creazione progetto
 
@@ -60,9 +85,34 @@ Una volta completati i passaggi precedenti, sarà possibile utilizzare il pulsan
 
 L'accesso all'account Microsoft tramite OAuth2 richiede la seguente configurazione:
 
-* **Server SMTP**: outlook.office365.com
-* **Porta SMTP**: 993
-* **Sicurezza SMTP**: ssl
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Configurazione IMAP</b>
+      </th>
+      <th style="text-align:left"><b>Configurazione SMTP</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Server</b>: outlook.office365.com</li>
+          <li><b>Porta</b>: 993</li>
+          <li><b>Sicurezza</b>: SSL</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Server</b>: smtp-mail.outlook.com</li>
+          <li><b>Porta</b>: 587</li>
+          <li><b>Sicurezza</b>: SSL</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Registrazione App
 
