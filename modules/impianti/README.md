@@ -18,7 +18,7 @@ Questo modulo possiede un sotto-modulo incentrato sulla gestione dei componenti 
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e non presenta widget.
 
-Sono inoltre presenti 2 [_plugin_ ](plugin/)nella sezione di modifica del modulo:
+Sono inoltre presenti 2 [_plugin_ ]()nella sezione di modifica del modulo:
 
 * Componenti \(integrato con il modulo **Gestione componenti**\)
 * Interventi svolti \(relativo al modulo **Attività**\)
