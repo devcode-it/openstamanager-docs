@@ -24,7 +24,7 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 ![Screenshot creazione import](../../.gitbook/assets/aggiungiimport.PNG)
 
-Proseguendo con il click sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
+Proseguendo con il click sul tasto ![](../../.gitbook/assets/+aggiungi%20%281%29.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/campiimport.PNG)
 

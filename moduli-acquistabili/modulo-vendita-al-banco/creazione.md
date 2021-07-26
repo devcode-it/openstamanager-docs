@@ -59,6 +59,6 @@ Una volta inserito un articolo posso eseguire diverse azioni grazie a questi pul
 
 * Cliccando il pulsante ![](../../.gitbook/assets/giallo.png) vado a decrementare la quantità dell'articolo di 1.
 * Cliccando il pulsante ![](../../.gitbook/assets/verde.png) vado ad aumentare la quantità dell'articolo di 1.
-* Cliccando il pulsante ![](../../.gitbook/assets/blue%20%281%29%20%281%29.png) posso andare ad applicare un **Prezzo unitario,** uno **Sconto unitario** e l'**IVA**.
+* Cliccando il pulsante ![](../../.gitbook/assets/blue%20%281%29%20%282%29%20%281%29.png) posso andare ad applicare un **Prezzo unitario,** uno **Sconto unitario** e l'**IVA**.
 * Cliccando il pulsante ![](../../.gitbook/assets/rosso.png) vado a rimuovere l'articolo.
 

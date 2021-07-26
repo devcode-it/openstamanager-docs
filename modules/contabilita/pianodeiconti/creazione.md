@@ -1,6 +1,6 @@
 # Creazione
 
-La creazione di nuovi elementi si esegue cliccando sul simbolo ![](../../../.gitbook/assets/aggiungere%20%281%29.PNG) alla fine di ogni sezione dei vari _costi_ .
+La creazione di nuovi elementi si esegue cliccando sul simbolo ![](../../../.gitbook/assets/aggiungere%20%281%29%20%282%29.PNG) alla fine di ogni sezione dei vari _costi_ .
 
 ![Screen creazione nuovo conto](../../../.gitbook/assets/contoeconomico.PNG)
 
