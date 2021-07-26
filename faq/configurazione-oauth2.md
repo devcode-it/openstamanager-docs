@@ -126,7 +126,7 @@ Al momento della compilazione delle informazioni, è fondamentale impostare corr
 
 ![Compilazione dati per la registrazione applicazione](../.gitbook/assets/dati.png)
 
-Una volta completato questo passaggio, viene reso disponibile il **Client ID** sotto il nome di **ID applicazione \(client\)**. La generazione del Client Secret avviene attraverso il menu laterale **Certificati e segreti**, che propone la creazione del segreto tramite il pulsante **Nuovo segreto client**: il **Client Secret** è quindi disponibile sotto il nome **ID segreto**.
+Una volta completato questo passaggio, viene reso disponibile il **Client ID** sotto il nome di **ID applicazione \(client\)**. La generazione del Client Secret avviene attraverso il menu laterale **Certificati e segreti**, che propone la creazione del segreto tramite il pulsante **Nuovo segreto client**: il **Client Secret** è quindi disponibile sotto il nome **Valore** del nuovo segreto.
 
 ![Creazione segreto applicazione](../.gitbook/assets/segreto.png)
 
