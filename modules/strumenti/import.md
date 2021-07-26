@@ -31,7 +31,7 @@ Selezionando un modulo sarà visibile un ulteriore pulsante ![](../../.gitbook/a
 * Articoli \(informazioni sulla creazione del file CSV su [Import articoli](../magazzino/articoli-1/import-articoli.md)\)
 * Articoli \(informazioni sulla creazione del file CSV su [Import listini](../magazzino/listini/import-listini.md)\)
 
-Una volta creato il file CSV  e selezionato sul campo **File,** cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
+Una volta creato il file CSV  e selezionato sul campo **File,** cliccando sul tasto ![](../../.gitbook/assets/+aggiungi%20%281%29.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/campiimport.PNG)
 
