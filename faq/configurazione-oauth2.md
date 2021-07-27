@@ -39,6 +39,8 @@ L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione:
           <li><b>Server</b>: smtp.gmail.com</li>
           <li><b>Porta</b>: 587 / 465</li>
           <li><b>Sicurezza</b>: TSL / SSL</li>
+          <li><b>Non verificare il certificato SSL</b>
+          </li>
         </ul>
       </td>
     </tr>
