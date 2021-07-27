@@ -47,7 +47,7 @@ L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione:
 
 ### Creazione progetto
 
-Per ottenere le chiavi di accesso Client ID e Secret, è necessario quindi accedere all'indirizzo [https://console.developers.google.com/](https://console.developers.google.com/). Dall'interfaccia disponibili si procede quindi a generare un Nuovo progetto appositamente denominato "OpenSTAManager"; in alternativa, se è disponibile un progetto pre-esistente, è possibile utilizzarlo.
+Per ottenere le chiavi di accesso Client ID e Secret, è necessario quindi accedere all'indirizzo [https://console.developers.google.com/](https://console.developers.google.com/). Dall'interfaccia disponibile si procede quindi a generare un Nuovo progetto appositamente denominato "OpenSTAManager"; in alternativa, se è disponibile un progetto pre-esistente, è possibile utilizzarlo.
 
 ![Schermata di Nuovo progetto](../.gitbook/assets/image%20%2814%29.png)
 
@@ -105,9 +105,11 @@ L'accesso all'account Microsoft tramite OAuth2 richiede la seguente configurazio
       </td>
       <td style="text-align:left">
         <ul>
-          <li><b>Server</b>: smtp-mail.outlook.com</li>
+          <li><b>Server</b>: smtp.office365.com</li>
           <li><b>Porta</b>: 587</li>
-          <li><b>Sicurezza</b>: SSL</li>
+          <li><b>Sicurezza</b>: TLS</li>
+          <li><b>Non verificare il certificato SSL</b>
+          </li>
         </ul>
       </td>
     </tr>
