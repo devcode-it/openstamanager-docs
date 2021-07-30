@@ -19,7 +19,7 @@ Cliccando su questo pulsante si aprirà un file di esempio di come importare gli
 A questo punto si può iniziare a creare il file CSV per l'importazione degli articoli, utilizzare gli stessi nomi delle colonne per automatizzare l'importazione dei dati.
 
 {% hint style="danger" %}
-Attenzione! Rimuovere o lasciare vuota la colonna D \(Fornitore predefinito\) come in foto, il fornitore predefinito è selezionabile dopo aver inserito il prezzo di listino nel plugin [Prezzi ](plugin/prezzi-specifici.md)[specifici](plugin/prezzi-specifici.md)
+Attenzione! Rimuovere o lasciare vuota la colonna D \(Fornitore predefinito\) come in foto, il fornitore predefinito è selezionabile dopo aver inserito il prezzo di listino nel plugin [Prezzi ]()[specifici]()
 {% endhint %}
 
 
