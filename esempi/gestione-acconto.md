@@ -1,7 +1,7 @@
 # Gestione acconto
 
 {% hint style="info" %}
-Gestione degli acconti nei documenti di vendita
+Gestione degli acconti nei documenti di vendita.
 {% endhint %}
 
 Esempio: _Registrazione di un preventivo per un importo di 1000€ con acconto di 300€ e successivo saldo pari a 700€_
