@@ -183,6 +183,7 @@
   * [Fattura elettronica](esempi/fattura-elettronica/README.md)
     * [Decreto Rilancio 2020](esempi/fattura-elettronica/decreto-rilancio-2020.md)
   * [Sconto combinato](esempi/sconto-combinato.md)
+  * [Gestione acconto](esempi/gestione-acconto.md)
 * [Contribuire](contribuire/README.md)
   * [Personalizzazione](contribuire/base/README.md)
     * [Codice](contribuire/base/code.md)
