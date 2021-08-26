@@ -176,6 +176,13 @@
     * [Aggiornamenti](modules/strumenti/aggiornamenti.md)
     * [Stato dei servizi](modules/strumenti/stato-dei-servizi.md)
     * [Checklists](modules/strumenti/checklists.md)
+* [Esempi](esempi/README.md)
+  * [Incassi e pagamenti](esempi/contabilita.md)
+  * [Magazzino](esempi/magazzino.md)
+  * [Contratti di manutenzione](esempi/assistenza-tecnica.md)
+  * [Fattura elettronica](esempi/fattura-elettronica/README.md)
+    * [Decreto Rilancio 2020](esempi/fattura-elettronica/decreto-rilancio-2020.md)
+  * [Sconto combinato](esempi/sconto-combinato.md)
 * [Contribuire](contribuire/README.md)
   * [Personalizzazione](contribuire/base/README.md)
     * [Codice](contribuire/base/code.md)
@@ -187,14 +194,6 @@
     * [Plugin](contribuire/structure/plugin.md)
     * [Stampe](contribuire/structure/stampe.md)
     * [Widget](contribuire/structure/widget.md)
-
-## Procedure contabili
-
-* [Incassi e pagamenti](procedure-contabili/contabilita.md)
-* [Magazzino](procedure-contabili/magazzino.md)
-* [Contratti di manutenzione](procedure-contabili/assistenza-tecnica.md)
-* [Fattura elettronica](procedure-contabili/fattura-elettronica/README.md)
-  * [Decreto Rilancio 2020](procedure-contabili/fattura-elettronica/decreto-rilancio-2020.md)
 
 ## Moduli premium <a id="moduli-acquistabili"></a>
 
