@@ -10,11 +10,11 @@ A partire dalla versione 2.4.24, il gestionale OpenSTAManager supporta  l'autent
 
 ![Modulo Account email con pannello OAuth2](../.gitbook/assets/image%20%2813%29.png)
 
-Per abilitare l'autenticazione OAuth2 per un account email è necessario utilizzare la relativa checkbox _Abilita OAuth2_ e selezionare il _Provider_ tra quelli disponibili. A seguito di queste azioni, comparirà un link dinamico a questa documentazione che descrive le procedure da utilizzare per ottenere **Client ID e Secret** sulla base del provider selezionato.
+Per abilitare l'autenticazione OAuth2 per un account email è necessario utilizzare la relativa checkbox **Abilita OAuth2** e selezionare il **Provider** tra quelli disponibili. A seguito di queste azioni, comparirà un link dinamico a questa documentazione che descrive le procedure da utilizzare per ottenere **Client ID e Secret** sulla base del provider selezionato.
 
 ## Google
 
-L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione:
+L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione nel modulo **Account email**:
 
 <table>
   <thead>
@@ -47,9 +47,11 @@ L'accesso all'account Google tramite OAuth2 richiede la seguente configurazione:
   </tbody>
 </table>
 
+La configurazione dell'accesso OAuth2 per account Google si effettua all'indirizzo [https://console.developers.google.com/](https://console.developers.google.com/), dove è necessario accedere con l'account interessato.
+
 ### Creazione progetto
 
-Per ottenere le chiavi di accesso Client ID e Secret, è necessario quindi accedere all'indirizzo [https://console.developers.google.com/](https://console.developers.google.com/). Dall'interfaccia disponibile si procede quindi a generare un Nuovo progetto appositamente denominato "OpenSTAManager"; in alternativa, se è disponibile un progetto pre-esistente, è possibile utilizzarlo.
+Una volta raggiunta la Google Cloud Platform, si deve procedere a generare un _Nuovo progetto_ appositamente denominato "OpenSTAManager"; in alternativa, se è disponibile un progetto pre-esistente, è possibile utilizzarlo.
 
 ![Schermata di Nuovo progetto](../.gitbook/assets/image%20%2814%29.png)
 
@@ -85,7 +87,7 @@ Una volta completati i passaggi precedenti, sarà possibile utilizzare il pulsan
 
 ## Microsoft
 
-L'accesso all'account Microsoft tramite OAuth2 richiede la seguente configurazione:
+L'accesso all'account Microsoft tramite OAuth2 richiede la seguente configurazione nel modulo **Account email**:
 
 <table>
   <thead>
@@ -118,11 +120,17 @@ L'accesso all'account Microsoft tramite OAuth2 richiede la seguente configurazio
   </tbody>
 </table>
 
+La configurazione dell'accesso OAuth2 per account Microsoft si effettua all'indirizzo [ https://portal.azure.com/](%20https://portal.azure.com/), dove è necessario accedere con l'account interessato.
+
 ### Registrazione App
 
-Per ottenere le chiavi **Client ID e Secret**, è necessario accedere con l'account interessato all'indirizzo [ https://portal.azure.com/](%20https://portal.azure.com/). Una volta all'interno del portale Azure, si deve navigare alla sezione **Azure Active Directory** e procedere a registrare una nuova applicazione a cui garantire l'accesso.
+Una volta all'interno del portale Azure, si deve navigare alla sezione **Azure Active Directory** dove viene presentata una panoramica dell'account di riferimento. In questa schermata è possibile individuare il campo **ID tenant**, che bisogna copiare per il rispettivo campo nel modulo **Account email**.
 
 ![Panoramica all&apos;accesso del portale Azure](../.gitbook/assets/active-directory.png)
+
+![Tenant ID nella schermata di Panoramica](../.gitbook/assets/tenant.png)
+
+Una volta completata l'informazione di cui sopra, è necessario procedere alla registrazione di una applicazione dedicata per il servizio.
 
 ![Modalit&#xE0; di registrazione nuova applicazione](../.gitbook/assets/registra.png)
 
