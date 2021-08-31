@@ -108,7 +108,7 @@
     * [Scadenzario](modules/contabilita/scadenzario.md)
   * [Magazzino](modules/magazzino/README.md)
     * [Giacenze sedi](modules/magazzino/giacenze-sedi.md)
-    * [Piani di sconto/rincaro](modules/magazzino/piani-di-sconto-rincaro/README.md)
+    * [Piani di sconto/magg.](modules/magazzino/piani-di-sconto-rincaro/README.md)
       * [Creazione](modules/magazzino/piani-di-sconto-rincaro/creazione.md)
       * [Modifica](modules/magazzino/piani-di-sconto-rincaro/modifica.md)
     * [Articoli](modules/magazzino/articoli-1/README.md)
