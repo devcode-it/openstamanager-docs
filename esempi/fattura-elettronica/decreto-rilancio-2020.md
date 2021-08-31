@@ -9,7 +9,7 @@ description: >-
 
 
 {% hint style="info" %}
-Come aggiungerelo sconto nella fattura elettronica per i bonus 110/65/50 %?
+Come aggiungere lo sconto nella fattura elettronica per i bonus 110/65/50 %?
 {% endhint %}
 
 Per aggiungere il relativo sconto nella fattura elettronica  la prima cosa da fare è entrare nella schermata di modifica della fattura \(**Vendite-&gt;Fatture di vendita\)** e cliccare sul pulsante **attributi avanzati** nella riga dell'articolo che beneficia del bonus.
