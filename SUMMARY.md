@@ -210,6 +210,7 @@
 * [Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
   * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
   * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)
+* [Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
 
 ## FAQ
 
