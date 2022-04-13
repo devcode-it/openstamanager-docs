@@ -8,59 +8,62 @@ In base alle capacità del server in cui il gestionale è installato, è possibi
 
 ### Standard di funzionamento
 
-Considerando la potenziale quantità delle informazioni restituite, il sistema API del gestionale restituisce le informazioni richieste presentando una paginazione di default di 200 record \(impostazione _Lunghezza pagine per API_\).
+Considerando la potenziale quantità delle informazioni restituite, il sistema API del gestionale restituisce le informazioni richieste presentando una paginazione di default di 200 record (impostazione _Lunghezza pagine per API_).
 
-{% api-method method="get" host="http://localhost/openstamanager" path="/api?token=<token>&resource=<resource>" %}
-{% api-method-summary %}
-Richiesta standard
-{% endapi-method-summary %}
+{% swagger baseUrl="http://localhost/openstamanager" path="/api?token=<token>&resource=<resource>" method="get" summary="Richiesta standard" %}
+{% swagger-description %}
+Richiesta standard per la comunicazione con l'API in modalità 
 
-{% api-method-description %}
-Richiesta standard per la comunicazione con l'API in modalità _retrieve_.
-{% endapi-method-description %}
+_retrieve_
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-query-parameters %}
-{% api-method-parameter name="token" type="string" required=true %}
+.
+{% endswagger-description %}
+
+{% swagger-parameter in="query" name="token" type="string" %}
 Token di accesso
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="resource" type="string" required=true %}
+{% swagger-parameter in="query" name="resource" type="string" %}
 Risorsa richiesta
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name="page" type="integer" required=false %}
-Intero compreso tra 0 e il valore del campo `pages` restituito dalla prima richiesta \(esempio: `page=5`\)
-{% endapi-method-parameter %}
+{% swagger-parameter in="query" name="page" type="integer" %}
+Intero compreso tra 0 e il valore del campo 
 
-{% api-method-parameter name="display" type="array" required=false %}
-Array che indica un filtro sui campi da restituire alla richiesta \(esempio: `display=[id,name]`\)
-{% endapi-method-parameter %}
+`pages`
 
-{% api-method-parameter name="filter" type="array" required=false %}
-Array composto che indica dei filtro da applicare sui contenuti dei risultati alla richiesta \(esempio: `filter[id]=[1]`\)
-{% endapi-method-parameter %}
+ restituito dalla prima richiesta (esempio: 
 
-{% api-method-parameter name="order" type="array" required=false %}
+`page=5`
+
+)
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="display" type="array" %}
+Array che indica un filtro sui campi da restituire alla richiesta (esempio: 
+
+`display=[id,name]`
+
+)
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="filter" type="array" %}
+Array composto che indica dei filtro da applicare sui contenuti dei risultati alla richiesta (esempio: 
+
+`filter[id]=[1]`
+
+)
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="order" type="array" %}
 Array che indica l'ordinamento da impostare sulla richiesta
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+{% endswagger-parameter %}
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="" %}
 ```
-
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% endswagger-response %}
+{% endswagger %}
 
 {% hint style="info" %}
 Il rispetto delle opzioni sopra indicate, come per la gestione della paginazione automatica, è riservato alla singola risorsa: in casi specifici e documentati, la risorsa potrebbe ignorare le opzioni indicate a favore di un comportamento personalizzato.
@@ -72,4 +75,3 @@ Questo è particolarmente rilevante in caso di personalizzazioni, interne o este
 
 * Anagrafiche: `anagrafiche`
 * Interventi: `interventi`
-

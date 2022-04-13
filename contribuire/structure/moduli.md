@@ -6,7 +6,7 @@ sidebar:
 
 # Moduli
 
-> Un modulo \(software\) è un componente software autonomo e ben identificato, e quindi facilmente riusabile.
+> Un modulo (software) è un componente software autonomo e ben identificato, e quindi facilmente riusabile.
 >
 > [Wikipedia](https://it.wikipedia.org/wiki/Modulo#Informatica)
 
@@ -14,9 +14,9 @@ All'interno del progetto, i moduli vengono genericamente definiti quali sistemi 
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
-* [Nucleo]();
+* [Nucleo](broken-reference);
 * [Stampe](stampe.md);
-* [Widget]();
+* [Widget](broken-reference);
 * [Plugin](plugin.md).
 
 OpenSTAManager presenta inoltre una struttura nativamente predisposta alla personalizzazione delle funzioni principali, il che rende il progetto ancora più complicato da comprendere a prima vista.
@@ -27,7 +27,7 @@ Di seguito viene presentate le strutture principali più comuni supportate dal g
 
 Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percorso univoco all'interno della cartella **modules**.
 
-```text
+```
 .
 └── modules
     └── modulo
@@ -43,14 +43,14 @@ Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percors
 Il gestionale supporta in modo nativo questa struttura, che può essere ampliata e personalizzata secondo le proprie necessità: si consiglia pertanto di analizzare i moduli **Iva**, **Dashboard** e **Contratti** per esempi di diversa complessità.
 
 {% hint style="warning" %}
-**Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database \(per sempio, **Movimenti**\), si veda la sezione [Database](moduli.md#database).
+**Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](moduli.md#database).
 {% endhint %}
 
 ### actions.php
 
 Il file `actions.php` gestisce tutte le operazioni supportate dal modulo.
 
-In generale, le diverse operazioni vengono gestite attraverso attraverso una logica basata su casi \(solitamente, il parametro `op` permette di identificare quale azione viene richiesta\); il funzionamento a livello di programmazione può essere comunque sottoposto a scelte personali.
+In generale, le diverse operazioni vengono gestite attraverso attraverso una logica basata su casi (solitamente, il parametro `op` permette di identificare quale azione viene richiesta); il funzionamento a livello di programmazione può essere comunque sottoposto a scelte personali.
 
 L'unico requisito effettivo risulta relativo alle operazioni di creazione dei nuovi _record_, per cui deve essere definito all'interno della variabile `$id_record` l'identificativo del nuovo elemento. Per osservare questo sistema, si consiglia di analizzare il relativo file del modulo **Iva**.
 
@@ -58,7 +58,7 @@ L'unico requisito effettivo risulta relativo alle operazioni di creazione dei nu
 
 Il file `add.php` contiene il template HTML dedicato all'inserimento di nuovi elementi per il modulo, mentre `edit.php` contiene il template HTML dedicato alla modifica degli stessi.
 
-In base alla configurazione del modulo nel database, il file `edit.php` può assumere il ruolo di gestore della sezione principale dell'interno modulo. Esempi di questa gestione si possono osservare nei moduli **Dashboard** e **Gestione componenti** \(si veda la sezione zz\_modules\).
+In base alla configurazione del modulo nel database, il file `edit.php` può assumere il ruolo di gestore della sezione principale dell'interno modulo. Esempi di questa gestione si possono osservare nei moduli **Dashboard** e **Gestione componenti** (si veda la sezione zz\_modules).
 
 **Attenzione**: il progetto individua in automatico la presenza del file `add.php` e agisce di conseguenza per permettere o meno l'inserimento di nuovi _record_. {: .notice--danger}
 
@@ -66,7 +66,7 @@ In base alla configurazione del modulo nel database, il file `edit.php` può ass
 
 Il file `init.php` si occupa di individuare le informazioni principali utili all'identificazione e alla modifica dei singoli elementi del modulo.
 
-In particolare, questo file è solitamente composto da una query dedicata ad ottenere tutti i dati dell'elemento nella variabile `$record` \(`$records` per versioni &lt;= 2.4.1\), successivamente utilizzata dal gestore dei template per completare le informazioni degli input.
+In particolare, questo file è solitamente composto da una query dedicata ad ottenere tutti i dati dell'elemento nella variabile `$record` (`$records` per versioni <= 2.4.1), successivamente utilizzata dal gestore dei template per completare le informazioni degli input.
 
 ### controller\_after.php e controller\_before.php
 
@@ -78,7 +78,7 @@ Similmente, il file `controller_after.php` contiene il template HTML da aggiunge
 
 Il file `modutil.php` viene utilizzato per definire le funzioni PHP specifiche del modulo, e permettere in questo modo una gestione semplificata delle operazioni più comuni.
 
-Si noti che un modulo non è necessariamente limitato all'utilizzo del proprio file `modutil.php`: come avviene per esempio in **Fatture** e **Interventi**, risulta possibile richiamare file di questa tipologia da altri moduli \(in questo caso, da **Articoli** per la gestione delle movimentazioni di magazzino\).
+Si noti che un modulo non è necessariamente limitato all'utilizzo del proprio file `modutil.php`: come avviene per esempio in **Fatture** e **Interventi**, risulta possibile richiamare file di questa tipologia da altri moduli (in questo caso, da **Articoli** per la gestione delle movimentazioni di magazzino).
 
 ## Database
 
@@ -96,29 +96,29 @@ La gestione dei moduli avviene in questo senso grazie alle seguenti tabelle:
 
 La tabella `zz_modules` contiene tutte le informazioni dei diversi moduli installati nel gestionale in uso, con particolare riferimento a:
 
-* Nome \(utilizzato a livello di codice\) \[`name`\]
-* Titolo \(nome visibile e personalizzabile\) \[`title`\]
-* Percorso nel file system \(partendo da `modules/`\) \[`directory`\]
-* Icona \[`icon`\]
-* Posizione nella sidebar \[`order`\]
-* Compatibilità \[`compatibility`\]
-* Query di default \[`options`\]
-* Query personalizzata \[`options2`\]
+* Nome (utilizzato a livello di codice) \[`name`]
+* Titolo (nome visibile e personalizzabile) \[`title`]
+* Percorso nel file system (partendo da `modules/`) \[`directory`]
+* Icona \[`icon`]
+* Posizione nella sidebar \[`order`]
+* Compatibilità \[`compatibility`]
+* Query di default \[`options`]
+* Query personalizzata \[`options2`]
 
 Gli ultimi due attributi si rivelano di fondamentale importanza per garantire il corretto funzionamento del modulo, poiché descrivono il comportamento dello stesso per la generazione della schermata principale nativa in OpenSTAManager.
 
 Sono permessi i seguenti valori:
 
-* custom \[Modulo con schermata principale personalizzata e definita nel file `edit.php`\]
-* {VUOTO} \[Menu non navigabile\]
-* menu \[Menu non navigabile\]
+* custom \[Modulo con schermata principale personalizzata e definita nel file `edit.php`]
+* {VUOTO} \[Menu non navigabile]
+* menu \[Menu non navigabile]
 * Oggetto JSON
 
 ```javascript
     { "main_query": [ { "type": "table", "fields": "Nome, Descrizione", "query": "SELECT `id`, `nome` AS `Nome`, `descrizione` AS `Descrizione` FROM `tabella` WHERE 2=2 HAVING 1=1 ORDER BY `nome`"} ]}
 ```
 
-* Query SQL \[vedasi la tabella [zz\_views](moduli.md#zz_views-e-zz_group_view)\]
+* Query SQL \[vedasi la tabella [zz\_views](moduli.md#zz\_views-e-zz\_group\_view)]
 
 ```sql
     SELECT |select| FROM `tabella` WHERE 2=2 HAVING 1=1
@@ -142,7 +142,7 @@ La tabella `zz_plugins` contiene l'elenco di plugins relativi ai diversi moduli,
 
 Alla base dello sviluppo di ogni modulo vi è una fase di analisi indirizzata all'individuazione dettagliata delle funzionalità dello stesso e della struttura interna al database atta a sostenere queste funzioni.
 
-Siete dunque pregati di identificare chiaramente tutte le caratteristiche del Vostro nuovo modulo o delle Vostre modifiche prima di iniziare lo sviluppo vero e proprio \(comunemente identificato con la scrittura del codice\).
+Siete dunque pregati di identificare chiaramente tutte le caratteristiche del Vostro nuovo modulo o delle Vostre modifiche prima di iniziare lo sviluppo vero e proprio (comunemente identificato con la scrittura del codice).
 
 > E' bene trascurare le fasi di analisi e di progetto e precipitarsi all'implementazione allo scopo di guadagnare il tempo necessario per rimediare agli errori commessi per aver trascurato la fase di analisi e di progetto.
 >
@@ -169,7 +169,7 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 * Selezionare l'archivio scaricato nella selezione file della sezione "Carica un nuovo modulo";
 * Cliccare il pulsante "Carica".
 
-Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` \(per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)\).
+Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)).
 
 {% hint style="warning" %}
 **Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
@@ -179,7 +179,7 @@ Si ricorda che per effettuare l'installazione è necessaria la presenza dell'est
 
 L'archivio del modulo deve essere organizzato secondo la seguente struttura:
 
-```text
+```
 modulo.zip
 ├── update
 |   ├── VERSIONE.sql
@@ -188,11 +188,11 @@ modulo.zip
 └── MODULE
 ```
 
-Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) \(download effettuabile da [qui](http://openstamanager.com/download/plugin_di_esempio.zip)\).
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](http://openstamanager.com/download/plugin\_di\_esempio.zip)).
 
 #### update/VERSIONE.sql
 
-Il file `VERSIONE.sql` \(dove VERSIONE sta per la versione del modulo con `_`\[underscore\] al posto di `.`\[punto\]\) contiene le operazioni di installazione e aggiornamento del modulo a livello del database, comprendenti la creazione delle tabelle di base del modulo e l'inserimento di ulteriori dati nelle altre tabelle.
+Il file `VERSIONE.sql` (dove VERSIONE sta per la versione del modulo con `_`\[underscore] al posto di `.`\[punto]) contiene le operazioni di installazione e aggiornamento del modulo a livello del database, comprendenti la creazione delle tabelle di base del modulo e l'inserimento di ulteriori dati nelle altre tabelle.
 
 #### update/unistall.php
 
@@ -210,7 +210,7 @@ $dbo->query("DROP TABLE `tabella`");
 
 Il file `MODULE` è infine il diretto responsabile dell'installazione del modulo poiché definisce tutti i valori caratteristici dello stesso; in caso di sua assenza la cartella compressa viene considerata non corretta.
 
-```text
+```
 name = "Nome del modulo"
 version = "Versione"
 directory = "Cartella di installazione"
@@ -224,7 +224,7 @@ parent = "Genitore del modulo"
 
 Nella versione base del gestionale sono presenti, all'interno della cartella **modules**, i seguenti moduli.
 
-```text
+```
 .
 ├── aggiornamenti
 ├── anagrafiche
@@ -261,4 +261,3 @@ Nella versione base del gestionale sono presenti, all'interno della cartella **m
 ├── voci_servizio
 └── zone
 ```
-

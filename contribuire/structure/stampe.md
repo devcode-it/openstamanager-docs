@@ -16,7 +16,7 @@ La maggior parte delle stampe viene generata attraverso il framework [MPDF](http
 
 ## Struttura
 
-Ogni stampa e le caratteristiche di default \(cartella `templates/base/`\) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice]().
+Ogni stampa e le caratteristiche di default (cartella `templates/base/`) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](broken-reference).
 
 Il sistema di template delle stampe presenta una gestione automatica per la sostituzione di alcune variabili comuni:
 
@@ -25,7 +25,7 @@ Il sistema di template delle stampe presenta una gestione automatica per la sost
 * `$default_logo$`: percorso del logo di default
   * percorso dall'impostazione **Logo stampe**
   * `templates/base/logo_azienda.jpg`
-* `$logo$`: percorso del logo della stampa \(`logo_azienda.jpg` nella cartella della stampa, oppure $default\_logo$\)
+* `$logo$`: percorso del logo della stampa (`logo_azienda.jpg` nella cartella della stampa, oppure $default\_logo$)
 * `$docroot$`: DOCROOT
 * `$rootdir$`: ROOTDIR
 * `$directory$`: percorso della stampa
@@ -64,19 +64,19 @@ Il file `init.php` si occupa di definire le variabili principali necessarie per 
 
 Ci sono, in particolare, 3 variabili particolarmente importanti:
 
-* `$id_cliente`: individua il cliente interessato dalla stampa \(per rendere disponibili le variabili `$c_*$`\)
+* `$id_cliente`: individua il cliente interessato dalla stampa (per rendere disponibili le variabili `$c_*$`)
 * `$id_sede`: individua la sede relativa del cliente
-* `$custom`: array per definire i valori personalizzati da sostituire nel template
+*   `$custom`: array per definire i valori personalizzati da sostituire nel template
 
-  ```php
-  // Sostituzioni specifiche
-  $custom = [
-  'intervento_numero' => $records[0]['codice'],
-  'intervento_data' => Translator::dateToLocale($records[0]['data_richiesta']),
-  'commessa_numero' => !empty($records[0]['numero_preventivo']) ? $records[0]['codice'] : '&nbsp;',
-  ];
-  // Rende disponibili le variabili aggiuntive: $intervento_numero$, $intervento_data$, $commessa_numero$.
-  ```
+    ```php
+    // Sostituzioni specifiche
+    $custom = [
+    'intervento_numero' => $records[0]['codice'],
+    'intervento_data' => Translator::dateToLocale($records[0]['data_richiesta']),
+    'commessa_numero' => !empty($records[0]['numero_preventivo']) ? $records[0]['codice'] : '&nbsp;',
+    ];
+    // Rende disponibili le variabili aggiuntive: $intervento_numero$, $intervento_data$, $commessa_numero$.
+    ```
 
 ### body.php
 
@@ -138,9 +138,9 @@ Il file `pdfgen_variables.php` si occupa della sostituzione delle variabili comu
 
 #### Struttura interna
 
-La cartella _templates_ contiene tutti i template per la creazione dei PDF relativi al modulo specifico, in una struttura interna simile alla seguente \(modulo **Contratti** utilizzato come esempio\).
+La cartella _templates_ contiene tutti i template per la creazione dei PDF relativi al modulo specifico, in una struttura interna simile alla seguente (modulo **Contratti** utilizzato come esempio).
 
-```text
+```
 .
 └── contratti
     ├── contratto_body.html - Struttura di base del PDF
@@ -148,4 +148,3 @@ La cartella _templates_ contiene tutti i template per la creazione dei PDF relat
     ├── logo_azienda.jpg - Logo dell'azienda specifico per il PDF
     └── pdfgen.contratti.php - Individuazione delle informazioni da visualizzare e generazione della loro struttura
 ```
-

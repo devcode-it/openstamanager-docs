@@ -1,6 +1,6 @@
 # Disponibilità tecnici
 
-**Disponibilità tecnici** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo  permette di **gestire la disponibilità dei tecnici**, con la possibilità di selezionare più tecnici e mostrare la loro disponibilità in diversi formati\(mese/settimana/giorno\).
+**Disponibilità tecnici** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo  permette di **gestire la disponibilità dei tecnici**, con la possibilità di selezionare più tecnici e mostrare la loro disponibilità in diversi formati(mese/settimana/giorno).
 
 {% hint style="info" %}
 [Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto
@@ -16,13 +16,12 @@ A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici**
 
 ![](../.gitbook/assets/disp1.png)
 
-Attraverso l'applicazione del filtro questo modulo offre una visione  degli **Interventi** in base al tecnico e al calendario selezionato, ****e permette uno sguardo più approfondito su determinate operazioni.
+Attraverso l'applicazione del filtro questo modulo offre una visione  degli **Interventi** in base al tecnico e al calendario selezionato, **** e permette uno sguardo più approfondito su determinate operazioni.
 
 ![](../.gitbook/assets/disp2.png)
 
-Grazie al calendario è inoltre possibile creare interventi direttamente dal modulo. 
+Grazie al calendario è inoltre possibile creare interventi direttamente dal modulo.&#x20;
 
 ![](../.gitbook/assets/disp3.png)
 
 Cliccando su un intervento nel calendario è possibile accedere alla schermata di modifica corrispondente.
-

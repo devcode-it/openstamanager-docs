@@ -10,7 +10,7 @@ sidebar:
 
 Scaricando la versione GIT del progetto dovreste trovare una struttura di base molto simile a quella seguente.
 
-```text
+```
 .
 ├── api
 ├── assets
@@ -47,15 +47,15 @@ In particolare si occupa parallelamente della funzionalità di aggiunta al volo,
 
 Il file `ajax_dataload.php` gestisce il caricamento dinamico dei dati in varie sezioni del sito, relativamente alle operazioni di auto-completamento dei form e della ricerca globale.
 
-**Attenzione**: questo sistema è ormai deprecato e, tranne in rari casi, completamente sostituito dall'utilizzo del file `ajax_select.php` e dal plugin [Select2](https://select2.github.io/).
+**Attenzione**: questo sistema è ormai deprecato e, tranne in rari casi, completamente sostituito dall'utilizzo del file `ajax_select.php` e dal plugin [Select2](https://select2.github.io).
 
 ### ajax\_dataload.php
 
-Il file `ajax_dataload.php` gestisce il caricamento dinamico dei dati nelle tabelle fornite nella vista generale dei moduli \(`controller.php`\), filtrando i risultati in base alle richieste dell'utente.
+Il file `ajax_dataload.php` gestisce il caricamento dinamico dei dati nelle tabelle fornite nella vista generale dei moduli (`controller.php`), filtrando i risultati in base alle richieste dell'utente.
 
 ### ajax\_select.php
 
-Il file `ajax_select.php` gestisce il caricamento dinamico dei dati nei diversi select abilitati, garantendo l'accesso a tutti i _record_ senza provocare rallentamenti \(persino per numeri più elevati\).
+Il file `ajax_select.php` gestisce il caricamento dinamico dei dati nei diversi select abilitati, garantendo l'accesso a tutti i _record_ senza provocare rallentamenti (persino per numeri più elevati).
 
 ### bug.php
 
@@ -63,7 +63,7 @@ Il file `bug.php` si occupa della segnalazione dei bug, fornendo un sistema inte
 
 Le opzioni relative alle informazioni da allegare sono:
 
-* Allegare il file di log \(fondamentale nel caso si stia effettuando una segnalazione\)
+* Allegare il file di log (fondamentale nel caso si stia effettuando una segnalazione)
 * Allegare una copia del database
 * Allegare le informazioni relative al PC utilizzato
 
@@ -83,11 +83,11 @@ Il file `controller.php` si occupa di gestire l'accesso generico ai moduli, cari
 
 ### editor.php
 
-Il file `editor.php` si occupa di gestire l'accesso specifico ai dati di un singolo elemento di un modulo, caricando al tempo stesso l'insieme di plugin \(e, in casi più rari, di widget\) legati alla visualizzazione dell'elemento in oggetto. Permette inoltre, in base ai permessi accordati all'utente, la modifica dei dati inseriti e l'interazione con altri moduli.
+Il file `editor.php` si occupa di gestire l'accesso specifico ai dati di un singolo elemento di un modulo, caricando al tempo stesso l'insieme di plugin (e, in casi più rari, di widget) legati alla visualizzazione dell'elemento in oggetto. Permette inoltre, in base ai permessi accordati all'utente, la modifica dei dati inseriti e l'interazione con altri moduli.
 
 ### index.php
 
-Il file `index.php` si occupa delle operazioni di accesso e scollegamento al gestionale, oltre che effettuare un controllo sulla disponibilità di aggiornamenti \(tramite l'inclusione di `include/update.php`\) e a garantire il redirect iniziale al primo modulo su cui l'utente possiede i permessi di accesso.
+Il file `index.php` si occupa delle operazioni di accesso e scollegamento al gestionale, oltre che effettuare un controllo sulla disponibilità di aggiornamenti (tramite l'inclusione di `include/update.php`) e a garantire il redirect iniziale al primo modulo su cui l'utente possiede i permessi di accesso.
 
 ### info.php
 
@@ -98,7 +98,7 @@ Il file `info.php` contiene la sezione informativa relativa al progetto, indican
 Il file `log.php` permette di visualizzare le informazioni relative agli ultimi 100 tentativi di accesso.
 
 {% hint style="warning" %}
-**Attenzione**: nel caso in cui l'utente sia un amministratore, le informazioni accessibili sono relative a **tutti** gli utenti \(al contrario, un utente normale può visualizzare esclusivamente i propri tentativi\).
+**Attenzione**: nel caso in cui l'utente sia un amministratore, le informazioni accessibili sono relative a **tutti** gli utenti (al contrario, un utente normale può visualizzare esclusivamente i propri tentativi).
 {% endhint %}
 
 ### composer.json, gulpfile.js, package.json
@@ -107,7 +107,7 @@ Per maggiori informazioni questi file, consultare le sezioni [Framework ](../bas
 
 ## Cartella api
 
-Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API]().
+Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](broken-reference).
 
 ## Cartella assets
 
@@ -165,7 +165,7 @@ Il file `init.js` contiene le funzioni JavaScript comunemente richiamate al cari
 
 ## Cartella locale
 
-La cartella `locale` contiene tutte le traduzioni del progetto, nei formati tipici di Gettext \(`.po` e `.mo`\).
+La cartella `locale` contiene tutte le traduzioni del progetto, nei formati tipici di Gettext (`.po` e `.mo`).
 
 ## Cartella modules
 
@@ -187,11 +187,10 @@ I file `VERSIONE.sql` contengono l'insieme di query SQL necessarie per l'aggiorn
 
 ### VERSIONE.php
 
-I file `VERSIONE.php` contengono l'insieme di operazioni PHP \(e, talvolta, SQL\) necessarie per l'aggiornamento del gestionale alla versione _VERSIONE_.
+I file `VERSIONE.php` contengono l'insieme di operazioni PHP (e, talvolta, SQL) necessarie per l'aggiornamento del gestionale alla versione _VERSIONE_.
 
 ## Cartella vendor
 
 {% hint style="info" %}
 Per maggiori informazioni riguardanti la cartella `vendor` e i suoi contenuti, rivolgersi alla sezione [Framework](../base/framework.md).
 {% endhint %}
-
