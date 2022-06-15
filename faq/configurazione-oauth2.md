@@ -46,7 +46,7 @@ Una volta abilitata la schermata di consenso sopra indicata, è necessario attiv
 
 ![Creazione credenziali OAuth2](../.gitbook/assets/immagine-2021-07-26-150634.png)
 
-Segue un esempio di impostazione delle informazioni necessarie per la creazione delle credenziali, dove in particolare nel campo **URI di reindirizzamento autorizzati** è necessario indicare l'indirizzo completo al file **oauth2.php** del gestionale in utilizzo. Nell'esempio, considerando OpenSTAManager disponibile a `https://osmcloud.it/oauth2/`: `https://osmcloud.it/oauth2/oauth2.php`.
+Segue un esempio di impostazione delle informazioni necessarie per la creazione delle credenziali, dove in particolare nel campo **URI di reindirizzamento autorizzati** è necessario indicare l'indirizzo completo al file **oauth2.php** del gestionale in utilizzo. Nell'esempio, considerando OpenSTAManager disponibile a `https://osmcloud.it/`: `https://osmcloud.it/oauth2.php`.
 
 ![Esempio di compilazione informazioni per le credenziali OAuth2](<../.gitbook/assets/image (15).png>)
 
