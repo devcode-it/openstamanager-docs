@@ -3,16 +3,16 @@
 Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni, quali:
 
 * Stampa preventivo
-  * Stampa preventivo \(senza prezzi\)
-  * Stampa preventivo \(senza totali\)
-  * Stampa consuntivo preventivo \(senza prezzi\)
+  * Stampa preventivo (senza prezzi)
+  * Stampa preventivo (senza totali)
+  * Stampa consuntivo preventivo (senza prezzi)
   * Stampa consuntivo preventivo
-  * Stampa preventivo \(solo totale\)
-  * Stampa preventivo \(senza totali\)
+  * Stampa preventivo (solo totale)
+  * Stampa preventivo (senza totali)
   * Stampa consuntivo preventivo interno
 * Invia
-  * Invia preventivo 
-  * Invia consuntivo preventivo 
+  * Invia preventivo
+  * Invia consuntivo preventivo
 * Duplica preventivo
 * Crea nuova revisione
 * Crea
@@ -22,5 +22,4 @@ Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella
   * Contratto
   * Fattura
 
-![](../../../.gitbook/assets/azioniaggiuntivepreventivi.PNG)
-
+![](<../../../.gitbook/assets/azioniaggiuntivepreventivi (1).PNG>)

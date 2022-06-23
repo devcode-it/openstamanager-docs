@@ -51,11 +51,11 @@ Questo raggruppamento permette di impostare dei valori predefiniti in base al ti
 #### Cliente
 
 * Attività predefinita
-* Pagamento&#x20;
+* Pagamento
 * Relazioni con il cliente
 * Iva
 * Indirizzo di fatturazione
-* Banca&#x20;
+* Banca
 * Ritenuta d'acconto
 * Piano di sconti/rincaro su articoli
 * Agenti
@@ -65,9 +65,9 @@ Questo raggruppamento permette di impostare dei valori predefiniti in base al ti
 
 #### Fornitore
 
-* Pagamento&#x20;
+* Pagamento
 * Iva
-* Banca&#x20;
+* Banca
 * Ritenuta d'acconto
 * Piano di sconti/rincaro su articoli
 * Piano dei conti cliente
@@ -101,7 +101,7 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 **Attenzione:** Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine (jpg,png,...) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato( ad esempio sulla stampa di una attività, di una fattura di vendita, di un preventivo, etc...)
 {% endhint %}
 
-![](<../../.gitbook/assets/allegati (2) (2) (2).PNG>)
+![](<../../.gitbook/assets/allegati (2) (2) (1) (1).PNG>)
 
 ## Altro
 

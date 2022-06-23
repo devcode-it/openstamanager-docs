@@ -24,13 +24,11 @@ L' utente ha a disposizione delle strutture, chiamate _widget,_ che permettono d
 * Attività nello stato da programmare
 * Attività confermate
 
-
-
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F8e1rYalOqDuajyd9n5WC%2Ffile.png?alt=media)
 
 Un _widget_ molto utile è **Stampa calendario** , cliccando su di esso, specificando _anno_ e _mese,_ è possibile avere una stampa del calendario.
 
-![Widget Stampa calendario](../../.gitbook/assets/stampacalendario.PNG)
+![Widget Stampa calendario](<../../.gitbook/assets/stampacalendario (1).PNG>)
 
 ## Navigazione
 

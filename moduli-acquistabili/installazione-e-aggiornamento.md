@@ -4,7 +4,7 @@ description: >-
   di OpenSTAManager
 ---
 
-# Installazione  e aggiornamento
+# Installazione e aggiornamento
 
 OpenSTAManager presenta una struttura modulare appositamente pensata per prevedere l'installazione di moduli aggiuntivi e la personalizzazione di quelli esistenti.
 
@@ -14,7 +14,7 @@ Al momento il gestionale supporta l'installazione diretta di due componenti tram
 
 Ogni componente deve essere presente in una cartella separata, che deve contenere il relativo file `MODULE` oppure `PLUGIN` per permettere a OpenSTAManager di identificarlo.
 
-```text
+```
 componente.zip
 ├── modulo_test
 |   ├── ... - File contententi il codice del modulo
@@ -27,7 +27,7 @@ componente.zip
 
 I contenuti del file `MODULE` devono essere i seguenti:
 
-```text
+```
 name = "Nome del modulo"
 version = "Versione"
 directory = "Cartella di installazione"
@@ -39,7 +39,7 @@ parent = "Genitore del modulo"
 
 I contenuti del file `PLUGIN` devono essere i seguenti:
 
-```text
+```
 name = "Nome del plugin"
 version = "Versione"
 directory = "Cartella di installazione"
@@ -57,15 +57,15 @@ Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella r
 
 Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o aggiornare, si può procedere con i seguenti passaggi per caricare il file nel gestionale.
 
-* Cliccare sul modulo **Strumenti** e aprire **Aggiornamenti**  
+* Cliccare sul modulo **Strumenti** e aprire **Aggiornamenti**
 
 ![](../.gitbook/assets/passaggio1-1.png)
 
-* Cliccare sul tasto  ![](../.gitbook/assets/sfoglia.png) e selezionare il file `.zip` ricevuto precedentemente.
+* Cliccare sul tasto ![](../.gitbook/assets/sfoglia.png) e selezionare il file `.zip` ricevuto precedentemente.
 
 ![](../.gitbook/assets/passaggio2-2.png)
 
-* Cliccare sul tasto  ![](../.gitbook/assets/carica%20%281%29.PNG) per andare a caricare il modulo in OpenSTAManager.
+* Cliccare sul tasto ![](../.gitbook/assets/carica.PNG) per andare a caricare il modulo in OpenSTAManager.
 
 ![](../.gitbook/assets/passaggio3.png)
 
@@ -75,7 +75,6 @@ Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o
 
 * Dopo il refresh della pagina, può essere richiesto di aggiornare il database
 
-![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 In seguito a questi passaggi, dovrebbe essere possibile continuare a utilizzare il gestionale normalmente e trovare di conseguenza i nuovi componenti presenti all'interno.
-

@@ -8,7 +8,7 @@ title: Inizializzazione
 Una volta completata l'installazione del gestionale, ed in alcuni casi a seguito di un aggiornamento, può essere presentata un'ulteriore schermata per l'inizializzazione del software.
 {% endhint %}
 
-![Schermata di inizializzazione](../.gitbook/assets/info%20%282%29.PNG)
+![Schermata di inizializzazione](<../.gitbook/assets/info (2) (1) (2).PNG>)
 
 Attraverso questa funzionalità vengono generalmente completate delle informazioni di base per il funzionamento del software, suddivise secondo tre categorie:
 
@@ -30,7 +30,7 @@ E' in particolare possibile definire:
 * Password dell'account
 * Email collegata
 
-![Gestione dell&apos;amministrazione](../.gitbook/assets/admin.png)
+![Gestione dell'amministrazione](../.gitbook/assets/admin.png)
 
 ## Azienda predefinita
 
@@ -59,4 +59,3 @@ Una volta completate correttamente le informazioni richieste dalle sezioni prece
 ![Schermata di login](../.gitbook/assets/login.png)
 
 Sarà possibile accedere fin da subito con le credenziali di amministrazione immesse in precedenza.
-

@@ -22,7 +22,7 @@ Una volta all'interno di questa parte del sistema, il modulo **Anagrafiche** per
 Il primo raggruppamento permette di:
 
 * Cambiare lo **stato** dell'attività
-* Aggiungere **note interne**&#x20;
+* Aggiungere **note interne**
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FW7M9vurmaZDyBUMlOHe8%2Ffile.png?alt=media)
 
@@ -61,4 +61,4 @@ Il raggruppamento **costi totali** visualizza la lista completa delle spese effe
 
 L' ultimo raggruppamento è **allegati**, il quale permette di visualizzare eventuali **allegati** caricati.
 
-![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2).PNG>)
+![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2) (1) (2).PNG>)

@@ -23,7 +23,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Per la creazione di un backup guardare il video sottostante
 
-![GIF creazione backup](../../.gitbook/assets/creazionebackup%20%282%29%20%282%29%20%284%29.gif)
+![GIF creazione backup](<../../.gitbook/assets/creazionebackup (2) (2) (4) (1) (4).gif>)
 
 Una volta creato il backup lo si può:
 
@@ -40,4 +40,3 @@ E' possibile _Ripristinare un backup_ cliccando sopra a _Ripristina_ nella sezio
 {% endhint %}
 
 ![Screenshot ripristino backup](../../.gitbook/assets/ripristinabackup.PNG)
-

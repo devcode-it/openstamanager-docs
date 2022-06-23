@@ -31,11 +31,11 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/conti
 * Entrare con la vostra email
 * Inserire email
 
-![](<../../.gitbook/assets/email (4) (4) (4) (4).PNG>)
+![](<../../.gitbook/assets/email (4) (4) (4) (1) (4).PNG>)
 
 * Inserire password
 
-![](<../../.gitbook/assets/password (3).PNG>)
+![](<../../.gitbook/assets/password (1) (4).PNG>)
 
 * Se appare nuovamente la schermata del punto uno fare nuovamente la spunta sulle 3 caselle, se non appare, invece, apparirà questa schermata:
 
@@ -47,7 +47,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/conti
 
 * Cliccare su ![](../../.gitbook/assets/creaccountdifatturazione.PNG) **:**
 
-![Accettazione termini di servizio ](../../.gitbook/assets/1di2.PNG)
+![Accettazione termini di servizio](../../.gitbook/assets/1di2.PNG)
 
 * Cliccare su ![](../../.gitbook/assets/accettaecontinua.PNG) , accettando i termini di servizio
 * Compilare i campi campi richiesti e cliccare su _**AVVIA LA MIA PROVA GRATUITA**_
@@ -58,7 +58,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/conti
 
 ![API e servizi](../../.gitbook/assets/apieservizi.PNG)
 
-Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2) (1).PNG>)
+Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2) (2).PNG>)
 
 ![Generazione API Key](../../.gitbook/assets/chiaveapi.PNG)
 

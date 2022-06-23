@@ -19,5 +19,4 @@ Il modulo **Zone** è dedicato alla gestione delle eventuali suddivisioni, da pa
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Zone** visibile dall'espansione del menu **Anagrafiche**.
 
-![](../../.gitbook/assets/navigazionezone%20%281%29%20%282%29%20%281%29.PNG)
-
+![](<../../.gitbook/assets/navigazionezone (1) (2) (2).PNG>)

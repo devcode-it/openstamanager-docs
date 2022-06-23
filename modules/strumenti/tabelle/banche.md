@@ -8,7 +8,7 @@ title: Banche
 Il modulo **Banche** _\_permette di aggiungere nuove \_Banche_ selezionabili nel relativo campo dei diversi moduli.
 {% endhint %}
 
-![Screenshot interfaccia banche](<../../../.gitbook/assets/banche (1) (1) (2).PNG>)
+![Screenshot interfaccia banche](<../../../.gitbook/assets/banche (1) (1) (2) (1) (2).PNG>)
 
 ## Navigazione
 
@@ -31,8 +31,6 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 Si presenterà quindi questa schermata:
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FJi4CYBeBgkPHE3U7QLGH%2Ffile.png?alt=media)
-
-
 
 Dove sarà possibile modificare:
 

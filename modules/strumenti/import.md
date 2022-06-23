@@ -8,7 +8,7 @@ title: Import
 Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nel modulo _Articoli_ o _Anagrafiche._
 {% endhint %}
 
-![Screenshot interfaccia import](../../.gitbook/assets/screenimport.PNG)
+![Screenshot interfaccia import](<../../.gitbook/assets/screenimport (1).PNG>)
 
 ## Navigazione
 
@@ -31,9 +31,9 @@ Selezionando un modulo sarà visibile un ulteriore pulsante <img src="../../.git
 * Articoli (informazioni sulla creazione del file CSV su [Import articoli](../magazzino/articoli-1/import-articoli.md))
 * Articoli (informazioni sulla creazione del file CSV su [Import listini](../magazzino/listini/import-listini.md))
 
-Una volta creato il file CSV  e selezionato sul campo **File,** cliccando sul tasto ![](<../../.gitbook/assets/+aggiungi (1).PNG>) apparirà questa schermata:
+Una volta creato il file CSV e selezionato sul campo **File,** cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/campiimport.PNG)
 
-La quale mostrerà il contenuto di ogni colonna, se l'importazione è stata effettuata tenendo i stessi nomi delle colonne presenti nel file d'esempio i menù a tendina di ogni colonna saranno già selezionati automaticamente, in caso contrario selezionare manualmente le colonne corrispondenti. \
+La quale mostrerà il contenuto di ogni colonna, se l'importazione è stata effettuata tenendo i stessi nomi delle colonne presenti nel file d'esempio i menù a tendina di ogni colonna saranno già selezionati automaticamente, in caso contrario selezionare manualmente le colonne corrispondenti.\
 Cliccando su ![](../../.gitbook/assets/avviaimportazione.PNG) il file viene importato nel modulo specificato.

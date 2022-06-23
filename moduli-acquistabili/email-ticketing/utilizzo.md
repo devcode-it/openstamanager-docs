@@ -4,7 +4,7 @@
 **Attenzione:** è importante sia inserito l'indirizzo di posta elettronica nell'**Anagrafica** del cliente, come nell'esempio che segue:
 {% endhint %}
 
-![](../../.gitbook/assets/emailcliente.png)
+![](<../../.gitbook/assets/emailcliente (1).png>)
 
 Grazie ad **Email ticketing** le richieste dei clienti inviate via email vengono direttamente trasformate in attività.
 
@@ -14,11 +14,11 @@ Esempio del funzionamento:
 
 ![](../../.gitbook/assets/cliente0.png)
 
-1. Nel modulo **Attività** verrà creato l'intervento, in stato **Da pianificare** 
+1. Nel modulo **Attività** verrà creato l'intervento, in stato **Da pianificare**
 
 ![](../../.gitbook/assets/gestionale0.png)
 
-1. Cliccare sull'attività e in alto a destra fare click su **Conversazioni** 
+1. Cliccare sull'attività e in alto a destra fare click su **Conversazioni**
 
 ![](../../.gitbook/assets/conversazionigestionale1.png)
 
@@ -40,5 +40,4 @@ Spuntando **Notifica di lettura** potrò vedere se il **cliente** ha visualizzat
 
 ![](../../.gitbook/assets/chat.png)
 
-E' possibile anche notare il messaggio **Messaggio non letto o conferma di lettura non disponibile.** Questo messaggio appare o quando il **cliente** non ha ancora visualizzato il messaggio o quando non è disponibile la conferma di lettura**.**
-
+E' possibile anche notare il messaggio **Messaggio non letto o conferma di lettura non disponibile.** Questo messaggio appare o quando il **cliente** non ha ancora visualizzato il messaggio o quando non è disponibile la conferma di lettura\*\*.\*\*
