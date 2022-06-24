@@ -38,7 +38,7 @@ Il menu di navigazione laterale permette di accedere alla sezione per la configu
 
 Una volta selezionato il tipo, sarà possibile configurare la schermata più nel dettaglio. Segue un esempio pratico (e incompleto) della configurazione: la parte rilevante per l'utilizzo ai fini del gestionale corrisponde ai **Domini autorizzati**, che devono contenere il dominio di installazione del gestionale. Le altre informazioni sono liberamente impostabili, compresi _Ambiti_ e _Utenti di prova_.
 
-![Impostazione base per schermata di consenso OAuth2](../.gitbook/assets/consenso.png)
+![Impostazione base per schermata di consenso OAuth2](<../.gitbook/assets/consenso (1).png>)
 
 ### Creazione credenziali
 
@@ -46,9 +46,9 @@ Una volta abilitata la schermata di consenso sopra indicata, è necessario attiv
 
 ![Creazione credenziali OAuth2](<../.gitbook/assets/Immagine 2021-07-26 150634.png>)
 
-Segue un esempio di impostazione delle informazioni necessarie per la creazione delle credenziali, dove in particolare nel campo **URI di reindirizzamento autorizzati** è necessario indicare l'indirizzo completo al file **oauth2.php** del gestionale in utilizzo. Nell'esempio, considerando OpenSTAManager disponibile a `https://osmcloud.it/oauth2/`: `https://osmcloud.it/oauth2/oauth2.php`.
+Segue un esempio di impostazione delle informazioni necessarie per la creazione delle credenziali, dove in particolare nel campo **URI di reindirizzamento autorizzati** è necessario indicare l'indirizzo completo al file **oauth2.php** del gestionale in utilizzo. Nell'esempio, considerando OpenSTAManager disponibile a `https://osmcloud.it/`: `https://osmcloud.it/oauth2.php`.
 
-![Esempio di compilazione informazioni per le credenziali OAuth2](<../.gitbook/assets/image (19).png>)
+![Esempio di compilazione informazioni per le credenziali OAuth2](<../.gitbook/assets/image (15) (1).png>)
 
 Una volta compilate le informazioni richieste, comparirà una schermata che riferisce **Client ID e Secret**: è \*\*\*\* necessario copiare i contenuti indicati nei rispettivi campi del modulo **Account email**.
 
