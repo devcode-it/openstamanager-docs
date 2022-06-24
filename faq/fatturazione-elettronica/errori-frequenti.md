@@ -7,7 +7,7 @@ Con l'introduzione della **Fatturazione elettronica** molti avranno notato che p
 ## Compilazione
 
 {% hint style="warning" %}
-### NON USARE CARATTERI SPECIALI
+#### NON USARE CARATTERI SPECIALI
 {% endhint %}
 
 Di seguito sono riportati dei caratteri che spesso vengono utilizzati ma che non sono corretti nella compilazione di una **Fattura**:

@@ -58,7 +58,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/Conti
 
 ![API e servizi](../../.gitbook/assets/ApiEServizi.PNG)
 
-Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2) (1) (1).PNG>)
+Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2) (1) (1) (1).PNG>)
 
 ![Generazione API Key](../../.gitbook/assets/ChiaveAPI.PNG)
 
