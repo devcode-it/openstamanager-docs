@@ -2,22 +2,29 @@
 
 La prima cosa da fare è andare a configurare Il proprio **IMAP**:
 
-1. Cliccare su **Strumenti -&gt; Impostazioni** e successivamente su **Email Ticketing**
+1. Cliccare su **Gestione email** e successivamente su **Email Ticketing**
+2. Comparirà questa schermata:
 
-![](../../.gitbook/assets/imap.png)
+![](../../.gitbook/assets/Email-ticketing-OpenSTAManager.png)
 
-1. Comparirà questa schermata:
+![](<../../.gitbook/assets/2 (1).png>)
 
-![](../../.gitbook/assets/emailticketing.png)
+Dove sarà necessario compilare i seguenti campi della casella email:
 
-Dove sarà necessario compilare i seguenti campi:
-
-* **Imap hostname** 
+* **Nome account**
+* **Imap hostname**
+* **Imap porta**
 * **Imap username**
 * **Imap password**
-* **Cartella mail processate** 
+* **Cifratura connessione**
+* **Cartella mail processate** (cartella dell'account email dove verranno archiviate le email processate)
 
-Finita la compilazione, per salvare le impostazioni, cliccare sul tasto ![](https://github.com/devcode-it/openstamanager-docs/tree/5242b6a23c677db2f5451152c8e4c4aded3a99cf/.gitbook/assets/salva-1.png) .
+E i seguenti campi riguardanti le attività:
+
+* **Stato attività**
+* **Tipo attività**
+* **Template di invio mail** (da configurare come da immagine)
+
+Finita la compilazione, per salvare le impostazioni, cliccare sul tasto **Salva** .
 
 Ora tutto è pronto per utilizzare il modulo.
-

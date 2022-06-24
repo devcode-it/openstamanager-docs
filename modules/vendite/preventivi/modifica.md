@@ -72,7 +72,7 @@ Cliccando sui pulsanti relativi, è possibile procedere quindi alla creazione di
 
 Una volta inserite correttamente le informazioni richieste, la nuova spesa verrà aggiunta all'elenco del preventivo.
 
-E' quindi possibile procedere alla modifica premendo il tasto ![](../../../.gitbook/assets/modificagiallo.png) e all'eventuale rimozione della spesa attraverso il pulsante ![](../../../.gitbook/assets/rosso.png) .
+E' quindi possibile procedere alla modifica premendo il tasto ![](../../../.gitbook/assets/modificagiallo.png) e all'eventuale rimozione della spesa attraverso il pulsante ![](../../../.gitbook/assets/Rosso.png) .
 
 ### Allegati
 

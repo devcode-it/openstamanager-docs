@@ -68,7 +68,7 @@ Il software permette in automatico di controllare se l'ambiente di utilizzo pres
 
 In particolare, viene richiesta la presenza di un _web server_ [Apache](https://httpd.apache.org) con il linguaggio di programmazione [PHP](http://php.net) e il [DBMS MySQL](https://www.mysql.com), richiedendo le seguenti versioni minime:
 
-* PHP >= 7.4
+* PHP >= 7.2
 * MySQL >= 5.7
 
 Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo.
@@ -85,7 +85,7 @@ Nel caso vengano mostrati dei componenti in rosso, è consigliato procedere all'
 
 ![Schermata dei requisiti(non soddisfatti)](../.gitbook/assets/requirements-error.png)
 
-Una volta corretti correttamente i requisiti, cliccare ![](../.gitbook/assets/successivotasto.PNG) .
+Una volta corretti correttamente i requisiti, cliccare ![](../.gitbook/assets/SuccessivoTasto.PNG) .
 
 ![Schermata dei requisiti (soddisfatti)](../.gitbook/assets/requirements-ok.png)
 
@@ -148,7 +148,7 @@ Se le credenziali inserite sono corrette, dopo aver cliccato su **Installa** si 
 
 ## Installazione del database
 
-Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../.gitbook/assets/installa.PNG) per avviare l'installazione del database di OpenSTAManager.
+Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../.gitbook/assets/Installa!.PNG) per avviare l'installazione del database di OpenSTAManager.
 
 ![Installazione del database](../.gitbook/assets/install.png)
 

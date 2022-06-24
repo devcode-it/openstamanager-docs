@@ -6,7 +6,7 @@ title: Creazione Tipi di attività
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione tipi di attività](../../../.gitbook/assets/aggiuntatipidiattivita.PNG)
+![Screenshot creazione tipi di attività](../../../.gitbook/assets/AggiuntaTipiDiAttività.PNG)
 
 Il modulo **Tipi di attività** presenta quindi la possibilità di inserire le informazioni relative al nuovo tipo di attività da creare, mostrando di default una versione basilare delle informazioni richieste.
 

@@ -6,7 +6,7 @@ title: Creazione Fatture di vendita
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione fatture di vendita](../../../.gitbook/assets/aggiungerefatturedivendita.PNG)
+![Screenshot creazione fatture di vendita](../../../.gitbook/assets/AggiungereFattureDiVendita.PNG)
 
 I campi da compilare che verranno visualizzati sono:
 

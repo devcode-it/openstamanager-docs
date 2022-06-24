@@ -15,12 +15,11 @@ Il plugin è raggiungibile, all'interno dell'area di modifica di un _record_ del
 ## Caratteristiche
 
 È possibile **pianificare dei "promemoria"** o direttamente gli **interventi** da effettuare entro determinate scadenze. Per poter pianificare i promemoria, il contratto deve avere **data accettazione** e **data conclusione** definita ed essere in uno dei seguenti stati: **In lavorazione, Fatturato, Pagato, Parzialmente fatturato.**\
-****La possibilità di creare nuovi elementi viene resa disponibile dal pulsante _Nuovo promemoria_ (dopo aver selezionato il tipo di promemoria) che apre una struttura grafiche, _modal_, sovrapposta agli altri contenuti.\
-
+\*\*\*\*La possibilità di creare nuovi elementi viene resa disponibile dal pulsante _Nuovo promemoria_ (dopo aver selezionato il tipo di promemoria) che apre una struttura grafiche, _modal_, sovrapposta agli altri contenuti.\\
 
 ### Creazione
 
-Come descritto sopra, la creazione di nuovi elementi viene resa disponibile dal pulsante ![](../../../../.gitbook/assets/nuovo-promemoria.PNG) . Una volta cliccato il pulsate, verrà aperta una schermata con la possibilità di completare le informazioni dell'elemento.
+Come descritto sopra, la creazione di nuovi elementi viene resa disponibile dal pulsante ![](<../../../../.gitbook/assets/nuovo promemoria.PNG>) . Una volta cliccato il pulsate, verrà aperta una schermata con la possibilità di completare le informazioni dell'elemento.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FE5znZCmDl0C79pbNImZF%2Ffile.png?alt=media)
 
@@ -36,7 +35,7 @@ Ogni promemoria può possedere articoli, spese generiche e allegati indipendenti
 
 Una volta creato il promemoria, sarà possibile effettuare una pianificazione ciclica dello stesso attraverso seguente pulsante della relativa riga.
 
-![Screenshot pianificazione ciclica](../../../../.gitbook/assets/pianificazione.PNG)
+![Screenshot pianificazione ciclica](../../../../.gitbook/assets/Pianificazione.PNG)
 
 In fondo al _modal_ di riepilogo che compare dopo il click sul pulsante relativo, saranno visibili nuovi due raggruppamenti:
 
@@ -49,7 +48,7 @@ La pianificazione di promemoria ciclici replicherà in modo completo le caratter
 
 Una volta creato il promemoria, sarà possibile trasformarlo in attività in modo indipendente dalla funzione di **Pianificazione ciclica** attraverso il pulsante dedicato nella relativa riga.
 
-![Trasformazione in attività](../../../../.gitbook/assets/pcinattivita.PNG)
+![Trasformazione in attività](../../../../.gitbook/assets/PCinattività.PNG)
 
 Questa azione permetterà quindi di confrontarsi con la classica schermata per la creazione delle attività, pre-impostata secondo le caratteristiche del promemoria.
 
@@ -57,6 +56,6 @@ Questa azione permetterà quindi di confrontarsi con la classica schermata per l
 
 I promemoria verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 
-![Esempio Promemoria da pianificare](../../../../.gitbook/assets/promemoriadapianificare.PNG)
+![Esempio Promemoria da pianificare](../../../../.gitbook/assets/PromemoriaDaPianificare.PNG)
 
 ## \*\*\*\*

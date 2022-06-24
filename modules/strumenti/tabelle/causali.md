@@ -8,7 +8,7 @@ title: Causali
 Il modulo **Causali** permette di aggiungere nuove _causali_ al campo _**Causale trasporto**_ nella creazione di un **Ddt**:
 {% endhint %}
 
-![Screenshot interfaccia causali](../../../.gitbook/assets/screencausali.PNG)
+![Screenshot interfaccia causali](../../../.gitbook/assets/ScreenCausali.PNG)
 
 ## Navigazione
 
@@ -20,11 +20,11 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione causali](../../../.gitbook/assets/aggiuntacausali.PNG)
+![Screenshot creazione causali](../../../.gitbook/assets/AggiuntaCausali.PNG)
 
 E' sufficiente inserire la _Descrizione_ per creare una nuova causale.
 
-![Screenshot creazione causali](../../../.gitbook/assets/aggiungerecausali.PNG)
+![Screenshot creazione causali](../../../.gitbook/assets/AggiungereCausali.PNG)
 
 ## Modifica
 
@@ -36,6 +36,6 @@ Si presenterà quindi questa schermata:
 
 Spuntando la casella _**Causale predefinita**_ la suddetta causale sarà impostata come causale di trasporto predefinita per i _Ddt_.
 
-Spuntando la casella _**Importabile?**_  la suddetta causale permetterà l'importazione a livello contabile del documento collegato in altri documenti (per esempio, in fatture).
+Spuntando la casella _**Importabile?**_ la suddetta causale permetterà l'importazione a livello contabile del documento collegato in altri documenti (per esempio, in fatture).
 
 Spuntando la casella _**Abilita storno**_ la suddetta causale permetterà di stornare il documento come nota di credito.

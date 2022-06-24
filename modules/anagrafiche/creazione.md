@@ -13,7 +13,7 @@ add:
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Creazione anagrafica](../../.gitbook/assets/aggiungereanagrafiche.PNG)
+![Creazione anagrafica](../../.gitbook/assets/AggiungereAnagrafiche.PNG)
 
 {% hint style="info" %}
 Il modulo **Anagrafiche** presenta quindi la possibilità di inserire le informazioni relative alla nuova anagrafica da creare, mostrando di default una versione basilare delle informazioni richieste. Eventualmente, è possibile inserire maggiori informazioni fin dalla creazione sfruttando la sezione **Dati anagrafici**.

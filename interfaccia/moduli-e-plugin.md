@@ -16,13 +16,16 @@ La pagina principale può essere composta da due strutture diverse: una tabella 
 
 La schermata principale più comune nei moduli del gestionale presentano è una tabella che permette una serie di operazioni comuni su tutti gli elementi registrati all'interno del modulo:
 
-* Scorrere e visualizzare \(attraverso un click\) i diversi record
-* Selezionare diversi record attraverso le relative righe per esportarli \(in formato CSV\), stamparli o copiarli
+* Scorrere e visualizzare (attraverso un click) i diversi record
+* Selezionare diversi record attraverso le relative righe per esportarli (in formato CSV), stamparli o copiarli
 * Selezionare dei record per effettuare delle azioni generali specifiche del modulo
+* Filtrare i record in base a un determinato campo utilizzando i seguenti operatori:
+  * &#x20;!= in caso si voglia ricercare un record diverso da un dato valore;
+  * \= in caso si voglia ricercare uno specifico valore;
+  * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
+  * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 
-
-
-![Esempio dell&apos;interfaccia con tabella generale](../.gitbook/assets/table.png)
+![Esempio dell'interfaccia con tabella generale](../.gitbook/assets/table.png)
 
 Esempi di questo comportamento sono individuabili in **Anagrafiche**, **Attività**, **Articoli** e in molti altri moduli predefiniti.
 
@@ -42,19 +45,23 @@ Le informazioni richieste da queste operazioni sono delegate al modulo stesso, c
 
 ### Creazione record
 
-I moduli che permettono la creazione di nuovi elementi presentano un pulsante apposito ![](../.gitbook/assets/pulsante+.PNG) vicino all'intestazione della pagina.
+I moduli che permettono la creazione di nuovi elementi presentano un pulsante apposito ![](../.gitbook/assets/Pulsante+.PNG) vicino all'intestazione della pagina.
 
-![Pulsante di creazione record \(Anagrafiche\)](../.gitbook/assets/add-button.png)
+![Pulsante di creazione record (Anagrafiche)](../.gitbook/assets/add-button.png)
 
 Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del gestionale ch permettere di inserire le informazioni del nuovo elemento.
 
-![Creazione di un nuovo record \(Anagrafiche\) ](../.gitbook/assets/modal.gif)
+![Creazione di un nuovo record (Anagrafiche)](../.gitbook/assets/Modal.gif)
 
 ### Modifica record
 
 I moduli che permetto la modifica e la visualizzazione dei propri record permettono l'apertura di una schermata apposita al click sulla riga del record nella tabella principale. Questa schermata può chiedere e contenere molte più informazioni rispetto alla tabella generale e alla schermata di creazione.
 
-![Esempio di schermata di modifica record \(Anagrafiche\)](../.gitbook/assets/editor.png)
+![Esempio di schermata di modifica record (Anagrafiche)](../.gitbook/assets/editor.png)
+
+Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
+
+![operazioni massive sulle righe documento](<../.gitbook/assets/immagine (66).png>)
 
 ## Gestione dei moduli
 
@@ -66,9 +73,9 @@ Alcuni moduli presentano una componente generale per permettere l'inserimento di
 
 ## Plugin
 
-I plugin sono dei moduli che sono sottoposti alla gestione gerarchica di un altro modulo, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, visibili nella sezione in alto a destra della schermata dei moduli. 
+I plugin sono dei moduli che sono sottoposti alla gestione gerarchica di un altro modulo, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, visibili nella sezione in alto a destra della schermata dei moduli.
 
-![Plugin](../.gitbook/assets/plugins.png)
+![Plugin](<../.gitbook/assets/plugins (1).png>)
 
 I plugin possono presentare comportamenti molto diversi, e sono in generale separati dal modulo a cui appartengono, malgrado vi siano collegati fortemente.
 
@@ -86,9 +93,28 @@ A partire dalla versione 2.4 è possibile sfruttare dei campi personalizzati per
 
 Questi campi sono gestiti a livello di database attraverso le tabelle `zz_fields` e `zz_field_record`, che si occupano rispettivamente della gestione generale dei campi e del salvataggio dei record personalizzati. Le procedure automatiche di gestione di questi campi sono integrate nei file `actions.php`, `editor.php` e `add.php`.
 
-E' eventualmente disponibile il modulo **Campi personalizzati**, da abilitare, per la gestione dinamica di queste informazioni.
+E' eventualmente disponibile il modulo **Campi personalizzati**, da abilitare in Viste, per la gestione dinamica di queste informazioni.
 
-{% hint style="danger" %}
-I campi creati in questo modo non sono utilizzabili per interagire con il resto del gestionale.
+
+
+_**Esempio di utilizzo**_\
+Volendo inserire un campo "Marca" selezionabile dalla videata articoli, la sintassi da utilizzare sarà la seguente:
+
+```
+// {[ "type": "select", "label": "Marca", "name": "|name|", "values": "list=\"\": \"Nessuno\", \"ValoreUno\": \"EtichettaUno\", \"ValoreDue\": \"EtichettaDue\", \"altro\": \"Altro\"", "value":"|value|"]}
+```
+
+{% hint style="warning" %}
+E' importante utilizzare i valori |name| e |value| come suggerito dalle istruzioni sottostanti, affinchè i record vengano salvati correttamente.
 {% endhint %}
 
+![](<../.gitbook/assets/immagine (4).png>)
+
+E produrrà il seguente effetto nella sezione articoli:\
+
+
+![](<../.gitbook/assets/immagine (13).png>)
+
+{% hint style="danger" %}
+I campi creati in questo modo sono difficili da gestire nelle query del gestionale.
+{% endhint %}

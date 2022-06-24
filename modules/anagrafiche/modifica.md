@@ -30,7 +30,7 @@ Attraverso questa sezione, è possibile procedere alla modifica delle informazio
 * Indirizzo PEC
 * Sito web
 
-![Screenshot modifica anagrafica](../../.gitbook/assets/datianagrafici.PNG)
+![Screenshot modifica anagrafica](../../.gitbook/assets/DatiAnagrafici.PNG)
 
 ### Sede legale
 
@@ -42,7 +42,7 @@ Viene quindi presentata una selezione di campi relativi alle informazioni sulla 
 
 In particolare, se l'impostazione [**Google Maps API key**](maps.md) viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
 
-![Screenshot sezione sede legale](../../.gitbook/assets/sedelegale.PNG)
+![Screenshot sezione sede legale](../../.gitbook/assets/SedeLegale.PNG)
 
 ### Informazioni per tipo di anagrafica
 
@@ -101,7 +101,7 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 **Attenzione:** Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine (jpg,png,...) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato( ad esempio sulla stampa di una attività, di una fattura di vendita, di un preventivo, etc...)
 {% endhint %}
 
-![](<../../.gitbook/assets/allegati (2) (2) (1) (1).PNG>)
+![](<../../.gitbook/assets/allegati (2) (2) (2).PNG>)
 
 ## Altro
 
@@ -109,7 +109,7 @@ In alcuni casi, l'eliminazione dell'anagrafica viene impedita.
 
 Questa condizione si verifica quando esiste un collegamento interno dell'elemento con altre componenti del gestionale.
 
-![Screenshot documenti collegati](../../.gitbook/assets/doccollegati.PNG)
+![Screenshot documenti collegati](../../.gitbook/assets/DocCollegati.PNG)
 
 Una volta completata la creazione del nuovo elemento anagrafico, il gestionale provvederà a creare i relativi conti per il **Partitario** se l'anagrafica è di tipo _Cliente_ oppure _Fornitore_.
 

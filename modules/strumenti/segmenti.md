@@ -22,11 +22,11 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 Dove si avranno questi campi da compilare:
 
-![Screenshot creazione segmenti ](../../.gitbook/assets/aggiungeresegmenti.PNG)
+![Screenshot creazione segmenti](../../.gitbook/assets/AggiungereSegmenti.PNG)
 
-Per concludere la creazione di un _segmento_ cliccare su  **Aggiungi**, dove comparirà questa schermata:
+Per concludere la creazione di un _segmento_ cliccare su **Aggiungi**, dove comparirà questa schermata:
 
-![Screenshot creazione segmento](../../.gitbook/assets/creazionesegmento.PNG)
+![Screenshot creazione segmento](../../.gitbook/assets/CreazioneSegmento.PNG)
 
 _Spuntare_ **Predefinito** _per rendere il segmento predefinito._
 
@@ -39,7 +39,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 Si presenterà quindi questa schermata:
 
-![Screenshot modifica segmento](../../.gitbook/assets/modificasegmenti.PNG)
+![Screenshot modifica segmento](../../.gitbook/assets/ModificaSegmenti.PNG)
 
 ### Segmento
 
@@ -61,4 +61,4 @@ Nella sezione _**Sezionale**_ è possibile fare la spunta su:
 
 ## Istruzioni per il campo maschera
 
-![Screenshot istruzioni per il campo maschera](../../.gitbook/assets/istruzionimaschera.PNG)
+![Screenshot istruzioni per il campo maschera](../../.gitbook/assets/IstruzioniMaschera.PNG)

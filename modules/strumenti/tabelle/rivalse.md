@@ -8,7 +8,7 @@ title: Rivalse
 Il modulo **Rivalse** permette di aggiungere nuove _Rivalse_ al relativo campo dei relativi moduli.
 {% endhint %}
 
-![Screenshot interfaccia rivalse](../../../.gitbook/assets/rivalse.PNG)
+![Screenshot interfaccia rivalse](../../../.gitbook/assets/Rivalse.PNG)
 
 ## Navigazione
 
@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione rivalse](../../../.gitbook/assets/aggiuntarivalse.PNG)
+![Screenshot creazione rivalse](../../../.gitbook/assets/AggiuntaRivalse.PNG)
 
 E' sufficiente inserire una _Descrizione_, la _Percentuale_ e una _Percentuale Indetraibile_ per creare una nuova **Ritenuta di Acconto**.
 
@@ -32,7 +32,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 Si presenterà quindi questa schermata:
 
-![Screenshot modifica dati rivalse](../../../.gitbook/assets/modificarivalse.PNG)
+![Screenshot modifica dati rivalse](../../../.gitbook/assets/ModificaRivalse.PNG)
 
 Dove sarà possibile modificare:
 

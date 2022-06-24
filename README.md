@@ -1,49 +1,25 @@
----
-description: Benvenuto nella documentazione di OpenSTAManager!
----
+# 🚀 Novità
 
-# OpenSTAManager
+Di seguito le principali novità della versione 2.4.33, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager/releases/tag/v2.4.33).
 
-Benvenuto nella documentazione di OpenSTAManager!
+Ora è più veloce [duplicare o eliminare massivamente delle righe](https://docs.openstamanager.com/interfaccia/moduli-e-plugin#modifica-record) all'interno dei documenti (ddt, fatture, preventivi, ecc) utilizzando la spunta a fianco di ogni riga e i due pulsanti a fine tabella: &#x20;
 
-> Al giorno d'oggi, per le aziende coinvolte nel settore dell'assistenza tecnica la necessità di un software dedicato, flessibile, completo e funzionale in molteplici categorie di dispositivi risulta di fondamentale importanza per permettere un'efficiente gestione dell'attività lavorativa. Per rispondere a queste esigenze nasce il gestionale per il servizio di assistenza tecnica OpenSTAManager, che rende disponibile un supporto informatico per la gestione di questa tipologia di pratiche in un contesto talvolta povero di alternative.
+![selezione massiva righe](<.gitbook/assets/immagine (41).png>)
 
-## Presentazione
+E' possibile filtrare le tabelle usando un [nuovo filtro "diverso da"](https://docs.openstamanager.com/interfaccia/moduli-e-plugin#tabella-generale) (!=), oltre che gli operatori già esistenti (=<>):
 
-Il gestionale OpenSTAManager è un software open-source e web based, sviluppato dall'azienda informatica DevCode di Este per gestire ed archiviare il servizio di assistenza tecnica e la relativa fatturazione. Il nome del progetto deriva dalla parziale traduzione in inglese degli elementi principali che lo compongono: la natura open-source e il suo obiettivo quale Gestore del Servizio Tecnico di Assistenza.
+![Ricerca con operatori](<.gitbook/assets/immagine (16).png>)
 
-Un software gestionale, identificato nell'insieme degli applicativi che automatizzano i processi di gestione all'interno delle aziende, appartiene solitamente a una specifica categoria del settore, specializzata negli ambiti di:
+Verrà ora mostrato un [avviso](https://docs.openstamanager.com/modules/vendite/fatturedivendita#avvisi) nel caso in cui le fatture generate si avvicinino al termine massimo per l'invio al SDI, e nel caso in cui vengano scartate e debbano essere modificate e reinviate:
 
-* Gestione della contabilità;
-* Gestione del magazzino;
-* Gestione e ausilio della produzione;
-* Gestione e previsione dei budget aziendali;
-* Gestione ed analisi finanziaria.
+![Avviso fattura generata](<.gitbook/assets/immagine (59).png>)
 
-Secondo questa definizione, OpenSTAManager riesce a generalizzare al proprio interno le funzionalità caratteristiche della contabilità e della gestione del magazzino, presentando inoltre moduli piuttosto avanzati e destinati a complementare l'attività aziendale in relazione agli interventi di assistenza della realtà lavorativa in oggetto.
+![Avviso fattura scartata](<.gitbook/assets/immagine (2).png>)
 
-## Storia
+E' possibile [selezionare che articoli importare](https://docs.openstamanager.com/faq/fatturazione-elettronica#automatismi) in magazzino, nel momento dell'importazione di una fattura di acquisto.
 
-OpenSTAManager viene inizialmente ideato da Nicoletta Marampon e sviluppato da **Fabio Lovato** al fine di gestire esclusivamente le anagrafiche e gli interventi aziendali per piccole realtà lavorative.
+![Selezione articoli da importare](<.gitbook/assets/immagine (61).png>)
 
-La prima release \(0.2RC2 dell'agosto 2008\) viene successivamente ampliata con numerosi e innovativi componenti, quali il calendario delle attività, e ottimizzata in relazione al sistema di installazione e di aggiornamento; parallelamente, tra il 2011 e 2012, viene introdotto il sistema di gestione della contabilità e vengono migliorati numerosi moduli, soprattutto a livello grafico. Fondamentale in questo senso risulta essere la collaborazione dei nuovi colleghi **Luca Salvà** e **Fabio Piovan**, che ha permesso il continuo adeguamento del progetto a un mondo informatico in continua evoluzione e a richieste sempre più complesse da parte dei clienti.
+E' ora possibile creare un'autofattura e i relativi corretti movimenti contabili utilizzando la funzione  [Crea Autofattura](https://docs.openstamanager.com/esempi/autofattura)
 
-## Proposte
-
-Hai delle proposte per migliorare questa documentazione? Video, immagini, descrizioni, esempi,... sono tutti i benvenuti!
-
-Contattaci attraverso il [forum ufficiale](https://forum.openstamanager.com) oppure su [GitHub](https://github.com/devcode-it/devcode-it.github.io/issues).
-
-## Navigazione
-
-Il menu di sinistra è il principale strumento per la navigazione in questo sito.
-
-Puoi trovarvi in particolare due sezioni generali:
-
-* **Configurazione**, dedicata alle informazioni sull'installazione e l'aggiornamento del gestionale
-* **Caratteristiche**, dedicata alle strutture più comuni presenti in OpenSTAManager
-
-Le altre sezioni riguardano dei raggruppamenti di moduli e plugin tramite la logica di funzionamento del software.
-
-Buona navigazione!
-
+![Automatismo creazione autofattura](<.gitbook/assets/immagine (11).png>)

@@ -59,22 +59,22 @@ Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o
 
 * Cliccare sul modulo **Strumenti** e aprire **Aggiornamenti**
 
-![](../.gitbook/assets/passaggio1-1.png)
+![](../.gitbook/assets/Passaggio1\(1\).png)
 
-* Cliccare sul tasto ![](../.gitbook/assets/sfoglia.png) e selezionare il file `.zip` ricevuto precedentemente.
+* Cliccare sul tasto ![](../.gitbook/assets/Sfoglia.png) e selezionare il file `.zip` ricevuto precedentemente.
 
-![](../.gitbook/assets/passaggio2-2.png)
+![](../.gitbook/assets/Passaggio2\(2\).png)
 
-* Cliccare sul tasto ![](../.gitbook/assets/carica.PNG) per andare a caricare il modulo in OpenSTAManager.
+* Cliccare sul tasto ![](../.gitbook/assets/Carica.PNG) per andare a caricare il modulo in OpenSTAManager.
 
-![](../.gitbook/assets/passaggio3.png)
+![](../.gitbook/assets/Passaggio3.png)
 
 * Confermare la procedura cliccando su **SI**.
 
-![](../.gitbook/assets/passaggio4-1.png)
+![](../.gitbook/assets/Passaggio4\(1\).png)
 
 * Dopo il refresh della pagina, può essere richiesto di aggiornare il database
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 In seguito a questi passaggi, dovrebbe essere possibile continuare a utilizzare il gestionale normalmente e trovare di conseguenza i nuovi componenti presenti all'interno.

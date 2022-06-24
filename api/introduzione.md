@@ -14,13 +14,13 @@ Le informazioni qui descritte sono valida a partire dalla versione 2.4 del gesti
 
 ### Metodo di accesso
 
-L'accesso all'API viene garantito esclusivamente tramite il token personale di accesso dell'utente, individuabile nella sezione dedicata alle informazioni sull'account.&#x20;
+L'accesso all'API viene garantito esclusivamente tramite il token personale di accesso dell'utente, individuabile nella sezione dedicata alle informazioni sull'account.
 
 ![Area di informazioni dell'utente](../.gitbook/assets/informazioni-utente.png)
 
 Cliccando sulla sezione evidenziata in rosso, si apre una pagina dedicata alla visualizzazione delle informazioni personali dell'utente e che permette la modifica della password e della foto profilo, oltre che la visualizzazione del token per l'API.
 
-![Informazioni sull'utente](<../.gitbook/assets/image (10).png>)
+![Informazioni sull'utente](<../.gitbook/assets/image (9).png>)
 
 Nella sezione denominata **API** sono disponibili il token e l'URL per accedere al sistema API del gestionale.
 
@@ -28,20 +28,20 @@ In alternativa, è disponibile la seguente risorsa dedicata per l'accesso dirett
 
 {% swagger baseUrl="http://localhost/openstamanager" path="/api" method="put" summary="Richiesta di accesso" %}
 {% swagger-description %}
-Si ricordi che, come indicato in Modalità di utilizzo,  il contenuto della richiesta deve essere formattato come JSON: 
+Si ricordi che, come indicato in Modalità di utilizzo, il contenuto della richiesta deve essere formattato come JSON:
 
 `{"resource":"login", "username": "<username>", "password", "<password>"}`
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="resource" type="string" %}
+{% swagger-parameter in="body" name="resource" type="string" required="false" %}
 Nome della risorsa: login
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="username" type="string" %}
+{% swagger-parameter in="body" name="username" type="string" required="false" %}
 Username dell'utente
 {% endswagger-parameter %}
 
-{% swagger-parameter in="body" name="password" type="string" %}
+{% swagger-parameter in="body" name="password" type="string" required="false" %}
 Password dell'utente
 {% endswagger-parameter %}
 
@@ -81,6 +81,6 @@ In base al tipo di risorsa che si desidera richiedere, sono disponibili quattro 
 * `GET`, dedicato alle richieste di informazioni ([**Retrieve**](retrieve.md)).
 * `POST`, dedicato alle richieste di creazione (**Create**).
 * `PUT`, dedicato alle richieste di modifica (**Update**).
-* `DELETE`,  dedicato alle richieste di eliminazione (**Delete**).
+* `DELETE`, dedicato alle richieste di eliminazione (**Delete**).
 
 Maggiori informazioni sulle relative risorse disponibili sono presenti nelle prossime sezioni, oltre che all'interno della tabella `zz_api_resources` del gestionale.

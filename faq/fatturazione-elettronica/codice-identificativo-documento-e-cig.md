@@ -6,7 +6,7 @@ Quando si vuole emettere una fattura verso le PA è necessario riportare il **CI
 
 Il primo passo è quello di specificare nella creazione di un'anagrafica la tipologia **Ente pubblico** o **Azienda**:
 
-![](../../.gitbook/assets/anagraficapercig.png)
+![](../../.gitbook/assets/AnagraficaPerCIG.png)
 
 Se l'anagrafica è già stata creata basta modificarla e selezionare tipologia **Ente pubblico** o **Azienda:**
 
@@ -14,23 +14,23 @@ Se l'anagrafica è già stata creata basta modificarla e selezionare tipologia *
 
 Ora, nella creazione di un **Contratto**, è possibile compilare i campi necessari per l'emissione di una Fattura verso le PA:
 
-![](../../.gitbook/assets/datiappalto.png)
+![](../../.gitbook/assets/DatiAppalto.png)
 
 ## Particolarità
 
 I **Dati appalto** verranno visualizzati quando si aggiunge un **Contratto** ad una **fattura di vendita,** in questo modo è possibile verificare se sono stati inseriti.
 
-![](../../.gitbook/assets/aggiuntofatturedivendita.png)
+![](../../.gitbook/assets/AggiuntoFattureDiVendita.png)
 
 Un' ulteriore verifica della presenza o meno dei **Dati appalto** è disponibile nell'anteprima della fattura, visualizzabile tramite il pulsante **Visualizza** in **Fatturazione elettronica:**
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-![](../../.gitbook/assets/visualizzacigecodiceidentificavodocumento.png)
+![](../../.gitbook/assets/VisualizzaCIGeCodiceIdentificavoDocumento.png)
 
 Infine sono visibili nel file XML generato:
 
-![](../../.gitbook/assets/cigecodiceidentificativodocumentoxml.png)
+![](../../.gitbook/assets/CIGeCodiceIdentificativoDocumentoXML.png)
 
 {% hint style="info" %}
 La logica precedentemente spiegata vale per l'inserimento di **Contratti, Ordini cliente** e **Interventi.**

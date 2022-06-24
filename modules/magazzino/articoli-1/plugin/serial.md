@@ -18,4 +18,4 @@ Cliccando su **Aggiungi** appariranno nella tabella i serial appena inseriti con
 * Data di creazione
 * Documento di vendita
 * Totale
-* \#(per cancellare un articolo premi sul tasto ![](<../../../../.gitbook/assets/elimina (1).PNG>) )
+* \#(per cancellare un articolo premi sul tasto ![](../../../../.gitbook/assets/elimina.PNG) )

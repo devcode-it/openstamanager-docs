@@ -4,7 +4,7 @@
 Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le informazioni di base relative al nuovo impianto da creare. La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 {% endhint %}
 
-![](../../.gitbook/assets/vendita2.png)
+![](../../.gitbook/assets/Vendita2.png)
 
 Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le informazioni relative ad una nuova vendita. Esso è composto da due sezioni:
 
@@ -15,7 +15,7 @@ Il modulo **Vendita al banco** presenta quindi la possibilità di inserire le in
 
 La sezione **Intestazione** si presenta nel seguente modo:
 
-![](../../.gitbook/assets/vend2.png)
+![](../../.gitbook/assets/vend2.PNG)
 
 Suddivisa nei campi:
 
@@ -38,7 +38,7 @@ Il **Pagamento** presenta due possibilità: **Rimessa diretta** o **Contanti**
 
 La sezione **Articoli** si presenta nel seguente modo:
 
-![](../../.gitbook/assets/vend3.png)
+![](../../.gitbook/assets/vend3.PNG)
 
 Suddivisa in due campi:
 
@@ -48,16 +48,16 @@ Suddivisa in due campi:
 
 Un articolo può essere aggiunto in due differenti maniere:
 
-![](../../.gitbook/assets/vend4.png)
+![](../../.gitbook/assets/vend4.PNG)
 
-1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggerà di rosso.
+1. Andando a specificare il codice in **Aggiungi un articolo tramite codice.** Inserendo il codice di un articolo nel magazzino e premendo sul tasto ![](../../.gitbook/assets/Aggiungi.png) se il codice è corretto, l'articolo si aggiungerà alla tabella sottostante, altrimenti il campo **Aggiungi un articolo tramite codice** lampeggerà di rosso.
 2. Andando a selezionare su **Articolo** l'articolo interessato.
 
 ## Particolarità
 
-Una volta inserito un articolo posso eseguire diverse azioni grazie a questi pulsanti ![](../../.gitbook/assets/undefined.png) :
+Una volta inserito un articolo posso eseguire diverse azioni grazie a questi pulsanti ![](../../.gitbook/assets/#.png) :
 
-* Cliccando il pulsante ![](../../.gitbook/assets/giallo.png) vado a decrementare la quantità dell'articolo di 1.
-* Cliccando il pulsante ![](../../.gitbook/assets/verde.png) vado ad aumentare la quantità dell'articolo di 1.
-* Cliccando il pulsante ![](<../../.gitbook/assets/blue (1) (2) (1) (2).png>) posso andare ad applicare un **Prezzo unitario,** uno **Sconto unitario** e l'**IVA**.
-* Cliccando il pulsante ![](../../.gitbook/assets/rosso.png) vado a rimuovere l'articolo.
+* Cliccando il pulsante ![](../../.gitbook/assets/Giallo.png) vado a decrementare la quantità dell'articolo di 1.
+* Cliccando il pulsante ![](../../.gitbook/assets/Verde.png) vado ad aumentare la quantità dell'articolo di 1.
+* Cliccando il pulsante ![](<../../.gitbook/assets/blue (1) (2).png>) posso andare ad applicare un **Prezzo unitario,** uno **Sconto unitario** e l'**IVA**.
+* Cliccando il pulsante ![](../../.gitbook/assets/Rosso.png) vado a rimuovere l'articolo.

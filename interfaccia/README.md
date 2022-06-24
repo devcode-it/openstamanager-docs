@@ -11,7 +11,7 @@ OpenSTAManager presenta un'interfaccia generale piuttosto chiara, basata su stru
 
 ![](../.gitbook/assets/menu.png)
 
-La navigazione attraverso le diverse sezioni del gestionale viene resa possibile dal menu laterale, visibile in ogni pagina e rappresentante i moduli a cui l'utente autenticato ha accesso. Questo menu si compone generalmente di macro-sezioni per argomento \(quali **Attività**, **Vendite**, **Acquisti**\) che raggruppano diversi moduli al loro interno, generalmente visualizzabili cliccando sul simbolo ![](../.gitbook/assets/simbolo.PNG) .
+La navigazione attraverso le diverse sezioni del gestionale viene resa possibile dal menu laterale, visibile in ogni pagina e rappresentante i moduli a cui l'utente autenticato ha accesso. Questo menu si compone generalmente di macro-sezioni per argomento (quali **Attività**, **Vendite**, **Acquisti**) che raggruppano diversi moduli al loro interno, generalmente visualizzabili cliccando sul simbolo ![](../.gitbook/assets/Simbolo.PNG) .
 
 Il modulo corrente viene evidenziato, nel tema predefinito, con una scritta bianca più vivace delle altre. Per maggiori informazioni sui moduli, visitare la [sezione apposita](moduli-e-plugin.md).
 
@@ -32,18 +32,18 @@ Sono presenti diversi valori preimpostati:
 * II semestre
 * Questo mese
 * Mese scorso
-* Quest'anno \(_default_\)
+* Quest'anno (_default_)
 * Anno scorso
 
-Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante \(quali, per esempio, **Attività** e **Fatture**\) mentre in altri non provoca alcun effetto \(per esempio, **Dashboard** e **Articoli**\).
+Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard** e **Articoli**).
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](<../.gitbook/assets/image (13).png>)
 
 ## Opzioni di controllo
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (12).png>)
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
@@ -61,18 +61,25 @@ Questa funzione è di rilevanza per chi desidera personalizzare alcune delle inf
 
 A partire dalla versione 2.4.2 è stato reso possibile inserire dei messaggi generali all'interno di ogni pagina del gestionale, specifici per l'installazione in utilizzo.
 
-E' possibile procedere alla personalizzazione di questi contenuti attraverso i seguenti file \(da creare secondo necessità\):
+E' possibile procedere alla personalizzazione di questi contenuti attraverso i seguenti file (da creare secondo necessità):
 
 * `include/custom/extra/login.php`, dedicato ai messaggi da mostrare all'accesso
 * `include/custom/extra/extra.php`, per i messaggi da mostrare una volta che l'utente si è autenticato
 
 ## Informazioni aggiuntive
 
-{% page-ref page="moduli-e-plugin.md" %}
+{% content-ref url="moduli-e-plugin.md" %}
+[moduli-e-plugin.md](moduli-e-plugin.md)
+{% endcontent-ref %}
 
-{% page-ref page="widget.md" %}
+{% content-ref url="widget.md" %}
+[widget.md](widget.md)
+{% endcontent-ref %}
 
-{% page-ref page="stato-dei-servizi.md" %}
+{% content-ref url="stato-dei-servizi.md" %}
+[stato-dei-servizi.md](stato-dei-servizi.md)
+{% endcontent-ref %}
 
-{% page-ref page="gestione-upload.md" %}
-
+{% content-ref url="gestione-upload.md" %}
+[gestione-upload.md](gestione-upload.md)
+{% endcontent-ref %}

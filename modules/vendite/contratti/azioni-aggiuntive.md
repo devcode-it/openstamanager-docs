@@ -3,11 +3,11 @@
 Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni quali:
 
 * Stampa contratto
-  * Stampa contratto\(senza prezzi\)
-  * Stampa consuntivo contratto\(senza prezzi\)
+  * Stampa contratto(senza prezzi)
+  * Stampa consuntivo contratto(senza prezzi)
   * Stampa consuntivo contratto
   * Stampa consuntivo contratto interno
-* Invia 
+* Invia
   * Invia contratto
   * Invia consuntivo contratto
 * Crea fattura
@@ -17,10 +17,9 @@ Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in
 ## Rinnova
 
 {% hint style="info" %}
-La funzionalità _Rinnova_ viene resa disponibile se il campo _Rinnovabile_ del contratto viene selezionato. In questo caso, una volta definite le date di accettazione e conclusione \(_**Data accettazione**_ e _**Data conclusione**_\), sarà possibile sfruttare questa opzione per copiare il contratto con le rispettive date traslate di conseguenza a partire dal giorno successivo alla _Data conclusione_.
+La funzionalità _Rinnova_ viene resa disponibile se il campo _Rinnovabile_ del contratto viene selezionato. In questo caso, una volta definite le date di accettazione e conclusione (_**Data accettazione**_ e _**Data conclusione**_), sarà possibile sfruttare questa opzione per copiare il contratto con le rispettive date traslate di conseguenza a partire dal giorno successivo alla _Data conclusione_.
 {% endhint %}
 
-![](../../../.gitbook/assets/rinnova.PNG)
+![](../../../.gitbook/assets/Rinnova.PNG)
 
-La procedura di rinnovazione replica in modo completo le spese relative al contratto e le pianificazioni relative, rimuovendo però gli interventi che erano stato collegati in precedenza \(che, logicamente, rimarranno in relazione con il contratto precedente\).
-
+La procedura di rinnovazione replica in modo completo le spese relative al contratto e le pianificazioni relative, rimuovendo però gli interventi che erano stato collegati in precedenza (che, logicamente, rimarranno in relazione con il contratto precedente).

@@ -12,7 +12,7 @@ Visualizza una serie di informazioni relative ai moduli, quali:
 * Compatibilità
 * Opzioni
 
-![Screenshot moduli installati ](../.gitbook/assets/screenmoduliinstallati.PNG)
+![Screenshot moduli installati](../.gitbook/assets/ScreenModuliInstallati.PNG)
 
 {% hint style="warning" %}
 Cliccando sopra un ingranaggio si può disabilitare un _modulo_
@@ -25,11 +25,10 @@ Visualizza una serie di informazioni relative ai _Widgets_, quali:
 * Nome
 * Posizione
 * Stato
-* Posizione \(per modificare la _Posizione_ di un determinato _Widget_\)
+* Posizione (per modificare la _Posizione_ di un determinato _Widget_)
 
-![Screenshot widget](../.gitbook/assets/screenwidgets.PNG)
+![Screenshot widget](../.gitbook/assets/ScreenWidgets.PNG)
 
 {% hint style="warning" %}
 Cliccando sopra una freccia si può modificare la posizione di un _Widget_
 {% endhint %}
-

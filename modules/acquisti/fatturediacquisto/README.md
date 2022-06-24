@@ -12,9 +12,8 @@ Il modulo **Fatture di acquisto** permette all'utente di creare una fattura di a
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il modulo **Acquisti**.
 
-![Screenshot navigazione fatture di acquisto](../../../.gitbook/assets/posizionefatturediacquisto.PNG)
+![Screenshot navigazione fatture di acquisto](../../../.gitbook/assets/PosizioneFattureDiAcquisto.PNG)
 
 ## Caratteristiche
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un _record_ del modulo **Fatture di acquisto** presenta la possibilità di utilizzare diverse [Azioni aggiuntive](plugin1.md)
-

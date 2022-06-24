@@ -1,6 +1,7 @@
 # Table of contents
 
-* [OpenSTAManager](README.md)
+* [🚀 Novità](README.md)
+* [OpenSTAManager](<README (1).md>)
 * [Configurazione](configurazione/README.md)
   * [Installazione](configurazione/installazione.md)
   * [Inizializzazione](configurazione/inizializzazione.md)
@@ -179,11 +180,18 @@
 * [Esempi](esempi/README.md)
   * [Incassi e pagamenti](esempi/contabilita.md)
   * [Magazzino](esempi/magazzino.md)
+  * [Contratti a ore](esempi/contratti-a-ore.md)
   * [Contratti di manutenzione](esempi/assistenza-tecnica.md)
   * [Fattura elettronica](esempi/fattura-elettronica/README.md)
     * [Decreto Rilancio 2020](esempi/fattura-elettronica/decreto-rilancio-2020.md)
+  * [Nota di credito](esempi/nota-di-credito.md)
+  * [Autofattura](esempi/autofattura.md)
+  * [Fatture non elettroniche](esempi/fatture-non-elettroniche.md)
   * [Sconto combinato](esempi/sconto-combinato.md)
+  * [Prezzo di vendita automatico](esempi/prezzo-di-vendita-automatico.md)
   * [Gestione acconto](esempi/gestione-acconto.md)
+  * [Dichiarazioni d'Intento](esempi/dichiarazioni-dintento.md)
+  * [Calendario su telefono](esempi/calendario-su-telefono.md)
 * [Contribuire](contribuire/README.md)
   * [Personalizzazione](contribuire/base/README.md)
     * [Codice](contribuire/base/code.md)
@@ -195,10 +203,13 @@
     * [Plugin](contribuire/structure/plugin.md)
     * [Stampe](contribuire/structure/stampe.md)
     * [Widget](contribuire/structure/widget.md)
+* [Videoguide](videoguide/README.md)
+  * [Attività/Fatturazione](videoguide/attivita-fatturazione.md)
+  * [Preventivo/Consuntivo](videoguide/preventivo-consuntivo.md)
 
-## Moduli premium <a id="moduli-acquistabili"></a>
+## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
 
-* [Installazione  e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
+* [Installazione e aggiornamento](moduli-acquistabili/installazione-e-aggiornamento.md)
 * [Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
   * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
   * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
@@ -228,4 +239,3 @@
 
 * [Introduzione](api/introduzione.md)
 * [Retrieve](api/retrieve.md)
-

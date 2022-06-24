@@ -22,7 +22,7 @@ Per l'invio delle fatture elettroniche è necessario creare le fatture normalmen
 
 Dopo l'invio della fattura, cambierà lo stato in **elaborazione** nella vista principale delle fatture
 
-![](../../.gitbook/assets/statoinelaborazione.PNG)
+![](../../.gitbook/assets/StatoInElaborazione.PNG)
 
 {% hint style="warning" %}
 Le ricevute di consegna delle **Fatture elettroniche** non sono immediate, serve verificare che la fattura sia stata ricevuta correttamente cercando le ricevute dopo qualche, o il giorno successivo dell'invio. Per cercare le ricevute e aggiornare gli stati delle **Fatture di vendita**, dalla lista delle fatture di vendita, si deve cliccare in alto a destra sul plugin **Ricevute** **FE.**
@@ -37,22 +37,22 @@ Gli stati possono essere:
 * **In elaborazione:** la fattura è in transito dal gestionale al SDI(Sistema Di Interscambio) dell'Agenzia delle Entrate
 * **Consegnata:** la fattura è arrivata a destinazione al cliente
 * **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI.**
-* **Mancata consegna:**  la fattura risulta inviata all'Agenzia delle Entrate, ma il ricevente non ha definito un canale tramite cui riceverla, per cui la visualizzerà solo accedendo al proprio cassetto fiscale. Questo caso è **frequente** nel caso di invio **fatture elettroniche** a persone fisiche o per aziende che non hanno definito un canale di ricezione. In questi casi, è necessario/consigliato inviare una copia di cortesia via mail o su supporto cartaceo per informare dell'invio della fattura elettronica&#x20;
+* **Mancata consegna:** la fattura risulta inviata all'Agenzia delle Entrate, ma il ricevente non ha definito un canale tramite cui riceverla, per cui la visualizzerà solo accedendo al proprio cassetto fiscale. Questo caso è **frequente** nel caso di invio **fatture elettroniche** a persone fisiche o per aziende che non hanno definito un canale di ricezione. In questi casi, è necessario/consigliato inviare una copia di cortesia via mail o su supporto cartaceo per informare dell'invio della fattura elettronica
 * **Accettata**(solo Pubblica Amministrazione): significa che la fattura è stata consegnata e che il ricevente ha accettato i dati in essa contenuti.
-* **Rifiutata(**solo Pubblica Amministrazione): significa che la fattura è stata consegnata ma il ricevente non ha accettato i dati in essa contenuti. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI**
+* \*\*Rifiutata(\*\*solo Pubblica Amministrazione): significa che la fattura è stata consegnata ma il ricevente non ha accettato i dati in essa contenuti. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI**
 
 ### Fatture passive
 
 {% hint style="info" %}
-Per scaricare le fatture passive dai fornitori, è necessario aprire il modulo [**Acquisti**](../../modules/acquisti/)**,**andare su **Fatture di acquisto** e cliccare in alto a destra su **Fatturazione elettronica**. Nella sezione **Fatture da importare** sarà presente una lista di file XML con un tasto **importa** a fianco, il quale permette di importare le **Fatture passive** con un passaggio intermedio. E' possibile visualizzare un'anteprima delle fatture passive cliccando sul tasto di **Visualizza**
+Per scaricare le fatture passive dai fornitori, è necessario aprire il modulo [**Acquisti**](../../modules/acquisti/)\*\*,\*\*andare su **Fatture di acquisto** e cliccare in alto a destra su **Fatturazione elettronica**. Nella sezione **Fatture da importare** sarà presente una lista di file XML con un tasto **importa** a fianco, il quale permette di importare le **Fatture passive** con un passaggio intermedio. E' possibile visualizzare un'anteprima delle fatture passive cliccando sul tasto di **Visualizza**
 {% endhint %}
 
-![](../../.gitbook/assets/fatturapassiva.PNG)
+![](../../.gitbook/assets/FatturaPassiva.PNG)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 
 * Tipo fattura
-* Pagamento&#x20;
+* Pagamento
 * Dati contabili( IVA e conto). Il conto è soggettivo. Nel dubbio, scegliere **spese varie** se non si sta tenendo la contabilità interna.
 
 ### Particolarità
@@ -60,3 +60,9 @@ Per completare l'importazione, gli unici dati obbligatori sono quelli contrasseg
 {% hint style="warning" %}
 **ATTENZIONE:** Quando emetto una **Fattura** per le **PA** devo verificare di aver inserito il **codice fiscale** nella rispettiva **Anagrafica,** altrimenti, all'invio della fattura,comparirà il seguente errore: **00305-1.4.1.1.2 IdCodice non valido**.
 {% endhint %}
+
+### Automatismi
+
+In fase di importazione di una fattura elettronica, è possibile selezionare quali righe convertire in articolo di magazzino, dopo aver spuntato _Creazione automatica articoli_.
+
+![](<../../.gitbook/assets/immagine (64).png>)

@@ -12,9 +12,8 @@ Il modulo **Ordini cliente** permette all'utente di creare un documento per rich
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il modulo **Vendite**.
 
-![Navigazione ordini cliente](../../../.gitbook/assets/posizioneordinicliente.PNG)
+![Navigazione ordini cliente](../../../.gitbook/assets/PosizioneOrdiniCliente.PNG)
 
 ## Caratteristiche
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un _record_ del modulo **Ordini cliente** presenta la possibilità di utilizzare delle [Azioni aggiuntive](../fatturedivendita/plugin.md)
-

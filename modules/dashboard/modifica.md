@@ -37,28 +37,28 @@ Il secondo raggruppamento permette di visualizzare il _Tecnico_ assegnato con re
 * Sconto ore
 * Sconto km
 
-![Screenshot sezione ore di lavoro](../../.gitbook/assets/oredilaboro.PNG)
+![Screenshot sezione ore di lavoro](../../.gitbook/assets/OreDiLaboro.PNG)
 
 ### Materiale utilizzato
 
 **Materiale utilizzato** permette di visualizzare una lista di eventuali materiali utilizzati.
 
-![Screenshot sezione materiale utilizzato](../../.gitbook/assets/materialeutilizzato.PNG)
+![Screenshot sezione materiale utilizzato](../../.gitbook/assets/MaterialeUtilizzato.PNG)
 
 ### Altre spese
 
 **Altre spese** permette la visualizzazione di eventuali spese effettuate necessarie a compiere l'intervento.
 
-![Screenshot sezione altre spese](../../.gitbook/assets/altrespese.PNG)
+![Screenshot sezione altre spese](../../.gitbook/assets/AltreSpese.PNG)
 
 ### Costi totali
 
 Il raggruppamento **costi totali** visualizza la lista completa delle spese effettuate per l'intervento.
 
-![Screenshot sezione costi totali](../../.gitbook/assets/costitotali.PNG)
+![Screenshot sezione costi totali](../../.gitbook/assets/CostiTotali.PNG)
 
 ### Allegati
 
 L' ultimo raggruppamento è **allegati**, il quale permette di visualizzare eventuali **allegati** caricati.
 
-![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2) (1) (2).PNG>)
+![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2) (3).PNG>)

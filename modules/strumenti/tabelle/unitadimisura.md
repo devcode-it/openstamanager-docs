@@ -8,7 +8,7 @@ title: Unità di misura
 Il modulo **Unità di misura** permette di aggiungere nuove _Unità di misura_ nel rispettivo campo nella creazione di un **Articolo**:
 {% endhint %}
 
-![Screenshot interfaccia unità di misura](../../../.gitbook/assets/unitadimisura.PNG)
+![Screenshot interfaccia unità di misura](../../../.gitbook/assets/UnitaDiMisura.PNG)
 
 ## Navigazione
 
@@ -20,11 +20,11 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione unità di misura](../../../.gitbook/assets/aggiuntaunitadimisura.PNG)
+![Screenshot creazione unità di misura](../../../.gitbook/assets/AggiuntaUnitaDiMisura.PNG)
 
 E' sufficiente inserire il _Valore_ per creare una nuova **Unità di misura**.
 
-![Screenshot creazione unità di misura](../../../.gitbook/assets/valore.PNG)
+![Screenshot creazione unità di misura](../../../.gitbook/assets/Valore.PNG)
 
 ## Modifica
 
@@ -32,4 +32,4 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 Si presenterà quindi questa schermata:
 
-![Screenshot modifica dati unità di misura](../../../.gitbook/assets/modificaaspettounitadimisura.PNG)
+![Screenshot modifica dati unità di misura](../../../.gitbook/assets/ModificaAspettoUnitaDiMisura.PNG)

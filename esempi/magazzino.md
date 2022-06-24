@@ -8,7 +8,7 @@ Come allineare le quantità di **Magazzino**?
 
 Può capitare, non potendo avere sempre alla mano tutti gli articoli presenti nel **Magazzino** di avere alcuni articoli con quantità negativa, come sistemare queste quantità?
 
-![](../.gitbook/assets/interfacciamagazzino.png)
+![](../.gitbook/assets/InterfacciaMagazzino.png)
 
 Nell'immagine soprastante è possibile vedere che l'articolo con **Descrizione** forbici presenta una **Q.tà** negativa, -5,00. Per allineare la quantità è necessario cliccare sopra il _record,_ apparirà questa schermata:
 
@@ -22,11 +22,11 @@ Così facendo è possibile modificare la **Quantità,** inoltre, viene aggiunto 
 
 Ora la **Quantità** di forbici non è più -5,00 ma 15,00, cioè la cifra inserita precedentemente.
 
-![](../.gitbook/assets/quantitaok.png)
+![](../.gitbook/assets/QuantitàOK.png)
 
 Nella modulo **Movimenti** è possibile vedere il movimento che abbiamo appena eseguito per allineare un **articolo** in **Magazzino**
 
-![](../.gitbook/assets/movimenti.png)
+![](../.gitbook/assets/Movimenti.png)
 
 In alternativa è possibile aggiungere un movimento tramite il pulsante standard **+,** in cui si andranno a specificare i seguenti campi:
 

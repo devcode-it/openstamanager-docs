@@ -11,19 +11,19 @@ Il modulo **Backup** permette di:
 * Ripristinare un _Backup_
 * Creare un _Backup_
 
-![Screenshot interfaccia backup](../../.gitbook/assets/screenbackup.PNG)
+![Screenshot interfaccia backup](../../.gitbook/assets/ScreenBackup.PNG)
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
 
-![Screenshot navigazione backup](../../.gitbook/assets/navigazionebackup.png)
+![Screenshot navigazione backup](../../.gitbook/assets/NavigazioneBackup.png)
 
 ## Creazione
 
 Per la creazione di un backup guardare il video sottostante
 
-![GIF creazione backup](<../../.gitbook/assets/creazionebackup (2) (2) (4) (1) (4).gif>)
+![GIF creazione backup](<../../.gitbook/assets/creazionebackup (2) (2) (4) (3).gif>)
 
 Una volta creato il backup lo si può:
 
@@ -39,4 +39,4 @@ Per motivi di sicurezza si consiglia di modificare il percorso della cartella di
 E' possibile _Ripristinare un backup_ cliccando sopra a _Ripristina_ nella sezione **Ripristina backup**, caricandolo precedentemente cliccando su _Sfoglia_.
 {% endhint %}
 
-![Screenshot ripristino backup](../../.gitbook/assets/ripristinabackup.PNG)
+![Screenshot ripristino backup](../../.gitbook/assets/RipristinaBackup.PNG)

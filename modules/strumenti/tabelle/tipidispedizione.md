@@ -8,7 +8,7 @@ title: Tipi di spedizione
 Il modulo **Tipi di spedizione** **permette di aggiungere nuovi Tipi di spedizione** \_\_al relativo campo richiesto nei diversi moduli.
 {% endhint %}
 
-![Screenshot interfaccia tipi di spedizione](../../../.gitbook/assets/tipidispedizione.PNG)
+![Screenshot interfaccia tipi di spedizione](../../../.gitbook/assets/TipiDiSpedizione.PNG)
 
 ## Navigazione
 
@@ -20,11 +20,11 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione tipi di spedizione](../../../.gitbook/assets/aggiuntatipidispedizione.PNG)
+![Screenshot creazione tipi di spedizione](../../../.gitbook/assets/AggiuntaTipiDiSpedizione.PNG)
 
 E' sufficiente inserire una _Descrizione_ per creare un nuovo **Tipo di spedizione**.
 
-![Screenshot creazione tipi di spedizione](../../../.gitbook/assets/aggiungeretipidispedizione.PNG)
+![Screenshot creazione tipi di spedizione](../../../.gitbook/assets/AggiungereTipiDiSpedizione.PNG)
 
 ## Modifica
 

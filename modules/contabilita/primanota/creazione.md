@@ -6,7 +6,7 @@ title: Creazione Prima nota
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione prima nota](../../../.gitbook/assets/creazioneprimanota.PNG)
+![Screenshot creazione prima nota](../../../.gitbook/assets/CreazionePrimaNota.PNG)
 
 Successivamente si prosegue compilando i campi sottostanti:
 

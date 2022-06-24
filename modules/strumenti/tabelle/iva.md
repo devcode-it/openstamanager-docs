@@ -8,7 +8,7 @@ title: IVA
 Il modulo **IVA** consente di aggiungere una tipologia di IVA selezionabile nel rispettivo _campo_ nei vari moduli.
 {% endhint %}
 
-![Screenshot interfaccia IVA](../../../.gitbook/assets/schermataiva.PNG)
+![Screenshot interfaccia IVA](../../../.gitbook/assets/SchermataIVA.PNG)
 
 ### Navigazione
 
@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione IVA](../../../.gitbook/assets/aggiuntaiva.PNG)
+![Screenshot creazione IVA](../../../.gitbook/assets/AggiuntaIva.PNG)
 
 Successivamente verrà richiesto di inserire:
 

@@ -8,7 +8,7 @@ title: Modelli prima nota
 Il modulo **Modelli prima nota** permette di aggiungere nuovi _Modelli prima nota_ al relativo campo nella creazione di una **Prima nota**:
 {% endhint %}
 
-![Screenshot interfaccia modelli prima nota](../../../.gitbook/assets/modelliprimanota.PNG)
+![Screenshot interfaccia modelli prima nota](../../../.gitbook/assets/ModelliPrimaNota.PNG)
 
 ## Navigazione
 
@@ -20,11 +20,11 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione modelli prima nota](../../../.gitbook/assets/aggiuntamodelliprimanota.PNG)
+![Screenshot creazione modelli prima nota](../../../.gitbook/assets/AggiuntaModelliPrimaNota.PNG)
 
 E' sufficiente inserire una _Descrizione_ e i _Conti_ che si vogliono aggiungere per creare un **Modello prima nota**.
 
-![Screenshot creazione modelli prima nota](../../../.gitbook/assets/aggiungeremodelliprimanota.PNG)
+![Screenshot creazione modelli prima nota](../../../.gitbook/assets/AggiungereModelliPrimaNota.PNG)
 
 ## Modifica
 
@@ -32,7 +32,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 Si presenterà quindi questa schermata:
 
-![Screenshot modifica modelli prima nota](../../../.gitbook/assets/modificamodelliprimanota.PNG)
+![Screenshot modifica modelli prima nota](../../../.gitbook/assets/ModificaModelliPrimaNota.PNG)
 
 Dove sarà possibile modificare:
 

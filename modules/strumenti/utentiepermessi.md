@@ -4,23 +4,23 @@
 Il modulo **Utenti e permessi** permette di assegnare determinati utenti ad un gruppo,concedendoli dei privilegi.
 {% endhint %}
 
-![Screenshot interfaccia utenti e permessi ](../../.gitbook/assets/utentiepermessi.PNG)
+![Screenshot interfaccia utenti e permessi](../../.gitbook/assets/UtentiEPermessi.PNG)
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
 
-![Screenshot navigazione utenti e permessi](../../.gitbook/assets/navigazioneutentiepermessi.png)
+![Screenshot navigazione utenti e permessi](../../.gitbook/assets/NavigazioneUtentiEPermessi.png)
 
 ## Creazione
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione utenti e permessi ](../../.gitbook/assets/aggiuntautentiepermessi.PNG)
+![Screenshot creazione utenti e permessi](../../.gitbook/assets/AggiuntaUtentiEPermessi.PNG)
 
 Basterà quindi inserire il _nome_ per creare un nuovo gruppo
 
-![Screenshot creazione utenti e permessi ](../../.gitbook/assets/aggiungereutentiepermessi.PNG)
+![Screenshot creazione utenti e permessi](../../.gitbook/assets/AggiungereUtentiEPermessi.PNG)
 
 ## Modifica
 

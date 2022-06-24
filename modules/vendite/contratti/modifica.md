@@ -88,7 +88,7 @@ Se voglio monitorare il consumo delle ore mi basterà aggiungere una **Riga,** i
 Successivamente, cliccando in altro a destra su _Consuntivo_ si potrà visualizzare:
 
 * Ore residue
-* Ore erogate&#x20;
+* Ore erogate
 * Ore in contratto
 
-![](../../../.gitbook/assets/decrementoore.png)
+![](../../../.gitbook/assets/DecrementoOre.png)

@@ -6,7 +6,7 @@ title: Creazione articolo
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione articoli](../../../.gitbook/assets/add-articoli.PNG)
+![Screenshot creazione articoli](../../../.gitbook/assets/Add-Articoli.PNG)
 
 Il modulo **Articoli** presenta quindi la possibilità di inserire le informazioni complete relative alla nuova attività da creare.
 

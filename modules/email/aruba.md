@@ -13,7 +13,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * _Porta SMTP_: `25`
 * _Sicurezza SMTP_: `Nessuna`
 
-![Screenshot creazione account email aruba](<../../.gitbook/assets/accountemail (1) (1) (2) (2).PNG>)
+![Screenshot creazione account email aruba](<../../.gitbook/assets/accountemail (1) (1) (2) (1) (1).PNG>)
 
 ## Particolarità
 

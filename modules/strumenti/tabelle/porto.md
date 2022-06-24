@@ -8,7 +8,7 @@ title: Porto
 Il modulo **Porto** permette di aggiungere nuovi tipi di _Porto_ al campo _**Porto**_ nella creazione di un **Ddt**:
 {% endhint %}
 
-![Screenshot interfaccia porto](../../../.gitbook/assets/screenporto.PNG)
+![Screenshot interfaccia porto](../../../.gitbook/assets/ScreenPorto.PNG)
 
 ## Navigazione
 
@@ -20,11 +20,11 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione porto ](../../../.gitbook/assets/aggiuntaporto.PNG)
+![Screenshot creazione porto](../../../.gitbook/assets/AggiuntaPorto.PNG)
 
 E' sufficiente inserire la _Descrizione_ per creare un nuovo _Porto_.
 
-![Screenshot creazione porto ](../../../.gitbook/assets/creazioneporto.PNG)
+![Screenshot creazione porto](../../../.gitbook/assets/CreazionePorto.PNG)
 
 ## Modifica
 

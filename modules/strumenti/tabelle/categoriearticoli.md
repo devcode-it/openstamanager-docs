@@ -8,7 +8,7 @@ title: Categorie articoli
 Il modulo **Categorie articoli** permette di aggiungere nuove _Categorie articoli_ al campo _**Categorie articoli**_ nella creazione di un **Articolo**:
 {% endhint %}
 
-![Screenshot interfaccia categorie articoli](../../../.gitbook/assets/categoriearticoli.PNG)
+![Screenshot interfaccia categorie articoli](../../../.gitbook/assets/CategorieArticoli.PNG)
 
 ## Navigazione
 
@@ -24,13 +24,13 @@ La creazione di nuovi elementi segue il funzionamento standard del gestionale, n
 
 E' sufficiente inserire il _Nome_, una _Data_ e un eventuale _Nota_ per creare una nuova **Categorie articoli**.
 
-![Screenshot creazione categorie articoli](../../../.gitbook/assets/aggiungerecategoriearticoli.PNG)
+![Screenshot creazione categorie articoli](../../../.gitbook/assets/AggiungereCategorieArticoli.PNG)
 
 ## Modifica
 
 La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.La sezione di modifica è suddivisa in 2 raggruppamenti:
 
-* Dati&#x20;
+* Dati
 * Sottocategorie
 
 ### Dati
@@ -41,14 +41,14 @@ Questo primo raggruppamento permette di modificare i **Dati** inseriti nella cre
 * Colore
 * Note
 
-![Screenshot modifica categorie articoli](../../../.gitbook/assets/modificacategoriearticoli.PNG)
+![Screenshot modifica categorie articoli](../../../.gitbook/assets/ModificaCategorieArticoli.PNG)
 
 ### Sottocategoria
 
-Dove sarà possibile aggiungere una _**Sottocategoria**_ premendo il tasto ![](../../../.gitbook/assets/+sottocategoria.PNG)
+Dove sarà possibile aggiungere una _**Sottocategoria**_ premendo il tasto ![](../../../.gitbook/assets/+Sottocategoria.PNG)
 
-![Screenshot aggiungi sottocategoria](../../../.gitbook/assets/modificasottocategorie.PNG)
+![Screenshot aggiungi sottocategoria](../../../.gitbook/assets/ModificaSottoCategorie.PNG)
 
 E' sufficiente inserire il _Nome_, una _Data_ e un eventuale _Nota_ per creare una nuova **Sottocategoria**.
 
-![Screen sottocategoria creata](../../../.gitbook/assets/sottocategoriafinale.PNG)
+![Screen sottocategoria creata](../../../.gitbook/assets/SottoCategoriaFinale.PNG)

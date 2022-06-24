@@ -14,13 +14,13 @@ Questo modulo è complementare a [**Account email**](account.md), che si occupa 
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Template email** visibile dall'espansione del menu **Gestione email**.
 
-![Screenshot navigazione template email](../../.gitbook/assets/navigazionetemplateemail.PNG)
+![Screenshot navigazione template email](../../.gitbook/assets/NavigazioneTemplateEmail.PNG)
 
 ## Caratteristiche
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita.
 
-![Screenshot caratteristiche template email](../../.gitbook/assets/interfacciatemplateemail.PNG)
+![Screenshot caratteristiche template email](../../.gitbook/assets/InterfacciaTemplateEmail.PNG)
 
 ### Creazione
 
@@ -35,7 +35,7 @@ Viene quindi data la possibilità di completare le informazioni di base del nuov
 * Oggetto del template
 * [Account email](account.md) da utilizzare
 
-![Screenshot creazione template email](../../.gitbook/assets/aggiungitemplateemail.PNG)
+![Screenshot creazione template email](../../.gitbook/assets/AggiungiTemplateEmail.PNG)
 
 Il completamento di ulteriori informazioni viene permesso dalla schermata di modifica.
 
@@ -53,11 +53,11 @@ In particolare, oltre ai campi previsti alla creazione, vengono resi disponibili
 * Stampe da allegare (di default)
 * Contenuto
 
-![Screenshot modifica template email](../../.gitbook/assets/modificatemplateemail.PNG)
+![Screenshot modifica template email](../../.gitbook/assets/ModificaTemplateEmail.PNG)
 
 Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Istruzioni per i campi automatici**.
 
-![Screenshot campi automatici template email](../../.gitbook/assets/campiautomatici.PNG)
+![Screenshot campi automatici template email](../../.gitbook/assets/CampiAutomatici.PNG)
 
 La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email. Per maggiori informazioni, visitare la documentazione di [invio email](invio.md).
 

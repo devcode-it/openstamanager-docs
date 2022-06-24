@@ -6,7 +6,7 @@ title: Creazione attività
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione attività](../../.gitbook/assets/add-attivita.PNG)
+![Screenshot creazione attività](../../.gitbook/assets/add-attività.PNG)
 
 Il modulo **Attività** presenta quindi la possibilità di inserire le informazioni complete relative alla nuova attività da creare.
 
@@ -71,11 +71,11 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 
 Nella schermata di creazione di una nuova attività viene permessa la creazione al volo dell'anagrafica di tipo _Cliente_ relativa al nuovo _record_. Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo _Cliente_.
 
-![Screenshot creazione anagrafica al volo](../../.gitbook/assets/creazionealvolocliente.PNG)
+![Screenshot creazione anagrafica al volo](../../.gitbook/assets/CreazioneAlVoloCliente.PNG)
 
 La gestione della creazione viene quindi delegata al modulo **Anagrafiche**, permettendo l'inserimento delle informazioni standard documentate nella [sezione relativa](../anagrafiche/creazione.md) attraverso un _modal_ sovrapposto al resto del contenuto.
 
-![Screenshot creazione anagrafica al volo](../../.gitbook/assets/creazionealvolocliente2.PNG)
+![Screenshot creazione anagrafica al volo](../../.gitbook/assets/CreazioneAlVoloCliente2.PNG)
 
 Una volta completata la creazione in questione, l'anagrafica creata verrà automaticamente selezionata.
 
@@ -83,4 +83,4 @@ Una volta completata la creazione in questione, l'anagrafica creata verrà autom
 
 Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.
 
-![Widget promemoria attività da pianificare presente nella Dashboard](../../.gitbook/assets/promemoriaattivitadapianificare.PNG)
+![Widget promemoria attività da pianificare presente nella Dashboard](../../.gitbook/assets/PromemoriaAttivitàDaPianificare.PNG)

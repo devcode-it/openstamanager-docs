@@ -21,11 +21,11 @@ Per motivi di sicurezza si consiglia di modificare il percorso della cartella di
 
 Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni momento le informazioni relative alla configurazione dei backup e di gestire i backup presenti del gestionale.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 L'esecuzione manuale del backup è estremamente semplice:
 
-![](<../.gitbook/assets/creazionebackup (2) (2) (4) (1) (3).gif>)
+![](<../.gitbook/assets/creazionebackup (2) (2) (4) (2).gif>)
 
 ### Formato dei backup
 
@@ -43,7 +43,7 @@ Esiste una procedura semplificata di ripristino dei backup, che cerca di risolve
 
 La procedura semplificata è raggiungibile nel modulo **Backup**, sotto la sezione _Ripristina backup_, tramite la selezione di un archivio ZIP.
 
-![](../.gitbook/assets/ripristinabackup.PNG)
+![](../.gitbook/assets/RipristinaBackup.PNG)
 
 La procedura manuale è comunque sempre disponibile, e prevede di:
 

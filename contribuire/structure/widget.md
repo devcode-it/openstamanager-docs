@@ -12,7 +12,7 @@ I **Widget** sono strumenti utili nell'utilizzo di OpenSTAManager, sono presenti
 Grazie all'immagine sottostante andremo a darne uno sguardo più tecnico.
 {% endhint %}
 
-![](../../.gitbook/assets/databasewidget.png)
+![](../../.gitbook/assets/DatabaseWidget.png)
 
 Questi sono i **widgets** che offre OpenSTAManager, presenti dentro la tabella **zz\_widgets.**
 
@@ -35,4 +35,3 @@ Ogni **Widget** è composto da:
 * **help:** il messaggio che viene visualizzato passando sopra al **widget** con il mouse.
 * **created\_at:** giorno,mese e ora di quando è stato creato.
 * **updated\_at:** giorno,mese e ora di quando è stato caricato.
-

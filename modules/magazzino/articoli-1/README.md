@@ -8,13 +8,13 @@ title: Modulo Articoli
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![Screenshot interfaccia articoli](../../../.gitbook/assets/interfacciaarticoli.PNG)
+![Screenshot interfaccia articoli](../../../.gitbook/assets/InterfacciaArticoli.PNG)
 
 ## Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Articoli** visibile dall'espansione del menu **Magazzino**.
 
-![Screenshot navigazione articoli](../../../.gitbook/assets/navigazionearticoli.PNG)
+![Screenshot navigazione articoli](../../../.gitbook/assets/NavigazioneArticoli.PNG)
 
 ## Caratteristiche
 
@@ -24,5 +24,4 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 * Valore Magazzino
 * Articoli in Magazzino
 
-![Screenshot widget magazzino](../../../.gitbook/assets/widgetmagazzino.PNG)
-
+![Screenshot widget magazzino](../../../.gitbook/assets/WidgetMagazzino.PNG)

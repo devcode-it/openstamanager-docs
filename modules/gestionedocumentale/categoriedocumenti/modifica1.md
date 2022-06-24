@@ -8,5 +8,4 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 Così facendo è possibile modificare la descrizione di un _record_.
 
-![Screen modifica categorie documenti](../../../.gitbook/assets/modificacategoriedocumenti.PNG)
-
+![Screen modifica categorie documenti](../../../.gitbook/assets/ModificaCategorieDocumenti.PNG)

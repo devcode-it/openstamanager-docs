@@ -20,13 +20,13 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita.
 
-![Screenshot interfaccia Account email](../../.gitbook/assets/scrrenshotaccountemail.PNG)
+![Screenshot interfaccia Account email](../../.gitbook/assets/ScrrenshotAccountEmail.PNG)
 
 ### Creazione
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
 
-![Screenshot creazione account email](../../.gitbook/assets/add-account-email.PNG)
+![Screenshot creazione account email](<../../.gitbook/assets/Add-Account email.PNG>)
 
 Viene quindi data la possibilità di completare le informazioni di base del nuovo account email, quali:
 
@@ -34,7 +34,7 @@ Viene quindi data la possibilità di completare le informazioni di base del nuov
 * Nome mostrato nelle email
 * Indirizzo email
 
-![Screenshot creazione Account email](../../.gitbook/assets/creazioneaccountemail.PNG)
+![Screenshot creazione Account email](../../.gitbook/assets/CreazioneAccountEmail.PNG)
 
 Il completamento di ulteriori informazioni viene permesso dalla schermata di modifica.
 
@@ -50,7 +50,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Porta SMTP
 * Sicurezza SMTP
 
-![Screenshot modifica Account email](../../.gitbook/assets/modificaaccountemail.PNG)
+![Screenshot modifica Account email](../../.gitbook/assets/ModificaAccountEmail.PNG)
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 

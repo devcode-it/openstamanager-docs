@@ -15,7 +15,7 @@ screen:
 Il modulo **Gestione componenti** è dedicato alla gestione dei _modelli dei componenti_ di tutti gli **Impianti** gestiti da OpenSTAManager.
 {% endhint %}
 
-![Screenshot interfaccia gestione componenti](../../.gitbook/assets/interfacciagestionecomponenti.PNG)
+![Screenshot interfaccia gestione componenti](../../.gitbook/assets/InterfacciaGestioneComponenti.PNG)
 
 ## Navigazione
 

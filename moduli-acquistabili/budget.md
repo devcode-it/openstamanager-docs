@@ -1,36 +1,38 @@
 # Budget
 
-**Budget** è uno dei diversi moduli acquistabili da **OpenstaSTAManager.** Il modulo budget permette di visualizzare sotto-forma di grafico e tabella l'**andamento economico** \(costi/ricavi\) e l'**andamento finanziario** \(entrate/uscite\). Oltre all'andamento reale, permette di integrare anche le **previsioni di costi e ricavi**, e delle **entrate** e **uscite**. 
+**Budget** è uno dei diversi moduli acquistabili da **OpenSTAManager.** Permette di visualizzare sottoforma di grafico e tabella l'**andamento economico** (costi/ricavi) e l'**andamento finanziario** (entrate/uscite). Oltre all'andamento reale, permette di integrare anche le **previsioni di costi e ricavi**, e delle **entrate** e **uscite**.
 
 {% hint style="info" %}
-[Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto
+[Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto, per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
 {% endhint %}
 
-### Installazione e aggiornamento
+A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il seguente prospetto che evidenzia l'**Utile totale**, dato dalla differenza tra ricavi e costi totali.
 
-Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
+![](<../.gitbook/assets/image (95).png>)
 
-### Utilizzo
+Ponendo l'attenzione sui ricavi si può notare che i ricavi reali sono composti dalla somma delle fatture di vendita già contabilizzate, mentre i ricavi totali sono formati dalla somma di questi e i ricavi previsti da previsionali o sergenti dati esterne.
 
-A seguito dell'installazione del modulo, cliccando su **Budget** apparirà alla destra la seguente schermata.
+![](<../.gitbook/assets/image (94).png>)
 
-![](../.gitbook/assets/budg4.png)
+Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza.
 
-![](../.gitbook/assets/budg5.png)
+![](../.gitbook/assets/budg6.PNG)
 
-Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza. 
+Tra le **Sorgenti esterne** sono inserite di default delle query che è possibile abilitare o disabilitare, che vanno a imputare in previsionale i ricavi provenienti da DDT e da ordini clienti che sono stati accettati ma non ancora evasi.&#x20;
 
-![](../.gitbook/assets/budg6.png)
+C'è inoltre la possibilità per utenti avanzati (o in caso di richiesta ai tecnici OpenSTAManager) di configurare delle query SQL che permettano di inserire ulteriori previsioni, ad esempio la previsione di ricavo di un preventivo.
 
-Le **previsioni finanziarie** funzionano allo stesso modo, basta selezionare l'apposita voce durante l'inserimento.
+Volendo analizzare nel dettaglio tutti i documenti che concorrono a costituire il valore di entrate e uscite, è possibile cliccare sull'importo interessato della tabella e si aprirà una schermata con i riferimenti alle diverse fatture.
 
-Oltre al previsionale inserito manualmente dall'utente, c'è la possibilità per utenti avanzati o dal team di OpenSTAManager di configurare delle query SQL che permettano di inserire ulteriori previsioni dai dati presenti in OpenSTAManager, ad esempio la previsione di ricavo di un preventivo o di un ordine. Mentre la previsione di ricavo o di costo avviene per intero e in base ad una specifica data del documento, la previsione di entrata/uscita considera l'importo lordo, ossia ivato, e lo distribuisce in base al tipo di pagamento specificato nel documento o, se mancante, legato all'anagrafica a cui è collegato il documento. Ad esempio, la previsione di fatturazione di un preventivo da 1.000,00 € + iva con pagamento 30/60gg, calcolerà un'entrata prevista di 610,00 € fra 30 giorni e 610,00 € fra 60 giorni.
+![](<../.gitbook/assets/image (51).png>)
 
-L'**andamento finanziario**, a differenza di quello **economico**, attinge dati anche dallo scadenzario.
+Inoltre, cliccando sul tasto "**+**" vicino a Ricavi e Costi, sarà possibile vedere la lista dei conti in cui ricavi e costi saranno rispettivamente imputati.
 
-Al click sugli importi mensili è anche possibile visualizzare i dettagli del mese.
+![](<../.gitbook/assets/image (42).png>)
 
-![](../.gitbook/assets/budg7.png)
+L'**andamento finanziario**, a differenza di quello **economico**, attinge dati anche dallo scadenzario, e va quindi ad imputare tutte le scadenze previste nel relativo periodo di competenza.
 
-![](../.gitbook/assets/budg8.png)
+Mentre la previsione di ricavo o di costo dell'andamento economico avviene per intero e in base ad una specifica data del documento, la previsione di entrata/uscita dell'andamento finanziario considera l'importo lordo e lo distribuisce in base al tipo di pagamento specificato nel documento o, se mancante, legato all'anagrafica a cui è collegato il documento.&#x20;
+
+Ad esempio avendo una fattura di 100€(+IVA ordinaria 22%) e dovendola pagare con Ri.Ba. a 30/60gg, troveremo un primo pagamento di 61€ a 30 giorni e un secondo di pari valore a 60 giorni.&#x20;
 

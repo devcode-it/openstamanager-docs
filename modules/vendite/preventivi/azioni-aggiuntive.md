@@ -22,4 +22,4 @@ Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella
   * Contratto
   * Fattura
 
-![](<../../../.gitbook/assets/azioniaggiuntivepreventivi (1).PNG>)
+![](../../../.gitbook/assets/azioniaggiuntivepreventivi.PNG)

@@ -8,12 +8,12 @@ title: Stampe contabili
 Il modulo **Stampe contabili** permette all'utente di stampare:
 {% endhint %}
 
-* Registri iva&#x20;
+* Registri iva
   * Registro IVA vendite
   * Registro IVA acquisti
   * Liquidazione IVA
 * Comunicazione dati fatture
-* Fatturato&#x20;
+* Fatturato
   * Fatturato in entrata
   * Fatturato in uscita
 
@@ -29,4 +29,4 @@ Le suddette stampe contabili non sono da considerarsi valide ai fini fiscali.
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Contabilità**.
 
-![Screenshot navigazione stampe contabili](../../.gitbook/assets/navigazionestampecontabili.PNG)
+![Screenshot navigazione stampe contabili](../../.gitbook/assets/NavigazioneStampeContabili.PNG)

@@ -4,7 +4,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 
 ## Modifica
 
-Nella sezione **costi generali** andando sopra un record,cliccando sul simbolo ![](../../../.gitbook/assets/simbolomodifica.PNG) è possibile modificare:
+Nella sezione **costi generali** andando sopra un record,cliccando sul simbolo ![](../../../.gitbook/assets/SimboloModifica.PNG) è possibile modificare:
 
 * Numero
 * Descrizione
