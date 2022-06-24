@@ -1,14 +1,25 @@
-# Configurazione
+---
+description: >-
+  Contiene le informazioni fondamentali sulle procedure di installazione,
+  configurazione e aggiornamento del gestionale OpenSTAManager.
+---
 
-La sezione seguente contiene le informazioni fondamentali sulle procedure di installazione, configurazione e aggiornamento del gestionale OpenSTAManager.
-
-{% page-ref page="installazione.md" %}
-
-{% page-ref page="inizializzazione.md" %}
-
-{% page-ref page="aggiornamento.md" %}
-
-{% page-ref page="backup.md" %}
+# 📓 Configurazione
 
 
 
+{% content-ref url="installazione.md" %}
+[installazione.md](installazione.md)
+{% endcontent-ref %}
+
+{% content-ref url="inizializzazione.md" %}
+[inizializzazione.md](inizializzazione.md)
+{% endcontent-ref %}
+
+{% content-ref url="aggiornamento.md" %}
+[aggiornamento.md](aggiornamento.md)
+{% endcontent-ref %}
+
+{% content-ref url="backup.md" %}
+[backup.md](backup.md)
+{% endcontent-ref %}

@@ -12,7 +12,7 @@ Dopo aver compilato tutti i campi richiesti si andrà a selezionare l'impianto i
 
 Scorrendo alla scheda Costi unitari sarà possibile andare a specificare i costi fissi di chiamata e quelli relativi ai tecnici.
 
-![](<../.gitbook/assets/immagine (69).png>)
+![](<../.gitbook/assets/immagine (69) (1).png>)
 
 Se nel **contratto** sono inclusi dei costi fissi già specificati, è possible mettere tutti i campi a **0.**
 

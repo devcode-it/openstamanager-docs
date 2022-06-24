@@ -1,12 +1,12 @@
 # Table of contents
 
-* [🚀 Novità](README.md)
-* [OpenSTAManager](<README (1).md>)
-* [Configurazione](configurazione/README.md)
-  * [Installazione](configurazione/installazione.md)
-  * [Inizializzazione](configurazione/inizializzazione.md)
-  * [Aggiornamento](configurazione/aggiornamento.md)
-  * [Backup](configurazione/backup.md)
+* [📰 Novità](README.md)
+* [🚀 OpenSTAManager](<README (1).md>)
+* [📓 Configurazione](configurazione/README.md)
+  * [🎯 Installazione](configurazione/installazione.md)
+  * [▶ Inizializzazione](configurazione/inizializzazione.md)
+  * [🆙 Aggiornamento](configurazione/aggiornamento.md)
+  * [⏸ Backup](configurazione/backup.md)
 * [Interfaccia](interfaccia/README.md)
   * [Moduli e plugin](interfaccia/moduli-e-plugin.md)
   * [Widget](interfaccia/widget.md)
@@ -192,6 +192,9 @@
   * [Gestione acconto](esempi/gestione-acconto.md)
   * [Dichiarazioni d'Intento](esempi/dichiarazioni-dintento.md)
   * [Calendario su telefono](esempi/calendario-su-telefono.md)
+* [Videoguide](videoguide/README.md)
+  * [Attività/Fatturazione](videoguide/attivita-fatturazione.md)
+  * [Preventivo/Consuntivo](videoguide/preventivo-consuntivo.md)
 * [Contribuire](contribuire/README.md)
   * [Personalizzazione](contribuire/base/README.md)
     * [Codice](contribuire/base/code.md)
@@ -203,9 +206,6 @@
     * [Plugin](contribuire/structure/plugin.md)
     * [Stampe](contribuire/structure/stampe.md)
     * [Widget](contribuire/structure/widget.md)
-* [Videoguide](videoguide/README.md)
-  * [Attività/Fatturazione](videoguide/attivita-fatturazione.md)
-  * [Preventivo/Consuntivo](videoguide/preventivo-consuntivo.md)
 
 ## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
 

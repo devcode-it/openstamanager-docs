@@ -8,7 +8,7 @@ Per prima cosa si dovrà risalire all'API token, visualizzabile dalla schermata 
 
 ![](<../.gitbook/assets/immagine (49).png>)
 
-![](<../.gitbook/assets/immagine (54).png>)
+![](<../.gitbook/assets/immagine (54) (1).png>)
 
 Si dovrà ora lanciare l'app iCalSync appena scaricata e la schermata che si presenterà sarà questa, dove si andranno ad inserire il nome del calendario, l'API token e la frequenza di sincronizzazione.
 
@@ -22,7 +22,7 @@ Andando ora ad aprire il calendario si potranno vedere gli interventi registrati
 
 Il calendario si sincronizzerà ogni 30 minuti come preimpostato, per forzare la sincronizzazione di un'attività appena creata in dashboard basterà premere sul calendario OSM dentro l'app.
 
-![](<../.gitbook/assets/immagine (65).png>)
+![](<../.gitbook/assets/immagine (65) (1).png>)
 
 ![](<../.gitbook/assets/montaggio (1).jpg>)
 

@@ -41,9 +41,12 @@ install:
   - path: installed.png
     alt: Database installato con successo
     title: Database installato con successo
+description: Come installare OpenSTAManager.
 ---
 
-# Installazione
+# 🎯 Installazione
+
+### 🐱 Da GitHub
 
 Per procedere all'installazione di OpenSTAManager è necessario seguire i seguenti punti:
 
@@ -54,13 +57,27 @@ Per procedere all'installazione di OpenSTAManager è necessario seguire i seguen
 
 Una volta completate le istruzioni per l'installazione del software, è necessario procedere alla sua configurazione per permetterne il funzionamento nell'ambiente di utilizzo.
 
-Questa procedura può essere suddivisa in tre sezioni differenti:
+### 🖥️ Da Terminale
 
-* Controllo dei requisiti
-* Revisione della licenza del software
-* Configurazione delle credenziali di accesso al database MySQL
+Nel caso si stia utilizzando la versione direttamente ottenuta dalla repository di GitHub, è necessario eseguire i seguenti comandi da linea di comando per completare le dipendenze PHP (tramite [Composer](https://getcomposer.org)) e gli assets (tramite [Yarn](https://yarnpkg.com)) del progetto.
 
-## Requisiti
+```
+git clone https://github.com/devcode-it/openstamanager.git
+cd openstamanager
+
+# Installazione di composer (è consigliato utilizzare i comandi proposti su https://getcomposer.org/download/)
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+
+# Può essere saltato ma meglio scaricare dal sito ufficiale di composer
+php -r "if (hash_file('sha384', 'composer-setup.php') === '55ce33d7678c5a611085589f1f3ddf8b3c52d662cd01d4ba75c0ee0459970c2200a51f492d557530c71c15d8dba01eae') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+
+yarn develop-OSM
+```
+
+## 🔖 Requisiti
 
 {% hint style="info" %}
 Il software permette in automatico di controllare se l'ambiente di utilizzo presenta una configurazione adeguata per il suo corretto funzionamento.
@@ -81,32 +98,7 @@ Viene quindi caricata la pagina per il controllo della configurazione del _web s
 * Estensioni PHP
 * Percorsi di servizio per il software
 
-Nel caso vengano mostrati dei componenti in rosso, è consigliato procedere all'attivazione del modulo/estensione seguendo le linee guida ufficiali del relativi software ([PHP ](http://php.net/manual/en/install.pecl.windows.php)o [Apache](https://stackoverflow.com/a/5758551)).
-
-![Schermata dei requisiti(non soddisfatti)](../.gitbook/assets/requirements-error.png)
-
-Una volta corretti correttamente i requisiti, cliccare ![](../.gitbook/assets/SuccessivoTasto.PNG) .
-
-![Schermata dei requisiti (soddisfatti)](../.gitbook/assets/requirements-ok.png)
-
-### Codice da GitHub
-
-Nel caso si stia utilizzando la versione direttamente ottenuta dalla repository di GitHub, è necessario eseguire i seguenti comandi da linea di comando per completare le dipendenze PHP (tramite [Composer](https://getcomposer.org)) e gli assets (tramite [Yarn](https://yarnpkg.com)) del progetto.
-
-```bash
-php composer.phar install
-yarn global add gulp
-yarn install
-gulp
-```
-
-In alternativa alla sequenza di comandi precedente, è possibile utilizzare il seguente comando (richiede l'installazione di GIT e Yarn, oltre che l'inserimento dell'archivio `composer.phar` nella cartella principale del progetto):
-
-```bash
-yarn run develop-OSM
-```
-
-## Licenza
+## ✍️ Licenza
 
 La schermata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
 
@@ -122,7 +114,7 @@ Una volta accettata la licenza, cliccare su **Successivo**.
 
 ![Errore di licenza](../.gitbook/assets/license-error.png)
 
-## Database
+## ⛵ Database
 
 Una volta corretti i requisiti e accettata la licenza, viene resa disponibile la pagina dedicata alla configurazione del software per l'accesso al database MySQL.
 
@@ -146,22 +138,12 @@ In ogni caso, si possono verificare degli errori duranti il salvataggio della co
 
 Se le credenziali inserite sono corrette, dopo aver cliccato su **Installa** si verrà reindirizzati alla procedura automatica di installazione del database.
 
-## Installazione del database
+### 🛰️ Installazione del database
 
 Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../.gitbook/assets/Installa!.PNG) per avviare l'installazione del database di OpenSTAManager.
 
-![Installazione del database](../.gitbook/assets/install.png)
+![](<../.gitbook/assets/immagine (2).png>)
 
-![Processi di installazione del database](../.gitbook/assets/installing.png)
+Appena l'installazione sarà terminata, sarà possibile cliccare su Continua e procedere con l'inizializzazione del gestionale.
 
-![Database installato con successo](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FA3mhWhiUY9LKS17bUvx0%2Ffile.png?alt=media)
-
-Per maggiori informazioni su questa procedura, oppure nel caso si verificassero degli errori, visitare la sezione **Aggiornamento**.
-
-[Vai alla sezione Aggiornamento](aggiornamento.md)
-
-## Inizializzazione
-
-Una volta completati i precedenti passaggi con successo, verrà richiesta di inizializzare il gestionale con delle informazioni di base.
-
-[Vai alla sezione Inizializzazione](inizializzazione.md)
+![](<../.gitbook/assets/immagine (65).png>)

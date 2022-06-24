@@ -16,7 +16,7 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 
 Aprendo la fattura appena registrata, noteremo un avviso che ci guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi andare su Crea/Autofattura.
 
-![](<../.gitbook/assets/immagine (50).png>)
+![](<../.gitbook/assets/immagine (50) (1).png>)
 
 Si aprirà quindi ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
 
@@ -29,15 +29,13 @@ Avviando questa procedura si può notare che si sta attualmente lavorando nel se
 
 ![](<../.gitbook/assets/immagine (29).png>)
 
-Con **Crea autofattura** appariranno ora due avvvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.&#x20;
+Con **Crea autofattura** appariranno ora due avvvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.
 
 ![](<../.gitbook/assets/immagine (52).png>)
 
 Andando ad andalizzare le righe si potrà vedere l'IVA per integrazione presente in questo documento.
 
 ![](<../.gitbook/assets/immagine (27).png>)
-
-
 
 All'atto di importazione delle fatture di acquisto si potrà ora trovare l'autofattura da importare, che andrà a registrarsi nel sezionale Autofatture.
 
@@ -47,8 +45,6 @@ Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare 
 
 ![](<../.gitbook/assets/immagine (21).png>)
 
-
-
 Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 
 ![Dettaglio Conto economico](<../.gitbook/assets/image (38).png>)
@@ -56,4 +52,3 @@ Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il mo
 ![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (76).png>)
 
 ![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (96).png>)
-
