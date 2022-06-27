@@ -1,4 +1,4 @@
-# Videoguide
+# 📓 Videoguide
 
 Videoguide facili e veloci per approfondire e comprendere nel dettaglio le funzionalità di OpenSTAManager e poterne sfruttare al meglio la potenzialità:
 

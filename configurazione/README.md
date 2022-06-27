@@ -4,7 +4,7 @@ description: >-
   configurazione e aggiornamento del gestionale OpenSTAManager.
 ---
 
-# 📓 Configurazione
+# 📘 Configurazione
 
 
 

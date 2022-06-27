@@ -14,7 +14,7 @@ Verrà ora mostrato un [avviso](https://docs.openstamanager.com/modules/vendite/
 
 ![Avviso fattura generata](<.gitbook/assets/immagine (59).png>)
 
-![Avviso fattura scartata](<.gitbook/assets/immagine (2) (1).png>)
+![Avviso fattura scartata](<.gitbook/assets/immagine (2) (1) (1).png>)
 
 E' possibile [selezionare che articoli importare](https://docs.openstamanager.com/faq/fatturazione-elettronica#automatismi) in magazzino, nel momento dell'importazione di una fattura di acquisto.
 

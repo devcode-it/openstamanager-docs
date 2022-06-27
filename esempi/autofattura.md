@@ -12,11 +12,11 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 
 ![](<../.gitbook/assets/immagine (22).png>)
 
-![](<../.gitbook/assets/immagine (48).png>)
+![](<../.gitbook/assets/immagine (48) (1).png>)
 
 Aprendo la fattura appena registrata, noteremo un avviso che ci guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi andare su Crea/Autofattura.
 
-![](<../.gitbook/assets/immagine (50) (1).png>)
+![](<../.gitbook/assets/immagine (50) (1) (1).png>)
 
 Si aprirà quindi ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
 

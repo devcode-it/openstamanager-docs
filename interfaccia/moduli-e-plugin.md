@@ -1,4 +1,8 @@
-# Moduli e plugin
+---
+description: Guida ai moduli e plugin di OpenSTAManager
+---
+
+# 📚 Moduli e plugin
 
 I moduli sono la componente principale della struttura di OpenSTAManager. Sono progettati per avere una struttura facilmente personalizzabile e mantenere comportamenti indipendenti dal resto del software.
 
@@ -6,84 +10,72 @@ Ogni modulo del gestionale è raggiungibile attraverso il [menu laterale](./#nav
 
 Per ottenere maggiori informazioni sul funzionamento interno e specifico di un modulo, è necessario visitare la relativa guida dedicata.
 
-## Pagina principale
+## 📌 Pagina principale
 
-I moduli sono solitamente caratterizzati da due pagine, una dedicata alla visualizzazione generale di tutti i record salvati e una indirizzata alla gestione delle informazioni di un singolo record.
+Accedendo a ogni modulo è possibile visualizzare l'elenco generale dei record salvati in esso. Cliccando su un singolo modulo si aprirà una schermata che permetterà di andare ad analizzarlo nel dettaglio e modificarlo.
 
-La pagina principale può essere composta da due strutture diverse: una tabella generale oppure un sistema di contenti personalizzati.
+La pagina principale di un modulo può essere composta da due strutture diverse: una tabella generale oppure un sistema di contenuti personalizzati.
 
-### Tabella generale
+### 📄 Tabella generale
 
-La schermata principale più comune nei moduli del gestionale presentano è una tabella che permette una serie di operazioni comuni su tutti gli elementi registrati all'interno del modulo:
+La schermata principale che si apre entrando in un modulo è formata da una tabella che permette una serie di operazioni comuni su tutti gli elementi registrati all'interno del modulo:
 
 * Scorrere e visualizzare (attraverso un click) i diversi record
 * Selezionare diversi record attraverso le relative righe per esportarli (in formato CSV), stamparli o copiarli
 * Selezionare dei record per effettuare delle azioni generali specifiche del modulo
 * Filtrare i record in base a un determinato campo utilizzando i seguenti operatori:
-  * &#x20;!= in caso si voglia ricercare un record diverso da un dato valore;
+  * != in caso si voglia ricercare un record diverso da un dato valore;
   * \= in caso si voglia ricercare uno specifico valore;
   * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
   * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 
-![Esempio dell'interfaccia con tabella generale](../.gitbook/assets/table.png)
+![](<../.gitbook/assets/immagine (50).png>)
 
-Esempi di questo comportamento sono individuabili in **Anagrafiche**, **Attività**, **Articoli** e in molti altri moduli predefiniti.
+### ✏️ Contenuti personalizzati
 
-### Contenuti personalizzati
+Esistono alcuni moduli che rappresentano informazioni non compatibili al formato tabellare, come ad esempio **Dashboard** e **Statistiche**, che porteranno rispettivamente alla visualizzazione di un calendario interagibile e di un grafico personalizzabile.
 
-Esistono alcuni moduli con requisiti particolari per la propria schermata principale, sia per motivi estetici che perché rappresentano informazioni poco compatibili al formato tabellare. In questi casi, è impossibile prevedere il tipo di informazioni presentabili e la modalità, che dipende dal singolo modulo.
+### 📤 Gestione degli upload
 
-Esempi di questa struttura sono presenti nei moduli **Dashboard** e **Statistiche**.
+Alcuni moduli presentano una componente generale per permettere l'inserimento di file di vario tipo all'utente finale del gestionale. Questa funzione viene spiegata in [Gestione upload](gestione-upload.md).
 
-## Operazioni sui record
+## 📓 Operazioni sui record
 
-Nel caso i moduli presentino una struttura di record gestibili singolarmente tramite la tabella generale, sono solitamente disponibili della ulteriori operazioni generali di creazione e modifica dei record.
-
-{% hint style="info" %}
-Le informazioni richieste da queste operazioni sono delegate al modulo stesso, che quindi può richiedere qualunque tipo di dato.
-{% endhint %}
-
-### Creazione record
+### ➕ Creazione record
 
 I moduli che permettono la creazione di nuovi elementi presentano un pulsante apposito ![](../.gitbook/assets/Pulsante+.PNG) vicino all'intestazione della pagina.
 
 ![Pulsante di creazione record (Anagrafiche)](../.gitbook/assets/add-button.png)
 
-Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del gestionale ch permettere di inserire le informazioni del nuovo elemento.
+Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del gestionale che permettere di inserire le informazioni del nuovo elemento.
 
 ![Creazione di un nuovo record (Anagrafiche)](../.gitbook/assets/Modal.gif)
 
-### Modifica record
+### 📝 Modifica record
 
-I moduli che permetto la modifica e la visualizzazione dei propri record permettono l'apertura di una schermata apposita al click sulla riga del record nella tabella principale. Questa schermata può chiedere e contenere molte più informazioni rispetto alla tabella generale e alla schermata di creazione.
+Cliccando su un singolo record è possibile accede alla schermata di dettaglio dello stesso, da cui è possibile andare ad apportarvi modifiche.
 
-![Esempio di schermata di modifica record (Anagrafiche)](../.gitbook/assets/editor.png)
+![](../.gitbook/assets/record.jpeg)
 
 Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
 
 ![operazioni massive sulle righe documento](<../.gitbook/assets/immagine (66).png>)
 
-## Gestione dei moduli
+### 🔧 Plugin
 
-Le operazioni di gestione dei moduli, quali abilitazione e disabilitazione, sono disponibili attraverso il modulo [Stato dei servizi](stato-dei-servizi.md).
+I plugin sono dei moduli che dipendono da altri moduli, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, che è possibile visualizzare nella sezione destra della pagina entrando in un record.
 
-## Gestione degli upload
-
-Alcuni moduli presentano una componente generale per permettere l'inserimento di file di vario tipo all'utente finale del gestionale. Questa funzione viene spiegata più nel dettaglio in [Gestione upload](gestione-upload.md).
-
-## Plugin
-
-I plugin sono dei moduli che sono sottoposti alla gestione gerarchica di un altro modulo, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, visibili nella sezione in alto a destra della schermata dei moduli.
-
-![Plugin](<../.gitbook/assets/plugins (1).png>)
-
-I plugin possono presentare comportamenti molto diversi, e sono in generale separati dal modulo a cui appartengono, malgrado vi siano collegati fortemente.
+![](<../.gitbook/assets/immagine (20).png>)
 
 {% hint style="info" %}
-Per gli amministratori, è inoltre presente un plugin denominato **Info** che permette di visualizzare la cronologia del record.
+Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia del record
 {% endhint %}
 
-## Campi personalizzati
+## 📍 Gestione dei moduli
+
+Le operazioni di gestione dei moduli, quali abilitazione e disabilitazione, sono disponibili attraverso il modulo [Stato dei servizi](stato-dei-servizi.md). Da qui inoltre, abilitando il modulo _Viste,_ è possibile creare delle query personalizzate per cambiare la visualizzazione dei vari moduli.
+
+## 💡 Campi personalizzati
 
 {% hint style="warning" %}
 Questa funzione è di rilevanza per chi desidera personalizzare alcune delle informazioni presentate dal gestionale senza modificare in modo consistente il codice generale.
@@ -93,11 +85,10 @@ A partire dalla versione 2.4 è possibile sfruttare dei campi personalizzati per
 
 Questi campi sono gestiti a livello di database attraverso le tabelle `zz_fields` e `zz_field_record`, che si occupano rispettivamente della gestione generale dei campi e del salvataggio dei record personalizzati. Le procedure automatiche di gestione di questi campi sono integrate nei file `actions.php`, `editor.php` e `add.php`.
 
-E' eventualmente disponibile il modulo **Campi personalizzati**, da abilitare in Viste, per la gestione dinamica di queste informazioni.
+E' disponibile il modulo **Campi personalizzati**, da abilitare in Viste, per la gestione dinamica di queste informazioni.
 
+#### _**Esempio di utilizzo**_
 
-
-_**Esempio di utilizzo**_\
 Volendo inserire un campo "Marca" selezionabile dalla videata articoli, la sintassi da utilizzare sarà la seguente:
 
 ```
@@ -105,13 +96,12 @@ Volendo inserire un campo "Marca" selezionabile dalla videata articoli, la sinta
 ```
 
 {% hint style="warning" %}
-E' importante utilizzare i valori |name| e |value| come suggerito dalle istruzioni sottostanti, affinchè i record vengano salvati correttamente.
+E' importante utilizzare i valori |name| e |value| come suggerito dalle istruzioni per il campo contenuto presenti nella parte inferiore della pagina, affinchè i record vengano salvati correttamente.
 {% endhint %}
 
 ![](<../.gitbook/assets/immagine (4).png>)
 
-E produrrà il seguente effetto nella sezione articoli:\
-
+Questo produrrà la creazione di un campo "Marca" all'interno dei record del modulo Articoli:
 
 ![](<../.gitbook/assets/immagine (13).png>)
 

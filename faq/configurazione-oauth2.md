@@ -4,7 +4,7 @@ description: >-
   protocollo OAuth2 al fine di autenticare il gestionale in servizi esterni
 ---
 
-# Configurazione OAuth2
+# 📘 Configurazione OAuth2
 
 A partire dalla versione 2.4.24, il gestionale OpenSTAManager supporta l'autenticazione OAuth2 per l'accesso agli account di posta elettronica attraverso il pannello OAuth2 del modulo **Account email**.
 

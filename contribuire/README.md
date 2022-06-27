@@ -4,7 +4,7 @@ sidebar:
   nav: docs-sidebar
 ---
 
-# Contribuire
+# 📒 Contribuire
 
 Sei interessato a contribuire allo sviluppo di OpenSTAManger? Ottimo, sei il benvenuto!
 
@@ -29,7 +29,7 @@ Utilizziamo principalmente due strumenti per mantenere consistente nel tempo lo 
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 * [EditorConfig](http://editorconfig.org)
 
-PHP CS Fixer viene utilizzato per formattare automaticamente il codice PHP e aumentare la sua comprensibilità. La configurazione può essere trovata nel file [.php\_cs](https://github.com/devcode-it/openstamanager/blob/master/.php_cs).
+PHP CS Fixer viene utilizzato per formattare automaticamente il codice PHP e aumentare la sua comprensibilità. La configurazione può essere trovata nel file [.php\_cs](https://github.com/devcode-it/openstamanager/blob/master/.php\_cs).
 
 EditorConfig viene sfruttato per mantenere la consistenza nella formattazione di base dei diversi altri file utilizzati nel progetto. La configurazione può essere trovata nel file [.editorconfig](https://github.com/devcode-it/openstamanager/blob/master/.editorconfig).
 
@@ -54,13 +54,13 @@ Se la risposta a una di queste domande è positiva, allora probabilmente hai ind
 
 ## Segnalare un bug
 
-Se hai individuato un bug e desideri segnalarlo, apri una nuova issue provando a mantenerti sulla base del [file di template su GitHub](https://github.com/devcode-it/openstamanager/blob/master/.github/ISSUE_TEMPLATE.md).
+Se hai individuato un bug e desideri segnalarlo, apri una nuova issue provando a mantenerti sulla base del [file di template su GitHub](https://github.com/devcode-it/openstamanager/blob/master/.github/ISSUE\_TEMPLATE.md).
 
 Se vuoi suggerire un miglioramento di qualche tipo oppure una nuova funzionalità, sentiti libero di aprire una issue apposita dove spieghi dettagliatamente la modifica che vorresti, la sua utilità e il suo funzionamento generale
 
 ## Pull Request
 
-Se sei in grado di risolvere uno dei bug segnalati oppure vuoi completare una nuova funzionalità, apri una nuova Pull Request provando a mantenerti sulla base del [file di template su GitHub](https://github.com/devcode-it/openstamanager/blob/master/.github/PULL_REQUEST_TEMPLATE.md).
+Se sei in grado di risolvere uno dei bug segnalati oppure vuoi completare una nuova funzionalità, apri una nuova Pull Request provando a mantenerti sulla base del [file di template su GitHub](https://github.com/devcode-it/openstamanager/blob/master/.github/PULL\_REQUEST\_TEMPLATE.md).
 
 ## Community
 
@@ -72,15 +72,14 @@ Cerchiamo di essere disponibili quanto possibile, ma non sempre riusciamo a risp
 
 Il progetto presenta, a partire dalla versione 2.4.2, un insieme di test per facilitare il controllo sul corretto funzionamento del gestionale.
 
-Per eseguire i test è necessario seguire le seguenti istruzioni \([https://codeception.com/docs/modules/WebDriver](https://codeception.com/docs/modules/WebDriver)\):
+Per eseguire i test è necessario seguire le seguenti istruzioni ([https://codeception.com/docs/modules/WebDriver](https://codeception.com/docs/modules/WebDriver)):
 
-* Scaricare \(Selenium Server\)\[[https://docs.seleniumhq.org/download/](https://docs.seleniumhq.org/download/)\] e salvarlo come `selenium-server-standalone.jar` nella cartella principale
-* Scaricare \(ChromeDriver\)\[[https://sites.google.com/a/chromium.org/chromedriver/getting-started](https://sites.google.com/a/chromium.org/chromedriver/getting-started)\], rendendolo eseguibile da riga di comando \(su Windows, aggiungerlo al PATH\)
+* Scaricare (Selenium Server)\[[https://docs.seleniumhq.org/download/](https://docs.seleniumhq.org/download/)] e salvarlo come `selenium-server-standalone.jar` nella cartella principale
+* Scaricare (ChromeDriver)\[[https://sites.google.com/a/chromium.org/chromedriver/getting-started](https://sites.google.com/a/chromium.org/chromedriver/getting-started)], rendendolo eseguibile da riga di comando (su Windows, aggiungerlo al PATH)
 * Configurare localmente Codeception nel file `codeception.yml` con l'URL del web server locale
-* Eseguire su shell differenti i seguenti comandi:
+*   Eseguire su shell differenti i seguenti comandi:
 
-  ```bash
-  npm run tests-server    # Avvia i server per i test di funzionamento grafico
-  npm run tests-OSM       # Avvia i test
-  ```
-
+    ```bash
+    npm run tests-server    # Avvia i server per i test di funzionamento grafico
+    npm run tests-OSM       # Avvia i test
+    ```

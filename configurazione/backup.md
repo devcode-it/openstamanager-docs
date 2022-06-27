@@ -43,7 +43,7 @@ Per migliorare la sicurezza del server, il file `config.inc.php`, che contiene i
 
 Esiste una procedura semplificata di ripristino dei backup, che cerca di risolvere il problema tecnico per utenti con meno esperienza tecnica. Si dovrà cliccare Ripristina nel backup interessato, dalla sezione Backup compressi.
 
-![](<../.gitbook/assets/immagine (50).png>)
+![](<../.gitbook/assets/immagine (50) (1).png>)
 
 La procedura manuale è comunque sempre disponibile, e prevede di:
 

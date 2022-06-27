@@ -1,4 +1,4 @@
-# Introduzione
+# 📘 Introduzione
 
 Benvenuto nella sezione FAQ di OpenSTAManager!
 
@@ -7,4 +7,3 @@ Benvenuto nella sezione FAQ di OpenSTAManager!
 ## Struttura
 
 Il menu di sinistra è il principale strumento per la navigazione in questo sito. Cliccare sulla sezione alla quale si è interessati per guardare le **FAQ** relative ad essa.
-

@@ -1,17 +1,19 @@
-# Widget
+---
+description: Guida ai widget di OpenSTAManager
+---
 
-I widget sono componenti predefinite che presentano una serie di funzioni aggiuntive a un modulo, che possono andare da filtri ad operazioni di gestione interna dei record.
+# 🤖 Widget
 
-Esistono pertanto diversi tipi di widget, malgrado si presentino sempre nella parte alta o bassa della pagina del modulo.
+I widget sono componenti predefiniti che presentano una serie di funzioni aggiuntive a un modulo, che possono andare da filtri ad operazioni di gestione interna dei record. E' possibile visualizzarli nella parte alta della pagina.
 
-![Esempio di widget (Anagrafiche)](../.gitbook/assets/widgets.png)
+![](<../.gitbook/assets/immagine (14).png>)
 
-## **Gestione dei widget**
+## 🎛️ **Gestione dei widget**
 
-I widget, essendo componenti del gestionale, presentano un sistema di base che ne permette la gestione all'utente finale.
+E' possibile spostare un widget cliccando su di esso e trascinandolo attraverso un'azione _drag\&drop._
 
-In particolare, è possibile procedere a disabilitare un widget attraverso il relativo pulsante in alto a destra dello stesso, oltre che modificare la posizione relativa dei widget di una stessa pagina attraverso un azione di _drag\&drop_.
+Per procedere a disabilitarlo invece, basterà cliccare sulla X nell'angolo in alto a destra dello stesso.&#x20;
 
-![Pulsante di disabilitazione del widget](../.gitbook/assets/RimozioneWidget.PNG)
+![](<../.gitbook/assets/immagine (58).png>)
 
-La gestione dei widget può inoltre essere effettuata attraverso il modulo [Stato dei servizi](stato-dei-servizi.md).
+Inoltre, è possibile trovare l'elenco dei widget da abilitare in Strumenti/[Stato dei servizi](stato-dei-servizi.md).

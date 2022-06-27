@@ -1,4 +1,4 @@
-# Retrieve
+# 📙 Retrieve
 
 Le operazioni di _retrieve_ permettono di ottenere le informazioni registrate nel gestionale, e solitamente non influenzano in alcun modo lo stato del software e i dati interni.
 
@@ -12,50 +12,50 @@ Considerando la potenziale quantità delle informazioni restituite, il sistema A
 
 {% swagger baseUrl="http://localhost/openstamanager" path="/api?token=<token>&resource=<resource>" method="get" summary="Richiesta standard" %}
 {% swagger-description %}
-Richiesta standard per la comunicazione con l'API in modalità 
+Richiesta standard per la comunicazione con l'API in modalità
 
 _retrieve_
 
 .
 {% endswagger-description %}
 
-{% swagger-parameter in="query" name="token" type="string" %}
+{% swagger-parameter in="query" name="token" type="string" required="false" %}
 Token di accesso
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="resource" type="string" %}
+{% swagger-parameter in="query" name="resource" type="string" required="false" %}
 Risorsa richiesta
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="page" type="integer" %}
-Intero compreso tra 0 e il valore del campo 
+{% swagger-parameter in="query" name="page" type="integer" required="false" %}
+Intero compreso tra 0 e il valore del campo
 
 `pages`
 
- restituito dalla prima richiesta (esempio: 
+restituito dalla prima richiesta (esempio:
 
 `page=5`
 
 )
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="display" type="array" %}
-Array che indica un filtro sui campi da restituire alla richiesta (esempio: 
+{% swagger-parameter in="query" name="display" type="array" required="false" %}
+Array che indica un filtro sui campi da restituire alla richiesta (esempio:
 
 `display=[id,name]`
 
 )
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="filter" type="array" %}
-Array composto che indica dei filtro da applicare sui contenuti dei risultati alla richiesta (esempio: 
+{% swagger-parameter in="query" name="filter" type="array" required="false" %}
+Array composto che indica dei filtro da applicare sui contenuti dei risultati alla richiesta (esempio:
 
 `filter[id]=[1]`
 
 )
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="order" type="array" %}
+{% swagger-parameter in="query" name="order" type="array" required="false" %}
 Array che indica l'ordinamento da impostare sulla richiesta
 {% endswagger-parameter %}
 

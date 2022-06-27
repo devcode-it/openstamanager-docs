@@ -1,4 +1,4 @@
-# Domande comuni
+# 📘 Domande comuni
 
 ## Perchè open source?
 
@@ -43,4 +43,3 @@ OpenSTAManager è stato testato con successo con vari servizi di hosting, come A
 ## Si possono impostare dei promemoria per attività periodiche?
 
 E' possibile impostare dei promemoria quando sono presenti dei contratti attivi dal plugin “Interventi da pianificare”. Verrà impostata una data entro cui svolgere l’attività ed una descrizione. Queste attività appariranno nel calendario come promemoria e saranno pianificabili direttamente da dashboard.
-
