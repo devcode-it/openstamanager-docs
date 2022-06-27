@@ -22,4 +22,4 @@ E' possibile [selezionare che articoli importare](https://docs.openstamanager.co
 
 E' ora possibile creare un'autofattura e i relativi corretti movimenti contabili utilizzando la funzione [Crea Autofattura](https://docs.openstamanager.com/esempi/autofattura)
 
-![Automatismo creazione autofattura](<.gitbook/assets/immagine (11).png>)
+![Automatismo creazione autofattura](<.gitbook/assets/immagine (11) (1).png>)

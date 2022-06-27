@@ -6,7 +6,7 @@ Come creo dei contratti di manutenzione su impianti, dispositivi o macchine?
 
 Per registrare un **contratto** di manutenzione relativo a un determinato impianto si deve procedere alla creazione di un contratto, la schermata che si presenterà sarà questa:
 
-![](<../.gitbook/assets/immagine (6).png>)
+![](<../.gitbook/assets/immagine (6) (1).png>)
 
 Dopo aver compilato tutti i campi richiesti si andrà a selezionare l'impianto interessato sotto la voce Impianti, andando eventualmente a crearne uno di nuovo cliccando su (+).
 

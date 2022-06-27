@@ -6,7 +6,7 @@ description: Guida ai widget di OpenSTAManager
 
 I widget sono componenti predefiniti che presentano una serie di funzioni aggiuntive a un modulo, che possono andare da filtri ad operazioni di gestione interna dei record. E' possibile visualizzarli nella parte alta della pagina.
 
-![](<../.gitbook/assets/immagine (14).png>)
+![](<../.gitbook/assets/immagine (20).png>)
 
 ## 🎛️ **Gestione dei widget**
 

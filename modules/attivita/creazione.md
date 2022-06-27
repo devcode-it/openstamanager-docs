@@ -79,6 +79,18 @@ La gestione della creazione viene quindi delegata al modulo **Anagrafiche**, per
 
 Una volta completata la creazione in questione, l'anagrafica creata verrà automaticamente selezionata.
 
+## Creazione impianto al volo
+
+Nella schermata di creazione di un nuovo intervento è permessa la creazione al volo di un _impianto_ relativa al nuovo record. Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo Impianto.
+
+![](<../../.gitbook/assets/immagine (11).png>)
+
+La gestione della creazione viene quindi delegata al modulo **MyImpianti**, permettendo l’inserimento delle informazioni standard documentate nella sezione relativa attraverso un _modal_ sovrapposto al resto del contenuto.
+
+![](<../../.gitbook/assets/immagine (63).png>)
+
+Una volta completata la creazione in questione, l’_impianto_ creato verrà automaticamente selezionato.
+
 ## Particolarità
 
 Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.
