@@ -1,5 +1,5 @@
 ---
-description: Guida ai moduli presenti in OpenSTAManager.
+description: Guida ai moduli di OpenSTAManager.
 ---
 
 # 📘 Moduli

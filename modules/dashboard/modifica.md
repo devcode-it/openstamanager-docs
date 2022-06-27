@@ -1,6 +1,6 @@
 ---
 title: Modifica intervento
-description: Guida alla modifica di un record da Dashboard.
+description: Come modificare un record da Dashboard in OpenSTAManager
 ---
 
 # 🖌 Modifica

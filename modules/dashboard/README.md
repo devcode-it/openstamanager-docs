@@ -1,5 +1,5 @@
 ---
-description: Guida alla Dashboard OpenSTAManager
+description: Guida alla Dashboard di OpenSTAManager
 ---
 
 # 📅 Dashboard

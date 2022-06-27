@@ -1,14 +1,16 @@
-# Anagrafiche
+---
+description: Guida al modulo Anagrafiche di OpenSTAManager
+---
+
+# 👤 Anagrafiche
 
 {% hint style="info" %}
 Il modulo **Anagrafiche** permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
 {% endhint %}
 
-
-
 ![Screenshot Anagrafiche](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FL9jxnCVWCwJY2W1pjbm0%2Ffile.png?alt=media)
 
-Proprio per facilitare la categorizzazione di questi _stakeholder_, sono disponibili cinque principali tipologie di anagrafiche:
+Sono disponibili cinque principali tipologie di anagrafiche:
 
 * Agenti
 * Clienti
@@ -18,17 +20,19 @@ Proprio per facilitare la categorizzazione di questi _stakeholder_, sono disponi
 
 Il gestionale permette inoltre di memorizzare le informazioni relative ai referenti aziendali e alle sedi lavorative delle società esterne, generando autonomamente statistiche basilari riguardanti interventi eseguiti, fatture emesse, preventivi effettuati e contratti lavorati.
 
-## Navigazione
+## ⛵ Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Anagrafiche**.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FLs4k5TwrOATHMnBZcMjX%2Ffile.png?alt=media)
 
-## Caratteristiche
+## 🖥️ Interfaccia
 
-Questo modulo possiede un modulo incentrato sulla gestione delle zone lavorative (denominato [**Zone**](zone.md)) e uno sulle relazioni, raggiungibili all'espansione del menu laterale.
+E' possibile trovare un sotto-modulo incentrato sulla gestione delle zone lavorative (denominato [**Zone**](zone.md)) e uno sulle relazioni, raggiungibili all'espansione del menu laterale.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FegH49d56NeAchNg8yfQX%2Ffile.png?alt=media)
+
+### 👾 Widget
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 6 widget per il filtraggio automatico delle anagrafiche per tipo:
 
@@ -41,22 +45,58 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 
 ![](../../.gitbook/assets/widgetanagrafiche.PNG)
 
-Sono inoltre presenti 7 [plugin](plugin/) nella sezione di modifica del modulo:
+### 🔧 Plugin
+
+Selezionando uno specifico record si può accedere a diversi plugin:
 
 * [Impianti del cliente](plugin/impianti-del-cliente.md)
+* [Referenti](plugin/referenti.md)
+* [Sedi](plugin/sedi.md)
+* [Statistiche](plugin/statistiche.md)
+* [Ddt del cliente](plugin/ddtdelcliente.md)
 * [Dichiarazioni d'intento](plugin/dichiarazioni-dintento.md)
 * [Storico attività](plugin/storico-attivita.md)
-* [Ddt del cliente](plugin/ddtdelcliente.md)
-* [Statistiche](plugin/statistiche.md)
-* [Sedi](plugin/sedi.md)
-* [Referenti](plugin/referenti.md)
+* Allegati
+* Contratti del cliente
+* Movimenti contabili
+* Regole pagamenti
+* Note interne
+* Info
 
-Di questi, **Ddt del cliente** e **Impianti del cliente** sono utilizzabili esclusivamente per anagrafiche di tipo _Cliente_.
-
-## Particolarità
+Di questi, **Impianti del cliente**, **Ddt del cliente** e **Contratti del cliente** sono utilizzabili esclusivamente per anagrafiche di tipo _Cliente_.
 
 {% hint style="info" %}
-Il modulo presenta la possibilità di creare una singola anagrafica di tipo _Azienda_ per motivi logico-funzionali. Questa anagrafica viene inoltre memorizzata nelle impostazioni di OpenSTAManager sotto l'impostazione nascosta **Azienda predefinita**.
+Il modulo presenta la possibilità di creare una singola anagrafica di tipo _Azienda_ per motivi logico-funzionali. Questa anagrafica viene memorizzata nelle impostazioni di OpenSTAManager sotto l'impostazione nascosta **Azienda predefinita**.
 
 Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico, per evitare di rimuovere informazioni necessarie al resto del gestionale. Sarà quindi possibile ripristinare, sotto richiesta di assistenza, eventuali elementi rimossi erroneamente.
 {% endhint %}
+
+### 🔽 Informazioni aggiuntive
+
+{% content-ref url="creazione.md" %}
+[creazione.md](creazione.md)
+{% endcontent-ref %}
+
+{% content-ref url="modifica.md" %}
+[modifica.md](modifica.md)
+{% endcontent-ref %}
+
+{% content-ref url="zone.md" %}
+[zone.md](zone.md)
+{% endcontent-ref %}
+
+{% content-ref url="maps.md" %}
+[maps.md](maps.md)
+{% endcontent-ref %}
+
+{% content-ref url="azioni-aggiuntive.md" %}
+[azioni-aggiuntive.md](azioni-aggiuntive.md)
+{% endcontent-ref %}
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}
+
+{% content-ref url="import-anagrafiche.md" %}
+[import-anagrafiche.md](import-anagrafiche.md)
+{% endcontent-ref %}

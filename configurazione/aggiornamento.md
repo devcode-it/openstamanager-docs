@@ -7,7 +7,7 @@ update:
   - path: updated.png
     alt: Schermata di aggiornamento (concluso)
     title: Aggiornamento del database completato
-description: Come Aggiornare OpenSTAManager
+description: Come aggiornare OpenSTAManager
 ---
 
 # 🆙 Aggiornamento

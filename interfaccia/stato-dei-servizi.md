@@ -1,5 +1,5 @@
 ---
-description: Guida all'attivazione dei componenti OpenSTAManager
+description: Guida all'attivazione dei componenti di OpenSTAManager
 ---
 
 # ⚙ Stato dei servizi

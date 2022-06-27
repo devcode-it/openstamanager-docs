@@ -1,6 +1,6 @@
 ---
 title: Creazione intervento
-description: Guida alla creazione di un intervento da dashboard
+description: Come creare un intervento da dashboard in OpenSTAManager
 ---
 
 # ➕ Creazione
