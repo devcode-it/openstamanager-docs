@@ -4,7 +4,19 @@
 Come emettere un'**Autofattura**
 {% endhint %}
 
-In seguito alla ricezione di una fattura in Reverse Charge o di una fattura estera vi è la necessità di emettere un'autofattura per dichiarare l'IVA a nostro carico. Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
+In seguito alla ricezione di una fattura in Reverse Charge o di una fattura estera vi è la necessità di emettere un'autofattura per dichiarare l'IVA a nostro carico.
+
+La **Manovra 2021** (_legge 178/2020)_ precisa **i termini per l’emissione** dei file XML relativi alle operazioni transfrontaliere:
+
+{% hint style="info" %}
+Le **fatture attive** dovranno essere emesse verso soggetti esteri _entro 12 giorni dall’effettuazione_ _dell’operazione_ oppure _entro il giorno 15 del mese successivo_ a quello a cui si riferiscono le operazioni riportate in fattura, se si tratta di fattura elettronica differita;
+{% endhint %}
+
+{% hint style="info" %}
+Le **fatture passive** ricevute da soggetti esteri andranno integrate _entro il giorno 15 del mese successivo_ a quello in cui sono stati ricevuti i documenti che provano l’effettuazione dell’operazione.
+{% endhint %}
+
+Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
 
 ![](<../.gitbook/assets/image (47).png>)
 
