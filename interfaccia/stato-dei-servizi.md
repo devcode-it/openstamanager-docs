@@ -16,7 +16,7 @@ Visualizza una serie di informazioni relative ai moduli, quali:
 * Stato (abilitato <img src="../.gitbook/assets/immagine (2).png" alt="" data-size="line">- disabilitato <img src="../.gitbook/assets/immagine (48).png" alt="" data-size="line">- abilita tutti i sotto-moduli ![](<../.gitbook/assets/immagine (12).png>))
 * Opzioni (disinstalla modulo)
 
-![](<../.gitbook/assets/immagine (38).png>)
+![](<../.gitbook/assets/immagine (38) (1).png>)
 
 ## 👾 Widget disponibili
 

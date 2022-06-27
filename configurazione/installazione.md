@@ -146,4 +146,4 @@ Una volta inseriti correttamente i parametri di configurazione, è sufficiente c
 
 Appena l'installazione sarà terminata, sarà possibile cliccare su Continua e procedere con l'inizializzazione del gestionale.
 
-![](<../.gitbook/assets/immagine (65).png>)
+![](<../.gitbook/assets/immagine (65) (1).png>)

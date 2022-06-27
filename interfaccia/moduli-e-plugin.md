@@ -65,7 +65,7 @@ Per modificare le righe di un documento è possibile selezionare tutte le righe 
 
 I plugin sono dei moduli che dipendono da altri moduli, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, che è possibile visualizzare nella sezione destra della pagina entrando in un record.
 
-![](<../.gitbook/assets/immagine (24).png>)
+![](<../.gitbook/assets/immagine (24) (1).png>)
 
 {% hint style="info" %}
 Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia del record

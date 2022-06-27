@@ -8,7 +8,7 @@ Di seguito le principali novità della versione 2.4.33, per maggiori dettagli vi
 
 Ora è più veloce [duplicare o eliminare massivamente delle righe](https://docs.openstamanager.com/interfaccia/moduli-e-plugin#modifica-record) all'interno dei documenti (ddt, fatture, preventivi, ecc) utilizzando la spunta a fianco di ogni riga e i due pulsanti a fine tabella:
 
-![selezione massiva righe](<.gitbook/assets/immagine (41) (1).png>)
+![selezione massiva righe](<.gitbook/assets/immagine (41) (1) (1).png>)
 
 E' possibile filtrare le tabelle usando un [nuovo filtro "diverso da"](https://docs.openstamanager.com/interfaccia/moduli-e-plugin#tabella-generale) (!=), oltre che gli operatori già esistenti (=<>):
 

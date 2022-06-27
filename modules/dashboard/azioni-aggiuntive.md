@@ -2,7 +2,7 @@
 description: Guida alle azioni aggiuntive della Dashboard in OpenSTAManager
 ---
 
-# 🔽 Azioni aggiuntive
+# ❗ Azioni aggiuntive
 
 ## 🔦 Filtri&#x20;
 
@@ -13,4 +13,4 @@ E' possibile applicare i seguenti filtri alla Dashboard per visualizzare solo gl
 * Tecnici
 * Zone
 
-![](<../../.gitbook/assets/immagine (14).png>)
+![](<../../.gitbook/assets/immagine (14) (1).png>)

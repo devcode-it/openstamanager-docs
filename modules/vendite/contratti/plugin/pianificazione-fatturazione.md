@@ -14,7 +14,7 @@ Nell'esempio sottostante si andrà a programmare la manutenzione trimestrale di 
 
 Entrando in Pianificazione fatturazione si presenterà la seguente schermata, dove si dovrà andare a cliccare su Pianifica per procedere alla programmazione di una fattura.
 
-![](<../../../../.gitbook/assets/immagine (38) (1).png>)
+![](<../../../../.gitbook/assets/immagine (38) (1) (1).png>)
 
 Si aprirà quindi ora una schermata in cui sarà possibile pianificare la fatturazione specificando la ricorrenza delle rate e le righe da importare:
 

@@ -31,7 +31,7 @@ E' in particolare possibile definire:
 * Password dell'account
 * Email collegata
 
-![](<../.gitbook/assets/immagine (51).png>)
+![](<../.gitbook/assets/immagine (51) (1).png>)
 
 ### 👤 Azienda predefinita
 
@@ -49,7 +49,7 @@ In particolare, è possibile definire la _ragione sociale_ e una serie di dati a
 Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune opzioni di OpenSTAManager obbligatorie per il funzionamento di diverse componenti, quali per esempio la contabilità e la fatturazione elettronica.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (14) (1).png>)
+![](<../.gitbook/assets/immagine (14) (1) (1).png>)
 
 ## ✅ Salvataggio
 

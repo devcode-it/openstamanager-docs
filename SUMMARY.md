@@ -19,7 +19,7 @@
     * [❗ Azioni aggiuntive](modules/dashboard/azioni-aggiuntive.md)
   * [👤 Anagrafiche](modules/anagrafiche/README.md)
     * [➕ Creazione](modules/anagrafiche/creazione.md)
-    * [Modifica](modules/anagrafiche/modifica.md)
+    * [🖌 Modifica](modules/anagrafiche/modifica.md)
     * [Zone](modules/anagrafiche/zone.md)
     * [Maps](modules/anagrafiche/maps.md)
     * [Azioni aggiuntive](modules/anagrafiche/azioni-aggiuntive.md)

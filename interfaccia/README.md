@@ -39,7 +39,7 @@ Sono presenti diversi valori preimpostati:
 
 Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard** e **Articoli**).
 
-![](<../.gitbook/assets/immagine (26).png>)
+![](<../.gitbook/assets/immagine (26) (1).png>)
 
 ## ⚙️ Opzioni di controllo
 

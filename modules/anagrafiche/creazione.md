@@ -12,20 +12,16 @@ description: Come inserire un'anagrafica in OpenSTAManager.
 
 # ➕ Creazione
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+Per creare una nuova anagrafica sarà sufficiente cliccare sul pulsante:
 
 ![Creazione anagrafica](../../.gitbook/assets/AggiungereAnagrafiche.PNG)
 
 {% hint style="info" %}
-Il modulo **Anagrafiche** presenta quindi la possibilità di inserire le informazioni relative alla nuova anagrafica da creare, mostrando di default una versione basilare delle informazioni richieste. Eventualmente, è possibile inserire maggiori informazioni fin dalla creazione sfruttando la sezione **Dati anagrafici**.
+La schermata **Aggiungi...** permette di inserire le informazioni base relative alla nuova anagrafica da creare, richiedendo esclusivamente l'inserimento della _Denominazione_ (o in alternativa di _Nome e Cognome_) e la selezione della relativa tipologia.
 {% endhint %}
 
-![Screenshot creazione anagrafica](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fy38a1Fa25wCrAzwYmkRX%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/immagine (26).png>)
 
-## Caratteristiche
-
-{% hint style="info" %}
-La versione standard del sistema di creazione anagrafica richiede esclusivamente l'inserimento della _Denominazione_ e la selezione della relativa tipologia,o al suo posto, _Nome_ e _Cognome_.
-
-Nella versione estesa, come visibile dalle immagini sovrastanti, è possibile procedere al completamento di _Partita IVA_, _Codice Fiscale_, e della maggior parte delle informazioni relative alla sede legale e alle opzioni di contatto dell'anagrafica.
+{% hint style="warning" %}
+E' possibile aggiungere maggiori informazioni espandendo la sezione **Dati anagrafici**. Qui è possibile procedere all'inserimento di _Partita IVA_, _Codice Fiscale_, e della maggior parte delle informazioni relative alla sede legale e alle opzioni di contatto dell'anagrafica.
 {% endhint %}

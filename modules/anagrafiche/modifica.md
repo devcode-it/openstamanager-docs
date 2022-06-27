@@ -1,120 +1,128 @@
 ---
 title: Modifica anagrafica
+description: Come modificare un'anagrafica con OpenSTAManager
 ---
 
-# Modifica
+# 🖌 Modifica
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
+Per modificare un'anagrafica si dovrà cliccare sul record interessato per aprire la schermata di dettaglio. Da qui sarà possibile completare e modificare _tutte_ le informazioni che il gestionale supporta per le anagrafiche.&#x20;
 
-## Caratteristiche
-
-Una volta all'interno di questa parte del sistema, il modulo **Anagrafiche** permette di completare _tutte_ le informazioni che il gestionale supporta per le anagrafiche. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 6 raggruppamenti:
+In questa schermata sarà possibile distinguere 6 diverse sezioni:
 
 * [Dati anagrafici](modifica.md#dati-anagrafici)
 * [Sede legale](modifica.md#sede-legale)
+* Geolocalizzazione
 * [Informazioni per tipo di anagrafica](modifica.md#informazioni-per-tipo-di-anagrafica)
 * [Informazione aggiuntive](modifica.md#informazioni-aggiuntive)
 * [Allegati](modifica.md#allegati)
 
-### Dati anagrafici
+## 👦 Dati anagrafici
 
-Il primo raggruppamento di informazioni sull'anagrafica consiste nell'insieme dei dati anagrafici relativi.
+Nella prima sezione è possibile procedere alla modifica delle informazioni di base dell'anagrafica in questione:
 
-Attraverso questa sezione, è possibile procedere alla modifica delle informazioni di base dell'anagrafica in questione:
-
-* Ragione sociale
+* Denominazione (Ragione sociale o Nome e Cognome)
+* Partita IVA
 * Tipologia (Azienda/Privato/Ente pubblico)
-* Informazioni sulla nascita (o fondazione)
-* Sesso
-* Codice interno dell'anagrafica
-* Indirizzo PEC
+* Codice Fiscale
+* Codice anagrafica
+* Codice destinatario
+* PEC
 * Sito web
 
-![Screenshot modifica anagrafica](../../.gitbook/assets/DatiAnagrafici.PNG)
+![](<../../.gitbook/assets/immagine (20).png>)
 
-### Sede legale
+## 🏭 Sede legale
 
-Viene quindi presentata una selezione di campi relativi alle informazioni sulla _sede legale_ dell'anagrafica, quali:
+Nella seconda sezione è possibile trovare:
 
-* Partita IVA
-* Codice fiscale
-* Informazioni varie sulla sede (per maggiori informazioni, visitare la sezione [Sedi](plugin/sedi.md))
+* Indirizzo
+* C.A.P.
+* Città
+* Provincia
+* Nazione
+* Telefono
+* Cellulare
+* Email
+* Fax
+* Zona
+* Distanza
+* Opt-out per newsletter
 
-In particolare, se l'impostazione [**Google Maps API key**](maps.md) viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
+![](<../../.gitbook/assets/immagine (36).png>)
 
-![Screenshot sezione sede legale](../../.gitbook/assets/SedeLegale.PNG)
+## 🗺️ Geolocalizzazione
 
-### Informazioni per tipo di anagrafica
+Se in Strumenti/Impostazioni/[**Google Maps API key**](maps.md) è stato inserito un Google API key valido, in questa sezione sarà possibile visualizzare su Google Maps l'indirizzo indicato e le indicazioni su come raggiungerlo.
 
-Questo raggruppamento permette di impostare dei valori predefiniti in base al tipo di anagrafica
+![](<../../.gitbook/assets/immagine (38).png>)
 
-#### Cliente
+## ℹ️ Informazioni per tipo di anagrafica
 
-* Attività predefinita
-* Pagamento
-* Relazioni con il cliente
-* Iva
+In questa sezione si possono impostare dei valori predefiniti in base al tipo di anagrafica:
+
+### 👨 Cliente
+
+* Provenienza cliente
+* Pagamento predefinito
+* IVA predefinita
+* Piano di sconto/magg. su articoli
+* Agente principale
+* Piano dei conti cliente
+* Relazione con il cliente
+* Banca predefinita per accrediti
+* Ritenuta d'acconto predefinita
 * Indirizzo di fatturazione
-* Banca
-* Ritenuta d'acconto
-* Piano di sconti/rincaro su articoli
-* Agenti
-* Piano dei conti cliente
+* Agenti secondari
+* Tipo attività predefinita
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FSszmLd27tPFZqSdxBTfw%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/immagine (17).png>)
 
-#### Fornitore
+### 💁‍♂️ Fornitore
 
-* Pagamento
-* Iva
-* Banca
-* Ritenuta d'acconto
-* Piano di sconti/rincaro su articoli
-* Piano dei conti cliente
+* Pagamento predefinito
+* Iva predefinita
+* Piano di sconto/magg. su articoli
+* Banca predefinita per addebiti
+* Ritenuta d'acconto predefinita
+* Piano dei conti fornitore
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fo49leVxu8hsEBfV96Or7%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/immagine (64).png>)
 
-#### Cliente e Fornitore
+### 🧑‍💼 Cliente e Fornitore
 
-* Split payment
+* Abilitare lo split payment
 * Dicitura fissa in fattura
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FDpTd32Sx7EGaU1jT99Jt%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/immagine (49).png>)
 
-#### Tecnico
+### 🧑‍🔧 Tecnico
 
 * Colore
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FgBkRUQGtr08yMCBhTgsA%2Ffile.png?alt=media)
 
-### Informazioni aggiuntive
+## ⌨️ Informazioni aggiuntive
 
-L'ultimo raggruppamento di informazioni presenta una serie di elementi non fondamentali per ogni tipologia di anagrafica, ma che potrebbero essere utili in base alle necessità dell'utente (tra cui la possibilità di cambiare la tipologia dell'anagrafica).
+In questa sezione include elementi non fondamentali per ogni tipologia di anagrafica, ma che potrebbero essere utili in base alle necessità dell'utente.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fbt2TaA1GFEPWP7K4gBKB%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/immagine (37).png>)
 
-### Allegati
+## 🛄 Allegati
 
 In questa sezione è possibile caricare un file dal proprio computer specificandone la categoria.
 
 {% hint style="warning" %}
-**Attenzione:** Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine (jpg,png,...) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato( ad esempio sulla stampa di una attività, di una fattura di vendita, di un preventivo, etc...)
+**Attenzione:** Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine con risoluzione 302 x 111 , e modificandone il campo **Nome** con **"Logo stampe"**.
+
+Questo permetterà di visualizzare in tutte le stampe cartacee il logo appena caricato.
 {% endhint %}
 
-![](<../../.gitbook/assets/allegati (2) (2) (2).PNG>)
+![](<../../.gitbook/assets/immagine (68).png>)
 
-## Altro
+## 🗳️ Altro
 
-In alcuni casi, l'eliminazione dell'anagrafica viene impedita.
-
-Questa condizione si verifica quando esiste un collegamento interno dell'elemento con altre componenti del gestionale.
+Quando esiste un collegamento interno di un'anagrafica con altre componenti del gestionale, la sua eliminazione non è consentita.
 
 ![Screenshot documenti collegati](../../.gitbook/assets/DocCollegati.PNG)
 
-Una volta completata la creazione del nuovo elemento anagrafico, il gestionale provvederà a creare i relativi conti per il **Partitario** se l'anagrafica è di tipo _Cliente_ oppure _Fornitore_.
-
-## Fatturazione Elettronica
-
-{% hint style="info" %}
-Per quanto riguarda la **Fatturazione Elettronica** è stata creata una sezione apposita, [clicca qui](../../faq/fatturazione-elettronica/) per visualizzarla!
-{% endhint %}
+Se l'anagrafica che si va a creare è del tipo cliente o fornitore, una volta completata la sua creazione, il gestionale provvederà a creare i relativi conti nel piano dei conti.

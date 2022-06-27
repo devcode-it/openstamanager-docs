@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-![](<../.gitbook/assets/immagine (68).png>)
+![](<../.gitbook/assets/immagine (68) (1).png>)
 
 ### 📗 Formato dei backup
 
@@ -52,7 +52,7 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 * Rimuovere il file `database.sql` dalla cartella del ripristino
 * Procedere alla configurazione del database per il gestionale (tramite procedura semplificata o impostazione manuale del file `config.inc.php`)
 
-![](<../.gitbook/assets/immagine (41).png>)
+![](<../.gitbook/assets/immagine (41) (1).png>)
 
 ## 📙 Backup automatico
 
