@@ -4,7 +4,7 @@
 Come emettere un'**Autofattura**
 {% endhint %}
 
-In seguito alla ricezione di una fattura in Reverse Charge o di una fattura estera vi è la necessità di emettere un'autofattura per dichiarare l'IVA a nostro carico.
+In seguito alla ricezione di una fattura in Reverse Charge o di una fattura estera vi è la necessità di emettere un'autofattura per integrare l'IVA a nostro carico.
 
 La **Manovra 2021** (_legge 178/2020)_ precisa **i termini per l’emissione** dei file XML relativi alle operazioni transfrontaliere:
 
