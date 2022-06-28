@@ -61,6 +61,6 @@ Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il mo
 
 ![Dettaglio Conto economico](<../.gitbook/assets/image (38).png>)
 
-![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (76).png>)
+![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (76) (1).png>)
 
-![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (96).png>)
+![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (96) (1).png>)

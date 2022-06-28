@@ -6,9 +6,9 @@ Come creare una **Nota di credito**.
 
 Per creare una **Nota di credito** si deve aprire la [**Fattura di vendita**](../modules/vendite/fatturedivendita/) a cui farà riferimento dal menù Vendite/Fatture di vendita, e selezionare Crea/Nota di credito.
 
-![](<../.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (88) (1).png>)
 
-![ ](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (58).png>)
 
 Da questa schermata sarà ora possibile modificare la quantità da evadere in caso di storno parziale, o annullare la fattura per il suo ammontare totale premendo il tasto **Aggiungi**.
 
@@ -27,4 +27,3 @@ Verrà così creata in bozza una copia della **Fattura di vendita** originale do
 ![Bozza della fattura Duplicata](<../.gitbook/assets/image (87).png>)
 
 ![Fattura modificata ed emessa](<../.gitbook/assets/image (59).png>)
-
