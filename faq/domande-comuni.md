@@ -1,4 +1,8 @@
-# 📘 Domande comuni
+---
+description: Raccolta delle domande comuni fra i nostri utenti (Frequently Asked Question).
+---
+
+# 📘 F.A.Q.
 
 ## Perchè open source?
 

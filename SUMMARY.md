@@ -226,8 +226,7 @@
 
 ## FAQ
 
-* [📘 Introduzione](faq/introduzione.md)
-* [📘 Domande comuni](faq/domande-comuni.md)
+* [📘 F.A.Q.](faq/domande-comuni.md)
 * [📘 Recupero della password](faq/recupero-della-password.md)
 * [📘 Fatturazione Elettronica](faq/fatturazione-elettronica/README.md)
   * [Domande comuni](faq/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
