@@ -1,6 +1,8 @@
+---
+description: Guida al plugin Dichiarazioni d'intento in OpenSTAManager
+---
+
 # Dichiarazioni d'intento
-
-
 
 {% hint style="info" %}
 l plugin **Dichiarazioni d'intento** è una componente del modulo **Anagrafiche** dedicata alla completa gestione di tutte le eventuali dichiarazioni d'intento.
@@ -8,7 +10,7 @@ l plugin **Dichiarazioni d'intento** è una componente del modulo **Anagrafiche*
 
 ## Caratteristiche
 
-Grazie a questo plugin é possibile aggiungere  o modificare le dichiarazione d'intento specificando le seguenti informazioni
+Grazie a questo plugin é possibile aggiungere o modificare le dichiarazione d'intento specificando le seguenti informazioni
 
 * Data ricezione
 * Numero protocollo

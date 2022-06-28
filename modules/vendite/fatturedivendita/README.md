@@ -24,7 +24,7 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 
 Nel caso siano presenti delle fatture di vendita **generate** ma non ancora inviate (entro i 12 giorni dalla scadenza per inviare le fatture al SDI), verranno segnalate dal gestionale con un avviso nella sezione fatture di vendita.
 
-![](<../../../.gitbook/assets/immagine (55) (1).png>)
+![](<../../../.gitbook/assets/immagine (55) (1) (1).png>)
 
 Verranno notificare anche le fatture che invece risulteranno **scartate** dal SDI e andranno quindi corrette e riemesse.
 

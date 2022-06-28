@@ -1,6 +1,8 @@
+---
+description: Guida al plugin Storico attività in OpenSTAManager
+---
+
 # Storico attività
-
-
 
 {% hint style="info" %}
 Il plugin **Storico attività** è una componente del modulo **Anagrafiche** dedicata al riepilogo delle attività.

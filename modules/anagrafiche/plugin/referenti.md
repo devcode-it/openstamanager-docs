@@ -1,5 +1,6 @@
 ---
 title: Plugin Referenti
+description: Guida al plugin Referenti in OpenSTAManager
 ---
 
 # Referenti

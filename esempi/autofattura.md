@@ -28,7 +28,7 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 
 Aprendo la fattura appena registrata, noteremo un avviso che ci guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi andare su Crea/Autofattura.
 
-![](<../.gitbook/assets/immagine (50) (1) (1).png>)
+![](<../.gitbook/assets/immagine (50) (1) (1) (1).png>)
 
 Si aprirà quindi ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
 
@@ -43,7 +43,7 @@ Avviando questa procedura si può notare che si sta attualmente lavorando nel se
 
 Con **Crea autofattura** appariranno ora due avvvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.
 
-![](<../.gitbook/assets/immagine (52).png>)
+![](<../.gitbook/assets/immagine (52) (1).png>)
 
 Andando ad andalizzare le righe si potrà vedere l'IVA per integrazione presente in questo documento.
 
@@ -51,7 +51,7 @@ Andando ad andalizzare le righe si potrà vedere l'IVA per integrazione presente
 
 All'atto di importazione delle fatture di acquisto si potrà ora trovare l'autofattura da importare, che andrà a registrarsi nel sezionale Autofatture.
 
-![](<../.gitbook/assets/immagine (8).png>)
+![](<../.gitbook/assets/immagine (8) (1).png>)
 
 Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare a compensare i conti dello stato patrimoniale.
 

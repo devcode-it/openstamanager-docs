@@ -55,7 +55,7 @@ Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](ht
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione.
 
-Per maggiori informazioni sulle [maps](../anagrafiche/maps.md), visitare la sezione relativa.
+Per maggiori informazioni sulle [maps](broken-reference), visitare la sezione relativa.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F0vHIQnW5zVOjvP0nrY6A%2Ffile.png?alt=media)
 

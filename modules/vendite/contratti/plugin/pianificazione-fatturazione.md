@@ -10,7 +10,7 @@ Per pianificare la fatturazione di un contratto è necessario che esso riporti l
 
 Nell'esempio sottostante si andrà a programmare la manutenzione trimestrale di un impianto, suddividendola quindi in 4 rate da 100€ + IVA.
 
-![](<../../../../.gitbook/assets/immagine (42).png>)
+![](<../../../../.gitbook/assets/immagine (42) (1).png>)
 
 Entrando in Pianificazione fatturazione si presenterà la seguente schermata, dove si dovrà andare a cliccare su Pianifica per procedere alla programmazione di una fattura.
 

@@ -56,12 +56,12 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 * [Ddt del cliente](plugin/ddtdelcliente.md)
 * [Dichiarazioni d'intento](plugin/dichiarazioni-dintento.md)
 * [Storico attività](plugin/storico-attivita.md)
-* Allegati
-* Contratti del cliente
-* Movimenti contabili
-* Regole pagamenti
-* Note interne
-* Info
+* [Allegati](plugin/allegati.md)
+* [Contratti del cliente](plugin/contratti-del-cliente.md)
+* [Movimenti contabili](plugin/movimenti-contabili.md)
+* [Regole pagamenti](plugin/regole-pagamenti.md)
+* [Note interne](plugin/note-interne.md)
+* [Info](plugin/info.md)
 
 Di questi, **Impianti del cliente**, **Ddt del cliente** e **Contratti del cliente** sono utilizzabili esclusivamente per anagrafiche di tipo _Cliente_.
 
@@ -81,12 +81,12 @@ Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico
 [modifica.md](modifica.md)
 {% endcontent-ref %}
 
-{% content-ref url="zone.md" %}
-[zone.md](zone.md)
+{% content-ref url="relazioni.md" %}
+[relazioni.md](relazioni.md)
 {% endcontent-ref %}
 
-{% content-ref url="maps.md" %}
-[maps.md](maps.md)
+{% content-ref url="zone.md" %}
+[zone.md](zone.md)
 {% endcontent-ref %}
 
 {% content-ref url="azioni-aggiuntive.md" %}

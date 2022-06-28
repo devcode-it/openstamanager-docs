@@ -23,4 +23,4 @@ Creando un intervento in questo modo si hanno a disposizione una serie di campi 
 
 Gli interventi creati in questo modo saranno poi visualizzati a calendario:
 
-![](<../../.gitbook/assets/immagine (7).png>)
+![](<../../.gitbook/assets/immagine (7) (1).png>)

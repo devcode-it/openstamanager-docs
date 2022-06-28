@@ -1,5 +1,6 @@
 ---
 title: Plugin Ddt del cliente
+description: Guida al plugin Ddt del cliente in OpenSTAManager
 ---
 
 # Ddt del cliente

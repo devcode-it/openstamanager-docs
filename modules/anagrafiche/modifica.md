@@ -11,7 +11,7 @@ In questa schermata sarà possibile distinguere 6 diverse sezioni:
 
 * [Dati anagrafici](modifica.md#dati-anagrafici)
 * [Sede legale](modifica.md#sede-legale)
-* Geolocalizzazione
+* [Geolocalizzazione](modifica.md#geolocalizzazione)
 * [Informazioni per tipo di anagrafica](modifica.md#informazioni-per-tipo-di-anagrafica)
 * [Informazione aggiuntive](modifica.md#informazioni-aggiuntive)
 * [Allegati](modifica.md#allegati)
@@ -52,7 +52,51 @@ Nella seconda sezione è possibile trovare:
 
 ## 🗺️ Geolocalizzazione
 
-Se in Strumenti/Impostazioni/[**Google Maps API key**](maps.md) è stato inserito un Google API key valido, in questa sezione sarà possibile visualizzare su Google Maps l'indirizzo indicato e le indicazioni su come raggiungerlo.
+{% hint style="info" %}
+In questa sezione è possibile visualizzare attraverso _Google Maps_ l'indirizzo indicato ed eventualmente definire manualmente latitudine e longitudine.
+{% endhint %}
+
+Per fare ciò basta cliccare sopra il link mostrato all'interno del riquadro:
+
+![](<../../.gitbook/assets/immagine (50).png>)
+
+Successivamente si verrà indirizzati in _impostazioni_ per inserire un _Google Maps API Key_ valido.
+
+### 🌎 Come ottenere un Google Maps API Key
+
+Cliccare su questo link: [https://cloud.google.com/maps-platform/?\_\_utma=102347093.1283278314.1550498378.1550499031.1550499031.1&\_\_utmb=102347093.0.10.1550499031&\_\_utmc=102347093&\_\_utmx=-&\_\_utmz=102347093.1550499031.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not provided)&\_\_utmv=-&\_\_utmk=128107788&\_ga=2.39899682.1839265660.1550498378-1283278314.1550498378#get-started](https://cloud.google.com/maps-platform/?\_\_utma=102347093.1283278314.1550498378.1550499031.1550499031.1&\_\_utmb=102347093.0.10.1550499031&\_\_utmc=102347093&\_\_utmx=-&\_\_utmz=102347093.1550499031.1.1.utmcsr=google%7Cutmccn=%28organic%29%7Cutmcmd=organic%7Cutmctr=%28not%20provided%29&\_\_utmv=-&\_\_utmk=128107788&\_ga=2.39899682.1839265660.1550498378-1283278314.1550498378#get-started)
+
+Apparirà questa schermata:
+
+![](<../../.gitbook/assets/immagine (7).png>)
+
+Spuntare tutte e 3 le caselle (Maps API, Geocoding API, Places API) e premere ![](<../../.gitbook/assets/immagine (69).png>)
+
+Accedere ora con email e password in caso non si fosse già effettuato l'accesso a google.
+
+Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
+
+![](<../../.gitbook/assets/immagine (52).png>)
+
+Apparirà ora la schermata in cui si dovrà andare a creare un account di fatturazione seguendo il tasto in basso.
+
+![](<../../.gitbook/assets/immagine (42).png>)
+
+Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti e cliccare su Avvia la mia prova gratuita.
+
+{% hint style="warning" %}
+**Attenzione:** Mettendo i dati della carta di credito non verrà fatto alcun addebito, sono richiesti solamente per verifica. Se si prova in qualche modo a saltare l'inserimento del metodo di pagamento e a generare comunque l'API, essa non funzionerà. L'inserimento del metodo di pagamento è obbligatorio.
+{% endhint %}
+
+Successivamente cliccare sulle 3 linee in alto a sinistra, andare su API e servizi e selezionare Credenziali.
+
+![](<../../.gitbook/assets/immagine (41).png>)
+
+Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e selezionare Chiave API. Ora la chiave API è stata creata.
+
+![](<../../.gitbook/assets/immagine (8).png>)
+
+Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, dall'anagrafica cliente sarà ora possibile visualizzare la sua locazione in Geolocalizzazione.
 
 ![](<../../.gitbook/assets/immagine (38).png>)
 
@@ -67,7 +111,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * IVA predefinita
 * Piano di sconto/magg. su articoli
 * Agente principale
-* Piano dei conti cliente
+* Piano dei conti cliente\*
 * Relazione con il cliente
 * Banca predefinita per accrediti
 * Ritenuta d'acconto predefinita
@@ -84,7 +128,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Piano di sconto/magg. su articoli
 * Banca predefinita per addebiti
 * Ritenuta d'acconto predefinita
-* Piano dei conti fornitore
+* Piano dei conti fornitore\*
 
 ![](<../../.gitbook/assets/immagine (64).png>)
 
@@ -125,4 +169,4 @@ Quando esiste un collegamento interno di un'anagrafica con altre componenti del 
 
 ![Screenshot documenti collegati](../../.gitbook/assets/DocCollegati.PNG)
 
-Se l'anagrafica che si va a creare è del tipo cliente o fornitore, una volta completata la sua creazione, il gestionale provvederà a creare i relativi conti nel piano dei conti.
+\*Se l'anagrafica che si va a creare è del tipo cliente o fornitore, una volta completata la sua creazione, il gestionale provvederà a creare i relativi conti nel piano dei conti.

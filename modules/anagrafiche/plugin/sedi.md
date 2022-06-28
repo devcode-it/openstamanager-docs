@@ -1,5 +1,6 @@
 ---
 title: Plugin Sedi
+description: Guida al plugin Sedi in OpenSTAManager
 ---
 
 # Sedi
@@ -11,8 +12,6 @@ Il plugin **Sedi** è una componente del modulo **Anagrafiche** dedicata alla co
 ## Navigazione
 
 Il plugin è raggiungibile, all'interno dell'area di modifica di un _record_ del modulo **Anagrafiche**, attraverso il menu dedicato sotto la dicitura **Sedi**.
-
-
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FjoZwwA0nmHwTOgrrIB69%2Ffile.png?alt=media)
 
@@ -45,11 +44,9 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative all
 
 La schermata di modifica, sebbene molto simile a quella di creazione, permette in particolare di impostare altre informazioni secondarie.
 
-
-
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FFkZ2iucjuXlwBDU44Fhf%2Ffile.png?alt=media)
 
-In particolare, se l'impostazione [**Google Maps API key**](../maps.md) viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
+In particolare, se l'impostazione [**Google Maps API key**](broken-reference) viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
 
 ## Particolarità
 

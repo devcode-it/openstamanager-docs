@@ -1,5 +1,6 @@
 ---
 title: Plugin Statistiche
+description: Guida al plugin Statistiche in OpenSTAManager
 ---
 
 # Statistiche
