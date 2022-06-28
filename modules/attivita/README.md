@@ -41,8 +41,8 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 [modifica.md](modifica.md)
 {% endcontent-ref %}
 
-{% content-ref url="tipidiattivita.md" %}
-[tipidiattivita.md](tipidiattivita.md)
+{% content-ref url="tipidiattivita/" %}
+[tipidiattivita](tipidiattivita/)
 {% endcontent-ref %}
 
 {% content-ref url="fasce-orarie.md" %}

@@ -16,4 +16,4 @@ Scorrendo alla scheda Costi unitari sarà possibile andare a specificare i costi
 
 Se nel **contratto** sono inclusi dei costi fissi già specificati, è possible mettere tutti i campi a **0.**
 
-Se si vuole creare un proprio **Tipo attività** lo si può fare attraverso il modulo dedicato [Tipi di attività](../modules/attivita/tipidiattivita.md), sotto [**Attività**](../modules/attivita/). In questo modo il tipo di attività verrà visualizzato nella sezione **Costi unitari**.
+Se si vuole creare un proprio **Tipo attività** lo si può fare attraverso il modulo dedicato [Tipi di attività](../modules/attivita/tipidiattivita/), sotto [**Attività**](../modules/attivita/). In questo modo il tipo di attività verrà visualizzato nella sezione **Costi unitari**.

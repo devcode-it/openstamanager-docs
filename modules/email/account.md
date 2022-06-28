@@ -66,7 +66,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * _Porta SMTP_: `25`
 * _Sicurezza SMTP_: `Nessuna`
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 {% hint style="warning" %}
 Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
@@ -121,7 +121,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (50) (1).png>)
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 
