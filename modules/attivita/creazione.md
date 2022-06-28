@@ -57,13 +57,13 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 * Zona
 * Tecnici (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (75) (1).png>)
 
 ### 🔁 Ricorrenza
 
 Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o meno:
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (60) (1).png>)
 
 ### 🧿 Dettagli cliente
 

@@ -49,8 +49,8 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 [fasce-orarie.md](fasce-orarie.md)
 {% endcontent-ref %}
 
-{% content-ref url="statidiattivita/" %}
-[statidiattivita](statidiattivita/)
+{% content-ref url="statidiattivita.md" %}
+[statidiattivita.md](statidiattivita.md)
 {% endcontent-ref %}
 
 {% content-ref url="tecnicietariffe.md" %}
