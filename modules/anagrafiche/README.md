@@ -28,9 +28,9 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 ## 🖥️ Interfaccia
 
-E' possibile trovare un sotto-modulo incentrato sulla gestione delle zone lavorative (denominato [**Zone**](zone.md)) e uno sulle relazioni, raggiungibili all'espansione del menu laterale.
+Aprendo il menu a tendina è possibile trovare i moduli Tipi di anagrafiche, Relazioni e Zone.&#x20;
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FegH49d56NeAchNg8yfQX%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (69).png>)
 
 ### 👾 Widget
 
@@ -71,7 +71,7 @@ Il modulo presenta la possibilità di creare una singola anagrafica di tipo _Azi
 Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico, per evitare di rimuovere informazioni necessarie al resto del gestionale. Sarà quindi possibile ripristinare, sotto richiesta di assistenza, eventuali elementi rimossi erroneamente.
 {% endhint %}
 
-### 🔽 Informazioni aggiuntive
+## 🔽 Informazioni aggiuntive
 
 {% content-ref url="creazione.md" %}
 [creazione.md](creazione.md)

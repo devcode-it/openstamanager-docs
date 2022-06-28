@@ -7,7 +7,7 @@ screen:
   - path: edit.png
     alt: Schermata di modifica zona
     title: Schermata di modifica di una zona
-description: Guida al modulo Zone di OpenSTAManager
+description: Come modificare le zone in OpenSTAManager
 ---
 
 # 🌏 Zone

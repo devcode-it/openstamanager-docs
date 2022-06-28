@@ -1,8 +1,9 @@
 ---
 title: Template email
+description: Come creare un template email  OpenSTAManager
 ---
 
-# Template email
+# 📃 Template email
 
 {% hint style="info" %}
 Il modulo **Template email** permette all’azienda di gestire le informazioni di base riguardanti i contenuti e le caratteristiche delle email che OpenSTAManager può eventualmente procedere a inviare.
@@ -10,40 +11,19 @@ Il modulo **Template email** permette all’azienda di gestire le informazioni d
 
 Questo modulo è complementare a [**Account email**](account.md), che si occupa di gestire le informazioni degli account email utilizzati per l'invio delle email.
 
-## Navigazione
+La schermata del modulo si presenterà così:
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Template email** visibile dall'espansione del menu **Gestione email**.
+![](<../../.gitbook/assets/image (62).png>)
 
-![Screenshot navigazione template email](../../.gitbook/assets/NavigazioneTemplateEmail.PNG)
+## ➕ Creazione
 
-## Caratteristiche
+Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire il Nome, Modulo a cui applicarlo, Oggetto e indirizzo email da cui inviare la mail.
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita.
+![](<../../.gitbook/assets/image (29).png>)
 
-![Screenshot caratteristiche template email](../../.gitbook/assets/InterfacciaTemplateEmail.PNG)
+## 🖌️ Modifica
 
-### Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F5lrjxYwVrSzCa2jBCP9D%2Ffile.png?alt=media)
-
-Viene quindi data la possibilità di completare le informazioni di base del nuovo template, quali:
-
-* Nome del template
-* Modulo relativo al template
-* Oggetto del template
-* [Account email](account.md) da utilizzare
-
-![Screenshot creazione template email](../../.gitbook/assets/AggiungiTemplateEmail.PNG)
-
-Il completamento di ulteriori informazioni viene permesso dalla schermata di modifica.
-
-### Modifica
-
-La schermata di modifica permette il completamento di tutte le informazioni riguardanti il template.
-
-In particolare, oltre ai campi previsti alla creazione, vengono resi disponibili i seguenti attributi:
+La schermata di modifica permette il completamento di tutte le informazioni riguardanti il template,  vengono resi disponibili i seguenti attributi:
 
 * Notifica di lettura (per richiederla)
 * Icona
@@ -51,19 +31,22 @@ In particolare, oltre ai campi previsti alla creazione, vengono resi disponibili
 * CCN
 * Rispondi a
 * Stampe da allegare (di default)
+* Mansioni
 * Contenuto
 
-![Screenshot modifica template email](../../.gitbook/assets/ModificaTemplateEmail.PNG)
+![](<../../.gitbook/assets/image (76).png>)
 
-Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Istruzioni per i campi automatici**.
+Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Variabili**.
 
-![Screenshot campi automatici template email](../../.gitbook/assets/CampiAutomatici.PNG)
+![](<../../.gitbook/assets/image (68).png>)
 
-La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email. Per maggiori informazioni, visitare la documentazione di [invio email](invio.md).
+La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.&#x20;
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-## Particolarità
+![](<../../.gitbook/assets/image (36).png>)
+
+## 🪀 Particolarità
 
 Sono presenti dei template predefiniti per diversi moduli, personalizzabili a piacimento.
 

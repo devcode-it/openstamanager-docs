@@ -10,5 +10,5 @@ Il plugin **Note interne** è una componente del modulo **Anagrafiche** in cui �
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76) (1).png>)
 

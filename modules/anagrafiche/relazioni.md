@@ -1,5 +1,5 @@
 ---
-description: Guida al modulo Relazioni di OpenSTAManager
+description: Come creare relazioni in OpenSTAManager
 ---
 
 # 📞 Relazioni
