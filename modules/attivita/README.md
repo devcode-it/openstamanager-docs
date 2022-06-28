@@ -1,4 +1,8 @@
-# Attività
+---
+description: Come gestire le Attività o Interventi in OpenSTAManager
+---
+
+# 🚚 Attività
 
 {% hint style="info" %}
 Il modulo **Attività** risulta essere una delle componenti fondamentali di OpenSTAManager, dedicata alla completa gestione delle attività di assistenza effettuata dai tecnici aziendali.
@@ -6,28 +10,61 @@ Il modulo **Attività** risulta essere una delle componenti fondamentali di Open
 Questa sezione si contraddistingue, in particolare, per la possibilità di fissare in modo dinamico gli appuntamenti lavorativi e gestire contemporaneamente molteplici tecnici con le relative tariffe (oraria, al km e sul diritto di chiamata).
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FyO0gHnbakLJpA4dPRw5m%2Ffile.png?alt=media)
-
-## Navigazione
+## ⛵ Navigazione
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Attività**.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FPNGintkDBpinVMIBVHxD%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (55).png>)
 
-## Caratteristiche
+## 🖥️  Interfaccia
 
-Questo modulo possiede 3 moduli, raggiungibili all'espansione del menu laterale e dedicati alla gestione di diverse caratteristiche delle attività:
+Nel menu a tendina è possibile trovare i moduli Tipi di attività, Fasce orarie, Stati di attività, Tecnici e tariffe, Voci di servizio.
 
-* [Tipi di attività](tipidiattivita/)
-* [Stati di attività](statidiattivita/)
-* [Tecnici e tariffe](tecnicietariffe.md)
+![](<../../.gitbook/assets/image (64).png>)
 
-## Particolarità
+### 🔧 Plugin
 
-Il modulo presenta la possibilità di integrare/trasformare l'attività in una fattura.
+Selezionando uno specifico record si può accedere a diversi plugin:
 
-E' possibile ottenere una visualizzazione grafica degli interventi attraverso il modulo **Dashboard**, che permette inoltre di filtrare in modo piuttosto avanzato i contenuti da mostrare.
+* [Impianti](plugin/impianti.md)
+* [Note interne](../anagrafiche/plugin/note-interne.md)
+* [Checklist](plugin/checklist.md)
+* [Info](../anagrafiche/plugin/info.md)
 
-{% hint style="info" %}
-E' inoltre disponibile, per gli utenti di tipo _Tecnici_, un sistema di sincronizzazione automatico della **Dashboard** con calendari esterni attraverso il sistema API ufficiale. Maggiori informazioni sono ottenibili cliccando sul nome dell'utente in alto a sinistra.
-{% endhint %}
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="creazione.md" %}
+[creazione.md](creazione.md)
+{% endcontent-ref %}
+
+{% content-ref url="modifica.md" %}
+[modifica.md](modifica.md)
+{% endcontent-ref %}
+
+{% content-ref url="tipidiattivita.md" %}
+[tipidiattivita.md](tipidiattivita.md)
+{% endcontent-ref %}
+
+{% content-ref url="fasce-orarie.md" %}
+[fasce-orarie.md](fasce-orarie.md)
+{% endcontent-ref %}
+
+{% content-ref url="statidiattivita/" %}
+[statidiattivita](statidiattivita/)
+{% endcontent-ref %}
+
+{% content-ref url="tecnicietariffe.md" %}
+[tecnicietariffe.md](tecnicietariffe.md)
+{% endcontent-ref %}
+
+{% content-ref url="voci-di-servizio.md" %}
+[voci-di-servizio.md](voci-di-servizio.md)
+{% endcontent-ref %}
+
+{% content-ref url="azioni-aggiuntive.md" %}
+[azioni-aggiuntive.md](azioni-aggiuntive.md)
+{% endcontent-ref %}
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}

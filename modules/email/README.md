@@ -12,13 +12,13 @@ Il modulo **Gestione email** permette di configurare un'account email e inviare 
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Gestione email**.
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1).png>)
 
 ## 🖥️  Interfaccia
 
 Nel menu a tendina è possibile trovare i moduli Coda di invio, Newsletter, Liste, Template email e Account email.
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

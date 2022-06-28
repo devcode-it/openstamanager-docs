@@ -1,98 +1,118 @@
 ---
 title: Creazione attività
+description: Come creare un'attività in OpenSTAManager
 ---
 
-# Creazione
+# ➕ Creazione
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+Per creare un'attività in OpenSTAManager si dovrà cliccare sul tasto (+).
 
-![Screenshot creazione attività](../../.gitbook/assets/add-attività.PNG)
+La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 
-Il modulo **Attività** presenta quindi la possibilità di inserire le informazioni complete relative alla nuova attività da creare.
-
-## Caratteristiche
-
-Il sistema di creazione di un nuovo elemento permette il completamento delle informazioni di base fondamentali per il processo di inizializzazione dell'attività. Queste vengono divise in quattro sezioni principali:
-
-* Dati intervento
-* Dettagli aggiuntivi
-* Assegnazione tecnici
-* Ore di lavoro
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FNFAW21CIYjQ8Rg0uqTZw%2Ffile.png?alt=media)
-
-### Dati intervento
-
-La sezione _Dati intervento_ si occupa della gestione dei dati dell'attività interagenti con altri moduli:
-
-* Cliente dell'attività
-* Ordine collegato
+* Cliente (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
+* Sede destinazione (con possibilità di [crearla al momento](creazione.md#creazione-impianto-al-volo))
+* Per conto di
+* Preventivo
+* Contratto (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
+* Ordine
+* Referente (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 * Tipo
 * Stato
-* Preventivo collegato
-* Contratto collegato
-* Data/ora richiesta
 * Richiesta
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FAJIS2TlYGyWHBMun2FeA%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/Senzanome (1).png>)
 
-### Dettagli aggiuntivi
+Si possono notare anche 5 sottosezioni:
 
-Parallelamente, la componente _Dati intervento_ permette la compilazione di alcune informazioni generali, quali:
+* [Dettagli aggiuntivi](creazione.md#dettagli-aggiuntivi)
+* [Assegnazione tecnici](creazione.md#assegnazione-tecnici)
+* [Ore lavoro](creazione.md#ore-di-lavoro)
+* [Ricorrenza](creazione.md#ricorrenza)
+* [Dettagli cliente](creazione.md#dettagli-cliente)
 
-* Zona
-* Sede destinazione
-* Per conto di
+### ✒️ Dettagli aggiuntivi
+
+In questa sezione sarà possibile inserire:
+
 * Data/ora scadenza
-* Impianto
+* Impianto (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 * Componenti
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fze5WXLPPTcWs7ldGSUAK%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (83).png>)
 
-### Assegnazione tecnici
+### 🧑‍🔧 Assegnazione tecnici
 
 La sezione _Assegnazione tecnici_ si occupa della gestione dei tecnici dell'attività:
 
-* Tecnici assegnati
+* Tecnici assegnati (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FVylZtPBDizmjzIvAB1h7%2Ffile.png?alt=media)
 
-### Ore di lavoro
+### ⏰ Ore di lavoro
 
 La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il tecnico assegnato, composto dai seguenti campi:
 
 * Inizio attività
 * Fine attività
-* Tecnici
+* Zona
+* Tecnici (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FMfAw308yhsu9VZ67wD20%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (75).png>)
 
-### Creazione anagrafica al volo
+### 🔁 Ricorrenza
 
-Nella schermata di creazione di una nuova attività viene permessa la creazione al volo dell'anagrafica di tipo _Cliente_ relativa al nuovo _record_. Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo _Cliente_.
+Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o meno:
 
-![Screenshot creazione anagrafica al volo](../../.gitbook/assets/CreazioneAlVoloCliente.PNG)
+![](<../../.gitbook/assets/image (60).png>)
 
-La gestione della creazione viene quindi delegata al modulo **Anagrafiche**, permettendo l'inserimento delle informazioni standard documentate nella [sezione relativa](../anagrafiche/creazione.md) attraverso un _modal_ sovrapposto al resto del contenuto.
+### 🧿 Dettagli cliente
 
-![Screenshot creazione anagrafica al volo](../../.gitbook/assets/CreazioneAlVoloCliente2.PNG)
+Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-Una volta completata la creazione in questione, l'anagrafica creata verrà automaticamente selezionata.
+![](<../../.gitbook/assets/image (70).png>)
 
-## Creazione impianto al volo
+## 💸 Creazione di Record al volo
 
-Nella schermata di creazione di un nuovo intervento è permessa la creazione al volo di un _impianto_ relativa al nuovo record. Questa funzionalità viene permessa dal pulsante dedicato a destra del selettore del campo Impianto.
+Cliccando sul tasto (+) alla destra del campo di cui dobbiamo inserire un nuovo record, si aprirà una schermata in cui sarà possibile inserire i valori del nuovo record che si andrà a creare.
 
-![](<../../.gitbook/assets/immagine (11).png>)
+### 👤 Anagrafica:
 
-La gestione della creazione viene quindi delegata al modulo **MyImpianti**, permettendo l’inserimento delle informazioni standard documentate nella sezione relativa attraverso un _modal_ sovrapposto al resto del contenuto.
+L'unico campo obbligatorio per creare un'anagrafica al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 
-![](<../../.gitbook/assets/immagine (63).png>)
+![](<../../.gitbook/assets/image (99).png>)
 
-Una volta completata la creazione in questione, l’_impianto_ creato verrà automaticamente selezionato.
+### 🏭 Sede destinazione:
 
-## Particolarità
+I campi obbligatori per creare una sede al volo sono Nome sede e città, si potrà procedere in un secondo momento a [completare](../anagrafiche/plugin/sedi.md) gli altri campi entrando nel nuovo record tra le sedi del cliente scelto.
 
+![](<../../.gitbook/assets/image (27).png>)
+
+### 📄 Contratto:
+
+I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](../vendite/contratti/modifica.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
+
+![](<../../.gitbook/assets/image (31).png>)
+
+### 🧑 Referente:
+
+I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e Sede, si potrà procedere in un secondo momento a [completare](https://docs.openstamanager.com/modules/anagrafiche/plugin/referenti#modifica) gli altri campi entrando nel nuovo record tra i referenti del cliente scelto.
+
+![](<../../.gitbook/assets/image (57).png>)
+
+### 📡 Impianto:
+
+I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si potrà procedere in un secondo momento a [completare](../impianti/modifica.md) gli altri campi entrando nel nuovo record tra gli impianti.
+
+![](<../../.gitbook/assets/image (58).png>)
+
+### 🧑‍🔧 Tecnico:
+
+L'unico campo obbligatorio per creare un'anagrafica di tipo tecnico al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
+
+![](<../../.gitbook/assets/image (56).png>)
+
+{% hint style="warning" %}
 Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.
+{% endhint %}
 
 ![Widget promemoria attività da pianificare presente nella Dashboard](../../.gitbook/assets/PromemoriaAttivitàDaPianificare.PNG)

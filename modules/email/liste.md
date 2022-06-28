@@ -12,7 +12,7 @@ Questo modulo è complementare a [Newsletter](newsletter.md), che si occupa dell
 
 Il modulo si presenta così:
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90) (1).png>)
 
 ## ➕ Creazione
 
