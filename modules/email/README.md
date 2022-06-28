@@ -12,7 +12,7 @@ Il modulo **Gestione email** permette di configurare un'account email e inviare 
 
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Gestione email**.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 ## 🖥️  Interfaccia
 

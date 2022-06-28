@@ -32,4 +32,4 @@ Sono qui disponibili i seguenti attributi:
   _Esempio_: "**SELECT idanagrafica AS id FROM an\_anagrafiche"** aggiungerà tutte le anagrafiche nella tabella Destinatari.
 * **Destinatari:** In alternativa, lasciando vuoto il campo _Query dinamica_ è possibile aggiungere i vari destinatari tramite il menù a tendina, cliccando su aggiungi infatti, verranno inseriti i destinatari sulla tabella corrispondente.
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)

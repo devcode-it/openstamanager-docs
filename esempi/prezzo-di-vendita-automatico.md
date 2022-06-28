@@ -14,11 +14,10 @@ Per poter attribuire un margine di ricavo fisso a un articolo, si deve accedere 
 
 Andando a impostare un **Coefficiente di vendita** potremo vedere ora che il campo **Prezzo di vendita** verrà calcolato in modo automatico in base alle variazioni del prezzo di acquisto.
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 
 ![](<../.gitbook/assets/image (40).png>)
 
 Andando a inserire questo articolo in una nuova **Fattura di vendita** sarà possibile riscontrare il Prezzo unitario di vendita calcolato automaticamente dell'articolo, il **Guadagno unitario**, e il **Margine di guadagno**.
 
 ![](<../.gitbook/assets/image (27).png>)
-

@@ -52,6 +52,6 @@ Da qui è possibile caricare degli allegati alla Newsletter.
 
 ## 📨 Invio
 
-Si può ora procedere al salvataggio e inoltro della newsletter.
+Si può ora procedere al salvataggio e [inoltro della newsletter](newsletter.md#invio).
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fzmttti46e1qIEDYQ6HJV%2Ffile.png?alt=media)

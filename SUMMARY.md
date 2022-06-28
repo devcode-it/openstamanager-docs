@@ -45,8 +45,6 @@
     * [📋 Liste](modules/email/liste.md)
     * [📃 Template email](modules/email/template.md)
     * [✉ Account email](modules/email/account.md)
-    * [Gmail](modules/email/gmail.md)
-    * [Invio](modules/email/invio.md)
   * [Gestione documentale](modules/gestionedocumentale/README.md)
     * [Creazione](modules/gestionedocumentale/creazione.md)
     * [Modifica](modules/gestionedocumentale/modifica.md)

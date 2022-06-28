@@ -83,17 +83,51 @@ Per configurare correttamente un account email Gmail all'interno di OpenSTAManag
 * _Porta SMTP_: `587`
 * _Sicurezza SMTP_: `TLS`
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (94) (1).png>)
 
-L'account può avere abilitata l'autenticazione a due fattori:
+L'account appena configurato può avere abilitata l'autenticazione a due fattori:
 
-### Autenticazione a due fattori
+### 🔐 Autenticazione a due fattori
 
+Se l'autenticazione a due fattori è abilitata, è necessario creare una chiave di accesso Google nella sezione dedicata: [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords).
 
+Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
-### Applicazioni meno sicure
+![](<../../.gitbook/assets/image (73).png>)
 
-####
+Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
+
+![](<../../.gitbook/assets/image (49).png>)
+
+Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
+
+![](<../../.gitbook/assets/image (31).png>)
+
+### 📂 App meno sicure
+
+Nel caso **non** sia abilitata l'autenticazione a due fattori, è necessario procedere ad abilitare l'accesso da applicazioni meno sicure attraverso le impostazioni dell'account Google: [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
+
+![](<../../.gitbook/assets/image (88).png>)
+
+E' quindi necessario inserire nel campo _Password SMTP_ dell'account del gestionale la password originale dell'account Gmail.
 
 ## 📨Invio
 
+{% hint style="info" %}
+La funzione di invio email è una caratteristica integrata in OpenSTAManager, che si basa sulle strutture fornite dai moduli **Account email** e **Template email** per semplificare la gestione delle informazioni relative.
+{% endhint %}
+
+Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono almeno un template collegato, ed è accessibile attraverso il pulsante dedicato nella sezione in alto a destra della schermata.
+
+Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
+
+![](<../../.gitbook/assets/image (50).png>)
+
+Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
+
+* Oggetto
+* Contenuto
+* Notifica di lettura
+* Stampe da allegare
+
+Viene inoltre fornita la possibilità, oltre di impostare manualmente i destinatari, di allegare alcuni upload dell'anagrafica Azienda predefinita e dell'elemento di cui si sta effettuando la condivisione.
