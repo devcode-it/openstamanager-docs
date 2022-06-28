@@ -1,19 +1,18 @@
 ---
 title: Creazione documento
+description: Come caricare un documento in OpenSTAManager
 ---
 
-# Creazione
+# ➕ Creazione
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+{% hint style="info" %}
+Il modulo **Gestione documentale** presenta la possibilità di gestire una serie di documenti attraverso la compilazione di alcuni campi.
+{% endhint %}
 
-![Screenshot creazione gestione documentale](../../.gitbook/assets/AggiungereGestioneDocumentale.PNG)
-
-Il modulo **Gestione documentale** presenta la possibilità di gestire una serie di documenti attraverso la compilazione di alcuni campi, quali:
+Per creare un nuovo documento si deve premere il tasto (+), e inserire:
 
 * Nome
 * Categoria
 * Data
 
 ![Screenshot creazione gestione documentale](../../.gitbook/assets/GestioneDocumentaleCampi.PNG)
-
-Il completamento di ulteriori informazioni viene permesso dalla schermata di modifica.
