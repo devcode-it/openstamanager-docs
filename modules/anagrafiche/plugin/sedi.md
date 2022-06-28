@@ -3,23 +3,17 @@ title: Plugin Sedi
 description: Guida al plugin Sedi in OpenSTAManager
 ---
 
-# Sedi
+# 📍 Sedi
 
 {% hint style="info" %}
-Il plugin **Sedi** è una componente del modulo **Anagrafiche** dedicata alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
+Questo plugin è dedicato alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
 {% endhint %}
 
-## Navigazione
-
-Il plugin è raggiungibile, all'interno dell'area di modifica di un _record_ del modulo **Anagrafiche**, attraverso il menu dedicato sotto la dicitura **Sedi**.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FjoZwwA0nmHwTOgrrIB69%2Ffile.png?alt=media)
-
-## Caratteristiche
+![](<../../../.gitbook/assets/image (34).png>)
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
-### Creazione
+### ➕ Creazione
 
 La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del plugin.
 
@@ -33,23 +27,22 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative all
 * Provincia
 * Km
 * Nazione
-* Zona (per maggiori informazioni, visitare la documentazione del modulo [**Zone**](../zone.md))
+* [Zona](../zone.md)&#x20;
 * Cellulare
 * Telefono
 * Indirizzo email
+* Opt-out per newsletter
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F0moxETvNmaEd7gYJsBLx%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/image (29).png>)
 
-### Modifica
+### 🖌️ Modifica
 
 La schermata di modifica, sebbene molto simile a quella di creazione, permette in particolare di impostare altre informazioni secondarie.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FFkZ2iucjuXlwBDU44Fhf%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/image (36).png>)
 
-In particolare, se l'impostazione [**Google Maps API key**](broken-reference) viene impostata, sarà possibile visualizzare attraverso Google Maps l'indirizzo indicato ed eventualmente definire manualmente longitudine e latitudine.
+Se l'impostazione [**Google Maps API key**](https://docs.openstamanager.com/modules/anagrafiche/modifica#geolocalizzazione) viene impostata, sarà possibile visualizzare la geolocalizzazione dall'interno dell'anagrafica.
 
-## Particolarità
-
-{% hint style="info" %}
-La sede legale, predefinita per l'anagrafica, non viene registrata allo stesso modo delle altre sedi. Sarà pertanto impossibile eliminare completamente la sede legale da un'anagrafica.
+{% hint style="warning" %}
+La sede legale, predefinita per l'anagrafica, non viene registrata allo stesso modo delle altre sedi. Sarà pertanto impossibile eliminarla completamente da un'anagrafica.
 {% endhint %}

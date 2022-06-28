@@ -14,7 +14,7 @@ In caso il **Sezionale** Fatture non elettroniche non sia già predisposto da ge
 
 Qui si dovranno andare a inserire il Nome e il modulo a cui il nostro sezionale dovrà riferirsi.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 Si dovranno quindi ora caricare le fatture di acquisto interessate in quest'apposita sezione, accedendovi da Acquisti/Fatture di acquisto, **Aggiungi (+)** e impostando il sezionale "Fatture non elettroniche"
 
@@ -31,4 +31,3 @@ Queste non saranno fatture elettroniche ma il formato con cui vengono create nel
 Premendo **Procedi** sarà possibile selezionare la cartella dove scaricare il file .zip contenente le fatture non elettroniche in formato PDF.
 
 ![](<../.gitbook/assets/image (53).png>)
-

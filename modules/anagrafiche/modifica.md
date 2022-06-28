@@ -46,7 +46,7 @@ Nella seconda sezione è possibile trovare:
 * Fax
 * Zona
 * Distanza
-* Opt-out per newsletter
+* Opt-out per newsletter (attivando questa opzione l'anagrafica verrà esclusa dai destinatari di eventuali Newsletter)
 
 ![](<../../.gitbook/assets/immagine (36).png>)
 
