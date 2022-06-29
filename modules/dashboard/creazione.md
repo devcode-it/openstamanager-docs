@@ -21,6 +21,6 @@ Creando un intervento in questo modo si hanno a disposizione una serie di campi 
 
 ![](<../../.gitbook/assets/Senzanome (1) (1).png>)
 
-Gli interventi creati in questo modo saranno poi visualizzati a calendario:
+Gli interventi creati in questo modo saranno poi visualizzati a calendario e verranno automaticamente registrati tra le attività:
 
 ![](<../../.gitbook/assets/immagine (7) (1).png>)

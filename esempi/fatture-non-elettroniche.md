@@ -30,4 +30,4 @@ Queste non saranno fatture elettroniche ma il formato con cui vengono create nel
 
 Premendo **Procedi** sarà possibile selezionare la cartella dove scaricare il file .zip contenente le fatture non elettroniche in formato PDF.
 
-![](<../.gitbook/assets/image (53) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1).png>)

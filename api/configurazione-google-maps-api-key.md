@@ -8,11 +8,11 @@ Cliccare su questo link: [https://cloud.google.com/maps-platform/?\_\_utma=10234
 
 Apparirà questa schermata dove si dovranno spuntare tutte e 3 le caselle (Maps API, Geocoding API, Places API) e premere continua:
 
-![](<../.gitbook/assets/image (92).png>)
+![](<../.gitbook/assets/image (92) (1).png>)
 
 Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
 
-![](<../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (62) (1).png>)
 
 Si dovrà ora creare un account di fatturazione seguendo il tasto in basso.
 
@@ -26,7 +26,7 @@ Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti
 
 Successivamente cliccare sulle 3 linee in alto a sinistra, andare su API e servizi e selezionare Credenziali.
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image (68) (1).png>)
 
 Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e selezionare Chiave API. Ora la chiave API è stata creata.
 

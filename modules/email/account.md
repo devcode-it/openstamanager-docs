@@ -39,7 +39,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-![](<../../.gitbook/assets/image (34) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1).png>)
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 
@@ -66,7 +66,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * _Porta SMTP_: `25`
 * _Sicurezza SMTP_: `Nessuna`
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1).png>)
 
 {% hint style="warning" %}
 Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
@@ -83,7 +83,7 @@ Per configurare correttamente un account email Gmail all'interno di OpenSTAManag
 * _Porta SMTP_: `587`
 * _Sicurezza SMTP_: `TLS`
 
-![](<../../.gitbook/assets/image (94) (1).png>)
+![](<../../.gitbook/assets/image (94) (1) (1).png>)
 
 L'account appena configurato può avere abilitata l'autenticazione a due fattori:
 
@@ -93,7 +93,7 @@ Se l'autenticazione a due fattori è abilitata, è necessario creare una chiave 
 
 Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 
 Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
 

@@ -18,7 +18,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Nel menu a tendina è possibile trovare i moduli Coda di invio, Newsletter, Liste, Template email e Account email.
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

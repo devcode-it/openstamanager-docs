@@ -36,19 +36,19 @@ Da qui è possibile impostare:
 * Oggetto
 * Contenuto
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
 ### 👥 Aggiunta destinatari
 
 Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o selezionare una o più liste.
 
-![](<../../.gitbook/assets/image (67) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1).png>)
 
 ### 🛅 Allegati
 
 Da qui è possibile caricare degli allegati alla Newsletter.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 ## 📨 Invio
 

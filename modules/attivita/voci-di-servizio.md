@@ -19,7 +19,7 @@ Andranno qui inserite le informazioni relative alla nuova voce di servizio:
 * Categoria
 * Descrizione
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -28,4 +28,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Categoria
 * Descrizione
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (91) (1).png>)

@@ -18,7 +18,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Nel menu a tendina è possibile trovare il modulo Categorie documenti.
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

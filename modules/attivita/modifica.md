@@ -54,7 +54,7 @@ Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](ht
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 ### 📖 Dati intervento
 
