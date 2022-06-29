@@ -32,7 +32,7 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative al 
 * Sede
 * Opt-out per newsletter
 
-![](<../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1).png>)
 
 ## 🖌️ Modifica
 

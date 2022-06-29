@@ -1,29 +1,34 @@
 ---
 title: Tecnici e tariffe
+description: Come gestire i Tecnici e le tariffe in OpenSTAManager
 ---
 
-# Tecnici e tariffe
+# 🧑🔧 Tecnici e tariffe
 
 {% hint style="info" %}
 Il modulo **Tecnici e tariffe** offre la possibilità di personalizzare le _tariffe_ di uno o più tecnici. In questo modo ogni tecnico avrà la propria tariffa.
 {% endhint %}
 
-I costi del cliente sono:
+
+
+![](<../../.gitbook/assets/image (22).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record del tecnico di cui si vorranno modificare le tariffe, si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+Costi dell'intervento al cliente:
 
 * Addebito orario
 * Addebito km
-* Addebito diritto ch.
+* Addebito diritto di chiamata
 
-Mentre i costi interni sono:
+Costi del tecnico all'azienda:
 
-* Costo orario&#x20;
+* Costo orario
 * Costo km
-* Costo diritto ch.
+* Costo diritto di chiamata
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FijtcIqK7ACKin8osJeY8%2Ffile.png?alt=media)
+Per ogni tipo di attività collegata ad esso.
 
-## Navigazione
-
-Il modulo **Tecnici e tariffe** è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Attività**.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FNNMDyIhJOr96QRMLJwXy%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (60).png>)
