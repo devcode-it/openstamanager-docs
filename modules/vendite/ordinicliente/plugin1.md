@@ -2,7 +2,7 @@
 title: Azioni aggiuntive Fatture di vendita
 ---
 
-# Azioni aggiuntive
+# ❗ Azioni aggiuntive
 
 Selezionando o creando un _record_ in **Ordini cliente** sono presenti nella parte in alto a destra dei _pulsanti_ che consentono diverse opzioni quali:
 

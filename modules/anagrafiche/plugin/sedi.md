@@ -9,7 +9,7 @@ description: Guida al plugin Sedi in OpenSTAManager
 Questo plugin è dedicato alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1).png>)
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 

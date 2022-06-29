@@ -1,2 +1,2 @@
-# Plugin
+# 🔧 Plugin
 

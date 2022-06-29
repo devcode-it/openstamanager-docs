@@ -14,5 +14,5 @@ Il plugin **Contratti del cliente** è una componente del modulo **Anagrafiche**
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1).png>)
 

@@ -2,7 +2,7 @@
 description: Guida ai plugin del modulo Anagrafiche in OpenSTAManager
 ---
 
-# 👾 Plugin
+# 🔧 Plugin
 
 Nella barra laterale destra visualizzabile all'interno di un'anagrafica, si possono trovare i seguenti plugin:
 

@@ -6,7 +6,7 @@ description: Guida alla Dashboard di OpenSTAManager
 
 ## ⛵ Navigazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, cliccando su **Dashboard**
+Il modulo è raggiungibile dal menu laterale del gestionale, cliccando su **Dashboard**
 
 ![](<../../.gitbook/assets/immagine (39).png>)
 

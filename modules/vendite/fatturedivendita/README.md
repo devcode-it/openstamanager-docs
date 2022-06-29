@@ -20,6 +20,8 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un _record_ del modulo **Fatture di Vendita** presenta la possibilità di utilizzare diverse [Azioni aggiuntive](../ordinicliente/plugin1.md)
 
+
+
 ## Avvisi
 
 Nel caso siano presenti delle fatture di vendita **generate** ma non ancora inviate (entro i 12 giorni dalla scadenza per inviare le fatture al SDI), verranno segnalate dal gestionale con un avviso nella sezione fatture di vendita.
@@ -29,3 +31,9 @@ Nel caso siano presenti delle fatture di vendita **generate** ma non ancora invi
 Verranno notificare anche le fatture che invece risulteranno **scartate** dal SDI e andranno quindi corrette e riemesse.
 
 ![](<../../../.gitbook/assets/immagine (43).png>)
+
+## ➕ Creazione
+
+
+
+## 🖌️ Modifica

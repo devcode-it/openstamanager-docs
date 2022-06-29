@@ -22,7 +22,7 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 ## ⛵ Navigazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Anagrafiche**.
+Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Anagrafiche**.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FLs4k5TwrOATHMnBZcMjX%2Ffile.png?alt=media)
 

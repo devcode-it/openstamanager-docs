@@ -11,3 +11,9 @@ Il modulo **Preventivi** permette di gestire le informazioni relative ai prevent
 Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Preventivi** visibile dall'espansione del menu **Vendite**.
 
 ![Screenshot navigazione preventivi](../../../.gitbook/assets/NavigazionePreventivi.PNG)
+
+## ➕ Creazione
+
+
+
+## 🖌️ Modifica

@@ -1,4 +1,4 @@
-# Azioni aggiuntive
+# ❗ Azioni aggiuntive
 
 Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni quali:
 

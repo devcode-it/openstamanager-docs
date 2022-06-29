@@ -20,3 +20,9 @@ Questo modulo presenta presenta 4 [plugin](./) nella sezione di modifica del mod
 * **Pianificazione attività**
 * **Consuntivo** per il monitoraggio del rapporto budget-spesa
 * **Rinnovi**
+
+## ➕ Creazione
+
+
+
+## 🖌️ Modifica

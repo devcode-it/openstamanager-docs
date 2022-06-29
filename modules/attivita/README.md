@@ -1,5 +1,5 @@
 ---
-description: Come gestire le Attività o Interventi in OpenSTAManager
+description: Guida al modulo Attività in OpenSTAManager
 ---
 
 # 🚚 Attività
@@ -12,7 +12,7 @@ Questa sezione si contraddistingue, in particolare, per la possibilità di fissa
 
 ## ⛵ Navigazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Attività**.
+Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Attività**.
 
 ![](<../../.gitbook/assets/image (55) (1).png>)
 
