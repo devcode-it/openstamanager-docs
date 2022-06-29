@@ -20,7 +20,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Nel menu a tendina è possibile trovare i moduli Tipi di attività, Fasce orarie, Stati di attività, Tecnici e tariffe, Voci di servizio.
 
-![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (64) (1).png>)
 
 ### 🔧 Plugin
 

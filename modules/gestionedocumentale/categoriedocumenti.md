@@ -9,7 +9,7 @@ description: Come gestire le Categorie di documenti in OpenSTAManager.
 Nel modulo **Categorie documenti** vengono gestite le categorie per i documenti utilizzabili durante la [creazione di un nuovo documento](broken-reference) nel campo _**Categoria.**_
 {% endhint %}
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (91) (1).png>)
 
 ## ➕ Creazione
 

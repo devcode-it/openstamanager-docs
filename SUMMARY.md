@@ -56,7 +56,7 @@
     * [⏱ Fasce orarie](modules/attivita/fasce-orarie.md)
     * [🚇 Stati di attività](modules/attivita/statidiattivita.md)
     * [🧑🔧 Tecnici e tariffe](modules/attivita/tecnicietariffe.md)
-    * [Voci di servizio](modules/attivita/voci-di-servizio.md)
+    * [🔊 Voci di servizio](modules/attivita/voci-di-servizio.md)
     * [Azioni aggiuntive](modules/attivita/azioni-aggiuntive.md)
     * [Plugin](modules/attivita/plugin/README.md)
       * [Impianti](modules/attivita/plugin/impianti.md)
