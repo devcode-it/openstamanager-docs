@@ -107,7 +107,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 {% hint style="warning" %}
 La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti condizioni:
 
-* E' stata abilitata l'opzione _Rinnovabile_ del contratto
+* E' stata [abilitata](plugin/rinnovi.md) l'opzione _Rinnovabile_ del contratto
 * Le date di accettazione e conclusione sono state specificate
 * Il contratto si trova in uno stato Completato.
 {% endhint %}

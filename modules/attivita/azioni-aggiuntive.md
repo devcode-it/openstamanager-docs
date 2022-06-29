@@ -81,7 +81,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica attività.
 
-![](<../../.gitbook/assets/image (98).png>)
+![](<../../.gitbook/assets/image (98) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
