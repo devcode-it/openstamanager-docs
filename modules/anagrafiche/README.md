@@ -30,7 +30,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Ana
 
 Aprendo il menu a tendina è possibile trovare i moduli Tipi di anagrafiche, Relazioni e Zone.&#x20;
 
-![](<../../.gitbook/assets/image (69) (1).png>)
+![](<../../.gitbook/assets/image (69) (1) (1).png>)
 
 ### 👾 Widget
 

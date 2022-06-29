@@ -69,7 +69,7 @@ Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o 
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../.gitbook/assets/image (70) (1).png>)
+![](<../../.gitbook/assets/image (70) (1) (1).png>)
 
 ## 💸 Creazione di Record al volo
 
@@ -97,7 +97,7 @@ I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potr�
 
 I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e Sede, si potrà procedere in un secondo momento a [completare](https://docs.openstamanager.com/modules/anagrafiche/plugin/referenti#modifica) gli altri campi entrando nel nuovo record tra i referenti del cliente scelto.
 
-![](<../../.gitbook/assets/image (57) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1).png>)
 
 ### 📡 Impianto
 

@@ -38,4 +38,4 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative al 
 
 La schermata di modifica risulta identica a quella di creazione, permettendo in aggiunta l'eventuale eliminazione del referente dal sistema.
 
-![](<../../../.gitbook/assets/image (23) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)

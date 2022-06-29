@@ -115,7 +115,7 @@ Cliccando su Stampa si confermerà l'operazione.
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
-&#x20;                                              ![](<../../.gitbook/assets/image (94) (1).png>)
+&#x20;                                              ![](<../../.gitbook/assets/image (94) (1) (1).png>)
 
 ### 📱 Sincronizzazione degli interventi APP tecnici
 
@@ -169,7 +169,7 @@ Cliccando sul tipo di documento da inviare si verrà indirizzati al template ema
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (46) (1).png>)
 
 ### 🖊️ Anteprima e firma
 
@@ -179,7 +179,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere alla visuali
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 
-![](<../../.gitbook/assets/image (96) (1).png>)
+![](<../../.gitbook/assets/image (96) (1) (1).png>)
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 

@@ -34,7 +34,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 * Dettaglio anagrafica
 * Dati aziendali
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (42) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -48,7 +48,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare u
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (70) (1).png>)
 
 ### ➕ Crea...
 

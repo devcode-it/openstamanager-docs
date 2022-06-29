@@ -14,7 +14,7 @@ In caso il **Sezionale** Fatture non elettroniche non sia già predisposto da ge
 
 Qui si dovranno andare a inserire il Nome e il modulo a cui il nostro sezionale dovrà riferirsi.
 
-![](<../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1) (1) (1) (1).png>)
 
 Si dovranno quindi ora caricare le fatture di acquisto interessate in quest'apposita sezione, accedendovi da Acquisti/Fatture di acquisto, **Aggiungi (+)** e impostando il sezionale "Fatture non elettroniche"
 
@@ -22,7 +22,7 @@ Si dovranno quindi ora caricare le fatture di acquisto interessate in quest'appo
 
 Per poter procedere all'esportazione si dovrà ora da Acquisti/Fatture di acquisto impostare il sezionale Fatture non elettroniche, spuntare tutte le fatture interessate e premere il tasto a fondo pagina **Azioni di gruppo**/Esporta stampe FE.
 
-![](<../.gitbook/assets/image (69) (1) (1).png>)
+![](<../.gitbook/assets/image (69) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (86).png>)
 
@@ -30,4 +30,4 @@ Queste non saranno fatture elettroniche ma il formato con cui vengono create nel
 
 Premendo **Procedi** sarà possibile selezionare la cartella dove scaricare il file .zip contenente le fatture non elettroniche in formato PDF.
 
-![](<../.gitbook/assets/image (53) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1).png>)
