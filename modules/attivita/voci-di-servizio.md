@@ -8,7 +8,7 @@ description: Come gestire le voci di servizio in OpenSTAManager
 Il modulo **Voci di servizio** offre la possibilità di personalizzare le Voci di servizio utilizzate  negli interventi
 {% endhint %}
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 ## ➕ Creazione
 
