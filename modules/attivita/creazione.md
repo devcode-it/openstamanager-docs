@@ -89,7 +89,7 @@ I campi obbligatori per creare una sede al volo sono Nome sede e città, si potr
 
 ### 📄 Contratto
 
-I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](../vendite/contratti/modifica.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
+I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](broken-reference) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
 ![](<../../.gitbook/assets/image (31) (1).png>)
 

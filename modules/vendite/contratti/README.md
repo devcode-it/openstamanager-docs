@@ -1,28 +1,79 @@
-# Contratti
+---
+description: Come gestire i Contratti in OpenSTAManager
+---
+
+# 🤝 Contratti
 
 {% hint style="info" %}
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F58MWYRAJx7BfTCPeQBlY%2Ffile.png?alt=media)
-
-## Navigazione
-
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Contratti** visibile dall'espansione del menu **Vendite**.
-
-![Screenshot navigazione contratti](../../../.gitbook/assets/NavigazioneContratti.PNG)
-
-## Caratteristiche
-
-Questo modulo presenta presenta 4 [plugin](./) nella sezione di modifica del modulo:
-
-* **Pianificazione fatturazione**
-* **Pianificazione attività**
-* **Consuntivo** per il monitoraggio del rapporto budget-spesa
-* **Rinnovi**
+![](<../../../.gitbook/assets/image (39).png>)
 
 ## ➕ Creazione
 
+Per creare un nuovo Contratto si dovrà cliccare sul tasto (+).
 
+Andranno qui inserite le informazioni relative al nuovo contratto:
+
+* Nome
+* Cliente
+* Stato
+* Data accettazione
+* Data conclusione
+* Validità contratto
+
+![](<../../../.gitbook/assets/image (64).png>)
 
 ## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+* Numero
+* Nome
+* Cliente
+* Sede
+* Agente
+* Referente
+* Validità
+* Metodo di pagamento
+* Date di bozza, accettazione, conclusione e rifiuto
+* Stato
+* Impianti
+* Esclusioni
+* Descrizione
+
+&#x20;                                                   <img src="../../../.gitbook/assets/Senzanome (5).png" alt="" data-size="original">
+
+{% hint style="warning" %}
+E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
+{% endhint %}
+
+## 🔧 Plugin
+
+Selezionando uno specifico record si può accedere a diversi plugin nella barra laterale della pagina:
+
+* Consuntivo
+* Pianificazione attività
+* Rinnovi
+* Pianificazione fatturazione
+* Note interne
+* Info
+
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="azioni-aggiuntive.md" %}
+[azioni-aggiuntive.md](azioni-aggiuntive.md)
+{% endcontent-ref %}
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}
+
+{% content-ref url="../../../esempi/contratti-a-ore.md" %}
+[contratti-a-ore.md](../../../esempi/contratti-a-ore.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../esempi/assistenza-tecnica.md" %}
+[assistenza-tecnica.md](../../../esempi/assistenza-tecnica.md)
+{% endcontent-ref %}

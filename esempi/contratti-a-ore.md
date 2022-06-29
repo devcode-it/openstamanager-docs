@@ -4,7 +4,7 @@
 Come gestire il **Consuntivo** di un contratto a ore?
 {% endhint %}
 
-Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Contratto](../modules/vendite/contratti/creazione.md), e successivamente creare delle **Attività** collegate.
+Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Contratto](broken-reference), e successivamente creare delle **Attività** collegate.
 
 Per poter far ciò, al momento della creazione di un **Contratto**, si deve selezionare uno **Stato dei Contratti** che risulti pianificabile.
 
