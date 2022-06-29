@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (62).png>)
 
@@ -163,7 +163,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../.gitbook/assets/image (67) (1) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1) (1).png>)
 
 ### 🧬 Duplica attività
 

@@ -11,7 +11,7 @@ La sezione di modifica degli elementi del modulo segue il sistema standard del g
 Una volta all'interno di questa parte del sistema, il modulo **Ordini cliente** permette di completare _tutte_ le informazioni che il gestionale supporta per le anagrafiche. In particolare, per permettere un maggiore senso logico nella navigazione dei dati, la sezione di modifica è suddivisa in 3 raggruppamenti.
 
 * [Intestazione](modifica.md#intestazione)
-* [Dati appalto](../preventivi/modifica.md#dati-appalto)
+* [Dati appalto](broken-reference)
 * [Righe](modifica.md#righe)
 * [Allegati](modifica.md#allegati)
 

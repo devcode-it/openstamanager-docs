@@ -57,7 +57,7 @@ Nelle sezioni successive è invece possibile modificare:
 
 
 
-![](../../../.gitbook/assets/2.jpeg)
+![](<../../../.gitbook/assets/2 (1).jpeg>)
 
 ## 🔧 Plugin
 
