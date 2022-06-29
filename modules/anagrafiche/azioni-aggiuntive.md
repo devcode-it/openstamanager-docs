@@ -27,7 +27,7 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 * Invia email da template
 * Crea...
 
-### 🗃️ Stampa dettaglio Anagrafica
+### 🖨️ Stampa dettaglio Anagrafica
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa di:
 
@@ -38,9 +38,9 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                ![](<../../.gitbook/assets/image (95).png>)
+&#x20;                                                ![](<../../.gitbook/assets/image (95) (1).png>)
 
-### 💌 Invia email da template
+### 📧 Invia email da template
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare una[ mail da template](../email/template.md) preimpostato.
 
@@ -62,8 +62,8 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 * Nuova fattura di vendita
 * Nuova registrazione contabile (cliente)
 
-![](<../../.gitbook/assets/image (81).png>)
+![](<../../.gitbook/assets/image (81) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)

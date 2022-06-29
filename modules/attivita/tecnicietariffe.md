@@ -11,7 +11,7 @@ Il modulo **Tecnici e tariffe** offre la possibilità di personalizzare le _tari
 
 
 
-![](<../../.gitbook/assets/image (22) (1).png>)
+![](<../../.gitbook/assets/image (22) (1) (1).png>)
 
 ## 🖌️ Modifica
 

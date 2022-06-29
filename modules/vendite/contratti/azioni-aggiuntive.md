@@ -1,25 +1,136 @@
+---
+description: Guida alle azioni aggiuntive del modulo Contratti di OpenSTAManager
+---
+
 # ❗ Azioni aggiuntive
 
-Selezionando o creando un _record_ in **Contratti** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni quali:
+## 👥 Dal modulo Contratti
 
-* Stampa contratto
-  * Stampa contratto(senza prezzi)
-  * Stampa consuntivo contratto(senza prezzi)
-  * Stampa consuntivo contratto
-  * Stampa consuntivo contratto interno
-* Invia
-  * Invia contratto
-  * Invia consuntivo contratto
-* Crea fattura
-* Rinnova
-* Duplica contratto
+Il modulo contratti permette di fatturare massivamente i contratti dalle azioni di gruppo.
 
-## Rinnova
+### 📃 Fattura contratti
 
-{% hint style="info" %}
-La funzionalità _Rinnova_ viene resa disponibile se il campo _Rinnovabile_ del contratto viene selezionato. In questo caso, una volta definite le date di accettazione e conclusione (_**Data accettazione**_ e _**Data conclusione**_), sarà possibile sfruttare questa opzione per copiare il contratto con le rispettive date traslate di conseguenza a partire dal giorno successivo alla _Data conclusione_.
+Una volta selezionati i record interessati è possibile fatturare massivamente i contratti cliccando su Azioni di gruppo/Fattura contratti.
+
+{% hint style="warning" %}
+Lo stato del contratto deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](../../../.gitbook/assets/Rinnova.PNG)
+![](<../../../.gitbook/assets/image (38).png>)
 
-La procedura di rinnovazione replica in modo completo le spese relative al contratto e le pianificazioni relative, rimuovendo però gli interventi che erano stato collegati in precedenza (che, logicamente, rimarranno in relazione con il contratto precedente).
+Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
+
+* Se aggiungere la nuova fattura alle fatture di vendita non ancora emesse
+* il sezionale in cui andare a registrare la fattura di vendita
+* il tipo di documento che si andrà a creare
+
+Cliccando su procedi si confermerà la fatturazione.
+
+&#x20;                                                ![](<../../../.gitbook/assets/image (22).png>)
+
+Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
+
+![](<../../../.gitbook/assets/image (84).png>)
+
+![](<../../../.gitbook/assets/image (82).png>)
+
+## 👤 Dal dettaglio Contratti
+
+Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio.
+
+Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
+
+* Stampa contratto
+* Invia
+* Crea fattura
+* Rinnova...
+* Duplica contratto
+
+### 🖨️ Stampa contratto
+
+Dalla schermata di dettaglio di un contratto è possibile procedere a diversi tipi di stampe:
+
+* Contratto
+* Consuntivo contratto interno
+* Consuntivo contratto
+* Contratto (senza prezzi)
+* Consuntivo contratto (senza prezzi)
+
+![](<../../../.gitbook/assets/image (81).png>)
+
+Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
+
+&#x20;                                                     ![](<../../../.gitbook/assets/image (49).png>)
+
+### 📧 Invia
+
+Dalla schermata di dettaglio di un'attività è possibile procedere a inviare via mail:
+
+* Contratto
+* Consuntivo contratto
+
+![](<../../../.gitbook/assets/image (52).png>)
+
+Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
+
+![](<../../../.gitbook/assets/image (88).png>)
+
+### 📃 Crea fattura
+
+Dalla schermata di dettaglio di un contratto è possibile procedere alla sua fatturazione cliccando sul tasto Crea fattura.
+
+{% hint style="warning" %}
+Il contratto deve avere almeno una riga inserita e il suo stato deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
+{% endhint %}
+
+![](<../../../.gitbook/assets/image (67).png>)
+
+Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righe da importare del contratto e impostare le opzioni generali delle righe:
+
+* Rivalsa
+* Ritenuta d'acconto
+* Se calcolare ritenuta d'acconto sull'imponibile o imponibile + rivalsa
+* Il conto da utilizzare
+
+Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
+
+![](<../../../.gitbook/assets/image (64).png>)
+
+Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
+
+![](<../../../.gitbook/assets/image (34).png>)
+
+![](<../../../.gitbook/assets/image (55).png>)
+
+### 🔄 Rinnova
+
+{% hint style="warning" %}
+La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti condizioni:
+
+* E' stata abilitata l'opzione _Rinnovabile_ del contratto
+* Le date di accettazione e conclusione sono state specificate
+* Il contratto si trova in uno dei seguenti stati: Accettato, Rifiutato, In lavorazione, Fatturato, Pagato, Concluso o Parzialmente fatturato.
+{% endhint %}
+
+![](<../../../.gitbook/assets/image (95).png>)
+
+Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
+
+&#x20;                                                 <img src="../../../.gitbook/assets/image (44).png" alt="" data-size="original">
+
+Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contratti.
+
+Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.&#x20;
+
+![](<../../../.gitbook/assets/image (57).png>)
+
+### 🧬 Duplica contratto
+
+Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
+
+![](<../../../.gitbook/assets/image (51).png>)
+
+Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
+
+![](<../../../.gitbook/assets/image (66).png>)
+

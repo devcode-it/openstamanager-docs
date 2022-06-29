@@ -4,7 +4,7 @@ description: Guida alle azioni aggiuntive del modulo Attività di OpenSTAManager
 
 # ❗ Azioni aggiuntive
 
-## 🚚 Dal modulo Attività
+## 👥 Dal modulo Attività
 
 Il modulo Attività presenta le seguenti funzioni:
 
@@ -23,9 +23,9 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1).png>)
 
-### 📠 Esportazione stampe
+### 📤  Esportazione stampe
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
@@ -37,7 +37,7 @@ Il gestionale chiederà quindi la conferma di procedere all'esportazione in form
 
 Cliccando su procedi si confermerà l'operazione.
 
-### 📋 Fatturazione massiva
+### 📃 Fatturazione massiva
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
@@ -45,17 +45,17 @@ Una volta selezionati i record interessati è possibile fatturare massivamente l
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
-* se aggiungere le attività alle fatture di vendita non ancora emesse
+* se aggiungere la nuova fattura alle fatture di vendita non ancora emesse
 * il sezionale in cui andare a registrare le fatture di vendita
 * il tipo di documento che si andrà a creare
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                               <img src="../../.gitbook/assets/image (64) (1).png" alt="" data-size="original">
+&#x20;                                               <img src="../../.gitbook/assets/image (64) (1) (1).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
 ![](<../../.gitbook/assets/image (62).png>)
 
@@ -96,13 +96,13 @@ Cliccando su Procedi il gestionale procederà alla duplicazione.
 
 Si potranno ora vedere tra le attività i record appena creati.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 ### 🖨️ Stampa massiva
 
 Una volta selezionati i record interessati è possibile stamparli massivamente cliccando su Azioni di gruppo/Stampa riepilogo.
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, permettendo di scegliere tra:
 
@@ -115,17 +115,17 @@ Cliccando su Stampa si confermerà l'operazione.
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
-&#x20;                                              ![](<../../.gitbook/assets/image (94).png>)
+&#x20;                                              ![](<../../.gitbook/assets/image (94) (1).png>)
 
 ### 📱 Sincronizzazione degli interventi APP tecnici
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.&#x20;
 
-&#x20;                                               ![](<../../.gitbook/assets/image (56).png>)
+&#x20;                                               ![](<../../.gitbook/assets/image (56) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 
-## 🚲 Dal dettaglio Attività
+## 👤  Dal dettaglio Attività
 
 Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio.\
 Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
@@ -163,7 +163,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../.gitbook/assets/image (67) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1).png>)
 
 ### 🧬 Duplica attività
 
@@ -179,7 +179,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere alla visuali
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (96) (1).png>)
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
