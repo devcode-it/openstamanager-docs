@@ -1,25 +1,29 @@
+---
+description: Guida al plugin Pianificazione attività in OpenSTAManager
+---
+
 # 📅 Pianificazione attività
 
-## Pianificazione attività
+## 🗓️ Pianificazione attività
 
 {% hint style="info" %}
 Il plugin **Pianificazione attività** è una componente del modulo **Contratti** dedicata alla completa gestione della pianificazione delle attività (_promemoria_) relative ai contratti registrati all'interno di OpenSTAManager.
 {% endhint %}
 
-## Navigazione
+![](<../../../../.gitbook/assets/image (49).png>)
 
-Il plugin è raggiungibile, all'interno dell'area di modifica di un _record_ del modulo **Contratti**, attraverso il menu dedicato sotto la dicitura **Pianificazione attività**.
+Da questo plugin è possibile pianificare dei promemoria o delle attività da effettuare entro determinate scadenze.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FXbXATTMfEJRlDKihCmMI%2Ffile.png?alt=media)
+{% hint style="warning" %}
+Per poter far ciò, il contratto deve rispettare certe condizioni:
 
-## Caratteristiche
+* Le date di accettazione e conclusione sono state specificate
+* Lo stato selezionato deve essere Pianificabile (In lavorazione, Fatturato, Pagato, Parzialmente fatturato).
+{% endhint %}
 
-È possibile **pianificare dei "promemoria"** o direttamente gli **interventi** da effettuare entro determinate scadenze. Per poter pianificare i promemoria, il contratto deve avere **data accettazione** e **data conclusione** definita ed essere in uno dei seguenti stati: **In lavorazione, Fatturato, Pagato, Parzialmente fatturato.**\
-\*\*\*\*La possibilità di creare nuovi elementi viene resa disponibile dal pulsante _Nuovo promemoria_ (dopo aver selezionato il tipo di promemoria) che apre una struttura grafiche, _modal_, sovrapposta agli altri contenuti.\\
+## ➕ Creazione
 
-### Creazione
-
-Come descritto sopra, la creazione di nuovi elementi viene resa disponibile dal pulsante ![](<../../../../.gitbook/assets/nuovo promemoria.PNG>) . Una volta cliccato il pulsate, verrà aperta una schermata con la possibilità di completare le informazioni dell'elemento.
+Selezionando un tipo di attività e cliccando su Nuovo promemoria è possibile procedere alla creazione di un nuovo record.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FE5znZCmDl0C79pbNImZF%2Ffile.png?alt=media)
 
@@ -31,31 +35,41 @@ Ogni promemoria può possedere articoli, spese generiche e allegati indipendenti
 * Impianti a contratto
 * Descrizione
 
-### Pianificazione ciclica
+## 🔃 Pianificazione ciclica
 
-Una volta creato il promemoria, sarà possibile effettuare una pianificazione ciclica dello stesso attraverso seguente pulsante della relativa riga.
+Una volta creato il promemoria, sarà possibile effettuare una pianificazione ciclica dello stesso attraverso il pulsante della relativa riga.
 
 ![Screenshot pianificazione ciclica](../../../../.gitbook/assets/Pianificazione.PNG)
 
-In fondo al _modal_ di riepilogo che compare dopo il click sul pulsante relativo, saranno visibili nuovi due raggruppamenti:
+Si aprirà quindi una schermata riepilogativa che presenterà come ultime due sezioni queste:
 
-* _Promemoria ciclico?_
-* _Pianificare interventi?_ per rendere automaticamente il promemoria un'attività
+* Promemoria ciclico?
+* Pianificare interventi?&#x20;
+
+### 🔂 Promemoria ciclico?
 
 La pianificazione di promemoria ciclici replicherà in modo completo le caratteristiche del promemoria selezionato (compresi articoli, spese generiche e allegati), aggiornando le date di conseguenza.
 
-### Trasformazione in attività
+Chiede di completare i campi:
 
-Una volta creato il promemoria, sarà possibile trasformarlo in attività in modo indipendente dalla funzione di **Pianificazione ciclica** attraverso il pulsante dedicato nella relativa riga.
+* Abilitazione promemoria ciclico
+* Intervallo
+* Inizio pianificazione
+* Fine pianificazione (coincide con la fine del contratto)
 
-![Trasformazione in attività](../../../../.gitbook/assets/PCinattività.PNG)
+![](<../../../../.gitbook/assets/image (54).png>)
 
-Questa azione permetterà quindi di confrontarsi con la classica schermata per la creazione delle attività, pre-impostata secondo le caratteristiche del promemoria.
+I promemoria creati verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 
-## Particolarità
+![](<../../../../.gitbook/assets/image (53).png>)
 
-I promemoria verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
+### 🔁 Pianificazione interventi?
 
-![Esempio Promemoria da pianificare](../../../../.gitbook/assets/PromemoriaDaPianificare.PNG)
+Con questa funzione è possibile creare un'attività, e richiede di completare i seguenti campi:
 
-## \*\*\*\*
+* Abilitazione creazione di attività
+* Tecnici
+* Orario inizio
+* Orario fine
+
+![](<../../../../.gitbook/assets/image (95).png>)

@@ -97,7 +97,7 @@ Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
 Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
 
-![](<../../.gitbook/assets/image (49) (1).png>)
+![](<../../.gitbook/assets/image (49) (1) (1).png>)
 
 Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
 

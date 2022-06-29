@@ -41,11 +41,11 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (54) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
-* se aggiungere la nuova fattura alle fatture di vendita non ancora emesse
+* Se aggiungere le righe degli interventi selezionati a una fattura di vendita in bozze dello stesso cliente
 * il sezionale in cui andare a registrare le fatture di vendita
 * il tipo di documento che si andrà a creare
 

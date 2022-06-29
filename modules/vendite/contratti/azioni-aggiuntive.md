@@ -20,7 +20,7 @@ Lo stato del contratto deve essere: Accettato, In lavorazione, Concluso o Parzia
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
-* Se aggiungere la nuova fattura alle fatture di vendita non ancora emesse
+* Se aggiungere le righe dei contratti selezionati a una fattura di vendita in bozze dello stesso cliente
 * il sezionale in cui andare a registrare la fattura di vendita
 * il tipo di documento che si andrà a creare
 
@@ -60,7 +60,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (49).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (49) (1).png>)
 
 ### 📧 Invia
 
@@ -109,10 +109,10 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 
 * E' stata abilitata l'opzione _Rinnovabile_ del contratto
 * Le date di accettazione e conclusione sono state specificate
-* Il contratto si trova in uno dei seguenti stati: Accettato, Rifiutato, In lavorazione, Fatturato, Pagato, Concluso o Parzialmente fatturato.
+* Il contratto si trova in uno stato Completato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (95).png>)
+![](<../../../.gitbook/assets/image (95) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 

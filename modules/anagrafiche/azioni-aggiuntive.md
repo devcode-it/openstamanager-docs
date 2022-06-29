@@ -38,7 +38,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                ![](<../../.gitbook/assets/image (95) (1).png>)
+&#x20;                                                ![](<../../.gitbook/assets/image (95) (1) (1).png>)
 
 ### 📧 Invia email da template
 
