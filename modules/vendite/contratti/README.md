@@ -43,11 +43,21 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Esclusioni
 * Descrizione
 
-&#x20;                                                   <img src="../../../.gitbook/assets/Senzanome (5).png" alt="" data-size="original">
-
 {% hint style="warning" %}
 E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
 {% endhint %}
+
+![](../../../.gitbook/assets/1.jpeg)
+
+Nelle sezioni successive è invece possibile modificare:
+
+* costi unitari in base al tipo di attività
+* le righe da inserire da contratto
+* gli allegati
+
+
+
+![](../../../.gitbook/assets/2.jpeg)
 
 ## 🔧 Plugin
 
