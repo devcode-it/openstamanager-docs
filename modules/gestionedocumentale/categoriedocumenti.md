@@ -17,7 +17,7 @@ Per creare una nuova categoria documenti si deve cliccare sul tasto (+).
 
 Si dovrà ora procedere con l'immissione della descrizione della categoria.
 
-![](<../../.gitbook/assets/image (92) (1) (1).png>)
+![](<../../.gitbook/assets/image (92) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

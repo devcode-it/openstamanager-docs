@@ -127,7 +127,8 @@ Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](.
 
 ## 🚲 Dal dettaglio Attività
 
-Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio, e da qui nella sezione superiore della pagina è possibile trovare le funzioni:
+Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio.\
+Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 * Stampa Intervento
 * Invio del rapportino intervento via email
@@ -143,7 +144,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 * Stampa intervento (senza prezzi)
 * Stampa intervento
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (92) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 

@@ -8,7 +8,7 @@
 
 A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il seguente prospetto che evidenzia l'**Utile totale**, dato dalla differenza tra ricavi e costi totali.
 
-![](<../.gitbook/assets/image (95) (1).png>)
+![](<../.gitbook/assets/image (95) (1) (1).png>)
 
 Ponendo l'attenzione sui ricavi si può notare che i ricavi reali sono composti dalla somma delle fatture di vendita già contabilizzate, mentre i ricavi totali sono formati dalla somma di questi e i ricavi previsti da previsionali o sergenti dati esterne.
 
@@ -28,7 +28,7 @@ Volendo analizzare nel dettaglio tutti i documenti che concorrono a costituire i
 
 Inoltre, cliccando sul tasto "**+**" vicino a Ricavi e Costi, sarà possibile vedere la lista dei conti in cui ricavi e costi saranno rispettivamente imputati.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42) (1).png>)
 
 L'**andamento finanziario**, a differenza di quello **economico**, attinge dati anche dallo scadenzario, e va quindi ad imputare tutte le scadenze previste nel relativo periodo di competenza.
 

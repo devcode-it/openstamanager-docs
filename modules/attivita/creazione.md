@@ -69,7 +69,7 @@ Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o 
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (70) (1).png>)
 
 ## 💸 Creazione di Record al volo
 
@@ -91,7 +91,7 @@ I campi obbligatori per creare una sede al volo sono Nome sede e città, si potr
 
 I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](../vendite/contratti/modifica.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 ### 🧑 Referente
 

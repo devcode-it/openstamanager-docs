@@ -8,7 +8,7 @@ Cliccare su questo link: [https://cloud.google.com/maps-platform/?\_\_utma=10234
 
 Apparirà questa schermata dove si dovranno spuntare tutte e 3 le caselle (Maps API, Geocoding API, Places API) e premere continua:
 
-![](<../.gitbook/assets/image (92) (1).png>)
+![](<../.gitbook/assets/image (92) (1) (1).png>)
 
 Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
 
