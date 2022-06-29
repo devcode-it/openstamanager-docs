@@ -10,4 +10,4 @@ Il plugin **Info** è una componente dei moduli **Anagrafiche** e **Attività** 
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../.gitbook/assets/image (22) (1) (1).png>)

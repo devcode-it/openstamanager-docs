@@ -75,37 +75,37 @@ Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fa
 
 Cliccando sul tasto (+) alla destra del campo di cui dobbiamo inserire un nuovo record, si aprirà una schermata in cui sarà possibile inserire i valori del nuovo record che si andrà a creare.
 
-### 👤 Anagrafica:
+### 👤 Anagrafica
 
 L'unico campo obbligatorio per creare un'anagrafica al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 
 ![](<../../.gitbook/assets/image (99) (1).png>)
 
-### 🏭 Sede destinazione:
+### 🏭 Sede destinazione
 
 I campi obbligatori per creare una sede al volo sono Nome sede e città, si potrà procedere in un secondo momento a [completare](../anagrafiche/plugin/sedi.md) gli altri campi entrando nel nuovo record tra le sedi del cliente scelto.
 
 ![](<../../.gitbook/assets/image (27).png>)
 
-### 📄 Contratto:
+### 📄 Contratto
 
 I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](../vendite/contratti/modifica.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
 ![](<../../.gitbook/assets/image (31).png>)
 
-### 🧑 Referente:
+### 🧑 Referente
 
 I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e Sede, si potrà procedere in un secondo momento a [completare](https://docs.openstamanager.com/modules/anagrafiche/plugin/referenti#modifica) gli altri campi entrando nel nuovo record tra i referenti del cliente scelto.
 
 ![](<../../.gitbook/assets/image (57).png>)
 
-### 📡 Impianto:
+### 📡 Impianto
 
 I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si potrà procedere in un secondo momento a [completare](../impianti/modifica.md) gli altri campi entrando nel nuovo record tra gli impianti.
 
 ![](<../../.gitbook/assets/image (58) (1).png>)
 
-### 🧑‍🔧 Tecnico:
+### 🧑‍🔧 Tecnico
 
 L'unico campo obbligatorio per creare un'anagrafica di tipo tecnico al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 

@@ -19,7 +19,7 @@ La schermata del modulo si presenterà così:
 
 Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire il Nome, Modulo a cui applicarlo, Oggetto e indirizzo email da cui inviare la mail.
 
-![](<../../.gitbook/assets/image (29) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -44,7 +44,7 @@ La sostituzione di queste componenti dipende dai contenuti del _record_ da cui v
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-![](<../../.gitbook/assets/image (36) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1).png>)
 
 ## 🪀 Particolarità
 
