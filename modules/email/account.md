@@ -107,7 +107,7 @@ Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova c
 
 Nel caso **non** sia abilitata l'autenticazione a due fattori, è necessario procedere ad abilitare l'accesso da applicazioni meno sicure attraverso le impostazioni dell'account Google: [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
 
-![](<../../.gitbook/assets/image (88) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (88) (1) (1) (1) (1).png>)
 
 E' quindi necessario inserire nel campo _Password SMTP_ dell'account del gestionale la password originale dell'account Gmail.
 

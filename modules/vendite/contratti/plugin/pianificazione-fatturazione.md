@@ -1,4 +1,4 @@
-# Pianificazione fatturazione
+# 📆 Pianificazione fatturazione
 
 ## **Pianificazione fatturazione**
 

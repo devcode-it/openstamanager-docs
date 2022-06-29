@@ -73,7 +73,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (88).png>)
+![](<../../../.gitbook/assets/image (88) (1).png>)
 
 ### 📃 Crea fattura
 

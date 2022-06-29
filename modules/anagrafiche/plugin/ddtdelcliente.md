@@ -15,4 +15,4 @@ Il plugin **Ddt del cliente** è una componente del modulo **Anagrafiche** dedic
 
 La schermata che si visualizzerà sarà questa:
 
-![](<../../../.gitbook/assets/image (88) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (88) (1) (1) (1) (1) (1).png>)
