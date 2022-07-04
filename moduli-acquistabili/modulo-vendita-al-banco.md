@@ -48,7 +48,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
 
 ### 🖌️ Modifica
 
@@ -75,4 +75,4 @@ Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e 
 
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)

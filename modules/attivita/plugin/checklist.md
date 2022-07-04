@@ -8,7 +8,7 @@ description: Guida al plugin Checklist in OpenSTAManager
 Plugin che permette di spuntare delle liste di controllo per verificare di avere portato a termine l'attività.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (29) (1) (1).png>)
+![](<../../../.gitbook/assets/image (29) (1) (1) (1).png>)
 
 Tramite il pulsante **Nuova** è possibile creare dei nuovi check, mentre il pulsante **Checklist predefinite** permette di importare delle checklist già create.
 
