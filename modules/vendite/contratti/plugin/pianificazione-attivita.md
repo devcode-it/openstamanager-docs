@@ -57,7 +57,7 @@ Chiede di completare i campi:
 * Inizio pianificazione
 * Fine pianificazione (coincide con la fine del contratto)
 
-![](<../../../../.gitbook/assets/image (54).png>)
+![](<../../../../.gitbook/assets/image (54) (1).png>)
 
 I promemoria creati verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 

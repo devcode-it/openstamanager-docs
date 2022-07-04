@@ -101,7 +101,7 @@ Verrà quindi reso disponibile un campo per la denominazione della nuova chiave.
 
 Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
 
-![](<../../.gitbook/assets/image (31) (1) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1).png>)
 
 ### 📂 App meno sicure
 

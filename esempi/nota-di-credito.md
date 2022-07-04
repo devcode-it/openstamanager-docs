@@ -24,6 +24,6 @@ Nel caso in cui la fattura da emettere debba presentare modifiche minimali rispe
 
 Verrà così creata in bozza una copia della **Fattura di vendita** originale dove andare ad apportare le necessarie modifiche e che, una volta emessa, avrà numerazione progressiva.
 
-![Bozza della fattura Duplicata](<../.gitbook/assets/image (87) (1).png>)
+![Bozza della fattura Duplicata](<../.gitbook/assets/image (87) (1) (1).png>)
 
 ![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1).png>)

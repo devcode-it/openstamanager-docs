@@ -207,9 +207,7 @@
 ## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
 
 * [📗 Installazione](moduli-acquistabili/installazione-e-aggiornamento.md)
-* [📗 Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco/README.md)
-  * [Creazione](moduli-acquistabili/modulo-vendita-al-banco/creazione.md)
-  * [Azioni aggiuntive](moduli-acquistabili/modulo-vendita-al-banco/azioni-aggiuntive.md)
+* [📗 Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco.md)
 * [📗 E-commerce](moduli-acquistabili/modulo-sincronizzazione.md)
 * [📗 Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
 * [📗 Budget](moduli-acquistabili/budget.md)

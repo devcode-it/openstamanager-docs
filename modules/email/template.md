@@ -19,7 +19,7 @@ La schermata del modulo si presenterà così:
 
 Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire il Nome, Modulo a cui applicarlo, Oggetto e indirizzo email da cui inviare la mail.
 
-![](<../../.gitbook/assets/image (29) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -38,7 +38,7 @@ La schermata di modifica permette il completamento di tutte le informazioni rigu
 
 Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Variabili**.
 
-![](<../../.gitbook/assets/image (68) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (68) (1) (1) (1) (1).png>)
 
 La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.&#x20;
 

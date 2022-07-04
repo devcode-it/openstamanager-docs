@@ -1,7 +1,7 @@
 ---
 description: >-
-  Procedura di installazione e aggiornamento per i moduli esterni e a pagamento
-  di OpenSTAManager
+  Procedura di installazione e aggiornamento per i moduli aggiuntivi di
+  OpenSTAManager
 ---
 
 # 📗 Installazione
@@ -55,7 +55,7 @@ Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella r
 
 ### Procedura semplificata
 
-Una volta in possesso dell'archivio ZIP contenetene i componenti da installare o aggiornare, si può procedere con i seguenti passaggi per caricare il file nel gestionale.
+Una volta acquistato un modulo aggiuntivo e scaricato l'archivio ZIP contenente i componenti da installare o aggiornare, si può procedere con i seguenti passaggi per caricare il file nel gestionale:
 
 * Cliccare sul modulo **Strumenti** e aprire **Aggiornamenti**
 
