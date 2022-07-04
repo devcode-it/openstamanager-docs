@@ -26,7 +26,7 @@ Andranno qui inserite le informazioni relative al nuovo stato di attività da cr
 * Descrizione
 * Colore
 
-![](<../../.gitbook/assets/image (60) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 
