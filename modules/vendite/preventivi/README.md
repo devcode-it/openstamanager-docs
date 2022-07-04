@@ -8,7 +8,7 @@ description: Come gestire i Preventivi in OpenSTAManager
 Il modulo **Preventivi** permette di gestire le informazioni relative ai preventivi dell'azienda.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (67) (1).png>)
 
 ## ➕ Creazione
 

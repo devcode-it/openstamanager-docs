@@ -71,7 +71,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 * Preventivo
 * Preventivo consuntivo
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (96) (1).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 

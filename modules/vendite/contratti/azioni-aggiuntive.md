@@ -56,7 +56,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere a diversi ti
 * Contratto (senza prezzi)
 * Consuntivo contratto (senza prezzi)
 
-![](<../../../.gitbook/assets/image (81).png>)
+![](<../../../.gitbook/assets/image (81) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
@@ -83,7 +83,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua fat
 Il contratto deve avere almeno una riga inserita e il suo stato deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (67) (1).png>)
+![](<../../../.gitbook/assets/image (67) (1) (1).png>)
 
 Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righe da importare del contratto e impostare le opzioni generali delle righe:
 
@@ -128,7 +128,7 @@ Esso presenterà le spese e righe del contratto originale, fissando le relative 
 
 Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (51) (1).png>)
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 

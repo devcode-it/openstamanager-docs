@@ -24,4 +24,4 @@ Andando ad emettere e generare la fattura elettronica sarà possibile trovarvi r
 
 E' possibile inoltre verificare il **Totale utilizzato** aprendo una specifica **Dichiarazione d'intento** da Anagrafiche/Dichiarazioni d'Intento.
 
-![](<../.gitbook/assets/image (98) (1) (1).png>)
+![](<../.gitbook/assets/image (98) (1) (1) (1).png>)

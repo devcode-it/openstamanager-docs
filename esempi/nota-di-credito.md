@@ -12,11 +12,11 @@ Per creare una **Nota di credito** si deve aprire la [**Fattura di vendita**](..
 
 Da questa schermata sarà ora possibile modificare la quantità da evadere in caso di storno parziale, o annullare la fattura per il suo ammontare totale premendo il tasto **Aggiungi**.
 
-![](<../.gitbook/assets/image (83) (1) (1).png>)
+![](<../.gitbook/assets/image (83) (1) (1) (1).png>)
 
 Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un numero fattura progressivo e si potrà andare ora a [Creare una fattura di vendita](../modules/vendite/fatturedivendita/creazionefatturevendita.md) corretta.
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 Nel caso in cui la fattura da emettere debba presentare modifiche minimali rispetto a quella iniziale, è possibile riaprire la **Fattura di vendita** originale in Vendite/Fatture di vendita e utilizzare la funzione **Duplica fattura.**
 
@@ -26,4 +26,4 @@ Verrà così creata in bozza una copia della **Fattura di vendita** originale do
 
 ![Bozza della fattura Duplicata](<../.gitbook/assets/image (87) (1) (1).png>)
 
-![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1).png>)
+![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1) (1).png>)

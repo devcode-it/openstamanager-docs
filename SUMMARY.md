@@ -213,9 +213,7 @@
 * [📗 Budget](moduli-acquistabili/budget.md)
 * [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [📗 Distinta base](moduli-acquistabili/distinta-base.md)
-* [📗 Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
-  * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
-  * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)
+* [📗 Email ticketing](moduli-acquistabili/email-ticketing.md)
 * [📗 Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
 
 ## FAQ
