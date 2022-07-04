@@ -10,10 +10,6 @@ description: Guida al modulo aggiuntivo Vendita al banco in OpenSTAManager
 [Clicca qui](https://www.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto
 {% endhint %}
 
-## 🪄 Installazione e aggiornamento
-
-Per maggiori informazioni sulle modalità di installazione e aggiornamento del modulo, consulta la [sezione dedicata](installazione-e-aggiornamento.md).
-
 Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 
 * PARAMETRI COMUNICAZIONE PROTOCOLLO: **XON/XOFF**
