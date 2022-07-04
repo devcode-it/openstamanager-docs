@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (29) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/image (57) (1).png>)
 
 ## 👤 Dal dettaglio Preventivo
 

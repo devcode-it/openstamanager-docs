@@ -122,7 +122,7 @@ Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contra
 
 Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.&#x20;
 
-![](<../../../.gitbook/assets/image (57) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1).png>)
 
 ### 🧬 Duplica contratto
 

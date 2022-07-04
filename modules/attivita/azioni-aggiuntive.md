@@ -33,7 +33,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
-&#x20;                                             <img src="../../.gitbook/assets/image (99).png" alt="" data-size="original">
+&#x20;                                             <img src="../../.gitbook/assets/image (99) (1).png" alt="" data-size="original">
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -121,7 +121,7 @@ Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.&#x20;
 
-&#x20;                                               ![](<../../.gitbook/assets/image (56) (1) (1).png>)
+&#x20;                                               ![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 

@@ -17,7 +17,7 @@ Per pianificare la fatturazione di un contratto è necessario che si verifichino
 Tutte le righe del contratto vengono convertite in righe generiche, rendendo impossibile risalire ad eventuali articoli utilizzati all'interno del contratto e pertanto non movimentano il magazzino.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (58).png>)
+![](<../../../../.gitbook/assets/image (58) (1).png>)
 
 ## ➕ Creazione
 

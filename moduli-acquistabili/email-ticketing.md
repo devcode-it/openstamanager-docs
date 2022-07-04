@@ -41,7 +41,7 @@ Per collegare la mail in arrivo all'anagrafica del cliente è necessario andare 
 
 Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin **Ticketing** in cui è possibile andare ad associare uno o più indirizzi email che serviranno poi appunto per l'apertura dell'attività.
 
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (56) (1).png>)
 
 ![](<../.gitbook/assets/image (98).png>)
 

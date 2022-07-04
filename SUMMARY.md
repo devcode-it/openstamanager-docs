@@ -206,15 +206,16 @@
 
 ## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
 
-* [📗 Installazione](moduli-acquistabili/installazione-e-aggiornamento.md)
-* [📗 Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco.md)
-* [📗 E-commerce](moduli-acquistabili/modulo-sincronizzazione.md)
-* [📗 Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
+* [📘 Installazione](moduli-acquistabili/installazione-e-aggiornamento.md)
 * [📗 Budget](moduli-acquistabili/budget.md)
-* [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
+* [📗 Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
 * [📗 Distinta base](moduli-acquistabili/distinta-base.md)
+* [📗 E-commerce](moduli-acquistabili/modulo-sincronizzazione.md)
 * [📗 Email ticketing](moduli-acquistabili/email-ticketing.md)
+* [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [📗 Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
+* [📗 Scheda accettazione](moduli-acquistabili/scheda-accettazione.md)
+* [📗 Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco.md)
 
 ## FAQ
 
