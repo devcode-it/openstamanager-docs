@@ -212,7 +212,7 @@
 * [📗 Disponibilità tecnici](moduli-acquistabili/modulo-disponibilita-tecnici.md)
 * [📗 Budget](moduli-acquistabili/budget.md)
 * [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
-* [📗 Distinta Base](moduli-acquistabili/distinta-base.md)
+* [📗 Distinta base](moduli-acquistabili/distinta-base.md)
 * [📗 Email Ticketing](moduli-acquistabili/email-ticketing/README.md)
   * [Configurazione](moduli-acquistabili/email-ticketing/creazione.md)
   * [Utilizzo](moduli-acquistabili/email-ticketing/utilizzo.md)
