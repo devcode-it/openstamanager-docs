@@ -26,4 +26,4 @@ Verrà così creata in bozza una copia della **Fattura di vendita** originale do
 
 ![Bozza della fattura Duplicata](<../.gitbook/assets/image (87) (1) (1).png>)
 
-![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1) (1).png>)
+![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1) (1) (1).png>)

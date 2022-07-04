@@ -72,7 +72,7 @@
     * [🧾 Preventivi](modules/vendite/preventivi/README.md)
       * [❗ Azioni aggiuntive](modules/vendite/preventivi/azioni-aggiuntive.md)
       * [🔧 Plugin](modules/vendite/preventivi/plugin/README.md)
-        * [Consuntivo](modules/vendite/preventivi/plugin/consuntivo.md)
+        * [🪙 Consuntivo](modules/vendite/preventivi/plugin/consuntivo.md)
         * [Revisioni](modules/vendite/preventivi/plugin/revisioni.md)
     * [Ordini cliente](modules/vendite/ordinicliente/README.md)
       * [Creazione](modules/vendite/ordinicliente/creazione.md)

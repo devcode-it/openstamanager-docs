@@ -53,8 +53,8 @@ Nelle sezioni successive è invece possibile modificare le righe da inserire a p
 
 
 
-{% content-ref url="plugin/consuntivo.md" %}
-[consuntivo.md](plugin/consuntivo.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="plugin/revisioni.md" %}
