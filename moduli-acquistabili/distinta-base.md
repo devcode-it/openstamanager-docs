@@ -14,7 +14,7 @@ A seguito dell'installazione del modulo, navigando su **Magazzino->Articoli** e 
 
 Tramite il pulsante + è possibile aggiungere articoli alla distinta:
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../.gitbook/assets/image (49) (1).png>)
 
 Dopo aver selezionato gli articoli che vanno a formare la distinta, è possibile movimentare correttamente il magazzino con i due tasti evidenziati:
 

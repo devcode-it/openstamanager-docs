@@ -61,7 +61,7 @@ Entrando nella schermata di dettaglio dell'attività e cliccando su Conversazion
 
 ![](<../.gitbook/assets/image (28).png>)
 
-![](<../.gitbook/assets/image (83).png>)
+![](<../.gitbook/assets/image (83) (1).png>)
 
 E' possibile rispondere al cliente con il tasto Rispondi. Da qui, spuntando Notifica di lettura, si potrà vedere quando il cliente visualizza la mail.
 

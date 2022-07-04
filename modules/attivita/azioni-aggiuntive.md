@@ -73,7 +73,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Programmato
 * (eventuali stati personalizzati)
 
-&#x20;                                              ![](<../../.gitbook/assets/image (24).png>)
+&#x20;                                              ![](<../../.gitbook/assets/image (24) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 

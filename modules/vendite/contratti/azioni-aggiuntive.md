@@ -60,7 +60,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (49) (1) (1).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (49) (1) (1) (1).png>)
 
 ### 📧 Invia
 

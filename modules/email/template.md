@@ -34,7 +34,7 @@ La schermata di modifica permette il completamento di tutte le informazioni rigu
 * Mansioni
 * Contenuto
 
-![](<../../.gitbook/assets/image (76) (1).png>)
+![](<../../.gitbook/assets/image (76) (1) (1).png>)
 
 Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Variabili**.
 
