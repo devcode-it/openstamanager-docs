@@ -23,7 +23,7 @@ Per creare un nuovo tipo di attività si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo tipo di attività da creare, mostrando di default una versione basilare delle informazioni richieste.
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Tempo standard accetta valori compresi tra 0.25 e 25 ore, esempi:
@@ -49,4 +49,3 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Addebiti e costi per fasce orarie
 
 ![](../../../.gitbook/assets/Senzanome.png)
-

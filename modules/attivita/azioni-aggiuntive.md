@@ -23,7 +23,7 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe
 
@@ -57,7 +57,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../.gitbook/assets/image (55) (1) (1) (2).png>)
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (62) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
@@ -175,7 +175,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere alla sua dup
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla visualizzazione della sua anteprima da far firmare al cliente per segnalare l'avvenuto completamente.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (33) (1).png>)
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 

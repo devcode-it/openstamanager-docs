@@ -27,7 +27,7 @@ Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/image (101).png>)
+![](<../.gitbook/assets/image (101) (1).png>)
 
 ### ➕ Creazione
 

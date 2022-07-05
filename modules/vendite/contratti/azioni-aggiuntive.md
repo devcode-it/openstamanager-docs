@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (84) (1).png>)
 
-![](<../../../.gitbook/assets/image (82) (1).png>)
+![](<../../../.gitbook/assets/image (82) (1) (1).png>)
 
 ## 👤 Dal dettaglio Contratti
 
@@ -98,7 +98,7 @@ Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per p
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](<../../../.gitbook/assets/image (34) (1).png>)
 
 ![](<../../../.gitbook/assets/image (55) (1) (1).png>)
 

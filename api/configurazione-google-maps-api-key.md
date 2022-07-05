@@ -12,7 +12,7 @@ Apparirà questa schermata dove si dovranno spuntare tutte e 3 le caselle (Maps 
 
 Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
 
-![](<../.gitbook/assets/image (62) (1).png>)
+![](<../.gitbook/assets/image (62) (1) (2).png>)
 
 Si dovrà ora creare un account di fatturazione seguendo il tasto in basso.
 

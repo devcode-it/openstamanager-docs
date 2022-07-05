@@ -1,68 +1,87 @@
+---
+description: Guida alla Fatturazione elettronica con OpenSTAManager
+---
+
 # 📘 Fatturazione Elettronica
 
 ## Introduzione
 
 {% hint style="info" %}
-La fatturazione elettronica è un sistema **digitale** di **emissione**, **trasmissione** e **conservazione** delle fatture. Questo significa che non servirà più stampare e conservare la versione cartacea delle fatture, ma basterà generare un file XML con determinate caratteristiche, e dovrà essere inviato al **Sistema Di Interscambio** (SDI), un sistema di smistamento e archiviazione fatture elettroniche gestito dall’**Agenzia Entrate**.
+La fatturazione elettronica è un sistema **digitale** di **emissione**, **trasmissione** e **conservazione** delle fatture. Questo significa che non servirà più stampare e conservare la versione cartacea delle fatture, ma basterà generare un file XML con determinate caratteristiche, che dovrà essere inviato al **Sistema Di Interscambio** (SDI), un sistema di smistamento e archiviazione fatture elettroniche gestito dall’**Agenzia Entrate**.
 {% endhint %}
 
-Dal 1° gennaio 2019, la fattura elettronica è obbligatoria fra privati, ossia fra aziende titolari di partita IVA, ad eccezione di alcune categorie particolari di contribuenti.
+Dal 1° Gennaio 2019, la fattura elettronica è diventata obbligatoria per i privati detentori di partita IVA escludendo alcune categorie.
 
-## Navigazione
+Dal 1° Luglio 2022 l'obbligo è stato esteso anche a chi rientra nel regime forfettario.
 
-Il plugin è raggiungibile dopo la normale creazione di una fattura, dall'interno del documento è necessario aprire il plugin "Fatturazione Elettronica".
+## 📤 Fatture di vendita
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fsf8kFaObYeJ2bpmvQM2u%2Ffile.png?alt=media)
+Per inviare una fattura elettronica è necessario creare la fattura dal modulo **Fatture di vendita**, impostare lo stato in Emessa e salvare.
 
-## Funzionamento
+Con l'emissione della fattura il gestionale genererà in modo automatico il suo XML, si dovrà ora accedere al plugin Fatturazione Elettronica e cliccare Invia.
 
-Per l'invio delle fatture elettroniche è necessario creare le fatture normalmente dal modulo **Fatture di vendita**, cambiarle in stato **Emessa** e salvarle. Dopo di che, dal plugin in alto a destra **Fatturazione elettronica,** va premuto _genera_ per generare la fattura elettronica ed infine _invia_. L'invio restituirà un messaggio di fattura inviata correttamente.
+![](<../../.gitbook/assets/image (101).png>)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FZkvmuXWsofxhRgmmTXpj%2Ffile.png?alt=media)
-
-Dopo l'invio della fattura, cambierà lo stato in **elaborazione** nella vista principale delle fatture
+Dopo aver inviato la fattura, accedendo al modulo Fatture di vendita, sarà possibile vedere che lo stato FE della fattura appena inviata è cambiato in "In elaborazione".&#x20;
 
 ![](../../.gitbook/assets/StatoInElaborazione.PNG)
 
 {% hint style="warning" %}
-Le ricevute di consegna delle **Fatture elettroniche** non sono immediate, serve verificare che la fattura sia stata ricevuta correttamente cercando le ricevute dopo qualche, o il giorno successivo dell'invio. Per cercare le ricevute e aggiornare gli stati delle **Fatture di vendita**, dalla lista delle fatture di vendita, si deve cliccare in alto a destra sul plugin **Ricevute** **FE.**
+La fattura è ora in attesa di essere verificata dallo SDI, che provvederà entro qualche giorno a mandarci una ricevuta di ricezione per comunicarci se la fattura è stata accettata o scartata.
 {% endhint %}
 
-In questo modo il gestionale verificherà la presenza di ricevute. Se vengo rilevate delle ricevute da importare basterà confermare l'importazione aggiornando così lo stato delle **Fatture di vendita.**
+Per verificare la presenza di ricevute da parte dello SDI si deve andare nell'apposita sezione Ricevute FE, presente in Fatture di vendita.
 
-### **Stati**
+![](<../../.gitbook/assets/image (62).png>)
+
+Da qui sarà possibili cliccare su Ricerca ricevute per verificare la presenza di ricevute da importare, e su Importa tutte le ricevute per importarle massivamente.
+
+![](<../../.gitbook/assets/image (33).png>)
+
+### 🏷️ **Stati**
 
 Gli stati possono essere:
 
-* **In elaborazione:** la fattura è in transito dal gestionale al SDI(Sistema Di Interscambio) dell'Agenzia delle Entrate
-* **Consegnata:** la fattura è arrivata a destinazione al cliente
-* **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI.**
-* **Mancata consegna:** la fattura risulta inviata all'Agenzia delle Entrate, ma il ricevente non ha definito un canale tramite cui riceverla, per cui la visualizzerà solo accedendo al proprio cassetto fiscale. Questo caso è **frequente** nel caso di invio **fatture elettroniche** a persone fisiche o per aziende che non hanno definito un canale di ricezione. In questi casi, è necessario/consigliato inviare una copia di cortesia via mail o su supporto cartaceo per informare dell'invio della fattura elettronica
-* **Accettata**(solo Pubblica Amministrazione): significa che la fattura è stata consegnata e che il ricevente ha accettato i dati in essa contenuti.
-* \*\*Rifiutata(\*\*solo Pubblica Amministrazione): significa che la fattura è stata consegnata ma il ricevente non ha accettato i dati in essa contenuti. **IN QUESTO CASO NON VA EMESSA UNA NOTA DI CREDITO PER ANNULLARE LA FATTURA, MA VA INVIATA NUOVAMENTE CON LE DOVUTE CORREZIONI**
+* **In elaborazione:** la fattura è in transito dal gestionale allo SDI
+* **Consegnata:** la fattura è arrivata al cliente
+* **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore.
 
-### Fatture passive
-
-{% hint style="info" %}
-Per scaricare le fatture passive dai fornitori, è necessario aprire il modulo [**Acquisti**](../../modules/acquisti/)\*\*,\*\*andare su **Fatture di acquisto** e cliccare in alto a destra su **Fatturazione elettronica**. Nella sezione **Fatture da importare** sarà presente una lista di file XML con un tasto **importa** a fianco, il quale permette di importare le **Fatture passive** con un passaggio intermedio. E' possibile visualizzare un'anteprima delle fatture passive cliccando sul tasto di **Visualizza**
+{% hint style="danger" %}
+In questo caso non va emessa una nota di credito per annullare la fattura, si deve invece apportate le dovute correzzioni, rigenerare la fattura e reinviarla allo SDI.
 {% endhint %}
 
-![](../../.gitbook/assets/FatturaPassiva.PNG)
+* **Mancata consegna:** la fattura risulta inviata all'Agenzia delle Entrate, ma il ricevente non ha definito un canale tramite cui riceverla, per cui la visualizzerà solo accedendo al proprio cassetto fiscale.&#x20;
+
+{% hint style="info" %}
+Questo caso è **frequente** nel caso di invio **fatture elettroniche** a persone fisiche o per aziende che non hanno definito un canale di ricezione. In questi casi, è necessario/consigliato inviare una copia di cortesia via mail o su supporto cartaceo per informare dell'invio della fattura elettronica
+{% endhint %}
+
+* **Accettata** (solo Pubblica Amministrazione): significa che la fattura è stata consegnata e che il ricevente ha accettato i dati in essa contenuti.
+
+{% hint style="warning" %}
+**ATTENZIONE:** Quando emetto una **Fattura** per le **Pubbliche Amministrazioni** devo verificare di aver inserito il **codice fiscale** nella rispettiva **Anagrafica,** oltre che il corretto Codice Destinatario. Altrimenti, all'invio della fattura, comparirà il seguente errore: **00305-1.4.1.1.2 IdCodice non valido**.
+{% endhint %}
+
+## 📥 Fatture di acquisto
+
+Per scaricare le fatture passive dai fornitori è necessario cliccare su Fatturazione elettronica dal modulo Fatture di acquisto.
+
+![](<../../.gitbook/assets/image (58).png>)
+
+Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
+
+![](<../../.gitbook/assets/image (82).png>)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 
 * Tipo fattura
 * Pagamento
-* Dati contabili( IVA e conto). Il conto è soggettivo. Nel dubbio, scegliere **spese varie** se non si sta tenendo la contabilità interna.
+* Dati contabili (IVA e conto).
 
-### Particolarità
-
-{% hint style="warning" %}
-**ATTENZIONE:** Quando emetto una **Fattura** per le **PA** devo verificare di aver inserito il **codice fiscale** nella rispettiva **Anagrafica,** altrimenti, all'invio della fattura,comparirà il seguente errore: **00305-1.4.1.1.2 IdCodice non valido**.
-{% endhint %}
-
-### Automatismi
+## 🤖 Automatismi
 
 In fase di importazione di una fattura elettronica, è possibile selezionare quali righe convertire in articolo di magazzino, dopo aver spuntato _Creazione automatica articoli_.
 
 ![](<../../.gitbook/assets/immagine (64) (1).png>)
+
+Sarà così possibile movimentare automaticamente il magazzino senza dover ricorrere ad ulteriori passaggi.

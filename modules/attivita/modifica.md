@@ -54,7 +54,7 @@ Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](ht
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+![](<../../.gitbook/assets/image (33) (1) (2).png>)
 
 ### 📖 Dati intervento
 
@@ -97,7 +97,7 @@ Questa sezione permette di inserire le righe descrittive dell'attività che poss
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../.gitbook/assets/image (82) (1) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1) (1).png>)
 
 ### 🛅 Allegati
 

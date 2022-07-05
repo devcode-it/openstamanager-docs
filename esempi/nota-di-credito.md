@@ -8,7 +8,7 @@ Per creare una **Nota di credito** si deve aprire la [**Fattura di vendita**](..
 
 ![](<../.gitbook/assets/image (88) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (58) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (58) (1) (1) (1) (1) (1) (1).png>)
 
 Da questa schermata sarà ora possibile modificare la quantità da evadere in caso di storno parziale, o annullare la fattura per il suo ammontare totale premendo il tasto **Aggiungi**.
 

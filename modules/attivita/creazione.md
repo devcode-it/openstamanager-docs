@@ -103,7 +103,7 @@ I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e
 
 I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si potrà procedere in un secondo momento a [completare](../impianti/modifica.md) gli altri campi entrando nel nuovo record tra gli impianti.
 
-![](<../../.gitbook/assets/image (58) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (58) (1) (1) (1) (1) (1).png>)
 
 ### 🧑‍🔧 Tecnico
 

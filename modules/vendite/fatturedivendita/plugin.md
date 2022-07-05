@@ -212,13 +212,13 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare la
 
 Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 ### 🧬 Duplica fattura
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
 
-![](<../../../.gitbook/assets/image (58).png>)
+![](<../../../.gitbook/assets/image (58) (1).png>)
 
 ### 💡 Attributi avanzati
 
