@@ -223,7 +223,7 @@
   * [🤔 Domande comuni](faq/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
   * [🤓 Split payment e reverse charge](faq/fatturazione-elettronica/fattura-pa.md)
   * [🏷 Codice identificativo documento e CIG](faq/fatturazione-elettronica/codice-identificativo-documento-e-cig.md)
-  * [Errori frequenti nella compilazione](faq/fatturazione-elettronica/errori-frequenti.md)
+  * [⛔ Errori frequenti](faq/fatturazione-elettronica/errori-frequenti.md)
 * [📘 Configurazione OAuth2](faq/configurazione-oauth2.md)
 
 ## API
