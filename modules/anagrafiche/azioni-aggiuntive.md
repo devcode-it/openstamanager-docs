@@ -48,7 +48,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare u
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 
-![](<../../.gitbook/assets/image (70) (1) (1).png>)
+![](<../../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 ### ➕ Crea...
 

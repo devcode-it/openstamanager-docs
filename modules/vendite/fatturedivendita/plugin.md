@@ -117,7 +117,7 @@ Una volta selezionati i record interessati è possibile controllare la corrispon
 
 Il gestionale chiederà quindi la conferma di procedere alla verifica della corrispondenza tra XML e fatture di vendita.
 
-&#x20;                                                ![](<../../../.gitbook/assets/image (73).png>)
+&#x20;                                                ![](<../../../.gitbook/assets/image (73) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -137,7 +137,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente le ricevute cliccando su Azioni di gruppo/Esporta ricevute.
 
-![](<../../../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (70) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 

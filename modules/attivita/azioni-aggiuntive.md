@@ -183,4 +183,4 @@ Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registr
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
-![](<../../.gitbook/assets/image (73) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1).png>)

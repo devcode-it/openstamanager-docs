@@ -69,7 +69,7 @@ Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o 
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../.gitbook/assets/image (70) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (70) (1) (1) (1) (1).png>)
 
 ## 💸 Creazione di Record al volo
 

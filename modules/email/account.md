@@ -93,7 +93,7 @@ Se l'autenticazione a due fattori è abilitata, è necessario creare una chiave 
 
 Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1) (1).png>)
 
 Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
 

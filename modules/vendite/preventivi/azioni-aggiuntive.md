@@ -16,7 +16,7 @@ Per poter fatturare massivamente dei preventivi, devono essere in uno dei seguen
 
 Una volta selezionati i record interessati è possibile fatturare massivamente i preventivi cliccando su Azioni di gruppo/Fattura preventivi.
 
-![](<../../../.gitbook/assets/image (70) (1).png>)
+![](<../../../.gitbook/assets/image (70) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
