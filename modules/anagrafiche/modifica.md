@@ -5,7 +5,7 @@ description: Come modificare un'anagrafica con OpenSTAManager
 
 # 🖌 Modifica
 
-Per modificare un'anagrafica si dovrà cliccare sul record interessato per aprire la schermata di dettaglio. Da qui sarà possibile completare e modificare _tutte_ le informazioni che il gestionale supporta per le anagrafiche.&#x20;
+Per modificare un'anagrafica si dovrà cliccare sul record interessato per aprire la schermata di dettaglio. Da qui sarà possibile completare e modificare _tutte_ le informazioni che il gestionale supporta per le anagrafiche.
 
 In questa schermata sarà possibile distinguere 6 diverse sezioni:
 
@@ -85,7 +85,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Agenti secondari
 * Tipo attività predefinita
 
-![](<../../.gitbook/assets/immagine (17).png>)
+![](<../../.gitbook/assets/immagine (17) (1).png>)
 
 ### 💁‍♂️ Fornitore
 

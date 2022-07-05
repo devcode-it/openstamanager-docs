@@ -55,7 +55,7 @@ All'atto di importazione delle fatture di acquisto si potrà ora trovare l'autof
 
 Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare a compensare i conti dello stato patrimoniale.
 
-![](<../.gitbook/assets/immagine (21).png>)
+![](<../.gitbook/assets/immagine (21) (1).png>)
 
 Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 

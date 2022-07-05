@@ -13,7 +13,7 @@ Visualizza una serie di informazioni relative ai moduli, quali:
 * Nome
 * Plugin dipendenti
 * Versione
-* Stato (abilitato <img src="../.gitbook/assets/immagine (2).png" alt="" data-size="line">- disabilitato <img src="../.gitbook/assets/immagine (48).png" alt="" data-size="line">- abilita tutti i sotto-moduli ![](<../.gitbook/assets/immagine (12).png>))
+* Stato (abilitato <img src="../.gitbook/assets/immagine (2).png" alt="" data-size="line">- disabilitato <img src="../.gitbook/assets/immagine (48).png" alt="" data-size="line">- abilita tutti i sotto-moduli ![](<../.gitbook/assets/immagine (12) (1).png>))
 * Opzioni (disinstalla modulo)
 
 ![](<../.gitbook/assets/immagine (38) (1).png>)
