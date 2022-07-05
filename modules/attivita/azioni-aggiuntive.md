@@ -51,7 +51,7 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-![](<../../.gitbook/assets/image (64) (1) (1).png>)
+![](<../../.gitbook/assets/image (64) (1) (1) (2).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
@@ -159,7 +159,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 * Notifica rimozione intervento
 * Notifica stato intervento
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 

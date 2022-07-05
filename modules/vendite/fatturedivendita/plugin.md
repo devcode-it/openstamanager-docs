@@ -101,7 +101,7 @@ Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo sta
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 

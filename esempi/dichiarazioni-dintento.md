@@ -16,7 +16,7 @@ Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dat
 
 Andando ora a [creare una **Fattura di vendita**](broken-reference) \*\*\*\* per quello specifico cliente, \*\*\*\* si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (25) (1) (1).png>)
 
 Andando ad emettere e generare la fattura elettronica sarà possibile trovarvi riportati i campi richiesti ai fini fiscali dall'Agenzia delle Entrate.
 

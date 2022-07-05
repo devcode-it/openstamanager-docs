@@ -23,7 +23,7 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
 * Data conclusione
 * Validità contratto
 
-![](<../../../.gitbook/assets/image (64) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -54,8 +54,6 @@ Nelle sezioni successive è invece possibile modificare:
 * costi unitari in base al tipo di attività
 * le righe da inserire da contratto
 * gli allegati
-
-
 
 ![](<../../../.gitbook/assets/2 (1).jpeg>)
 

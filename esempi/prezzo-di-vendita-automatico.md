@@ -16,8 +16,8 @@ Andando a impostare un **Coefficiente di vendita** potremo vedere ora che il cam
 
 ![](<../.gitbook/assets/image (50) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (40) (1).png>)
+![](<../.gitbook/assets/image (40) (1) (1).png>)
 
 Andando a inserire questo articolo in una nuova **Fattura di vendita** sarà possibile riscontrare il Prezzo unitario di vendita calcolato automaticamente dell'articolo, il **Guadagno unitario**, e il **Margine di guadagno**.
 
-![](<../.gitbook/assets/image (27) (1).png>)
+![](<../.gitbook/assets/image (27) (1) (1).png>)
