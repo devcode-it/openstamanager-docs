@@ -220,7 +220,7 @@
 * [📘 F.A.Q.](faq/domande-comuni.md)
 * [📘 Recupero della password](faq/recupero-della-password.md)
 * [📘 Fatturazione Elettronica](faq/fatturazione-elettronica/README.md)
-  * [Domande comuni](faq/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
+  * [🤔 Domande comuni](faq/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
   * [Split payment e reverse charge](faq/fatturazione-elettronica/fattura-pa.md)
   * [Codice identificativo documento e CIG](faq/fatturazione-elettronica/codice-identificativo-documento-e-cig.md)
   * [Errori frequenti nella compilazione](faq/fatturazione-elettronica/errori-frequenti.md)
