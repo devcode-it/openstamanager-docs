@@ -84,7 +84,7 @@
         * [📃 Fatturazione elettronica](modules/vendite/fatturedivendita/plugin-1/fatturazione-elettronica.md)
         * [🖋 Movimenti contabili](modules/vendite/fatturedivendita/plugin-1/movimenti-contabili.md)
         * [📽 Registrazioni](modules/vendite/fatturedivendita/plugin-1/registrazioni.md)
-  * [Acquisti](modules/acquisti/README.md)
+  * [💵 Acquisti](modules/acquisti/README.md)
     * [Ordini fornitore](modules/acquisti/ordinifornitore/README.md)
       * [Creazione](modules/acquisti/ordinifornitore/creazione.md)
       * [Modifica](modules/acquisti/ordinifornitore/modifica.md)

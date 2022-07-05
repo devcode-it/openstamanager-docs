@@ -23,7 +23,7 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe
 
