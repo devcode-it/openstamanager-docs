@@ -77,7 +77,7 @@
     * [📞 Ordini cliente](modules/vendite/ordinicliente/README.md)
       * [❗ Azioni aggiuntive](modules/vendite/ordinicliente/plugin1.md)
       * [🔧 Plugin](modules/vendite/ordinicliente/plugin/README.md)
-        * [Consuntivo](modules/vendite/ordinicliente/plugin/consuntivo.md)
+        * [🪙 Consuntivo](modules/vendite/ordinicliente/plugin/consuntivo.md)
     * [Fatture di vendita](modules/vendite/fatturedivendita/README.md)
       * [Creazione](modules/vendite/fatturedivendita/creazionefatturevendita.md)
       * [Modifica](modules/vendite/fatturedivendita/modificafatturevendita.md)

@@ -10,7 +10,7 @@ La creazione di righe con unità di misura _ore_ viene sfruttata dal plugin **Co
 
 ![](<../../../../.gitbook/assets/image (88).png>)
 
-È possibile inoltre effettuare una Stampa del consutivo direttamente dal plugin con il pulsante **Stampa consuntivo.**
+È possibile inoltre effettuare una Stampa del consuntivo direttamente dal plugin con il pulsante **Stampa consuntivo.**
 
 Per maggiori dettagli:
 

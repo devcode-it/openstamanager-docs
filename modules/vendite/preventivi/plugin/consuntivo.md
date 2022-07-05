@@ -12,7 +12,7 @@ In questo plugin infatti, possiamo visualizzare il budget disponibile per un det
 
 ![](<../../../../.gitbook/assets/image (59).png>)
 
-È possibile inoltre effettuare una Stampa del consutivo direttamente dal plugin con il pulsante **Stampa consuntivo**.
+È possibile inoltre effettuare una Stampa del consuntivo direttamente dal plugin con il pulsante **Stampa consuntivo**.
 
 Maggiori dettagli:
 
