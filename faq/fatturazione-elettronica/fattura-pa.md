@@ -1,37 +1,31 @@
-# Split payment e reverse charge
+---
+description: Guida alle operazioni in split payment e reverse charge con OpenSTAManager
+---
+
+# 🤓 Split payment e reverse charge
 
 {% hint style="info" %}
-La pubblica amministrazione richiede **split payment** o **reverse charge**. Come gestire questi due parametri in **OpenSTAManager**?
+La pubblica amministrazione richiede **Split payment** o **Reverse charge**. Come gestire questi due parametri in **OpenSTAManager**?
 {% endhint %}
 
-## Split payment
+## ✂️ Split payment
 
 Creando una fattura di vendita è possibile abilitare lo **split payment** spuntando la casella sotto indicata.
 
 ![](../../.gitbook/assets/SplitPayment.png)
 
-Così facendo nella tabella **Righe** il **Totale** sarà annesso **IVA** mentre il **Netto a pagare** è senza **IVA** perché sarà la pubblica amministrazione a contribuire l'imposta relativa alla transazione\*\*,\*\* come nell'esempio che segue:
+Così facendo nella tabella **Righe** il **Totale** sarà comprensivo di **IVA,** mentre il **Netto a pagare** sarà **IVA esclusa** perché l'imposta relativa alla transizione sarà a carico della pubblica amministrazione.
 
 ![](../../.gitbook/assets/RigheSplitPayment.png)
 
-## Reverse charge
+## &#x20;🔋 Reverse charge
 
-Il reverse charge è applicabile ad una **Riga** selezionandolo nel campo **Iva,** come nell'esempio che segue:
+Il riferimento normativo del _**reverse charge**_ IVA in Italia è rappresentato dall'_articolo 17_, commi 5 e 6. Il reverse charge è applicabile quindi andando a selezionare l'aliquota IVA corretta nel momento di creazione di una riga:
 
 ![](../../.gitbook/assets/N6.png)
 
-Il riferimento normativo del _**reverse charge**_ IVA in Italia è rappresentato dall'_articolo 17_, commi 5 e 6.
 
-Quindi, per applicare il **reverse charge** andrò a selezionare Art.17,6, ottenendo così il seguente risultato:
+
+Il risultato ottenuto sarà il seguente:
 
 ![](../../.gitbook/assets/RigheN6.png)
-
-Si può quindi notare che non viene applicata l'**IVA** al secondo _record_ .
-
-### Particolarità
-
-Nella creazione di un'anagrafica **Cliente** è possibile abilitare lo \*\*split payment,\*\*così facendo, ogni qualvolta creo una fattura verso quel cliente, il campo **split payment** sarà già spuntato.
-
-![Split payment spuntato in Anagrafica](../../.gitbook/assets/SplitPaymentAnagrafica.png)
-
-![Split payment automaticamente spuntato nella fattura di vendita](../../.gitbook/assets/SplitPaymentFlag.png)
