@@ -20,7 +20,7 @@ Per inviare una fattura elettronica è necessario creare la fattura dal modulo *
 
 Con l'emissione della fattura il gestionale genererà in modo automatico il suo XML, si dovrà ora accedere al plugin Fatturazione Elettronica e cliccare Invia.
 
-![](<../../.gitbook/assets/image (101).png>)
+![](<../../.gitbook/assets/image (101) (1).png>)
 
 Dopo aver inviato la fattura, accedendo al modulo Fatture di vendita, sarà possibile vedere che lo stato FE della fattura appena inviata è cambiato in "In elaborazione".&#x20;
 
@@ -70,7 +70,7 @@ Per scaricare le fatture passive dai fornitori è necessario cliccare su Fattura
 
 Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
 
-![](<../../.gitbook/assets/image (82).png>)
+![](<../../.gitbook/assets/image (82) (1).png>)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 

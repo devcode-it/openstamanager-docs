@@ -37,7 +37,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (77) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -75,7 +75,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1) (1).png" alt="" data-size="original">
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -105,7 +105,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (72).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (72) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -117,7 +117,7 @@ Una volta selezionati i record interessati è possibile controllare la corrispon
 
 Il gestionale chiederà quindi la conferma di procedere alla verifica della corrispondenza tra XML e fatture di vendita.
 
-&#x20;                                                ![](<../../../.gitbook/assets/image (73) (1).png>)
+&#x20;                                                ![](<../../../.gitbook/assets/image (73) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -161,7 +161,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
 
@@ -173,7 +173,7 @@ Le fatture selezionate devono essere in stato Bozza.
 
 Cliccando su Procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (71) (1).png>)
+![](<../../../.gitbook/assets/image (71) (1) (1).png>)
 
 ## 👤 Dal dettaglio Fatture di vendita
 
@@ -202,7 +202,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                               ![](<../../../.gitbook/assets/image (71).png>)
+&#x20;                                               ![](<../../../.gitbook/assets/image (71) (1).png>)
 
 ### ✉️ Invia fattura
 
@@ -251,7 +251,7 @@ Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (59) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

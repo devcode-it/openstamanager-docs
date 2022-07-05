@@ -1,21 +1,49 @@
 ---
 title: Ordini fornitore
+description: Come gestire gli Ordini fornitore in OpenSTAManager
 ---
 
-# Ordini fornitore
+# 📞 Ordini fornitore
 
 {% hint style="info" %}
-Il modulo **Ordini fornitore** permette all'utente di creare un documento che permette di richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
+Il modulo **Ordini fornitore** permette all'utente di creare un documento per richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![Screenshot interfaccia ordini fornitore](../../../.gitbook/assets/SchermataOrdiniFornitore.PNG)
+![](<../../../.gitbook/assets/image (72).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il modulo **Vendite**.
+Per creare un nuovo ordine fornitore si dovrà cliccare sul tasto (+).
 
-![Navigazione ordini fornitore](../../../.gitbook/assets/PosizioneOrdiniFornitore.PNG)
+Andrà qui selezionato il fornitore.
 
-## Caratteristiche
+![](<../../../.gitbook/assets/image (80).png>)
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un _record_ del modulo **Ordini fornitore** presenta la possibilità di utilizzare diverse [Azioni aggiuntive](plugin.md)
+Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modficare:
+
+* Numero ordine
+* Numero ordine fornitore
+* Data
+* Stato
+* Fornitore
+* Referente
+* Sede
+* Pagamento
+* Note
+
+![](<../../../.gitbook/assets/image (71).png>)
+
+* Righe
+* Allegati
+
+![](<../../../.gitbook/assets/image (59).png>)
+
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="plugin.md" %}
+[plugin.md](plugin.md)
+{% endcontent-ref %}

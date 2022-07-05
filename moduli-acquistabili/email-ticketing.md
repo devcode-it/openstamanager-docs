@@ -41,7 +41,7 @@ Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin *
 
 ![](<../.gitbook/assets/image (56) (1) (1).png>)
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98) (1).png>)
 
 ## Esempio:
 

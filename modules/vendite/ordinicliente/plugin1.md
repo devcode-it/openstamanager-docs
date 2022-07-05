@@ -68,7 +68,7 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 ### 🖨️ Stampa ordine cliente
 
-Dalla schermata di dettaglio di un'ordine cliente è possibile procedere a diversi tipi di stampe:
+Dalla schermata di dettaglio di un ordine cliente è possibile procedere a diversi tipi di stampe:
 
 * ordine cliente
 * consuntivo ordine
@@ -87,7 +87,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a invia
 
 ![](<../../../.gitbook/assets/immagine (21) (1).png>)
 
-Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su invia.
+Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine cliente, dove sarà possibile inviare la mail cliccando su invia.
 
 ![](<../../../.gitbook/assets/immagine (47).png>)
 

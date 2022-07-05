@@ -97,7 +97,7 @@ Questa sezione permette di inserire le righe descrittive dell'attività che poss
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../.gitbook/assets/image (82) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1) (1) (1).png>)
 
 ### 🛅 Allegati
 

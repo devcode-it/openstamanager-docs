@@ -72,4 +72,4 @@ Con questa funzione è possibile creare un'attività, e richiede di completare i
 * Orario inizio
 * Orario fine
 
-![](<../../../../.gitbook/assets/image (95).png>)
+![](<../../../../.gitbook/assets/image (95) (1).png>)

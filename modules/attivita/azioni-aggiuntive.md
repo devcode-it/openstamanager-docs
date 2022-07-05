@@ -29,7 +29,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (63) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -81,7 +81,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica attività.
 
-![](<../../.gitbook/assets/image (98) (1) (1).png>)
+![](<../../.gitbook/assets/image (98) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -92,7 +92,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Cliccando su Procedi il gestionale procederà alla duplicazione.
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (80) (1).png>)
 
 Si potranno ora vedere tra le attività i record appena creati.
 
@@ -111,7 +111,7 @@ Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, p
 
 Cliccando su Stampa si confermerà l'operazione.
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1).png>)
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
@@ -183,4 +183,4 @@ Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registr
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1) (1).png>)
