@@ -1,6 +1,6 @@
 ---
 title: Azioni aggiuntive Ordini cliente
-description: Guida alle azioni aggiuntive del modulo Fatture di vendita di OpenSTAManager
+description: Guida alle azioni aggiuntive del modulo Fatture di vendita in OpenSTAManager
 ---
 
 # ❗ Azioni aggiuntive
@@ -37,7 +37,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (77) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -71,7 +71,7 @@ In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili ap
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe FE
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (44) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
@@ -91,7 +91,7 @@ Il gestionale chiederà quindi la conferma a procedere alla generazione delle fa
 Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 {% endhint %}
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (26).png>)C
+&#x20;                                                         ![](<../../../.gitbook/assets/image (26).png>)
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
@@ -129,7 +129,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente g
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
-&#x20;                                                      ![](<../../../.gitbook/assets/image (23).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/image (23) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -149,7 +149,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati  è possibile modificarne massivamente la Banca selezionata cliccando su Azioni di gruppo/Aggiorna banca.
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (24) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 
@@ -161,7 +161,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
 
-![](<../../../.gitbook/assets/image (65) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
 
@@ -169,11 +169,11 @@ Il gestionale chiederà quindi la conferma di procedere all'emissione della fatt
 Le fatture selezionate devono essere in stato Bozza.
 {% endhint %}
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (75).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (75) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (71) (1) (1).png>)
+![](<../../../.gitbook/assets/image (71) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Fatture di vendita
 
@@ -198,15 +198,15 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 * Stampa fattura di vendita (senza intestazione)
 * Stampa fattura di elettronica di vendita
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (61) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                               ![](<../../../.gitbook/assets/image (71) (1).png>)
+&#x20;                                               ![](<../../../.gitbook/assets/image (71) (1) (1).png>)
 
 ### ✉️ Invia fattura
 
-Dalla schermata di dettaglio di un'attività è possibile procedere a inviare la fattura selezionata via mail o PEC.
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a inviare la fattura selezionata via mail o PEC.
 
 ![](<../../../.gitbook/assets/image (97).png>)
 
@@ -216,13 +216,13 @@ Cliccando sul tipo di mail da inviare si verrà indirizzati al template email co
 
 ### 🧬 Duplica fattura
 
-Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua duplicazione cliccando su duplica fattura.
 
 ![](<../../../.gitbook/assets/image (58) (1).png>)
 
 ### 💡 Attributi avanzati
 
-Dalla schermata di dettaglio di un'attività è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
+Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
 ![](<../../../.gitbook/assets/image (68).png>)
 
@@ -237,7 +237,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 * Nota di debito
 * Nota di credito
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76) (2).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
@@ -251,7 +251,7 @@ Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
-![](<../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
@@ -265,7 +265,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (55).png>)
+![](<../../../.gitbook/assets/image (55) (1).png>)
 
 ### 📂 Riapri documento...
 
@@ -274,5 +274,5 @@ Nella schermata di dettaglio di una fattura di vendita di cui è già stato regi
 ![](<../../../.gitbook/assets/image (51).png>)
 
 {% hint style="warning" %}
-Cliccando Riapri documento verrà azzerato lo scadenzario e la relativa prima nota.
+Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.
 {% endhint %}

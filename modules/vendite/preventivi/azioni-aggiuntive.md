@@ -62,7 +62,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere a diversi t
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 ### 📧 Invia
 
@@ -112,4 +112,4 @@ Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo d
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (94) (1).png>)
+![](<../../../.gitbook/assets/image (94) (1) (2).png>)

@@ -13,7 +13,7 @@ Il modulo Ordini fornitore permette di cambiare lo stato degli ordini massivamen
 
 Una volta selezionati i record interessati è possibile modificarne massivamente lo stato cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../.gitbook/assets/image (94).png>)
+![](<../../../.gitbook/assets/image (94) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (63).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -51,13 +51,13 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                  ![](<../../../.gitbook/assets/image (95).png>)
+&#x20;                                                  ![](<../../../.gitbook/assets/image (95) (1).png>)
 
 ### ✉️ Invia
 
 Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a inviarlo via mail al fornitore.
 
-![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (77) (1).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine fornitore, dove sarà possibile inviare la mail cliccando su invia.
 
@@ -79,4 +79,4 @@ Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve esse
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)

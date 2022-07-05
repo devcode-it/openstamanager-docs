@@ -94,13 +94,13 @@ Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righ
 
 Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
 
-![](<../../../.gitbook/assets/image (64) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
 ![](<../../../.gitbook/assets/image (34) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (2).png>)
 
 ### 🔄 Rinnova
 
@@ -112,11 +112,11 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 * Il contratto si trova in uno stato Completato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (95) (1) (1).png>)
+![](<../../../.gitbook/assets/image (95) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 
-![](<../../../.gitbook/assets/image (44) (1).png>)
+![](<../../../.gitbook/assets/image (44) (1) (1).png>)
 
 Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contratti.
 
@@ -132,4 +132,4 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (66) (1).png>)

@@ -17,7 +17,7 @@ Per creare un nuovo ordine cliente si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il cliente:
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (83) (1).png>)
 
 Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 
@@ -39,9 +39,9 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Righe
 * Allegati
 
-![](<../../../.gitbook/assets/image (24) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (76) (2).png>)
+![](<../../../.gitbook/assets/image (76) (2) (1).png>)
 
 ## 🔧 Plugin
 

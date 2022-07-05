@@ -18,7 +18,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Ven
 
 Nel menu a tendina è possibile trovare i moduli Contratti, Preventivi, Ordini cliente e Fatture di vendita.
 
-![](<../../.gitbook/assets/image (83) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1).png>)
 
 ### 🔧 Plugin
 

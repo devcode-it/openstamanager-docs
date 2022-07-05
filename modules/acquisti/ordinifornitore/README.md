@@ -35,12 +35,12 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Pagamento
 * Note
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71) (1).png>)
 
 * Righe
 * Allegati
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (59) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 
