@@ -87,6 +87,7 @@
   * [💵 Acquisti](modules/acquisti/README.md)
     * [📞 Ordini fornitore](modules/acquisti/ordinifornitore/README.md)
       * [❗ Azioni aggiuntive](modules/acquisti/ordinifornitore/plugin.md)
+      * [🔧 Plugin](modules/acquisti/ordinifornitore/plugin-1.md)
     * [📄 Fatture di acquisto](modules/acquisti/fatturediacquisto/README.md)
       * [❗ Azioni aggiuntive](modules/acquisti/fatturediacquisto/plugin1.md)
       * [🔧 Plugin](modules/acquisti/fatturediacquisto/plugin.md)
