@@ -14,7 +14,7 @@ Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dat
 
 ![](<../.gitbook/assets/image (65).png>)
 
-Andando ora a [creare una **Fattura di vendita**](../modules/vendite/fatturedivendita/creazionefatturevendita.md) \*\*\*\* per quello specifico cliente, \*\*\*\* si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
+Andando ora a [creare una **Fattura di vendita**](broken-reference) \*\*\*\* per quello specifico cliente, \*\*\*\* si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
 
 ![](<../.gitbook/assets/image (25) (1).png>)
 

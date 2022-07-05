@@ -14,7 +14,7 @@ Da questa schermata sarà ora possibile modificare la quantità da evadere in ca
 
 ![](<../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
-Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un numero fattura progressivo e si potrà andare ora a [Creare una fattura di vendita](../modules/vendite/fatturedivendita/creazionefatturevendita.md) corretta.
+Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un numero fattura progressivo e si potrà andare ora a [Creare una fattura di vendita](broken-reference) corretta.
 
 ![](<../.gitbook/assets/image (28) (1).png>)
 

@@ -17,7 +17,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato dell'ordine cliente deve essere Accettato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/immagine (71).png>)
+![](<../../../.gitbook/assets/immagine (71) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -52,7 +52,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                                  <img src="../../../.gitbook/assets/immagine (42).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../.gitbook/assets/immagine (42) (2).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -85,7 +85,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di un ordine cliente è possibile procedere a inviarlo via mail al cliente.
 
-![](<../../../.gitbook/assets/immagine (21).png>)
+![](<../../../.gitbook/assets/immagine (21) (1).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su invia.
 

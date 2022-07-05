@@ -16,7 +16,7 @@ E' possibile filtrare le tabelle usando un [nuovo filtro "diverso da"](https://d
 
 Verrà ora mostrato un [avviso](https://docs.openstamanager.com/modules/vendite/fatturedivendita#avvisi) nel caso in cui le fatture generate si avvicinino al termine massimo per l'invio al SDI, e nel caso in cui vengano scartate e debbano essere modificate e reinviate:
 
-![Avviso fattura generata](<.gitbook/assets/immagine (59).png>)
+![Avviso fattura generata](<.gitbook/assets/immagine (59) (1).png>)
 
 ![Avviso fattura scartata](<.gitbook/assets/immagine (2) (1) (1).png>)
 
