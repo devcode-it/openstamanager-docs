@@ -34,4 +34,4 @@ Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e se
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, sarà ora possibile visualizzare le mappe nella sezione Geolocalizzazione.
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (2).png>)

@@ -25,7 +25,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 ![](<../../.gitbook/assets/image (34) (1) (1).png>)
 
-### 📤  Esportazione stampe
+### 📤 Esportazione stampe
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
@@ -33,7 +33,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
-&#x20;                                             <img src="../../.gitbook/assets/image (99) (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (99) (1).png>)
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -41,7 +41,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
-![](<../../.gitbook/assets/image (54) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -51,7 +51,7 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                               <img src="../../.gitbook/assets/image (64) (1) (1).png" alt="" data-size="original">
+![](<../../.gitbook/assets/image (64) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
@@ -73,7 +73,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Programmato
 * (eventuali stati personalizzati)
 
-&#x20;                                              ![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -92,7 +92,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Cliccando su Procedi il gestionale procederà alla duplicazione.
 
-&#x20;                                              ![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (80).png>)
 
 Si potranno ora vedere tra le attività i record appena creati.
 
@@ -111,21 +111,21 @@ Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, p
 
 Cliccando su Stampa si confermerà l'operazione.
 
-&#x20;                                               ![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77) (1).png>)
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
-&#x20;                                              ![](<../../.gitbook/assets/image (94) (1) (1).png>)
+![](<../../.gitbook/assets/image (94) (1) (1).png>)
 
 ### 📱 Sincronizzazione degli interventi APP tecnici
 
-Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.&#x20;
+Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-&#x20;                                               ![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 
-## 👤  Dal dettaglio Attività
+## 👤 Dal dettaglio Attività
 
 Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio.\
 Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
@@ -148,7 +148,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                                ![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79).png>)
 
 ### ✉️ Invio del rapportino intervento
 
@@ -183,4 +183,4 @@ Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registr
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)

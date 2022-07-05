@@ -12,11 +12,11 @@ Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezion
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../.gitbook/assets/image (31) (1) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
-&#x20;                                                ![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 ## 👤 Dal dettaglio Anagrafica
 
@@ -38,7 +38,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                ![](<../../.gitbook/assets/image (95) (1) (1).png>)
+![](<../../.gitbook/assets/image (95) (1) (1).png>)
 
 ### 📧 Invia email da template
 
@@ -48,7 +48,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare u
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 
-![](<../../.gitbook/assets/image (70) (1).png>)
+![](<../../.gitbook/assets/image (70) (1) (1).png>)
 
 ### ➕ Crea...
 
@@ -66,4 +66,4 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](<../../.gitbook/assets/image (44) (1) (1).png>)

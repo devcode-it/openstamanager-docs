@@ -14,11 +14,11 @@ Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Ges
 
 ![](<../../.gitbook/assets/image (23) (1) (1).png>)
 
-## 🖥️  Interfaccia
+## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare il modulo Categorie documenti.
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

@@ -27,4 +27,4 @@ Visualizza una serie di informazioni relative ai _Widgets_, quali:
 * Stato (abilitato <img src="../.gitbook/assets/immagine (2).png" alt="" data-size="line">- disabilitato <img src="../.gitbook/assets/immagine (48).png" alt="" data-size="line">)
 * Posizione (per modificare la _Posizione_ di un determinato _Widget_)
 
-![](<../.gitbook/assets/immagine (3).png>)
+![](<../.gitbook/assets/immagine (3) (1).png>)

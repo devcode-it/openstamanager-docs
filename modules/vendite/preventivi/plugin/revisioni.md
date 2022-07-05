@@ -5,12 +5,12 @@ description: Guida al plugin Revisioni in OpenSTAManager
 # 🔍 Revisioni
 
 {% hint style="info" %}
-Il plugin **Revisioni** permette di avere uno storico dei **preventivi.**&#x20;
+Il plugin **Revisioni** permette di avere uno storico dei **preventivi.**
 {% endhint %}
 
 Da qui è possibile selezionare ed aprire una determinata revisione selezionandola dall'opzione a inizio riga e cliccando su Cambia revisione.
 
-![](<../../../../.gitbook/assets/image (60).png>)
+![](<../../../../.gitbook/assets/image (60) (1).png>)
 
 Per aggiungere una revisione è necessario cliccare il pulsante **Crea nuova revisione** dalla schermata di modifica del preventivo.
 

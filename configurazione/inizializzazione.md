@@ -57,6 +57,6 @@ Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune op
 Una volta completate correttamente le informazioni richieste dalle sezioni precedenti, è possibile procedere al salvataggio delle stesse e al successivo utilizzo del software cliccando sul pulsante **Configura**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (58) (1).png>)
+![](<../.gitbook/assets/immagine (58) (1) (1).png>)
 
 Sarà possibile accedere fin da subito con le credenziali di amministrazione immesse in precedenza.

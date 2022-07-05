@@ -12,8 +12,8 @@ I widget sono componenti predefiniti che presentano una serie di funzioni aggiun
 
 E' possibile spostare un widget cliccando su di esso e trascinandolo attraverso un'azione _drag\&drop._
 
-Per procedere a disabilitarlo invece, basterà cliccare sulla X nell'angolo in alto a destra dello stesso.&#x20;
+Per procedere a disabilitarlo invece, basterà cliccare sulla X nell'angolo in alto a destra dello stesso.
 
-![](<../.gitbook/assets/immagine (58).png>)
+![](<../.gitbook/assets/immagine (58) (1).png>)
 
 Inoltre, è possibile trovare l'elenco dei widget da abilitare in Strumenti/[Stato dei servizi](stato-dei-servizi.md).

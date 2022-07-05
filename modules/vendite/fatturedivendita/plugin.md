@@ -1,22 +1,217 @@
 ---
 title: Azioni aggiuntive Ordini cliente
+description: Guida alle azioni aggiuntive del modulo Fatture di vendita di OpenSTAManager
 ---
 
 # ❗ Azioni aggiuntive
 
-Selezionando o creando un _record_ in **Fatture di vendita** sono presenti nella parte in alto a destra degli strumenti che consentono diverse opzioni quali:
+## 👥 Dal modulo Fatture di vendita
 
-![Screenshot azioni aggiuntive fatture di vendita](../../../.gitbook/assets/PluginFattureDiVendita.PNG)
+Il modulo fatture di vendita permette di effettuare diverse azioni massive dalle Azioni di gruppo:
+
+* Esporta selezionati
+* Duplica selezionati
+* Registrazione contabile
+* Esporta stampe FE
+* Genera fatture elettroniche
+* Esporta stampe
+* Controlla fatture elettroniche
+* Esporta XML
+* Esporta ricevute
+* Aggiorna banca
+* Emetti fatture
+
+### 📤 Esportazione
+
+Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta selezionati.
+
+![](<../../../.gitbook/assets/immagine (3).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
+
+&#x20;                                                 ![](<../../../.gitbook/assets/immagine (8).png>)
+
+Cliccando su procedi si confermerà l'operazione.
+
+### 🧬 Duplicazione
+
+Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
+
+![](<../../../.gitbook/assets/image (77).png>)
+
+Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
+
+* Data di fatturazione
+* Sezionale
+* Se aggiungere i riferimenti ai documenti esterni
+
+Cliccando su Procedi il gestionale procederà alla duplicazione
+
+&#x20;                                                            ![](<../../../.gitbook/assets/image (22).png>)
+
+Si potranno ora vedere tra le fatture di vendita i record appena creati.
+
+![](<../../../.gitbook/assets/image (84).png>)
+
+### ✏️ Registrazione contabile
+
+Una volta selezionati i record interessati è possibile completare le registrazioni contabili cliccando su Azioni di gruppo/Registrazione contabile.
+
+![](<../../../.gitbook/assets/image (56).png>)
+
+Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su aggiungi si procede alla registrazione delle scritture.
+
+![](<../../../.gitbook/assets/image (85).png>)
+
+In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
+
+![](<../../../.gitbook/assets/image (45).png>)
+
+### 📤 Esportazione stampe FE
+
+Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe FE
+
+![](<../../../.gitbook/assets/image (44).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
+
+&#x20;                                                  <img src="../../../.gitbook/assets/image (60).png" alt="" data-size="original">
+
+Cliccando su procedi si confermerà l'operazione.
+
+### ⚙️ Genera fatture elettroniche
+
+Una volta selezionati i record interessati è possibile procedere alla generazione massiva degli XML cliccando su Azioni di gruppo/Genera fatture elettroniche.
+
+![](<../../../.gitbook/assets/image (69).png>)
+
+Il gestionale chiederà quindi la conferma a procedere alla generazione delle fatture elettroniche.
+
+{% hint style="warning" %}
+Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
+{% endhint %}
+
+&#x20;                                                         ![](<../../../.gitbook/assets/image (26).png>)C
+
+Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
+
+![](<../../../.gitbook/assets/image (28).png>)
+
+### 🖨️ Esportazione stampe
+
+Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
+
+![](<../../../.gitbook/assets/image (40).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
+
+&#x20;                                                          ![](<../../../.gitbook/assets/image (72).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+### ⚠️ Controllo fatture elettroniche
+
+Una volta selezionati i record interessati è possibile controllare la corrispondenza tra XML e fattura di vendita massivamente cliccando su Azioni di gruppo/Controlla fatture elettroniche.
+
+![](<../../../.gitbook/assets/image (29).png>)
+
+Il gestionale chiederà quindi la conferma di procedere alla verifica della corrispondenza tra XML e fatture di vendita.
+
+&#x20;                                                ![](<../../../.gitbook/assets/image (73).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+### 📤 Esportazione XML
+
+Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
+
+![](<../../../.gitbook/assets/image (89).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
+
+&#x20;                                                      ![](<../../../.gitbook/assets/image (23).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+### 📤 Esportazione ricevute
+
+Una volta selezionati i record interessati è possibile esportare massivamente le ricevute cliccando su Azioni di gruppo/Esporta ricevute.
+
+![](<../../../.gitbook/assets/image (70).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
+
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+### 🏦 Aggiorna banca
+
+Una volta selezionati i record interessati  è possibile modificarne massivamente la Banca selezionata cliccando su Azioni di gruppo/Aggiorna banca.
+
+![](<../../../.gitbook/assets/image (24).png>)
+
+Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
+
+&#x20;                                                   ![](<../../../.gitbook/assets/image (54).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+### 📨 Emissione fatture
+
+Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
+
+![](<../../../.gitbook/assets/image (65).png>)
+
+Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
+
+{% hint style="warning" %}
+Le fatture selezionate devono essere in stato Bozza.
+{% endhint %}
+
+&#x20;                                                     ![](<../../../.gitbook/assets/image (75).png>)
+
+Cliccando su Procedi si confermerà l'operazione.
+
+![](<../../../.gitbook/assets/image (71).png>)
+
+## 👤 Dal dettaglio Fatture di vendita
+
+Cliccando su uno specifico record è possibile entrare nella schermata di dettaglio.
+
+Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 * Stampa fattura di vendita
-  * Stampa fattura di vendita(senza intestazione)
-  * Stampa fattura elettronica di vendita
-* Invia fattura (tramite mail/PEC)
+* Invia fattura
 * Duplica fattura
 * Attributi avanzati
 * Crea
-  * Nota di debito
-  * Nota di credito
 * Registra insoluto
 * Registra contabile
+
+### 🖨️ Stampa fattura di vendita
+
+
+
+### ✉️ Invia fattura
+
+
+
+### 🧬 Duplica fattura
+
+
+
+### 💡 Attributi avanzati
+
+
+
+### ➕ Crea...
+
+
+
+### 📕 Registra insoluto
+
+
+
+### 🖊️ Registra contabile
 

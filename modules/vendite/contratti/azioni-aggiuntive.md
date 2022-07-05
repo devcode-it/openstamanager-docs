@@ -26,11 +26,11 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                ![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (22) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84) (1).png>)
 
 ![](<../../../.gitbook/assets/image (82).png>)
 
@@ -60,7 +60,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (49) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (49) (1) (1) (1).png>)
 
 ### 📧 Invia
 
@@ -116,11 +116,11 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 
-&#x20;                                                 <img src="../../../.gitbook/assets/image (44).png" alt="" data-size="original">
+![](<../../../.gitbook/assets/image (44) (1).png>)
 
 Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contratti.
 
-Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.&#x20;
+Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.
 
 ![](<../../../.gitbook/assets/image (57) (1) (1).png>)
 
@@ -133,4 +133,3 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
 ![](<../../../.gitbook/assets/image (66).png>)
-

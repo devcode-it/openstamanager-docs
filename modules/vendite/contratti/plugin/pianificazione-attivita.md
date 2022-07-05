@@ -44,7 +44,7 @@ Una volta creato il promemoria, sarà possibile effettuare una pianificazione ci
 Si aprirà quindi una schermata riepilogativa che presenterà come ultime due sezioni queste:
 
 * Promemoria ciclico?
-* Pianificare interventi?&#x20;
+* Pianificare interventi?
 
 ### 🔂 Promemoria ciclico?
 
@@ -57,7 +57,7 @@ Chiede di completare i campi:
 * Inizio pianificazione
 * Fine pianificazione (coincide con la fine del contratto)
 
-![](<../../../../.gitbook/assets/image (54) (1).png>)
+![](<../../../../.gitbook/assets/image (54) (1) (1).png>)
 
 I promemoria creati verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 

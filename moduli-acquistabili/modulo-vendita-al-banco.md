@@ -44,17 +44,17 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image (68) (1).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
-![](<../.gitbook/assets/image (29) (1).png>)
+![](<../.gitbook/assets/image (29) (1) (1).png>)
 
 ### 🖌️ Modifica
 
 Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella vendita interessata e cliccare su Riapri vendita. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (54).png>)
+![](<../.gitbook/assets/image (54) (1).png>)
 
 ## 💳 Easy vendita
 
@@ -62,10 +62,9 @@ Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cass
 
 ![](<../.gitbook/assets/image (102).png>)
 
-I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\
+I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\\
 
-
-![](<../.gitbook/assets/image (60) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1).png>)
 
 Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
 
@@ -75,4 +74,4 @@ Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e 
 
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (31) (1).png>)
+![](<../.gitbook/assets/image (31) (1) (1).png>)

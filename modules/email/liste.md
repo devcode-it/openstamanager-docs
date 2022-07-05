@@ -22,14 +22,14 @@ E' possibile creare una nuova lista premendo sul tasto (+):
 
 ## 🖌️ Modifica
 
-Dalla schermata di dettaglio è possibile completare tutte le informazioni riguardanti la lista, e modificare le informazioni presenti.&#x20;
+Dalla schermata di dettaglio è possibile completare tutte le informazioni riguardanti la lista, e modificare le informazioni presenti.
 
 Sono qui disponibili i seguenti attributi:
 
 * **Descrizione**: In questo campo è possibile aggiungere o aggiornare la descrizione della lista.
-* **Query dinamica:**  L'utilizzo di questo campo esclude la possibilità di inserire i destinatari tramite il menù a tendina "_Destinatari"_ presente nella sezione Aggiunta destinatari.\
+* **Query dinamica:** L'utilizzo di questo campo esclude la possibilità di inserire i destinatari tramite il menù a tendina "_Destinatari"_ presente nella sezione Aggiunta destinatari.\
   Le informazioni inserite in questo campo devono essere scritte con il linguaggio sql;\
   _Esempio_: "**SELECT idanagrafica AS id FROM an\_anagrafiche"** aggiungerà tutte le anagrafiche nella tabella Destinatari.
 * **Destinatari:** In alternativa, lasciando vuoto il campo _Query dinamica_ è possibile aggiungere i vari destinatari tramite il menù a tendina, cliccando su aggiungi infatti, verranno inseriti i destinatari sulla tabella corrispondente.
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1) (1).png>)

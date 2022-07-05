@@ -57,19 +57,19 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 * Zona
 * Tecnici (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
-![](<../../.gitbook/assets/image (75) (1).png>)
+![](<../../.gitbook/assets/image (75) (1) (1).png>)
 
 ### 🔁 Ricorrenza
 
 Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o meno:
 
-![](<../../.gitbook/assets/image (60) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)
 
 ### 🧿 Dettagli cliente
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../.gitbook/assets/image (70) (1) (1).png>)
+![](<../../.gitbook/assets/image (70) (1) (1) (1).png>)
 
 ## 💸 Creazione di Record al volo
 
@@ -89,9 +89,9 @@ I campi obbligatori per creare una sede al volo sono Nome sede e città, si potr
 
 ### 📄 Contratto
 
-I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](broken-reference) gli altri campi entrando nel nuovo record in Vendite/Contratti.
+I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](broken-reference/) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
-![](<../../.gitbook/assets/image (31) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1) (1).png>)
 
 ### 🧑 Referente
 

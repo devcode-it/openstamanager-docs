@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova fascia oraria:
 * Ora inizio
 * Ora fine
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 ## 🖌️ Modifica
 

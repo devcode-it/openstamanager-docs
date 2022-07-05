@@ -16,7 +16,7 @@ Per poter fatturare massivamente dei preventivi, devono essere in uno dei seguen
 
 Una volta selezionati i record interessati è possibile fatturare massivamente i preventivi cliccando su Azioni di gruppo/Fattura preventivi.
 
-![](<../../../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (70) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -26,11 +26,11 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                 <img src="../../../.gitbook/assets/image (85).png" alt="" data-size="original">
+![](<../../../.gitbook/assets/image (85) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (29) (1) (1).png>)
+![](<../../../.gitbook/assets/image (29) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (57) (1).png>)
 
@@ -62,7 +62,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere a diversi t
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (23).png" alt="" data-size="original">
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 ### 📧 Invia
 
@@ -75,7 +75,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (69) (2).png>)
 
 ### 🧬 Duplica preventivo
 

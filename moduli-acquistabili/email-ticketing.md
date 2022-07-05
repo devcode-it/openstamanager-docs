@@ -14,8 +14,6 @@ description: Guida al modulo aggiuntivo Email ticketing in OpenSTAManager
 
 La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su Gestione email/Email ticketing
 
-&#x20;
-
 ![](<../.gitbook/assets/image (96).png>)
 
 Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato, dove si dovranno compilare:
@@ -49,9 +47,7 @@ Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin *
 
 Un cliente invia un messaggio all'email configurata precedentemente in [creazione](email-ticketing.md#creazione).
 
-&#x20;                                                    <img src="../.gitbook/assets/image (67).png" alt="" data-size="original">
-
-
+![](<../.gitbook/assets/image (67).png>)
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
@@ -59,7 +55,7 @@ Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare
 
 Entrando nella schermata di dettaglio dell'attività e cliccando su Conversazioni, sarà possibile vedere le conversazioni con il cliente via email.
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 ![](<../.gitbook/assets/image (83) (1).png>)
 

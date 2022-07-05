@@ -12,7 +12,7 @@ A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il se
 
 Ponendo l'attenzione sui ricavi si può notare che i ricavi reali sono composti dalla somma delle fatture di vendita già contabilizzate, mentre i ricavi totali sono formati dalla somma di questi e i ricavi previsti da previsionali o sergenti dati esterne.
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza.
 
@@ -32,7 +32,7 @@ Inoltre, cliccando sul tasto "**+**" vicino a Ricavi e Costi, sarà possibile ve
 
 L'**andamento finanziario**, a differenza di quello **economico**, attinge dati anche dallo scadenzario, e va quindi ad imputare tutte le scadenze previste nel relativo periodo di competenza.
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
 
 Mentre la previsione di ricavo o di costo dell'andamento economico avviene per intero e in base ad una specifica data del documento, la previsione di entrata/uscita dell'andamento finanziario considera l'importo lordo e lo distribuisce in base al tipo di pagamento specificato nel documento o, se mancante, legato all'anagrafica a cui è collegato il documento.
 
