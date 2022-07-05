@@ -10,7 +10,7 @@ Per registrare una Dichiarazione d'intento \*\*\*\* si deve [creare un'**Anagraf
 
 Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dati relativi alla **Dichiarazione d'intento** da aggiungere.
 
-![](<../.gitbook/assets/image (97).png>)
+![](<../.gitbook/assets/image (97) (1).png>)
 
 ![](<../.gitbook/assets/image (65) (1).png>)
 

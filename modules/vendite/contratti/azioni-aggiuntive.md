@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (84) (1).png>)
 
-![](<../../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (82) (1).png>)
 
 ## 👤 Dal dettaglio Contratti
 
@@ -100,7 +100,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (34).png>)
 
-![](<../../../.gitbook/assets/image (55) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1).png>)
 
 ### 🔄 Rinnova
 
@@ -122,13 +122,13 @@ Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contra
 
 Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.
 
-![](<../../../.gitbook/assets/image (57) (1) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1) (1).png>)
 
 ### 🧬 Duplica contratto
 
 Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
 
-![](<../../../.gitbook/assets/image (51) (1).png>)
+![](<../../../.gitbook/assets/image (51) (1) (1).png>)
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 

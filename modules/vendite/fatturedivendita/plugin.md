@@ -57,7 +57,7 @@ Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
 Una volta selezionati i record interessati è possibile completare le registrazioni contabili cliccando su Azioni di gruppo/Registrazione contabile.
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (56) (1).png>)
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su aggiungi si procede alla registrazione delle scritture.
 
@@ -83,7 +83,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere alla generazione massiva degli XML cliccando su Azioni di gruppo/Genera fatture elettroniche.
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (69) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla generazione delle fatture elettroniche.
 
@@ -141,7 +141,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (68).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -173,7 +173,7 @@ Le fatture selezionate devono essere in stato Bozza.
 
 Cliccando su Procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71) (1).png>)
 
 ## 👤 Dal dettaglio Fatture di vendita
 
@@ -188,30 +188,91 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 * Crea
 * Registra insoluto
 * Registra contabile
+* Riapri documento
 
 ### 🖨️ Stampa fattura di vendita
 
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a diversi tipi di stampe:
 
+* Stampa fattura di vendita
+* Stampa fattura di vendita (senza intestazione)
+* Stampa fattura di elettronica di vendita
+
+![](<../../../.gitbook/assets/image (61).png>)
+
+Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
+
+&#x20;                                               ![](<../../../.gitbook/assets/image (71).png>)
 
 ### ✉️ Invia fattura
 
+Dalla schermata di dettaglio di un'attività è possibile procedere a inviare la fattura selezionata via mail o PEC.
 
+![](<../../../.gitbook/assets/image (97).png>)
+
+Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
+
+![](<../../../.gitbook/assets/image (32).png>)
 
 ### 🧬 Duplica fattura
 
+Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
 
+![](<../../../.gitbook/assets/image (58).png>)
 
 ### 💡 Attributi avanzati
 
+Dalla schermata di dettaglio di un'attività è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
+![](<../../../.gitbook/assets/image (68).png>)
+
+Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
+
+![](<../../../.gitbook/assets/image (96).png>)
 
 ### ➕ Crea...
 
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla creazione di:
 
+* Nota di debito
+* Nota di credito
+
+![](<../../../.gitbook/assets/image (76).png>)
+
+Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
+
+![](<../../../.gitbook/assets/image (56).png>)
+
+{% content-ref url="../../../esempi/nota-di-credito.md" %}
+[nota-di-credito.md](../../../esempi/nota-di-credito.md)
+{% endcontent-ref %}
 
 ### 📕 Registra insoluto
 
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
+![](<../../../.gitbook/assets/image (59).png>)
+
+Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
+
+![](<../../../.gitbook/assets/image (36).png>)
 
 ### 🖊️ Registra contabile
 
+Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
+
+![](<../../../.gitbook/assets/image (69).png>)
+
+Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
+
+![](<../../../.gitbook/assets/image (55).png>)
+
+### 📂 Riapri documento...
+
+Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
+
+![](<../../../.gitbook/assets/image (51).png>)
+
+{% hint style="warning" %}
+Cliccando Riapri documento verrà azzerato lo scadenzario e la relativa prima nota.
+{% endhint %}

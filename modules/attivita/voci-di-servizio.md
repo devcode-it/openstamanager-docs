@@ -5,10 +5,10 @@ description: Come gestire le voci di servizio in OpenSTAManager
 # 🔊 Voci di servizio
 
 {% hint style="info" %}
-Il modulo **Voci di servizio** offre la possibilità di personalizzare le Voci di servizio utilizzate  negli interventi
+Il modulo **Voci di servizio** offre la possibilità di personalizzare le Voci di servizio utilizzate negli interventi
 {% endhint %}
 
-![](<../../.gitbook/assets/image (58) (1) (1).png>)
+![](<../../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 ## ➕ Creazione
 

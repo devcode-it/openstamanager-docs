@@ -63,7 +63,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Numero
 * Data/ora richiesta
 * Data/ora scadenza
-* Zona&#x20;
+* Zona
 * Tipo di attività
 * Stato
 * Tecnici assegnati
@@ -77,7 +77,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-![](<../../.gitbook/assets/image (51) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1).png>)
 
 ### 🗒️ Righe
 
@@ -91,13 +91,13 @@ Questa sezione permette di inserire le righe descrittive dell'attività che poss
 * Righe generiche
 * Sconti/maggiorazioni
 
-![](<../../.gitbook/assets/image (36) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../.gitbook/assets/image (82) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1).png>)
 
 ### 🛅 Allegati
 

@@ -17,7 +17,7 @@ Per pianificare la fatturazione di un contratto è necessario che si verifichino
 Tutte le righe del contratto vengono convertite in righe generiche, rendendo impossibile risalire ad eventuali articoli utilizzati all'interno del contratto e pertanto non movimentano il magazzino.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (58) (1).png>)
+![](<../../../../.gitbook/assets/image (58) (1) (1).png>)
 
 ## ➕ Creazione
 
@@ -37,7 +37,7 @@ Avendo impostato da esempio 4 rate da 200€+IVA con scadenza trimestrale si dov
 
 ![](<../../../../.gitbook/assets/immagine (18).png>)
 
-Andando a selezionare Crea fattura si potranno ora vedere nelle note i riferimenti della rata e del contratto e nella descrizione la riga e il periodo a cui la rata fa riferimento.&#x20;
+Andando a selezionare Crea fattura si potranno ora vedere nelle note i riferimenti della rata e del contratto e nella descrizione la riga e il periodo a cui la rata fa riferimento.
 
 E' inoltre possibile scegliere se aggiungere le righe appena create a una fattura di vendita già presente in bozze dello stesso cliente, o se creare un nuovo documento.
 

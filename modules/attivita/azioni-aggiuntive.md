@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (2).png>)
 
 ![](<../../.gitbook/assets/image (62).png>)
 
@@ -121,7 +121,7 @@ Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 
@@ -179,7 +179,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere alla visuali
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 
-![](<../../.gitbook/assets/image (96) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (96) (1) (1) (1) (1).png>)
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 

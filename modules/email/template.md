@@ -23,7 +23,7 @@ Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire i
 
 ## 🖌️ Modifica
 
-La schermata di modifica permette il completamento di tutte le informazioni riguardanti il template,  vengono resi disponibili i seguenti attributi:
+La schermata di modifica permette il completamento di tutte le informazioni riguardanti il template, vengono resi disponibili i seguenti attributi:
 
 * Notifica di lettura (per richiederla)
 * Icona
@@ -40,11 +40,11 @@ Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletame
 
 ![](<../../.gitbook/assets/image (68) (1) (1) (1) (1).png>)
 
-La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.&#x20;
+La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 ## 🪀 Particolarità
 
