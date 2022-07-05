@@ -121,7 +121,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-![](<../../.gitbook/assets/image (50) (1) (1).png>)
+![](<../../.gitbook/assets/image (50) (1) (1) (1).png>)
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 

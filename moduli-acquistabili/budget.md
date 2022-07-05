@@ -8,7 +8,7 @@
 
 A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il seguente prospetto che evidenzia l'**Utile totale**, dato dalla differenza tra ricavi e costi totali.
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 
 Ponendo l'attenzione sui ricavi si può notare che i ricavi reali sono composti dalla somma delle fatture di vendita già contabilizzate, mentre i ricavi totali sono formati dalla somma di questi e i ricavi previsti da previsionali o sergenti dati esterne.
 

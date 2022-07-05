@@ -14,7 +14,7 @@ Per poter attribuire un margine di ricavo fisso a un articolo, si deve accedere 
 
 Andando a impostare un **Coefficiente di vendita** potremo vedere ora che il campo **Prezzo di vendita** verrà calcolato in modo automatico in base alle variazioni del prezzo di acquisto.
 
-![](<../.gitbook/assets/image (50) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (50) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (40) (1) (1).png>)
 

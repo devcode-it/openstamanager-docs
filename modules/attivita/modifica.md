@@ -48,7 +48,7 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
 
 Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/preventivi.md) e [**Contratti**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/contratti.md), visitare le sezioni relative.
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (90) (2).png>)
 
 ### 🗺️ Geolocalizzazione
 

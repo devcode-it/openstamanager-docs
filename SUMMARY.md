@@ -91,7 +91,7 @@
     * [📄 Fatture di acquisto](modules/acquisti/fatturediacquisto/README.md)
       * [❗ Azioni aggiuntive](modules/acquisti/fatturediacquisto/plugin1.md)
       * [🔧 Plugin](modules/acquisti/fatturediacquisto/plugin.md)
-  * [Contabilità](modules/contabilita/README.md)
+  * [⚖ Contabilità](modules/contabilita/README.md)
     * [Stampe contabili](modules/contabilita/stampecontabili.md)
     * [Prima nota](modules/contabilita/primanota/README.md)
       * [Creazione](modules/contabilita/primanota/creazione.md)
