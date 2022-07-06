@@ -37,7 +37,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (77) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -51,7 +51,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione
 
 Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
-![](<../../../.gitbook/assets/image (84) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
@@ -61,7 +61,7 @@ Una volta selezionati i record interessati è possibile completare le registrazi
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su aggiungi si procede alla registrazione delle scritture.
 
-![](<../../../.gitbook/assets/image (85) (1) (1).png>)
+![](<../../../.gitbook/assets/image (85) (1) (1) (1).png>)
 
 In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
 
@@ -141,7 +141,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1) (2).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -161,7 +161,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
 
@@ -169,7 +169,7 @@ Il gestionale chiederà quindi la conferma di procedere all'emissione della fatt
 Le fatture selezionate devono essere in stato Bozza.
 {% endhint %}
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (75) (1).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (75) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -224,7 +224,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
-![](<../../../.gitbook/assets/image (68) (1).png>)
+![](<../../../.gitbook/assets/image (68) (1) (1).png>)
 
 Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
 
@@ -271,7 +271,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (51) (1).png>)
+![](<../../../.gitbook/assets/image (51) (1) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.

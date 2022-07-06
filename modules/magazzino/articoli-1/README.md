@@ -45,7 +45,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 * Conto predefinito di vendita
 * Abilitare serial number
 
-![](<../../../.gitbook/assets/image (65) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -99,7 +99,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Volume
 * Conto predefinito di vendita
 
-![](<../../../.gitbook/assets/image (84) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1).png>)
 
 E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
 

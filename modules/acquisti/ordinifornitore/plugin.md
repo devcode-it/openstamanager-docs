@@ -47,7 +47,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 * Richiesta di acquisto (RdA)
 * Richiesta di offerta (RdO)
 
-![](<../../../.gitbook/assets/image (101) (1).png>)
+![](<../../../.gitbook/assets/image (101) (1) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -57,7 +57,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a inviarlo via mail al fornitore.
 
-![](<../../../.gitbook/assets/image (77) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine fornitore, dove sarà possibile inviare la mail cliccando su invia.
 
@@ -79,4 +79,4 @@ Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve esse
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)

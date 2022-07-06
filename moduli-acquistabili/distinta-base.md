@@ -10,7 +10,7 @@ A seguito dell'installazione del modulo, navigando su **Magazzino->Articoli** e 
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F0r5WwNOWmZRBFsmHmix2%2Ffile.png?alt=media)
 
-![](<../.gitbook/assets/image (78) (2).png>)
+![](<../.gitbook/assets/image (78) (2) (1).png>)
 
 Tramite il pulsante + è possibile aggiungere articoli alla distinta:
 

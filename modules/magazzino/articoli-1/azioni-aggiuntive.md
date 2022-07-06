@@ -39,7 +39,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il prezzo di acquisto cliccando su Azioni di gruppo/Aggiorna prezzo di acquisto.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)
 
 Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Distinguendo se applicare uno sconto inserendo un numero negativo, o una maggiorazione senza specificare il segno.
 
@@ -112,7 +112,7 @@ Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attiv
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (68).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1).png>)
 
 ### ✏️ Aggiorna categoria e sottocategoria
 
@@ -136,7 +136,7 @@ Il gestionale chiederà ora l'aliquota IVA da applicare agli articoli selezionat
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                       <img src="../../../.gitbook/assets/image (85).png" alt="" data-size="original">
+&#x20;                                                       <img src="../../../.gitbook/assets/image (85) (1).png" alt="" data-size="original">
 
 ### 💵 Imposta prezzo di acquisto da fattura
 
@@ -168,7 +168,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il conto predefinito di acquisto cliccando su Azioni di gruppo/Aggiorna conto predefinito di acquisto.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](<../../../.gitbook/assets/image (34) (1).png>)
 
 Il gestionale chiederà quindi il conto bancario da impostare come predefinito.
 
@@ -182,13 +182,13 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il conto predefinito di vendita cliccando su Azioni di gruppo/Aggiorna conto predefinito di vendita.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84) (1).png>)
 
 Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per applicare le modifiche.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (51).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1).png>)
 
 ### 💶 Imposta una provvigione
 
@@ -200,7 +200,7 @@ Il gestionale chiederà ora l'agente e la provvigione da applicare.
 
 Fare clic su Procedi per confermare l'operazione.
 
-&#x20;                                                             <img src="../../../.gitbook/assets/image (101).png" alt="" data-size="original">
+&#x20;                                                             <img src="../../../.gitbook/assets/image (101) (1).png" alt="" data-size="original">
 
 ## 👤 Dal dettaglio Articolo
 

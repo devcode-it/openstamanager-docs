@@ -39,7 +39,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1) (1).png>)
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 

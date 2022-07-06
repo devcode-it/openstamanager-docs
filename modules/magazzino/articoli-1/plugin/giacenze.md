@@ -1,6 +1,8 @@
-# Giacenze
+---
+description: Guida al plugin Giacenze in OpenSTAManager
+---
 
-
+# 🧺 Giacenze
 
 {% hint style="info" %}
 **Giacenze** permette di visualizzare le quantità a magazzino di un determinato articolo più nel dettaglio.
@@ -14,4 +16,4 @@ Questo plugin è molto utile per la gestione delle giacenze a magazzino, infatti
 * **Da ordinare**, è una differenza tra la quantità richiesta dal cliente e le quantità già ordinate.
 * **Disponibile**, quantità totale a magazzino di tutte le sedi.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F9ZTpyUFj3kt15RrNWaGQ%2Ffile.png?alt=media)
+![](<../../../../.gitbook/assets/image (83).png>)

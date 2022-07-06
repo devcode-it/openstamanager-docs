@@ -27,7 +27,7 @@ Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/image (101) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (101) (1) (1) (1) (1).png>)
 
 ### ➕ Creazione
 
@@ -44,7 +44,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (68) (1) (1) (2).png>)
+![](<../.gitbook/assets/image (68) (1) (1) (2) (1).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 

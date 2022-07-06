@@ -54,7 +54,7 @@ Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](ht
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
 
-![](<../../.gitbook/assets/image (33) (1) (2).png>)
+![](<../../.gitbook/assets/image (33) (1) (2) (1).png>)
 
 ### 📖 Dati intervento
 
@@ -77,7 +77,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-![](<../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1) (1) (1).png>)
 
 ### 🗒️ Righe
 
