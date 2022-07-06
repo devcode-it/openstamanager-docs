@@ -36,7 +36,7 @@ Per verificare la presenza di ricevute da parte dello SDI si deve andare nell'ap
 
 Da qui sarà possibili cliccare su Ricerca ricevute per verificare la presenza di ricevute da importare, e su Importa tutte le ricevute per importarle massivamente.
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+![](<../../.gitbook/assets/image (33) (1) (1).png>)
 
 ### 🏷️ **Stati**
 

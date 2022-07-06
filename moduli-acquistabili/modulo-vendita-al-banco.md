@@ -68,7 +68,7 @@ I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possib
 
 Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
 
-![](<../.gitbook/assets/image (87).png>)
+![](<../.gitbook/assets/image (87) (1).png>)
 
 Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e da qui sarà possibile chiudere il documento, procedere al pagamento e stamparne lo scontrino.
 

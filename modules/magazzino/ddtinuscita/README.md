@@ -1,21 +1,58 @@
 ---
 title: Ddt in uscita
+description: Come gestire i DDT in uscita con OpenSTAManager
 ---
 
-# Ddt in uscita
+# 📤 DDT in uscita
 
 {% hint style="info" %}
-Il modulo **Ddt in uscita** permette di creare una bolla quando viene concesso del materiale.
+Il modulo **DDT in uscita** permette di creare un documento di trasporto per la merce in uscita.
 {% endhint %}
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FPR8kBVxLgSmrfSjVdM2k%2Ffile.png?alt=media)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Ddt in uscita** visibile dall'espansione del menu **Magazzino**.
+Per creare un nuovo DDT in uscita si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FJ2WdjL5l0uTd8PXIjhTb%2Ffile.png?alt=media)
+Andranno qui inserite le informazioni relative al nuovo articolo:
 
-## Caratteristiche
+* Destinatario
+* Causale trasporto
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita. La modifica di un _record_ del modulo **Ddt in uscita** presenta la possibilità di utilizzare diverse [Azioni aggiuntive](plugin.md)
+![](<../../../.gitbook/assets/image (87).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+* Numero secondario
+* Data
+* Stato
+* Agente
+* Destinatario
+* Referente
+* Partenza merce
+* Destinazione merce
+* Aspetto beni
+* Causale trasporto
+* Tipo di spedizione
+* Numero colli
+* Pagamento
+* Porto
+* Vettore
+* Data ora trasporto
+* Peso
+* Modifica peso
+* Volume
+* Modifica volume
+* Sconto in fattura
+* Note
+
+![](<../../../.gitbook/assets/image (33).png>)
+
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="plugin.md" %}
+[plugin.md](plugin.md)
+{% endcontent-ref %}
