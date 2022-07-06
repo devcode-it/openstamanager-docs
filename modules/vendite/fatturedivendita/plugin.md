@@ -149,7 +149,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati  è possibile modificarne massivamente la Banca selezionata cliccando su Azioni di gruppo/Aggiorna banca.
 
-![](<../../../.gitbook/assets/image (24) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 

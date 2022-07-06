@@ -24,7 +24,7 @@ Per poter procedere all'esportazione si dovrà ora da Acquisti/Fatture di acquis
 
 ![](<../.gitbook/assets/image (69) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/image (86) (1).png>)
 
 Queste non saranno fatture elettroniche ma il formato con cui vengono create nel gestionale è il medesimo.
 

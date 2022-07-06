@@ -1,23 +1,36 @@
 ---
 title: Scadenzario
+description: Come gestire lo scadenzario in OpenSTAManager
 ---
 
-# Scadenzario
+# ⏳ Scadenzario
 
 {% hint style="info" %}
-Il modulo **Scadenzario** visualizza un registro dove sono annotate le scadenze di pagamenti da effettuare e da ricevere.
+Il modulo **Scadenzario** presenta l'elenco dei pagamenti in entrata e in uscita che non sono ancora stati evasi. Evidenziando in rosso i pagamenti oltre la data di scadenza.
 {% endhint %}
 
+![](<../../.gitbook/assets/image (86).png>)
 
+## ➕ Creazione
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FL0QpsPE5uTcyvMU37Oko%2Ffile.png?alt=media)
+Una nuova scadenza verrà generata automaticamente all'emissione di una fattura di vendita e di acquisto, o può essere creata manualmente cliccando sul tasto (+).
 
-## Navigazione
+Andranno qui inserite le informazioni relative alla nuova scadenza:
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Scadenzario** visibile dall'espansione del menu **Contabilità**.
+* Tipo
+* Data scadenza
+* Importo
+* Descrizione
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FIFm6JMfYx2HjVpodgPvt%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (24).png>)
 
-In basso è possibile eseguire una stampa dello scadenzario delle scadenze presenti in tabella, per filtrare le scadenze per tipologia è possibile tramite il menù a tendina in alto a destra.
+## 🖌️ Modifica
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FMrQ1cjElcAtrpUWCxqWR%2Ffile.png?alt=media)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+* Data
+* Importo
+* Pagato
+* Data concordata
+
+![](<../../.gitbook/assets/image (25).png>)

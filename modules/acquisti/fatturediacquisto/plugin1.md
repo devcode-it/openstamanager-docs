@@ -41,7 +41,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 * Sezionale
 * Se aggiungere i riferimenti ai documenti esistenti
 
-&#x20;                                                           <img src="../../../.gitbook/assets/image (24).png" alt="" data-size="original">
+&#x20;                                                           <img src="../../../.gitbook/assets/image (24) (1).png" alt="" data-size="original">
 
 Si potranno ora vedere tra le fatture di acquisto i record appena creati.
 

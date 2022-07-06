@@ -1,6 +1,6 @@
 ---
 title: Piano dei conti
-description: Guida al modulo Piano dei conti in OpenSTAManager
+description: Come gestire il Piano dei conti in OpenSTAManager
 ---
 
 # 📖 Piano dei conti

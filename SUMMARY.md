@@ -95,7 +95,7 @@
     * [🖨 Stampe contabili](modules/contabilita/stampecontabili.md)
     * [1⃣ Prima nota](modules/contabilita/primanota.md)
     * [📖 Piano dei conti](modules/contabilita/pianodeiconti.md)
-    * [Scadenzario](modules/contabilita/scadenzario.md)
+    * [⏳ Scadenzario](modules/contabilita/scadenzario.md)
   * [Magazzino](modules/magazzino/README.md)
     * [Giacenze sedi](modules/magazzino/giacenze-sedi.md)
     * [Piani di sconto/magg.](modules/magazzino/piani-di-sconto-rincaro/README.md)

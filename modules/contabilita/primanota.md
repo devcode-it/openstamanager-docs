@@ -1,6 +1,6 @@
 ---
 title: Prima nota
-description: Guida al modulo Prima nota in OpenSTAManager
+description: Come gestire i movimenti in Prima nota con OpenSTAManager
 ---
 
 # 1⃣ Prima nota

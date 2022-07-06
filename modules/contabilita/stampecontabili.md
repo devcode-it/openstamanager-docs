@@ -1,6 +1,6 @@
 ---
 title: Stampe contabili
-description: Guida al modulo Stampe contabili in OpenSTAManager
+description: Come gestire le Stampe contabili in OpenSTAManager
 ---
 
 # 🖨 Stampe contabili
