@@ -13,7 +13,7 @@ Questo modulo è complementare a [**Account email**](account.md), che si occupa 
 
 La schermata del modulo si presenterà così:
 
-![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1) (1) (1).png>)
 
 ## ➕ Creazione
 

@@ -12,7 +12,7 @@ Il modulo Magazzino permette di gestire gli articoli e i loro movimenti fino all
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Magazzino.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 ## 🖥️ Interfaccia
 

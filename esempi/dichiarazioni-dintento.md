@@ -10,9 +10,9 @@ Per registrare una Dichiarazione d'intento \*\*\*\* si deve [creare un'**Anagraf
 
 Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dati relativi alla **Dichiarazione d'intento** da aggiungere.
 
-![](<../.gitbook/assets/image (97) (1).png>)
+![](<../.gitbook/assets/image (97) (1) (1).png>)
 
-![](<../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
 
 Andando ora a [creare una **Fattura di vendita**](broken-reference) \*\*\*\* per quello specifico cliente, \*\*\*\* si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
 
@@ -24,4 +24,4 @@ Andando ad emettere e generare la fattura elettronica sarà possibile trovarvi r
 
 E' possibile inoltre verificare il **Totale utilizzato** aprendo una specifica **Dichiarazione d'intento** da Anagrafiche/Dichiarazioni d'Intento.
 
-![](<../.gitbook/assets/image (98) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (98) (1) (1) (1) (1) (1).png>)

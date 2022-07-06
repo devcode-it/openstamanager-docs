@@ -9,7 +9,7 @@ description: Come gestire gli Articoli in OpenSTAManager
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (47) (1).png>)
 
 ### 👾 Widget
 
@@ -31,7 +31,7 @@ Andranno qui inserite le informazioni relative al nuovo articolo:
 * Categoria (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
 * Sottocategoria
 
-![](<../../../.gitbook/assets/image (102).png>)
+![](<../../../.gitbook/assets/image (102) (2).png>)
 
 Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 
@@ -45,7 +45,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 * Conto predefinito di vendita
 * Abilitare serial number
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -74,7 +74,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
   * Descrizione movimento
   * Data movimento
 
-![](<../../../.gitbook/assets/image (26).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
 #### Acquisto:
 
@@ -99,7 +99,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Volume
 * Conto predefinito di vendita
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84) (1).png>)
 
 E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
 

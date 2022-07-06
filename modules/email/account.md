@@ -39,7 +39,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1).png>)
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 
@@ -101,7 +101,7 @@ Verrà quindi reso disponibile un campo per la denominazione della nuova chiave.
 
 Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
 
-![](<../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2) (1).png>)
 
 ### 📂 App meno sicure
 
@@ -121,7 +121,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-![](<../../.gitbook/assets/image (50) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (50) (1) (1) (1) (1).png>)
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 

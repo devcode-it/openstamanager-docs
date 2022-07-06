@@ -51,21 +51,21 @@ Cliccando su Procedi il gestionale procederà alla duplicazione
 
 Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
-![](<../../../.gitbook/assets/image (84) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
 Una volta selezionati i record interessati è possibile completare le registrazioni contabili cliccando su Azioni di gruppo/Registrazione contabile.
 
-![](<../../../.gitbook/assets/image (56) (1).png>)
+![](<../../../.gitbook/assets/image (56) (1) (1).png>)
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su aggiungi si procede alla registrazione delle scritture.
 
-![](<../../../.gitbook/assets/image (85) (1).png>)
+![](<../../../.gitbook/assets/image (85) (1) (1).png>)
 
 In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
 
-![](<../../../.gitbook/assets/image (45).png>)
+![](<../../../.gitbook/assets/image (45) (1).png>)
 
 ### 📤 Esportazione stampe FE
 
@@ -91,7 +91,7 @@ Il gestionale chiederà quindi la conferma a procedere alla generazione delle fa
 Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 {% endhint %}
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (26) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (26) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
@@ -105,7 +105,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (72) (1).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (72) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -141,7 +141,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -149,7 +149,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati  è possibile modificarne massivamente la Banca selezionata cliccando su Azioni di gruppo/Aggiorna banca.
 
-![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 
@@ -161,7 +161,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
 
@@ -208,11 +208,11 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a inviare la fattura selezionata via mail o PEC.
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (97) (1).png>)
 
 Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (32) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (1).png>)
 
 ### 🧬 Duplica fattura
 
@@ -224,11 +224,11 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (68) (1).png>)
 
 Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (96) (1).png>)
 
 ### ➕ Crea...
 
@@ -241,7 +241,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (56) (1).png>)
 
 {% content-ref url="../../../esempi/nota-di-credito.md" %}
 [nota-di-credito.md](../../../esempi/nota-di-credito.md)
@@ -251,7 +251,7 @@ Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
-![](<../../../.gitbook/assets/image (59) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
@@ -271,7 +271,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (51) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.

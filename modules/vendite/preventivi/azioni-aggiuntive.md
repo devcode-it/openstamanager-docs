@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-![](<../../../.gitbook/assets/image (85) (1) (1).png>)
+![](<../../../.gitbook/assets/image (85) (1) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
@@ -58,7 +58,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere a diversi t
 * Stampa preventivo (senza prezzi)
 * Stampa consuntivo preventivo (senza prezzi)
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
@@ -71,7 +71,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 * Preventivo
 * Preventivo consuntivo
 
-![](<../../../.gitbook/assets/image (96) (1) (1).png>)
+![](<../../../.gitbook/assets/image (96) (1) (1) (1).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
@@ -81,7 +81,7 @@ Cliccando sul tipo di documento da inviare si verrà indirizzati al template ema
 
 Dalla schermata di dettaglio di un preventivo è possibile procedere alla sua duplicazione cliccando su duplica preventivo.
 
-![](<../../../.gitbook/assets/image (42).png>)
+![](<../../../.gitbook/assets/image (42) (1).png>)
 
 ### 📃 Crea nuova revisione...
 

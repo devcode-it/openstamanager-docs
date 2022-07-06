@@ -48,7 +48,7 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
 
 Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/preventivi.md) e [**Contratti**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/contratti.md), visitare le sezioni relative.
 
-![](<../../.gitbook/assets/image (90) (2).png>)
+![](<../../.gitbook/assets/image (90) (2) (1).png>)
 
 ### 🗺️ Geolocalizzazione
 
@@ -77,7 +77,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-![](<../../.gitbook/assets/image (51) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
 
 ### 🗒️ Righe
 

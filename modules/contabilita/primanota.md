@@ -19,11 +19,11 @@ All'atto dell'emissione di una fattura infatti si potrà notare che il gestional
 
 Cliccando sul tasto indicato si potrà procedere a registrare il pagamento della fattura tramite un movimento di prima nota.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (1).png>)
 
 Si aprirà ora il collegamento allo scadenzario, dove andare a inserire in Pagato l'importo della fattura e cliccare su Registra contabile pagamento.
 
-![](<../../.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (63) (1).png>)
 
 Qui si potranno vedere le scritture con i due conti del piano dei conti compilati automaticamente in base alle impostazioni predefinite delle due anagrafiche (cliente e azienda). Si dovrà cliccare su Aggiungi per procedere.
 
@@ -33,7 +33,7 @@ Dal modulo Prima nota sarà ora possibile visualizzare il movimento appena regis
 
 ![](<../../.gitbook/assets/image (77).png>)
 
-&#x20;                                                  <img src="../../.gitbook/assets/image (85).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../.gitbook/assets/image (85) (1).png" alt="" data-size="original">
 
 ## 🖌️ Modifica
 

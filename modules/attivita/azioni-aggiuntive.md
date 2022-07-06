@@ -23,13 +23,13 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -57,7 +57,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (62) (1) (1).png>)
+![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
@@ -73,7 +73,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Programmato
 * (eventuali stati personalizzati)
 
-![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (24) (1) (1) (1) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -81,7 +81,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica attività.
 
-![](<../../.gitbook/assets/image (98) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (98) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -102,7 +102,7 @@ Si potranno ora vedere tra le attività i record appena creati.
 
 Una volta selezionati i record interessati è possibile stamparli massivamente cliccando su Azioni di gruppo/Stampa riepilogo.
 
-![](<../../.gitbook/assets/image (52) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, permettendo di scegliere tra:
 
@@ -121,7 +121,7 @@ Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 
@@ -179,7 +179,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere alla visuali
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 
-![](<../../.gitbook/assets/image (96) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (96) (1) (1) (1) (1) (1).png>)
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 

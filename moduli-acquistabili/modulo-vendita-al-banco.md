@@ -27,7 +27,7 @@ Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/image (101) (1) (1).png>)
+![](<../.gitbook/assets/image (101) (1) (1) (1).png>)
 
 ### ➕ Creazione
 
@@ -44,7 +44,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (68) (1) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1) (2).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
@@ -60,7 +60,7 @@ Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella
 
 Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cassa, da cui sarà possibile movimentare i prodotti mediante scansione del codice a barre o selezionandoli dalle categorie presenti in magazzino.
 
-![](<../.gitbook/assets/image (102) (2).png>)
+![](<../.gitbook/assets/image (102) (2) (1).png>)
 
 I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\\
 
@@ -74,4 +74,4 @@ Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e 
 
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (31) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (31) (1) (1) (1) (1).png>)

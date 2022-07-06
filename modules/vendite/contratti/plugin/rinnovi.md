@@ -12,4 +12,4 @@ Questo plugin permette la gestione dei rinnovi con la possibilità di:
 * Inserire la soglia minima prima di visualizzare un avviso per un eventuale rinnovo anticipato.
 * Visualizzare in una tabella, se presenti, tutti i rinnovi effettuati di uno specifico contratto.
 
-![](<../../../../.gitbook/assets/image (98) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (98) (1) (1) (1).png>)

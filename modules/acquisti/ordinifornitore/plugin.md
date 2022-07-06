@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -47,7 +47,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 * Richiesta di acquisto (RdA)
 * Richiesta di offerta (RdO)
 
-![](<../../../.gitbook/assets/image (101).png>)
+![](<../../../.gitbook/assets/image (101) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -61,7 +61,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a inv
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine fornitore, dove sarà possibile inviare la mail cliccando su invia.
 
-![](<../../../.gitbook/assets/image (98).png>)
+![](<../../../.gitbook/assets/image (98) (1).png>)
 
 ### ➕ Crea...
 
@@ -79,4 +79,4 @@ Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve esse
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)

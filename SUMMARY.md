@@ -98,7 +98,7 @@
     * [⏳ Scadenzario](modules/contabilita/scadenzario.md)
   * [📦 Magazzino](modules/magazzino/README.md)
     * [📺 Articoli](modules/magazzino/articoli-1/README.md)
-      * [Azioni aggiuntive](modules/magazzino/articoli-1/azioni-aggiuntive.md)
+      * [❗ Azioni aggiuntive](modules/magazzino/articoli-1/azioni-aggiuntive.md)
       * [Plugin](modules/magazzino/articoli-1/plugin/README.md)
         * [Movimenti](modules/magazzino/articoli-1/plugin/movimenti.md)
         * [Serial](modules/magazzino/articoli-1/plugin/serial.md)

@@ -20,10 +20,10 @@ Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un 
 
 Nel caso in cui la fattura da emettere debba presentare modifiche minimali rispetto a quella iniziale, è possibile riaprire la **Fattura di vendita** originale in Vendite/Fatture di vendita e utilizzare la funzione **Duplica fattura.**
 
-![](<../.gitbook/assets/image (45) (1).png>)
+![](<../.gitbook/assets/image (45) (1) (1).png>)
 
 Verrà così creata in bozza una copia della **Fattura di vendita** originale dove andare ad apportare le necessarie modifiche e che, una volta emessa, avrà numerazione progressiva.
 
 ![Bozza della fattura Duplicata](<../.gitbook/assets/image (87) (1) (1).png>)
 
-![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1) (1) (1) (1) (1).png>)
+![Fattura modificata ed emessa](<../.gitbook/assets/image (59) (1) (1) (1) (1) (1) (1).png>)

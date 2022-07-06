@@ -15,7 +15,7 @@ Da questo modulo è possibile visualizzare il piano dei conti, diviso in Conto e
 E' possibile visualizzare nel dettaglio gli elementi che lo compongono espandendo il menu a lato delle singole voci.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
 
 ## ➕ Creazione
 
@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo conto:
 
 ## 🖌️ Modifica
 
-Per modificare un conto si deve cliccare sul tasto <img src="../../.gitbook/assets/image (84) (1).png" alt="" data-size="original">.
+Per modificare un conto si deve cliccare sul tasto <img src="../../.gitbook/assets/image (84) (1) (1).png" alt="" data-size="original">.
 
 Da qui sarà possibile modificare:
 
@@ -38,4 +38,4 @@ Da qui sarà possibile modificare:
 * Descrizione
 * Utilizza come (Costo, Ricavo, Ricavo e Costo)
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
