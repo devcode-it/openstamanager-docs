@@ -29,7 +29,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 

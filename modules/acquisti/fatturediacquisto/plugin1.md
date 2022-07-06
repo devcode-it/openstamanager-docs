@@ -73,7 +73,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (63) (1) (1).png>)
+![](<../../../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 

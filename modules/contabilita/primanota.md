@@ -23,7 +23,7 @@ Cliccando sul tasto indicato si potrà procedere a registrare il pagamento della
 
 Si aprirà ora il collegamento allo scadenzario, dove andare a inserire in Pagato l'importo della fattura e cliccare su Registra contabile pagamento.
 
-![](<../../.gitbook/assets/image (63) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1).png>)
 
 Qui si potranno vedere le scritture con i due conti del piano dei conti compilati automaticamente in base alle impostazioni predefinite delle due anagrafiche (cliente e azienda). Si dovrà cliccare su Aggiungi per procedere.
 

@@ -150,7 +150,7 @@ Questa azione può essere effettuata solo per articoli che non hanno già un pre
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
-&#x20;                                                            ![](<../../../.gitbook/assets/image (63).png>)
+&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1).png>)
 
 ### ✏️ Aggiorna unità di misura
 
