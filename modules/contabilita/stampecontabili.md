@@ -3,7 +3,7 @@ title: Stampe contabili
 description: Guida al modulo Stampe contabili in OpenSTAManager
 ---
 
-# Stampe contabili
+# 🖨 Stampe contabili
 
 Il modulo stampe contabili permette di stampare:
 

@@ -26,7 +26,7 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Telefono
 * Cellulare
 
-![](<../.gitbook/assets/image (58) (1) (1).png>)
+![](<../.gitbook/assets/image (58) (1) (1) (1).png>)
 
 * Modello
 * Seriale

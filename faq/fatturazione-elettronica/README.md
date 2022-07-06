@@ -66,7 +66,7 @@ Questo caso è **frequente** nel caso di invio **fatture elettroniche** a person
 
 Per scaricare le fatture passive dai fornitori è necessario cliccare su Fatturazione elettronica dal modulo Fatture di acquisto.
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
 

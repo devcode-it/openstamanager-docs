@@ -33,7 +33,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (55).png>)
+![](<../../../.gitbook/assets/image (55) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -73,7 +73,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (63).png>)
+![](<../../../.gitbook/assets/image (63) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
@@ -147,13 +147,13 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 
-&#x20;                                        <img src="../../../.gitbook/assets/image (64).png" alt="" data-size="original">
+&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1).png" alt="" data-size="original">
 
 ### 📂 Riapri documento...
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (77).png>)
+![](<../../../.gitbook/assets/image (77) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.

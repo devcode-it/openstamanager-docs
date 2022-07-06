@@ -23,13 +23,13 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55) (1) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (62) (1) (1).png>)
 
@@ -111,7 +111,7 @@ Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, p
 
 Cliccando su Stampa si confermerà l'operazione.
 
-![](<../../.gitbook/assets/image (77) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1) (1) (1).png>)
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 

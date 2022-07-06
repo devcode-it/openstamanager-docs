@@ -37,7 +37,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (77) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -61,7 +61,7 @@ Una volta selezionati i record interessati è possibile completare le registrazi
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su aggiungi si procede alla registrazione delle scritture.
 
-![](<../../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (85) (1).png>)
 
 In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
 
@@ -218,7 +218,7 @@ Cliccando sul tipo di mail da inviare si verrà indirizzati al template email co
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua duplicazione cliccando su duplica fattura.
 
-![](<../../../.gitbook/assets/image (58) (1).png>)
+![](<../../../.gitbook/assets/image (58) (1) (1).png>)
 
 ### 💡 Attributi avanzati
 
@@ -265,7 +265,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (55) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1).png>)
 
 ### 📂 Riapri documento...
 

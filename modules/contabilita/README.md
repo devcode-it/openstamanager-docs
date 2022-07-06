@@ -27,8 +27,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [stampecontabili.md](stampecontabili.md)
 {% endcontent-ref %}
 
-{% content-ref url="primanota/" %}
-[primanota](primanota/)
+{% content-ref url="primanota.md" %}
+[primanota.md](primanota.md)
 {% endcontent-ref %}
 
 {% content-ref url="pianodeiconti/" %}
