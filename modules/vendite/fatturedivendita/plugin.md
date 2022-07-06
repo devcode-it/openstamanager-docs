@@ -149,7 +149,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati  è possibile modificarne massivamente la Banca selezionata cliccando su Azioni di gruppo/Aggiorna banca.
 
-![](<../../../.gitbook/assets/image (24) (1) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 
@@ -198,7 +198,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 * Stampa fattura di vendita (senza intestazione)
 * Stampa fattura di elettronica di vendita
 
-![](<../../../.gitbook/assets/image (61) (1).png>)
+![](<../../../.gitbook/assets/image (61) (1) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 

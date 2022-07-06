@@ -21,7 +21,7 @@ Il modulo fatture di acquisto permette di effettuare diverse azioni massive dall
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta selezionati
 
-![](<../../../.gitbook/assets/image (61).png>)
+![](<../../../.gitbook/assets/image (61) (1).png>)
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
@@ -41,7 +41,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 * Sezionale
 * Se aggiungere i riferimenti ai documenti esistenti
 
-&#x20;                                                           <img src="../../../.gitbook/assets/image (24) (1).png" alt="" data-size="original">
+&#x20;                                                           <img src="../../../.gitbook/assets/image (24) (1) (1).png" alt="" data-size="original">
 
 Si potranno ora vedere tra le fatture di acquisto i record appena creati.
 

@@ -39,7 +39,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Righe
 * Allegati
 
-![](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (76) (2) (1).png>)
 

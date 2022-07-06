@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova scadenza:
 * Importo
 * Descrizione
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 ## 🖌️ Modifica
 
