@@ -128,3 +128,7 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 {% content-ref url="plugin/" %}
 [plugin](plugin/)
 {% endcontent-ref %}
+
+{% content-ref url="../../../esempi/import-articoli.md" %}
+[import-articoli.md](../../../esempi/import-articoli.md)
+{% endcontent-ref %}

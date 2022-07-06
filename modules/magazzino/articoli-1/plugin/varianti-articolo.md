@@ -8,4 +8,4 @@ description: Guida al plugin Varianti articolo di OpenSTAManager
 Dal plugin Varianti articolo è possibile visualizzare le varianti degli articoli, in base agli attributi registrati.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (38).png>)
+![](<../../../../.gitbook/assets/image (38) (1).png>)

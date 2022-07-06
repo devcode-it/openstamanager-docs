@@ -40,8 +40,8 @@ Ogni modulo della sezione Magazzino presenta plugin specifici legati alle sue fu
 [articoli-1](articoli-1/)
 {% endcontent-ref %}
 
-{% content-ref url="movimenti/" %}
-[movimenti](movimenti/)
+{% content-ref url="movimenti.md" %}
+[movimenti.md](movimenti.md)
 {% endcontent-ref %}
 
 {% content-ref url="piani-di-sconto-rincaro/" %}

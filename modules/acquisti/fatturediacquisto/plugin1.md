@@ -153,7 +153,7 @@ Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le sc
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (77) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.
