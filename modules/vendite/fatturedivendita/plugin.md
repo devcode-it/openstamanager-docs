@@ -228,7 +228,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agl
 
 Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
 
-![](<../../../.gitbook/assets/image (96) (1).png>)
+![](<../../../.gitbook/assets/image (96) (1) (1).png>)
 
 ### ➕ Crea...
 

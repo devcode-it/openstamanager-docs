@@ -14,7 +14,7 @@ description: Guida al modulo aggiuntivo Email ticketing in OpenSTAManager
 
 La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su Gestione email/Email ticketing
 
-![](<../.gitbook/assets/image (96) (1) (1).png>)
+![](<../.gitbook/assets/image (96) (1) (1) (1).png>)
 
 Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato, dove si dovranno compilare:
 

@@ -9,7 +9,7 @@ description: Come gestire gli Ordini cliente in OpenSTAManager
 Il modulo **Ordini cliente** permette all'utente di creare un documento per richiedere prodotti o servizi da parte di un cliente stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (49).png>)
+![](<../../../.gitbook/assets/image (49) (1).png>)
 
 ## ➕ Creazione
 

@@ -94,7 +94,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile aggiornare massivamente le loro quantità cliccando su Azioni di gruppo/Aggiorna quantità
 
-![](<../../../.gitbook/assets/image (96).png>)
+![](<../../../.gitbook/assets/image (96) (1).png>)
 
 Il gestionale chiederà ora la quantità da aggiornare, la Causale per movimentare il magazzino, e la Data.
 
