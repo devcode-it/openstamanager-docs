@@ -74,4 +74,4 @@ Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e 
 
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (31) (1) (1).png>)
+![](<../.gitbook/assets/image (31) (1) (1) (1).png>)

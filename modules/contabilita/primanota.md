@@ -6,7 +6,7 @@ description: Guida al modulo Prima nota in OpenSTAManager
 # 1⃣ Prima nota
 
 {% hint style="info" %}
-Il modulo **prima nota** è uno strumento che viene utilizzato per registrare movimenti contabili di un'attività. I movimenti sono visualizzabili nel [piano dei conti](pianodeiconti/).
+Il modulo **prima nota** è uno strumento che viene utilizzato per registrare movimenti contabili di un'attività. I movimenti sono visualizzabili nel [piano dei conti](pianodeiconti.md).
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (55).png>)

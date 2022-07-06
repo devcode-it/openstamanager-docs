@@ -31,8 +31,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [primanota.md](primanota.md)
 {% endcontent-ref %}
 
-{% content-ref url="pianodeiconti/" %}
-[pianodeiconti](pianodeiconti/)
+{% content-ref url="pianodeiconti.md" %}
+[pianodeiconti.md](pianodeiconti.md)
 {% endcontent-ref %}
 
 {% content-ref url="scadenzario.md" %}

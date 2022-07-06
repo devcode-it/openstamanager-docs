@@ -148,7 +148,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 ### ✉️ Invio del rapportino intervento
 

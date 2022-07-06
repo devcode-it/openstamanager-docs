@@ -89,7 +89,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.&#x20;
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (74).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (74) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 

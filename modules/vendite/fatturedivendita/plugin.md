@@ -51,7 +51,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione
 
 Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84) (1).png>)
 
 ### ✏️ Registrazione contabile
 

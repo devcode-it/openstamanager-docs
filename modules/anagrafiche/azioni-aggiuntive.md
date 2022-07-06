@@ -12,7 +12,7 @@ Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezion
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../.gitbook/assets/image (31) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
