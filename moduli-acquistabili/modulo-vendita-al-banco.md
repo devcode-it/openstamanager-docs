@@ -60,7 +60,7 @@ Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella
 
 Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cassa, da cui sarà possibile movimentare i prodotti mediante scansione del codice a barre o selezionandoli dalle categorie presenti in magazzino.
 
-![](<../.gitbook/assets/image (102).png>)
+![](<../.gitbook/assets/image (102) (2).png>)
 
 I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\\
 

@@ -96,7 +96,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione.
 
 Si potranno ora vedere tra le attività i record appena creati.
 
-![](<../../.gitbook/assets/image (66) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
 
 ### 🖨️ Stampa massiva
 

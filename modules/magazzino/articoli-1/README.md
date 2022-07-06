@@ -1,27 +1,130 @@
 ---
 title: Modulo Articoli
+description: Come gestire gli Articoli in OpenSTAManager
 ---
 
-# Articoli
+# 📺 Articoli
 
 {% hint style="info" %}
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![Screenshot interfaccia articoli](../../../.gitbook/assets/InterfacciaArticoli.PNG)
+![](<../../../.gitbook/assets/image (47).png>)
 
-## Navigazione
-
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Articoli** visibile dall'espansione del menu **Magazzino**.
-
-![Screenshot navigazione articoli](../../../.gitbook/assets/NavigazioneArticoli.PNG)
-
-## Caratteristiche
-
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 3 widget specializzati:
+### 👾 Widget
 
 * Stampa Inventario
 * Valore Magazzino
 * Articoli in Magazzino
 
-![Screenshot widget magazzino](../../../.gitbook/assets/WidgetMagazzino.PNG)
+![](<../../../.gitbook/assets/image (43).png>)
+
+## ➕ Creazione
+
+Per creare un nuovo Articolo si dovrà cliccare sul tasto (+).
+
+Andranno qui inserite le informazioni relative al nuovo articolo:
+
+* Codice
+* Barcode
+* Descrizione
+* Categoria (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
+* Sottocategoria
+
+![](<../../../.gitbook/assets/image (102).png>)
+
+Espandendo Informazioni aggiuntive è inoltre possibile inserire:
+
+* Prezzo di acquisto
+* Coefficiente di vendita
+* Prezzo di vendita
+* Quantità iniziale
+* Soglia minima quantità
+* IVA di vendita
+* Conto predefinito di acquisto
+* Conto predefinito di vendita
+* Abilitare serial number
+
+![](<../../../.gitbook/assets/image (65).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui si troveranno diverse sezioni da cui sarà possibile modificare:
+
+#### Articolo:
+
+* Immagine
+* Codice
+* Barcode
+* Categoria
+* Sottocategoria
+* Descrizione
+* Abilitare serial number
+* Attivare o Disabilitare
+* Ubicazione
+* Unità di misura
+* Note
+
+![](<../../../.gitbook/assets/image (66).png>)
+
+#### Giacenza totale:
+
+* Modifica quantità
+  * Quantità
+  * Descrizione movimento
+  * Data movimento
+
+![](<../../../.gitbook/assets/image (26).png>)
+
+#### Acquisto:
+
+* Prezzo di acquisto
+* Coefficiente di vendita
+* Soglia minima quantità
+* Fornitore predefinito
+* Conto predefinito di acquisto
+* U.m. secondaria
+* Fattore moltiplicativo
+* Quantità multipla
+
+![](<../../../.gitbook/assets/image (69).png>)
+
+#### Vendita:
+
+* Prezzo di vendita
+* IVA di vendita
+* Garanzia
+* Abilitare in caso l'articolo sia un servizio
+* Peso lordo
+* Volume
+* Conto predefinito di vendita
+
+![](<../../../.gitbook/assets/image (84).png>)
+
+E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
+
+## 🔧 Plugin
+
+Selezionando uno specifico record si può accedere a diversi plugin nella barra laterale della pagina:
+
+* Movimenti
+* Serial
+* Giacenze
+* Statistiche
+* Listino clienti
+* Listino fornitori
+* Piani di sconto/magg.
+* Varianti Articolo
+* Provvigioni
+* Note interne
+* Info
+
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="azioni-aggiuntive.md" %}
+[azioni-aggiuntive.md](azioni-aggiuntive.md)
+{% endcontent-ref %}
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}

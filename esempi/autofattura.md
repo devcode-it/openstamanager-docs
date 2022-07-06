@@ -18,7 +18,7 @@ Le **fatture passive** ricevute da soggetti esteri andranno integrate _entro il 
 
 Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
 
-![](<../.gitbook/assets/image (47) (1).png>)
+![](<../.gitbook/assets/image (47) (1) (1).png>)
 
 Come primo passo si dovrà procede alla registrazione della fattura di acquisto estero ricevuta in via cartacea o all'importazione dal SDI della fattura ricevuta con Reverse Charge
 

@@ -25,7 +25,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
-&#x20;                                                       ![](<../../../.gitbook/assets/image (47).png>)
+&#x20;                                                       ![](<../../../.gitbook/assets/image (47) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -45,7 +45,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Si potranno ora vedere tra le fatture di acquisto i record appena creati.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)
 
 ### ✏️ Registrazione contabile
 
@@ -101,7 +101,7 @@ Una volta selezionati i record interessati è possibile modificarne massivamente
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica dei record selezionati.
 
-&#x20;                                                        <img src="../../../.gitbook/assets/image (66).png" alt="" data-size="original">
+&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 

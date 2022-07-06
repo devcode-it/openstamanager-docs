@@ -51,7 +51,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione
 
 Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
-![](<../../../.gitbook/assets/image (84) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
@@ -83,7 +83,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere alla generazione massiva degli XML cliccando su Azioni di gruppo/Genera fatture elettroniche.
 
-![](<../../../.gitbook/assets/image (69) (2).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla generazione delle fatture elettroniche.
 
@@ -91,7 +91,7 @@ Il gestionale chiederà quindi la conferma a procedere alla generazione delle fa
 Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 {% endhint %}
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (26).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (26) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
@@ -161,7 +161,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere all'emissione massiva delle fatture cliccando su Azioni di gruppo/Emetti fatture.
 
-![](<../../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'emissione della fattura.
 
@@ -261,7 +261,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (69) (2).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

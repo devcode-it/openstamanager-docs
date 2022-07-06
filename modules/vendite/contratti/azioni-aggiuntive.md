@@ -30,7 +30,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (84) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (82) (1) (1) (1).png>)
 
@@ -132,4 +132,4 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../.gitbook/assets/image (66) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1).png>)
