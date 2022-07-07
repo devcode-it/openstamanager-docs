@@ -68,11 +68,11 @@ Fare clic su Procedi per confermare le modifiche.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il coefficiente di vendita cliccando su Azioni di gruppo/Aggiorna coefficiente di vendita.
 
-![](<../../../.gitbook/assets/image (97).png>)
+![](<../../../.gitbook/assets/image (97) (1).png>)
 
 Il gestionale chiederà ora il coefficiente di vendita da applicare agli articoli, fare clic su Procedi per confermare.
 
-&#x20;                                                       ![](<../../../.gitbook/assets/image (86).png>)
+&#x20;                                                       ![](<../../../.gitbook/assets/image (86) (1).png>)
 
 ### 🖨️ Stampa etichette
 
@@ -100,7 +100,7 @@ Il gestionale chiederà ora la quantità da aggiornare, la Causale per movimenta
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                                 ![](<../../../.gitbook/assets/image (50).png>)
+&#x20;                                                                 ![](<../../../.gitbook/assets/image (50) (1).png>)
 
 ### ➕  Crea preventivo
 
@@ -150,7 +150,7 @@ Questa azione può essere effettuata solo per articoli che non hanno già un pre
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
-&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1).png>)
+&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1) (1).png>)
 
 ### ✏️ Aggiorna unità di misura
 
@@ -168,13 +168,13 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il conto predefinito di acquisto cliccando su Azioni di gruppo/Aggiorna conto predefinito di acquisto.
 
-![](<../../../.gitbook/assets/image (34) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1).png>)
 
 Il gestionale chiederà quindi il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (74).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (74) (1).png>)
 
 
 
@@ -194,7 +194,7 @@ Fare clic su Procedi per applicare le modifiche.
 
 Una volta selezionati i record interessati è possibile impostare massivamente una provvigione cliccando su Azioni di gruppo/Imposta una provvigione.
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 Il gestionale chiederà ora l'agente e la provvigione da applicare.
 
@@ -219,4 +219,4 @@ Dalla schermata di dettaglio di un articolo è possibile procedere alla stampa d
 
 Dalla schermata di dettaglio di un articolo è possibile procedere alla sua duplicazione cliccando su duplica articolo.
 
-![](<../../../.gitbook/assets/image (90).png>)
+![](<../../../.gitbook/assets/image (90) (2).png>)

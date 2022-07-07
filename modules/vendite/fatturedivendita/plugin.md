@@ -95,7 +95,7 @@ Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 ### 🖨️ Esportazione stampe
 
@@ -208,7 +208,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a inviare la fattura selezionata via mail o PEC.
 
-![](<../../../.gitbook/assets/image (97) (1).png>)
+![](<../../../.gitbook/assets/image (97) (1) (1).png>)
 
 Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
 
@@ -255,7 +255,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 ### 🖊️ Registra contabile
 

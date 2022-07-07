@@ -17,7 +17,7 @@ Il modulo **Articoli** permette all’azienda di gestire le informazioni riguard
 * Valore Magazzino
 * Articoli in Magazzino
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (43) (1).png>)
 
 ## ➕ Creazione
 
@@ -65,7 +65,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Unità di misura
 * Note
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (66) (1).png>)
 
 #### Giacenza totale:
 

@@ -65,7 +65,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio PDF delle fatture di acquisto selezionate.
 
-&#x20;                                                   ![](<../../../.gitbook/assets/image (94).png>)
+&#x20;                                                   ![](<../../../.gitbook/assets/image (94) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -73,7 +73,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (63) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
@@ -89,7 +89,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.&#x20;
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (74) (1) (1).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (74) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -101,7 +101,7 @@ Una volta selezionati i record interessati è possibile modificarne massivamente
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica dei record selezionati.
 
-&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1).png" alt="" data-size="original">
+&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -147,7 +147,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 
-&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1).png" alt="" data-size="original">
+&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1) (1).png" alt="" data-size="original">
 
 ### 📂 Riapri documento...
 

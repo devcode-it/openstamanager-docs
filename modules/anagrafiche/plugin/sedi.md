@@ -9,7 +9,7 @@ description: Guida al plugin Sedi in OpenSTAManager
 Questo plugin è dedicato alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1).png>)
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
@@ -39,7 +39,7 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative all
 
 La schermata di modifica, sebbene molto simile a quella di creazione, permette in particolare di impostare altre informazioni secondarie.
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2) (1).png>)
 
 Se l'impostazione [**Google Maps API key**](https://docs.openstamanager.com/modules/anagrafiche/modifica#geolocalizzazione) viene impostata, sarà possibile visualizzare la geolocalizzazione dall'interno dell'anagrafica.
 

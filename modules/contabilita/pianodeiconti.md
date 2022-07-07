@@ -15,7 +15,7 @@ Da questo modulo è possibile visualizzare il piano dei conti, diviso in Conto e
 E' possibile visualizzare nel dettaglio gli elementi che lo compongono espandendo il menu a lato delle singole voci.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (74) (1).png>)
+![](<../../.gitbook/assets/image (74) (1) (1).png>)
 
 ## ➕ Creazione
 

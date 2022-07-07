@@ -23,13 +23,13 @@ Nella Dashboard è possibile visualizzare eventi creati dal modulo Attività, pe
 
 Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno poi nell'elenco delle attività e sarà possibile modificarle da qui, cliccando sul rispettivo record.
 
-![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1).png>)
 
 ### 📤 Esportazione stampe
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -96,7 +96,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione.
 
 Si potranno ora vedere tra le attività i record appena creati.
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
 
 ### 🖨️ Stampa massiva
 

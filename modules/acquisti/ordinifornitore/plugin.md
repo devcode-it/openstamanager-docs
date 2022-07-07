@@ -13,7 +13,7 @@ Il modulo Ordini fornitore permette di cambiare lo stato degli ordini massivamen
 
 Una volta selezionati i record interessati è possibile modificarne massivamente lo stato cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../.gitbook/assets/image (94) (1).png>)
+![](<../../../.gitbook/assets/image (94) (1) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 

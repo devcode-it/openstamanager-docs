@@ -12,7 +12,7 @@ Il plugin **Listino clienti** serve ad inserire il listino clienti dell'articolo
 
 Per aggiungere un nuovo listino cliente si deve selezionare un cliente e cliccare su Prezzi.
 
-![](<../../../../.gitbook/assets/image (34).png>)
+![](<../../../../.gitbook/assets/image (34) (1).png>)
 
 Si aprirà ora una schermata da cui è possibile specificare due tipi di prezzi:
 

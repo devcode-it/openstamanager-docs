@@ -48,7 +48,7 @@ Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o s
 
 Da qui è possibile caricare degli allegati alla Newsletter.
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1) (1) (1).png>)
 
 ## 📨 Invio
 

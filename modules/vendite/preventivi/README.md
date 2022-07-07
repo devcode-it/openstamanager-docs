@@ -8,7 +8,7 @@ description: Come gestire i Preventivi in OpenSTAManager
 Il modulo **Preventivi** permette di gestire le informazioni relative ai preventivi dell'azienda.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (67) (1).png>)
+![](<../../../.gitbook/assets/image (67) (1) (2).png>)
 
 ## ➕ Creazione
 
@@ -16,7 +16,7 @@ Per creare un nuovo Preventivo si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo Preventivo:
 
-![](<../../../.gitbook/assets/image (36) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1).png>)
 
 ## 🖌️ Modifica
 

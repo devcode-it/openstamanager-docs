@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato del contratto deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (38) (1) (1).png>)
+![](<../../../.gitbook/assets/image (38) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -94,11 +94,11 @@ Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righ
 
 Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
 
-![](<../../../.gitbook/assets/image (64) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1).png>)
 
@@ -132,4 +132,4 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../.gitbook/assets/image (66) (1) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1) (1).png>)

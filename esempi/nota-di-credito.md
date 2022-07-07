@@ -16,7 +16,7 @@ Da questa schermata sarà ora possibile modificare la quantità da evadere in ca
 
 Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un numero fattura progressivo e si potrà andare ora a [Creare una fattura di vendita](broken-reference) corretta.
 
-![](<../.gitbook/assets/image (28) (1) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 Nel caso in cui la fattura da emettere debba presentare modifiche minimali rispetto a quella iniziale, è possibile riaprire la **Fattura di vendita** originale in Vendite/Fatture di vendita e utilizzare la funzione **Duplica fattura.**
 
