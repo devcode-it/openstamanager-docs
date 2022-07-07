@@ -10,4 +10,4 @@ Il plugin **Regole pagamenti** è una componente del modulo **Anagrafiche** da c
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2) (1).png>)

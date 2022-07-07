@@ -16,7 +16,7 @@ Per creare un nuovo Preventivo si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo Preventivo:
 
-![](<../../../.gitbook/assets/image (36) (1) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
-![](<../../.gitbook/assets/image (92) (1).png>)
+![](<../../.gitbook/assets/image (92) (1) (2).png>)
 
 ## 👤 Dal dettaglio Anagrafica
 
@@ -34,7 +34,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 * Dettaglio anagrafica
 * Dati aziendali
 
-![](<../../.gitbook/assets/image (42) (1) (1).png>)
+![](<../../.gitbook/assets/image (42) (1) (1) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -44,7 +44,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare una[ mail da template](../email/template.md) preimpostato.
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 

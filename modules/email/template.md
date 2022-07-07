@@ -44,7 +44,7 @@ La sostituzione di queste componenti dipende dai contenuti del _record_ da cui v
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2).png>)
 
 ## 🪀 Particolarità
 

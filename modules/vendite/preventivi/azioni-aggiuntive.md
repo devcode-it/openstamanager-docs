@@ -81,7 +81,7 @@ Cliccando sul tipo di documento da inviare si verrà indirizzati al template ema
 
 Dalla schermata di dettaglio di un preventivo è possibile procedere alla sua duplicazione cliccando su duplica preventivo.
 
-![](<../../../.gitbook/assets/image (42) (1).png>)
+![](<../../../.gitbook/assets/image (42) (1) (1).png>)
 
 ### 📃 Crea nuova revisione...
 

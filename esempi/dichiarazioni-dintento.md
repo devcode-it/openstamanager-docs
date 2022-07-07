@@ -20,7 +20,7 @@ Andando ora a [creare una **Fattura di vendita**](broken-reference) \*\*\*\* per
 
 Andando ad emettere e generare la fattura elettronica sarà possibile trovarvi riportati i campi richiesti ai fini fiscali dall'Agenzia delle Entrate.
 
-![](<../.gitbook/assets/image (35) (1).png>)
+![](<../.gitbook/assets/image (35) (1) (1).png>)
 
 E' possibile inoltre verificare il **Totale utilizzato** aprendo una specifica **Dichiarazione d'intento** da Anagrafiche/Dichiarazioni d'Intento.
 

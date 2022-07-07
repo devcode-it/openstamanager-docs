@@ -15,12 +15,13 @@ Il modulo **DDT in uscita** permette di creare un documento di trasporto per la 
 
 Per creare un nuovo DDT in uscita si dovrà cliccare sul tasto (+).
 
-Andranno qui inserite le informazioni relative al nuovo articolo:
+Andranno qui inserite le informazioni relative al nuovo DDT:
 
+* Data
 * Destinatario
-* Causale trasporto
+* Causale di trasporto
 
-![](<../../../.gitbook/assets/image (87).png>)
+![](<../../../.gitbook/assets/image (87) (1).png>)
 
 ## 🖌️ Modifica
 

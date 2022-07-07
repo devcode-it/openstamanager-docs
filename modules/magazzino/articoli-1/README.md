@@ -9,7 +9,7 @@ description: Come gestire gli Articoli in OpenSTAManager
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (47) (1).png>)
+![](<../../../.gitbook/assets/image (47) (1) (1).png>)
 
 ### 👾 Widget
 

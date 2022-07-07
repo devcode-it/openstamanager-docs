@@ -13,7 +13,7 @@ Questo modulo è complementare ai moduli [Liste](liste.md) e [Template email](te
 
 La schermata principale del modulo si presenta così:
 
-![](<../../.gitbook/assets/image (87) (1) (1).png>)
+![](<../../.gitbook/assets/image (87) (1) (1) (1).png>)
 
 ## ➕ Creazione
 

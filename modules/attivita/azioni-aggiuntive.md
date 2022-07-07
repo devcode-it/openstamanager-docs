@@ -144,7 +144,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 * Stampa intervento (senza prezzi)
 * Stampa intervento
 
-![](<../../.gitbook/assets/image (92) (1) (2).png>)
+![](<../../.gitbook/assets/image (92) (1) (2) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
@@ -183,4 +183,4 @@ Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registr
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
-![](<../../.gitbook/assets/image (73) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1) (1) (1).png>)

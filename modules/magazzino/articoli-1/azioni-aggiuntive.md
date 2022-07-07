@@ -45,7 +45,7 @@ Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Disting
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                              <img src="../../../.gitbook/assets/image (47).png" alt="" data-size="original">
+&#x20;                                                              <img src="../../../.gitbook/assets/image (47) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna prezzo di vendita
 
@@ -62,7 +62,7 @@ Il gestionale chiederà ora:
 
 Fare clic su Procedi per confermare le modifiche.
 
-&#x20;                                                   ![](<../../../.gitbook/assets/image (72).png>)
+&#x20;                                                   ![](<../../../.gitbook/assets/image (72) (1).png>)
 
 ### ✏️ Aggiorna coefficiente di vendita
 
@@ -118,7 +118,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente la categoria e la sottocategoria cliccando su Azioni di gruppo/Aggiorna categoria e sottocategoria.
 
-![](<../../../.gitbook/assets/image (42).png>)
+![](<../../../.gitbook/assets/image (42) (1).png>)
 
 Il gestionale chiederà quindi le nuove categoria e sottocategoria da applicare.
 
@@ -174,7 +174,7 @@ Il gestionale chiederà quindi il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (74) (1).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (74) (1) (1).png>)
 
 
 

@@ -25,7 +25,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
-&#x20;                                                       ![](<../../../.gitbook/assets/image (47) (1) (1).png>)
+&#x20;                                                       ![](<../../../.gitbook/assets/image (47) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -89,7 +89,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.&#x20;
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (74) (1) (1) (1).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (74) (1) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -121,7 +121,7 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla stampa della fattura elettronica di acquisto se il documento è stato importato dallo SDI.
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76) (2).png>)
 
 ### 🧬 Duplica fattura
 
@@ -137,13 +137,13 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (75) (1).png>)
+![](<../../../.gitbook/assets/image (75) (1) (1).png>)
 
 ### 🖊️ Registra contabile
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (30) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 

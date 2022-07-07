@@ -35,7 +35,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (35) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere fra gli stati presenti:
 
@@ -78,7 +78,7 @@ Dalla schermata di dettaglio di un DDT in uscita è possibile procedere al suo i
 
 Si verrà quindi indirizzati al template email compilato con i dati del DDT, dove sarà possibile procedere all'invio cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](<../../../.gitbook/assets/image (74) (1).png>)
 
 ### 📃 Crea fattura di vendita
 

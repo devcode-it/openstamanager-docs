@@ -57,7 +57,7 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 * Zona
 * Tecnici (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
-![](<../../.gitbook/assets/image (75) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (75) (1) (1) (1) (1) (1).png>)
 
 ### 🔁 Ricorrenza
 

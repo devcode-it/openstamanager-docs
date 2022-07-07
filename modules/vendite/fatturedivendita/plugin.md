@@ -105,7 +105,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (72) (1) (1).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (72) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -117,7 +117,7 @@ Una volta selezionati i record interessati è possibile controllare la corrispon
 
 Il gestionale chiederà quindi la conferma di procedere alla verifica della corrispondenza tra XML e fatture di vendita.
 
-&#x20;                                                ![](<../../../.gitbook/assets/image (73) (1) (1).png>)
+&#x20;                                                ![](<../../../.gitbook/assets/image (73) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -169,7 +169,7 @@ Il gestionale chiederà quindi la conferma di procedere all'emissione della fatt
 Le fatture selezionate devono essere in stato Bozza.
 {% endhint %}
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (75) (1) (1).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (75) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -237,7 +237,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 * Nota di debito
 * Nota di credito
 
-![](<../../../.gitbook/assets/image (76) (2).png>)
+![](<../../../.gitbook/assets/image (76) (2) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
@@ -255,7 +255,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (36) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1).png>)
 
 ### 🖊️ Registra contabile
 
