@@ -8,7 +8,7 @@ description: Come gestire gli utenti e permessi in OpenSTAManager
 Il modulo **Utenti e permessi** permette di assegnare determinati utenti ad un gruppo,concedendoli dei privilegi.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (89) (1).png>)
 
 ## ➕ Creazione
 

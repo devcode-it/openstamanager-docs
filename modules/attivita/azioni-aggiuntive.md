@@ -92,7 +92,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Cliccando su Procedi il gestionale procederà alla duplicazione.
 
-![](<../../.gitbook/assets/image (80) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (80) (1) (1) (1) (1).png>)
 
 Si potranno ora vedere tra le attività i record appena creati.
 
@@ -144,7 +144,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 * Stampa intervento (senza prezzi)
 * Stampa intervento
 
-![](<../../.gitbook/assets/image (92) (1) (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (92) (1) (2) (1) (1) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
@@ -163,7 +163,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../.gitbook/assets/image (67) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1) (1) (1) (1).png>)
 
 ### 🧬 Duplica attività
 

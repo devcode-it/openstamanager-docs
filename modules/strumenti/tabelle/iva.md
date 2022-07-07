@@ -1,53 +1,43 @@
 ---
 title: IVA
+description: Come gestire l'IVA in OpenSTAManager
 ---
 
-# IVA
+# 💰 IVA
 
 {% hint style="info" %}
-Il modulo **IVA** consente di aggiungere una tipologia di IVA selezionabile nel rispettivo _campo_ nei vari moduli.
+Il modulo **IVA** consente di creare e modificare le aliquote IVA presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia IVA](../../../.gitbook/assets/SchermataIVA.PNG)
+![](<../../../.gitbook/assets/image (26).png>)
 
-### Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare una nuova aliquota IVA si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FkLPsnHjiKt8JkB6L5Daz%2Ffile.png?alt=media)
+Andranno qui inserite le informazioni relative alla nuova aliquota IVA da creare:
 
-### Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![Screenshot creazione IVA](../../../.gitbook/assets/AggiuntaIva.PNG)
-
-Successivamente verrà richiesto di inserire:
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FyTr2QcVF02XhtuKEQVIq%2Ffile.png?alt=media)
-
-* Descrizione
 * Codice
-* Esente
-* Percentuale
-* Indetraibile
-* Codice Natura(Fatturazione Elettronica)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FlNs3uWj6hikgs3i2WKOk%2Ffile.png?alt=media)
-
-Dove sarà possibile modificare:
-
 * Descrizione
-* Esente
+* Se esente
 * Percentuale
+* Codice natura (fatturazione elettronica)
 * Indetraibile
+* Esigibilità (fatturazione elettronica)
+
+![](<../../../.gitbook/assets/image (90).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
 * Codice
-* Codice Natura(Fatturazione Elettronica)
-* Esigibilità(Fatturazione Elettronica)
+* Descrizione
+* Se esente
+* Percentuale
+* Codice natura (fatturazione elettronica)
+* Indetraibile
+* Esigibilità (fatturazione elettronica)
 * Dicitura fissa in fattura
+
+![](<../../../.gitbook/assets/image (83).png>)

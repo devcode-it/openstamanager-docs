@@ -8,7 +8,7 @@ description: Come gestire gli Attributi combinazioni con OpenSTAManager
 Il modulo Attributi combinazioni permette di definire gli attributi per classificare le combinazioni di varianti degli articoli di magazzino.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (80) (1).png>)
+![](<../../.gitbook/assets/image (80) (1) (1).png>)
 
 ## ➕ Creazione
 
@@ -19,7 +19,7 @@ Andranno qui inserite le informazioni relative al nuovo attributo:
 * Nome
 * Titolo
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)
 
 ## 🖌️ Modifica
 

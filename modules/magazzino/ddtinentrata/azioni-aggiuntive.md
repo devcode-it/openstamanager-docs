@@ -28,7 +28,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (75).png>)
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
@@ -64,4 +64,4 @@ Dalla schermata di dettaglio di un DDT in entrata è possibile procedere alla su
 
 Dalla schermata di dettaglio di un DDT in entrata è possibile procedere alla sua duplicazione cliccando su Duplica DDT.
 
-![](<../../../.gitbook/assets/image (92) (1).png>)
+![](<../../../.gitbook/assets/image (92) (1) (2).png>)

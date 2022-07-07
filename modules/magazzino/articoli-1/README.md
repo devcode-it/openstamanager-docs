@@ -74,7 +74,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
   * Descrizione movimento
   * Data movimento
 
-![](<../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../.gitbook/assets/image (26) (1) (1).png>)
 
 #### Acquisto:
 

@@ -124,7 +124,7 @@ Il gestionale chiederà quindi le nuove categoria e sottocategoria da applicare.
 
 Fare clic su Procedi per effettuare le modifiche.
 
-&#x20;                                                                 <img src="../../../.gitbook/assets/image (26).png" alt="" data-size="original">
+&#x20;                                                                 <img src="../../../.gitbook/assets/image (26) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna aliquota IVA
 
@@ -219,4 +219,4 @@ Dalla schermata di dettaglio di un articolo è possibile procedere alla stampa d
 
 Dalla schermata di dettaglio di un articolo è possibile procedere alla sua duplicazione cliccando su duplica articolo.
 
-![](<../../../.gitbook/assets/image (90) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (90) (2) (1) (1) (1).png>)

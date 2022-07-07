@@ -68,7 +68,7 @@ Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sta
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                          <img src="../../../.gitbook/assets/image (90) (2) (1).png" alt="" data-size="original">
+&#x20;                                                          <img src="../../../.gitbook/assets/image (90) (2) (1) (1).png" alt="" data-size="original">
 
 ### ✉️ Invio DDT
 

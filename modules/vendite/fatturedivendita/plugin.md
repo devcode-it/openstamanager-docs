@@ -91,7 +91,7 @@ Il gestionale chiederà quindi la conferma a procedere alla generazione delle fa
 Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 {% endhint %}
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (26) (1) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (26) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
@@ -125,7 +125,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (89) (1) (1).png>)
+![](<../../../.gitbook/assets/image (89) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
@@ -255,7 +255,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (36) (1) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1).png>)
 
 ### 🖊️ Registra contabile
 

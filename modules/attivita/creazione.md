@@ -38,7 +38,7 @@ In questa sezione sarà possibile inserire:
 * Impianto (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 * Componenti
 
-![](<../../.gitbook/assets/image (83) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🧑‍🔧 Assegnazione tecnici
 
@@ -97,7 +97,7 @@ I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potr�
 
 I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e Sede, si potrà procedere in un secondo momento a [completare](https://docs.openstamanager.com/modules/anagrafiche/plugin/referenti#modifica) gli altri campi entrando nel nuovo record tra i referenti del cliente scelto.
 
-![](<../../.gitbook/assets/image (57) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (57) (1) (1) (1) (1) (1).png>)
 
 ### 📡 Impianto
 

@@ -1,40 +1,34 @@
 ---
 title: Modelli prima nota
+description: Come gestire i modelli di prima nota in OpenSTAManager
 ---
 
-# Modelli prima nota
+# 🖊 Modelli prima nota
 
 {% hint style="info" %}
-Il modulo **Modelli prima nota** permette di aggiungere nuovi _Modelli prima nota_ al relativo campo nella creazione di una **Prima nota**:
+Il modulo **Modelli prima nota** permette di creare e modificare i modelli di prima nota presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia modelli prima nota](../../../.gitbook/assets/ModelliPrimaNota.PNG)
+![](<../../../.gitbook/assets/image (57).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare un nuovo modello di prima nota si dovrà cliccare il tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FwfHKmNnktv4tzdlcgnTh%2Ffile.png?alt=media)
+Andranno qui inserite le informazioni relative al nuovo evento da creare:
 
-## Creazione
+* Nome
+* Causale
+* Conto dare e avere
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+![](<../../../.gitbook/assets/image (92).png>)
 
-![Screenshot creazione modelli prima nota](../../../.gitbook/assets/AggiuntaModelliPrimaNota.PNG)
+## 🖌️ Modifica
 
-E' sufficiente inserire una _Descrizione_ e i _Conti_ che si vogliono aggiungere per creare un **Modello prima nota**.
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-![Screenshot creazione modelli prima nota](../../../.gitbook/assets/AggiungereModelliPrimaNota.PNG)
+* Nome
+* Causale
+* Conto dare e avere
 
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![Screenshot modifica modelli prima nota](../../../.gitbook/assets/ModificaModelliPrimaNota.PNG)
-
-Dove sarà possibile modificare:
-
-* Causale predefinita
-* Conto
+![](<../../../.gitbook/assets/image (67).png>)
