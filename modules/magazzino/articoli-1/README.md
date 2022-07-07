@@ -45,7 +45,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 * Conto predefinito di vendita
 * Abilitare serial number
 
-![](<../../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

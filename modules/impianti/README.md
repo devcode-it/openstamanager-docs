@@ -1,24 +1,53 @@
-# Impianti
+---
+description: Guida al modulo Impianti in OpenSTAManager
+---
+
+# 🪝 Impianti
 
 {% hint style="info" %}
-Il modulo **Impianti** permette all’azienda di gestire le informazioni riguardanti gli impianti dei clienti registrati su OpenSTAManager, integrando in particolare la relazione con il modulo [**Attività**](../attivita/) e i relativi elementi. Gli **impianti** sono qualsiasi entità poste ad una assistenza.
+Il modulo **Impianti** permette all’azienda di gestire le informazioni riguardanti gli impianti dei clienti registrati su OpenSTAManager, integrando in particolare la relazione con il modulo [**Attività**](../attivita/) e i relativi elementi.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fj8I9jRQ8daBUefBVlzSP%2Ffile.png?alt=media)
+## ⛵ Navigazione
 
-## Navigazione
+Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Impianti**.
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **MyImpianti**.
+![](<../../.gitbook/assets/image (65).png>)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FYK7LejoT5wIoC2mZvLaR%2Ffile.png?alt=media)
+## 🖥️ Interfaccia
 
-## Caratteristiche
+Nel menu a tendina è possibile trovare il modulo Categorie impianti.
 
-Questo modulo possiede un sotto-modulo incentrato sulla gestione dei componenti degli impianti (denominato **Gestione componenti**), raggiungibile all'espansione del menu laterale.
+&#x20;                                                            ![](<../../.gitbook/assets/image (44).png>)
 
-La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e non presenta widget.
+### 🔧 Plugin
 
-Sono inoltre presenti 2 [_plugin_ ](broken-reference)nella sezione di modifica del modulo:
+Selezionando uno specifico record si può accedere a diversi plugin:
 
-* Componenti (integrato con il modulo **Gestione componenti**)
-* Interventi svolti (relativo al modulo **Attività**)
+* Interventi svolti
+* Componenti
+* Note interne
+* Checklist
+* Info
+
+## 🔽 Informazioni aggiuntive
+
+{% content-ref url="creazione.md" %}
+[creazione.md](creazione.md)
+{% endcontent-ref %}
+
+{% content-ref url="modifica.md" %}
+[modifica.md](modifica.md)
+{% endcontent-ref %}
+
+{% content-ref url="categorieimpianti/" %}
+[categorieimpianti](categorieimpianti/)
+{% endcontent-ref %}
+
+{% content-ref url="azioni-aggiuntive.md" %}
+[azioni-aggiuntive.md](azioni-aggiuntive.md)
+{% endcontent-ref %}
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}

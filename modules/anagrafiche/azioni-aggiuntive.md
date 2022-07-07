@@ -66,4 +66,4 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../.gitbook/assets/image (44) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (44) (1) (1) (1) (1).png>)

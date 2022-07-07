@@ -39,7 +39,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il prezzo di acquisto cliccando su Azioni di gruppo/Aggiorna prezzo di acquisto.
 
-![](<../../../.gitbook/assets/image (65) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1).png>)
 
 Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Distinguendo se applicare uno sconto inserendo un numero negativo, o una maggiorazione senza specificare il segno.
 
