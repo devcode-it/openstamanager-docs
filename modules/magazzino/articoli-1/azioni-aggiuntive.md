@@ -146,7 +146,7 @@ Una volta selezionati i record interessati è possibile impostare massivamente i
 Questa azione può essere effettuata solo per articoli che non hanno già un prezzo di acquisto registrato. Verrà loro applicato il prezzo di acquisto della fattura più recente.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (91).png>)
+![](<../../../.gitbook/assets/image (91) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
@@ -194,7 +194,7 @@ Fare clic su Procedi per applicare le modifiche.
 
 Una volta selezionati i record interessati è possibile impostare massivamente una provvigione cliccando su Azioni di gruppo/Imposta una provvigione.
 
-![](<../../../.gitbook/assets/image (37) (1) (1).png>)
+![](<../../../.gitbook/assets/image (37) (1) (1) (1).png>)
 
 Il gestionale chiederà ora l'agente e la provvigione da applicare.
 

@@ -24,7 +24,7 @@ Andranno qui inserite le informazioni relative alla combinazione:
 
 Fare clic su Aggiungi per procedere
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (37) (1).png>)
 
 ## 🖌️ Modifica
 

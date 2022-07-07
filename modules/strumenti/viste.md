@@ -1,4 +1,8 @@
-# Viste
+---
+description: Come gestire le Viste in OpenSTAManager
+---
+
+# 👀 Viste
 
 {% hint style="info" %}
 Il modulo **Viste** permette di apportare delle modifiche alle tabelle contenenti i dati di ciascun modulo.
@@ -6,24 +10,15 @@ Il modulo **Viste** permette di apportare delle modifiche alle tabelle contenent
 
 ![Screenshot interfaccia viste](../../.gitbook/assets/ScreenViste.PNG)
 
-## Navigazione
+## 🖌️ Modifica
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F3G8xjCrk1BIQn2KjtOpY%2Ffile.png?alt=media)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Una volta entrati in questa parte del sistema si può procedere al completamento e alla modifica del _record._
-
-La schermata di modifica è divisa in:
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui si potranno notare diverse sezioni:
 
 * Opzioni generali
 * Campi disponibili
 * Ordine di visualizzazione
-* Filtro per gruppo di utenti
+
+### 🔨 Opzioni generali
 
 Grazie a **Opzioni generali** è possibile modificare diversi campi, quali:
 
@@ -38,9 +33,11 @@ Nelle query è possibile utilizzare dei segnaposto che verranno sostituiti come 
 * **|date\_period(co\_documenti.data)|**: viene sostituito con "AND WHERE co\_documenti.data BETWEEN "data\_inizio" AND "data\_fine". "data\_inizio" e "data\_fine" vengono valorizzati in base al filtro di date selezionabile dal menu in alto a sinistra\
   \_\_![](<../../.gitbook/assets/image (68) (1) (1) (1) (1) (1).png>)\\
 * **1=1**: è necessario specificarlo subito dopo il WHERE per far sì che venga sostituito automaticamente con i filtri che l'utente digita nel modulo. In questo modo il sistema sa dove innestare i vari filtri tramite WHERE
-* **2=2**: è come 1=1 ma funzione sulla clausola HAVING, utile per le ricerche tramite HAVING\\
+* **2=2**: è come 1=1 ma funzione sulla clausola HAVING, utile per le ricerche tramite HAVING
 
-Grazie a **Campi disponibili** è possibile cambiare:
+### 🔨 Campi disponibili
+
+Nella sezione **Campi disponibili** è possibile cambiare:
 
 * Gruppi con accesso (gruppi e utenti in grado di visualizzare quel campo)
 * Visibilità (stato del campo, visualizzabile oppure nascosto)
@@ -56,6 +53,8 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F79E49ifrbdzf3TGRNxCi%2Ffile.png?alt=media)
 
-Grazie a **Ordine di visualizzazione** si può cambiare l'ordine dei campi trascinandoli:
+### 🔨 Ordine di visualizzazione
+
+Nella sezione **Ordine di visualizzazione** si può cambiare l'ordine dei campi trascinandoli:
 
 ![Screenshot ordine di visualizzazione](../../.gitbook/assets/OrdineDiVisualizzazione.PNG)
