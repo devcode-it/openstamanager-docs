@@ -40,8 +40,8 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 [modifica.md](modifica.md)
 {% endcontent-ref %}
 
-{% content-ref url="categorieimpianti.md" %}
-[categorieimpianti.md](categorieimpianti.md)
+{% content-ref url="categorieimpianti/" %}
+[categorieimpianti](categorieimpianti/)
 {% endcontent-ref %}
 
 {% content-ref url="azioni-aggiuntive.md" %}

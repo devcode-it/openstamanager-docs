@@ -23,7 +23,7 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
 * Data conclusione
 * Validità contratto
 
-![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

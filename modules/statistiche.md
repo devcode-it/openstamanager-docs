@@ -1,8 +1,9 @@
 ---
 title: Statistiche
+description: Guida al modulo Statistiche in OpenSTAManager
 ---
 
-# Statistiche
+# 📊 Statistiche
 
 {% hint style="info" %}
 Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un andamento di _Vendite e acquisti_ e _interventi per tipologia_ nei periodi selezionati.
@@ -10,28 +11,26 @@ Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un anda
 
 Il modulo è diviso nelle seguenti sezioni:
 
-* Vendite e acquisti
+#### Vendite e acquisti
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F6qX8AfGE75ITWMez8ldC%2Ffile.png?alt=media)
+![](<../.gitbook/assets/image (89).png>)
 
-* Clienti TOP
+#### I 20 clienti TOP e articoli più venduti per il periodo selezionato
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FCLpeiBrnjilihtwgTkd1%2Ffile.png?alt=media)
+![](<../.gitbook/assets/image (104).png>)
 
-Visualizza i clienti con più fatturato.
+#### Numero interventi per tipologia
 
-* Articoli più venduti
+![](<../.gitbook/assets/image (27).png>)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FvwfbmP70LMPEyaCk6tRZ%2Ffile.png?alt=media)
+#### Ore interventi per tipologia
 
-Visualizza gli articoli più venduti con annesso _codice_, _descrizione_ e _quantità_.
+![](<../.gitbook/assets/image (64).png>)
 
-* Interventi per tipologia
+#### Ore di lavoro per tecnico
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FS6A0XTPC8LYo7LWkDok4%2Ffile.png?alt=media)
+![](<../.gitbook/assets/image (88).png>)
 
-* Ore di lavoro per tecnico
+#### Nuove anagrafiche
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FIHqO7DghCKUfFQeaqyoD%2Ffile.png?alt=media)
-
-Visualizza le ore di lavoro per ogni tecnico.
+![](<../.gitbook/assets/image (68).png>)

@@ -85,7 +85,7 @@ L'unico campo obbligatorio per creare un'anagrafica al volo è Denominazione, si
 
 I campi obbligatori per creare una sede al volo sono Nome sede e città, si potrà procedere in un secondo momento a [completare](../anagrafiche/plugin/sedi.md) gli altri campi entrando nel nuovo record tra le sedi del cliente scelto.
 
-![](<../../.gitbook/assets/image (27) (1).png>)
+![](<../../.gitbook/assets/image (27) (1) (1).png>)
 
 ### 📄 Contratto
 

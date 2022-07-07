@@ -112,7 +112,7 @@ Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attiv
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1) (1).png>)
 
 ### ✏️ Aggiorna categoria e sottocategoria
 
@@ -219,4 +219,4 @@ Dalla schermata di dettaglio di un articolo è possibile procedere alla stampa d
 
 Dalla schermata di dettaglio di un articolo è possibile procedere alla sua duplicazione cliccando su duplica articolo.
 
-![](<../../../.gitbook/assets/image (90) (2).png>)
+![](<../../../.gitbook/assets/image (90) (2) (1).png>)

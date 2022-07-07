@@ -44,7 +44,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (68) (1) (1) (2) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1) (2) (1) (1).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 

@@ -125,7 +125,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
@@ -141,7 +141,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1) (2).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -224,7 +224,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
-![](<../../../.gitbook/assets/image (68) (1) (1).png>)
+![](<../../../.gitbook/assets/image (68) (1) (1) (2).png>)
 
 Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
 
