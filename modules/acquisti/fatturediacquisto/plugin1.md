@@ -65,7 +65,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio PDF delle fatture di acquisto selezionate.
 
-&#x20;                                                   ![](<../../../.gitbook/assets/image (94) (1).png>)
+&#x20;                                                   ![](<../../../.gitbook/assets/image (94) (1) (2).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -147,7 +147,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 
-&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1) (1) (1) (1).png" alt="" data-size="original">
 
 ### 📂 Riapri documento...
 

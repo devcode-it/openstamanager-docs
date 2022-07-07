@@ -95,7 +95,7 @@ Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
-![](<../../../.gitbook/assets/image (28) (1).png>)
+![](<../../../.gitbook/assets/image (28) (1) (1).png>)
 
 ### 🖨️ Esportazione stampe
 
@@ -153,7 +153,7 @@ Una volta selezionati i record interessati  è possibile modificarne massivament
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 
-&#x20;                                                   ![](<../../../.gitbook/assets/image (54).png>)
+&#x20;                                                   ![](<../../../.gitbook/assets/image (54) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 

@@ -64,7 +64,7 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla stampa del DDT con o senza prezzi.
 
-![](<../../../.gitbook/assets/image (94).png>)
+![](<../../../.gitbook/assets/image (94) (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -84,7 +84,7 @@ Si verrà quindi indirizzati al template email compilato con i dati del DDT, dov
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua fatturazione cliccando su Crea fattura di vendita.
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 ### 🧬 Duplica DDT
 

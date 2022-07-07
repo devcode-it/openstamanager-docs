@@ -54,7 +54,7 @@ Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per
 
 Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella vendita interessata e cliccare su Riapri vendita. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (54) (1).png>)
+![](<../.gitbook/assets/image (54) (1) (1).png>)
 
 ## 💳 Easy vendita
 

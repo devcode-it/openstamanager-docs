@@ -94,7 +94,7 @@ Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righ
 
 Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
 
-![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 

@@ -41,7 +41,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
-![](<../../.gitbook/assets/image (54) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 

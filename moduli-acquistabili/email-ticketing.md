@@ -55,7 +55,7 @@ Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare
 
 Entrando nella schermata di dettaglio dell'attività e cliccando su Conversazioni, sarà possibile vedere le conversazioni con il cliente via email.
 
-![](<../.gitbook/assets/image (28) (1) (1).png>)
+![](<../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
