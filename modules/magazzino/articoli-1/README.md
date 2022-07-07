@@ -65,7 +65,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Unità di misura
 * Note
 
-![](<../../../.gitbook/assets/image (66) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1).png>)
 
 #### Giacenza totale:
 

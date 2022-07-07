@@ -45,4 +45,4 @@ Cliccando su **Genera tutte le varianti** verrà creato un nuovo articolo di mag
 
 Cliccando su Aggiungi variante invece, sarà possibile associare a ogni valore un articolo esistente dal magazzino.
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (2).png>)

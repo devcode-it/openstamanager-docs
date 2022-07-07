@@ -132,4 +132,4 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../.gitbook/assets/image (66) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)

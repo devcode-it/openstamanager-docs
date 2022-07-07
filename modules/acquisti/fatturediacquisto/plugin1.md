@@ -101,7 +101,7 @@ Una volta selezionati i record interessati è possibile modificarne massivamente
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica dei record selezionati.
 
-&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1) (1).png" alt="" data-size="original">
+&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -127,7 +127,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua duplicazione cliccando su duplica fattura.
 
-![](<../../../.gitbook/assets/image (78) (2) (1).png>)
+![](<../../../.gitbook/assets/image (78) (2) (1) (1).png>)
 
 ### 📕 Registra insoluto
 

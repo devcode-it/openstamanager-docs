@@ -133,7 +133,7 @@
   * [🔨 Strumenti](modules/strumenti/README.md)
     * [💡 Campi personalizzati](modules/strumenti/campi-personalizzati.md)
     * [👀 Viste](modules/strumenti/viste.md)
-    * [Utenti e permessi](modules/strumenti/utentiepermessi.md)
+    * [🗣 Utenti e permessi](modules/strumenti/utentiepermessi.md)
     * [Impostazioni](modules/strumenti/impostazioni.md)
     * [Tabelle](modules/strumenti/tabelle/README.md)
       * [IVA](modules/strumenti/tabelle/iva.md)

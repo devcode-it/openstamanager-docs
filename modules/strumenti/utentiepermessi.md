@@ -1,44 +1,43 @@
-# Utenti e permessi
+---
+description: Come gestire gli utenti e permessi in OpenSTAManager
+---
+
+# 🗣 Utenti e permessi
 
 {% hint style="info" %}
 Il modulo **Utenti e permessi** permette di assegnare determinati utenti ad un gruppo,concedendoli dei privilegi.
 {% endhint %}
 
-![Screenshot interfaccia utenti e permessi](../../.gitbook/assets/UtentiEPermessi.PNG)
+![](<../../.gitbook/assets/image (89).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
+Per creare una nuova tipologia di Utenti in si dovrà cliccare sul tasto (+).
 
-![Screenshot navigazione utenti e permessi](../../.gitbook/assets/NavigazioneUtentiEPermessi.png)
-
-## Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![Screenshot creazione utenti e permessi](../../.gitbook/assets/AggiuntaUtentiEPermessi.PNG)
-
-Basterà quindi inserire il _nome_ per creare un nuovo gruppo
+Andrà qui inserito il nome della nuova tipologia di utenti.
 
 ![Screenshot creazione utenti e permessi](../../.gitbook/assets/AggiungereUtentiEPermessi.PNG)
 
-## Modifica
+## 🖌️ Modifica
 
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-Si presenterà quindi questa schermata:
+* Utenti che appartengono a questa categoria (con possibilità di crearli al momento)
+* Permessi clienti nella categoria
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F2Qonhw5SzTxhJDYL5Q6w%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (78).png>)
 
-Nella quale è possibile aggiungere un _utente_ al gruppo appena selezionato:
+Per creare un nuovo utente a cui assegnare la tipologia utenti appena creata, si dovrà cliccare su Aggiungi utente.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FGON3jAT3AaqNpfbaJsNe%2Ffile.png?alt=media)
+Si aprirà quindi la seguente schermata in cui compilare i campi:
 
-Aggiungendo un _utente_, per potergli permettere l'accesso, bisogna assegnarli:
-
+* Foto utente
 * Username
-* Foto
 * Email
-* Password
-* Collega ad una anagrafica
+* Anagrafica collegata
 * Sede
+* Password
+
+Cliccare su Aggiungi per creare l'utente.
+
+![](<../../.gitbook/assets/image (66).png>)

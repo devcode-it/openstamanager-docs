@@ -90,4 +90,4 @@ Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua duplicazione cliccando su Duplica DDT
 
-![](<../../../.gitbook/assets/image (66).png>)
+![](<../../../.gitbook/assets/image (66) (1).png>)
