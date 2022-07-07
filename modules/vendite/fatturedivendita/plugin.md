@@ -37,7 +37,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -75,7 +75,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -137,7 +137,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente le ricevute cliccando su Azioni di gruppo/Esporta ricevute.
 
-![](<../../../.gitbook/assets/image (70) (1).png>)
+![](<../../../.gitbook/assets/image (70) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
@@ -212,7 +212,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 
 Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (32) (1) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (1) (1).png>)
 
 ### 🧬 Duplica fattura
 
@@ -237,7 +237,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 * Nota di debito
 * Nota di credito
 
-![](<../../../.gitbook/assets/image (76) (2) (1).png>)
+![](<../../../.gitbook/assets/image (76) (2) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

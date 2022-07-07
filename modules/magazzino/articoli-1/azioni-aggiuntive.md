@@ -88,7 +88,7 @@ Il gestionale chiederà ora se procedere alla stampa singola o in formato A4 del
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                              ![](<../../../.gitbook/assets/image (32).png>)
+&#x20;                                                              ![](<../../../.gitbook/assets/image (32) (1).png>)
 
 ### ✏️ Aggiorna quantità
 
@@ -162,7 +162,7 @@ Il gestionale chiederà quindi l'unità di misura da applicare agli articoli.
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                            <img src="../../../.gitbook/assets/image (102) (1).png" alt="" data-size="original">
+&#x20;                                                            <img src="../../../.gitbook/assets/image (102) (1) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna conto predefinito di acquisto
 

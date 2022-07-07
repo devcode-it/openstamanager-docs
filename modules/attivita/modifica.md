@@ -19,7 +19,7 @@ description: Come modificare un'attività in OpenSTAManager
 
 # 🖌 Modifica
 
-📖Per modificare un'attività in OpenSTAManager si dovrà cliccare sul record da modificare tra le attività, o sul riquadro dell'attività a calendario da [Dashboard](../dashboard/).
+Per modificare un'attività in OpenSTAManager si dovrà cliccare sul record da modificare tra le attività, o sul riquadro dell'attività a calendario da [Dashboard](../dashboard/).
 
 Una volta aperta la schermata di dettaglio, sarà possibile completare l'attività in tutti i campi supportati. La sezione di modifica è suddivisa in 6 sezioni:
 

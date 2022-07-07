@@ -34,7 +34,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 Una volta selezionati i record interessati è possibile modificarne massivamente lo stato cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (76) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere fra gli stati presenti:
 

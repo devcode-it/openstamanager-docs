@@ -61,7 +61,7 @@ Entrando nella schermata di dettaglio dell'attività e cliccando su Conversazion
 
 E' possibile rispondere al cliente con il tasto Rispondi. Da qui, spuntando Notifica di lettura, si potrà vedere quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/image (32) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (32) (1) (1) (1) (1).png>)
 
 In Attività/Conversazioni invece sarà possibile accedere a una vera e propria chat con il cliente.
 

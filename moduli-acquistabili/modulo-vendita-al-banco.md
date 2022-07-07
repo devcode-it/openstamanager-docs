@@ -64,7 +64,7 @@ Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cass
 
 I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\\
 
-![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1).png>)
 
 Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
 

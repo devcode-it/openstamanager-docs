@@ -55,7 +55,7 @@ Una volta selezionati i record interessati è possibile completare le registrazi
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su Aggiungi si procede alla registrazione delle scritture.
 
-&#x20;                                                  <img src="../../../.gitbook/assets/image (95).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../.gitbook/assets/image (95) (1).png" alt="" data-size="original">
 
 ### 📤 Esportazione stampe FE
 
@@ -121,7 +121,7 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla stampa della fattura elettronica di acquisto se il documento è stato importato dallo SDI.
 
-![](<../../../.gitbook/assets/image (76) (2).png>)
+![](<../../../.gitbook/assets/image (76) (2) (1).png>)
 
 ### 🧬 Duplica fattura
 
@@ -153,7 +153,7 @@ Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le sc
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (77) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.

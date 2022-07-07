@@ -112,7 +112,7 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 * Il contratto si trova in uno stato Completato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (95) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (95) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 

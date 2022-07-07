@@ -51,13 +51,13 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                  ![](<../../../.gitbook/assets/image (95) (1).png>)
+&#x20;                                                  ![](<../../../.gitbook/assets/image (95) (1) (1).png>)
 
 ### ✉️ Invia
 
 Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a inviarlo via mail al fornitore.
 
-![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1) (1).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine fornitore, dove sarà possibile inviare la mail cliccando su invia.
 
@@ -75,7 +75,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere alla 
 Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve essere impostato su Accettato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (60) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

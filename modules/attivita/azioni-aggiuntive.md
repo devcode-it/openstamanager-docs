@@ -111,7 +111,7 @@ Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, p
 
 Cliccando su Stampa si confermerà l'operazione.
 
-![](<../../.gitbook/assets/image (77) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
@@ -159,7 +159,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 * Notifica rimozione intervento
 * Notifica stato intervento
 
-![](<../../.gitbook/assets/image (25) (1) (1).png>)
+![](<../../.gitbook/assets/image (25) (1) (1) (1).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
