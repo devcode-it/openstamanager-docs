@@ -36,7 +36,7 @@ Da qui è possibile impostare:
 * Oggetto
 * Contenuto
 
-![](<../../.gitbook/assets/image (53) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (53) (1) (1) (1) (1) (2).png>)
 
 ### 👥 Aggiunta destinatari
 

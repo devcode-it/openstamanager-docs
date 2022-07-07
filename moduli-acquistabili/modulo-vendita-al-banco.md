@@ -48,7 +48,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
-![](<../.gitbook/assets/image (29) (1) (1).png>)
+![](<../.gitbook/assets/image (29) (1) (1) (1).png>)
 
 ### 🖌️ Modifica
 

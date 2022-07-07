@@ -61,7 +61,7 @@ Chiede di completare i campi:
 
 I promemoria creati verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 
-![](<../../../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 ### 🔁 Pianificazione interventi?
 

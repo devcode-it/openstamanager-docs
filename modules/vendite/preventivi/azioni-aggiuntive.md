@@ -30,7 +30,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (29) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (57) (1) (1).png>)
 
@@ -108,7 +108,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (53) (1).png>)
+![](<../../../.gitbook/assets/image (53) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

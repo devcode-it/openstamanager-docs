@@ -113,7 +113,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile controllare la corrispondenza tra XML e fattura di vendita massivamente cliccando su Azioni di gruppo/Controlla fatture elettroniche.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere alla verifica della corrispondenza tra XML e fatture di vendita.
 
