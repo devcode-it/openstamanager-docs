@@ -136,7 +136,7 @@ Il gestionale chiederà ora l'aliquota IVA da applicare agli articoli selezionat
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                       <img src="../../../.gitbook/assets/image (85) (1) (1).png" alt="" data-size="original">
+&#x20;                                                       <img src="../../../.gitbook/assets/image (85) (1) (1) (1).png" alt="" data-size="original">
 
 ### 💵 Imposta prezzo di acquisto da fattura
 

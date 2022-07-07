@@ -92,7 +92,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Cliccando su Procedi il gestionale procederà alla duplicazione.
 
-![](<../../.gitbook/assets/image (80) (1) (1).png>)
+![](<../../.gitbook/assets/image (80) (1) (1) (1).png>)
 
 Si potranno ora vedere tra le attività i record appena creati.
 

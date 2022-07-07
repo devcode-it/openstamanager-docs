@@ -8,7 +8,7 @@ description: Guida al plugin Listino clienti in OpenSTAManager
 Il plugin **Listino clienti** serve ad inserire il listino clienti dell'articolo
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (85) (1).png>)
+![](<../../../../.gitbook/assets/image (85) (1) (1).png>)
 
 Per aggiungere un nuovo listino cliente si deve selezionare un cliente e cliccare su Prezzi.
 

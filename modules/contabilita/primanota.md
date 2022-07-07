@@ -33,7 +33,7 @@ Dal modulo Prima nota sarà ora possibile visualizzare il movimento appena regis
 
 ![](<../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
-&#x20;                                                  <img src="../../.gitbook/assets/image (85) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../.gitbook/assets/image (85) (1) (1) (1) (1).png" alt="" data-size="original">
 
 ## 🖌️ Modifica
 

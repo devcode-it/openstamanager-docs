@@ -9,6 +9,14 @@ description: Guida al modulo Statistiche in OpenSTAManager
 Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un andamento di _Vendite e acquisti_ e _interventi per tipologia_ nei periodi selezionati.
 {% endhint %}
 
+## ⛵ Navigazione
+
+Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Statistiche.
+
+![](<../.gitbook/assets/image (80).png>)
+
+## 🔽 Informazioni aggiuntive
+
 Il modulo è diviso nelle seguenti sezioni:
 
 #### Vendite e acquisti
@@ -29,7 +37,7 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Ore di lavoro per tecnico
 
-![](<../.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (88) (1).png>)
 
 #### Nuove anagrafiche
 
