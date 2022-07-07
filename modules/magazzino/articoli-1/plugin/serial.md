@@ -14,7 +14,7 @@ Permette l'inserimento di nuovi prodotti numerati grazie alla possibilità di an
 
 Così facendo verrà creata una lista di articoli indicizzati e di conseguenza verrà effettuato un movimento di carico di magazzino per i serial appena inseriti.
 
-![](<../../../../.gitbook/assets/image (84).png>)
+![](<../../../../.gitbook/assets/image (84) (1).png>)
 
 Cliccando su **Aggiungi** appariranno nella tabella i serial appena inseriti con le seguenti informazioni:
 

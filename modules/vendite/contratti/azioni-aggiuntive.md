@@ -30,9 +30,9 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Contratti
 
@@ -73,7 +73,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (88) (1) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (88) (1) (2) (1) (1) (1).png>)
 
 ### 📃 Crea fattura
 
@@ -94,13 +94,13 @@ Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righ
 
 Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
 
-![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
 ![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1) (1) (1).png>)
 
 ### 🔄 Rinnova
 
@@ -122,7 +122,7 @@ Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contra
 
 Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.
 
-![](<../../../.gitbook/assets/image (57) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1) (1) (1) (1).png>)
 
 ### 🧬 Duplica contratto
 
@@ -132,4 +132,4 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua dup
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../.gitbook/assets/image (66) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1) (1) (1) (1).png>)

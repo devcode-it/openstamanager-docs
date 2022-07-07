@@ -9,7 +9,7 @@ description: Come gestire lo scadenzario in OpenSTAManager
 Il modulo **Scadenzario** presenta l'elenco dei pagamenti in entrata e in uscita che non sono ancora stati evasi. Evidenziando in rosso i pagamenti oltre la data di scadenza.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (86) (1) (1).png>)
+![](<../../.gitbook/assets/image (86) (1) (1) (1).png>)
 
 ## ➕ Creazione
 

@@ -33,11 +33,11 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Ore interventi per tipologia
 
-![](<../.gitbook/assets/image (64) (1).png>)
+![](<../.gitbook/assets/image (64) (1) (1).png>)
 
 #### Ore di lavoro per tecnico
 
-![](<../.gitbook/assets/image (64).png>)
+![](<../.gitbook/assets/image (64) (1).png>)
 
 #### Nuove anagrafiche
 

@@ -8,7 +8,7 @@ description: Come gestire gli stati dei preventivi in OpenSTAManager
 Il modulo **Stati dei preventivi** permette di creare e modificare gli stati dei preventivi presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (88).png>)
+![](<../../../.gitbook/assets/image (88) (1).png>)
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative al nuovo stato dei preventivi da 
 * Se fatturabile
 * Icona
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (56) (1).png>)
 
 ## 🖌️ Modifica
 

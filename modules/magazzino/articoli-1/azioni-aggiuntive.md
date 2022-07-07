@@ -39,7 +39,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il prezzo di acquisto cliccando su Azioni di gruppo/Aggiorna prezzo di acquisto.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Distinguendo se applicare uno sconto inserendo un numero negativo, o una maggiorazione senza specificare il segno.
 
@@ -72,7 +72,7 @@ Una volta selezionati i record interessati è possibile modificarne massivamente
 
 Il gestionale chiederà ora il coefficiente di vendita da applicare agli articoli, fare clic su Procedi per confermare.
 
-&#x20;                                                       ![](<../../../.gitbook/assets/image (86) (1).png>)
+&#x20;                                                       ![](<../../../.gitbook/assets/image (86) (1) (1).png>)
 
 ### 🖨️ Stampa etichette
 
@@ -82,13 +82,13 @@ Una volta selezionati i record interessati è possibile stamparne massivamente l
 Nell'articolo deve essere stato inserito un barcode.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (56) (1).png>)
+![](<../../../.gitbook/assets/image (56) (1) (1).png>)
 
 Il gestionale chiederà ora se procedere alla stampa singola o in formato A4 delle etichette.
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                              ![](<../../../.gitbook/assets/image (32) (1).png>)
+&#x20;                                                              ![](<../../../.gitbook/assets/image (32) (1) (1).png>)
 
 ### ✏️ Aggiorna quantità
 
@@ -112,19 +112,19 @@ Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attiv
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1) (1).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1) (1) (2).png>)
 
 ### ✏️ Aggiorna categoria e sottocategoria
 
 Una volta selezionati i record interessati è possibile modificarne massivamente la categoria e la sottocategoria cliccando su Azioni di gruppo/Aggiorna categoria e sottocategoria.
 
-![](<../../../.gitbook/assets/image (42) (1).png>)
+![](<../../../.gitbook/assets/image (42) (1) (1).png>)
 
 Il gestionale chiederà quindi le nuove categoria e sottocategoria da applicare.
 
 Fare clic su Procedi per effettuare le modifiche.
 
-&#x20;                                                                 <img src="../../../.gitbook/assets/image (26) (1).png" alt="" data-size="original">
+&#x20;                                                                 <img src="../../../.gitbook/assets/image (26) (1) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna aliquota IVA
 
@@ -146,7 +146,7 @@ Una volta selezionati i record interessati è possibile impostare massivamente i
 Questa azione può essere effettuata solo per articoli che non hanno già un prezzo di acquisto registrato. Verrà loro applicato il prezzo di acquisto della fattura più recente.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (91) (2) (1).png>)
+![](<../../../.gitbook/assets/image (91) (2) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
@@ -182,7 +182,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il conto predefinito di vendita cliccando su Azioni di gruppo/Aggiorna conto predefinito di vendita.
 
-![](<../../../.gitbook/assets/image (84) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1).png>)
 
 Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 

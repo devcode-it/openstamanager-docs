@@ -27,7 +27,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (43) (1).png>)
+![](<../../../.gitbook/assets/image (43) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (37) (1) (1).png>)
 
@@ -74,7 +74,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere al suo inoltro via mail cliccando su Invia DDT.
 
-![](<../../../.gitbook/assets/image (86).png>)
+![](<../../../.gitbook/assets/image (86) (1).png>)
 
 Si verrà quindi indirizzati al template email compilato con i dati del DDT, dove sarà possibile procedere all'invio cliccando su Invia.
 
@@ -90,4 +90,4 @@ Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua duplicazione cliccando su Duplica DDT
 
-![](<../../../.gitbook/assets/image (66) (1).png>)
+![](<../../../.gitbook/assets/image (66) (1) (1).png>)

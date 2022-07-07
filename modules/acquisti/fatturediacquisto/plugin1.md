@@ -21,7 +21,7 @@ Il modulo fatture di acquisto permette di effettuare diverse azioni massive dall
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta selezionati
 
-![](<../../../.gitbook/assets/image (61) (1).png>)
+![](<../../../.gitbook/assets/image (61) (1) (1).png>)
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
@@ -33,7 +33,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (55) (1) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (2).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -45,13 +45,13 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Si potranno ora vedere tra le fatture di acquisto i record appena creati.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
 Una volta selezionati i record interessati è possibile completare le registrazioni contabili cliccando su Azioni di gruppo/Registrazione contabile
 
-![](<../../../.gitbook/assets/image (103) (1) (1).png>)
+![](<../../../.gitbook/assets/image (103) (1) (1) (1).png>)
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su Aggiungi si procede alla registrazione delle scritture.
 
@@ -77,7 +77,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente g
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
-&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1) (1) (1).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -101,7 +101,7 @@ Una volta selezionati i record interessati è possibile modificarne massivamente
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica dei record selezionati.
 
-&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                                        <img src="../../../.gitbook/assets/image (66) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -137,7 +137,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 
-![](<../../../.gitbook/assets/image (75) (1) (1).png>)
+![](<../../../.gitbook/assets/image (75) (1) (1) (1).png>)
 
 ### 🖊️ Registra contabile
 
@@ -147,13 +147,13 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 
-&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                        <img src="../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 ### 📂 Riapri documento...
 
 Nella schermata di dettaglio di una fattura di vendita di cui è già stato registrato il pagamento, è possibile trovare il tasto Riapri documento.
 
-![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (77) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Cliccando Riapri documento verranno azzerati lo scadenzario e la relativa prima nota.

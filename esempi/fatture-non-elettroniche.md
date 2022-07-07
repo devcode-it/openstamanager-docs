@@ -8,7 +8,7 @@ Per una migliore gestione delle fatture non elettroniche è possibile caricarle 
 
 In caso il **Sezionale** Fatture non elettroniche non sia già predisposto da gestionale, si dovrà andare a crearne uno nuovo in Strumenti/Segmenti, premendo il tasto **Aggiungi (+)**.
 
-![](<../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (93).png>)
 
@@ -24,10 +24,10 @@ Per poter procedere all'esportazione si dovrà ora da Acquisti/Fatture di acquis
 
 ![](<../.gitbook/assets/image (69) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (86) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (86) (1) (1) (1) (1).png>)
 
 Queste non saranno fatture elettroniche ma il formato con cui vengono create nel gestionale è il medesimo.
 
 Premendo **Procedi** sarà possibile selezionare la cartella dove scaricare il file .zip contenente le fatture non elettroniche in formato PDF.
 
-![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (53) (1) (1) (1) (1) (1) (1) (1).png>)

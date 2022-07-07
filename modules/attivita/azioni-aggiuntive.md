@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
@@ -63,7 +63,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../.gitbook/assets/image (103) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (103) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -96,7 +96,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione.
 
 Si potranno ora vedere tra le attività i record appena creati.
 
-![](<../../.gitbook/assets/image (66) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🖨️ Stampa massiva
 
@@ -111,7 +111,7 @@ Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, p
 
 Cliccando su Stampa si confermerà l'operazione.
 
-![](<../../.gitbook/assets/image (77) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
@@ -121,7 +121,7 @@ Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 

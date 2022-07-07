@@ -1,35 +1,26 @@
 ---
 title: Aspetto beni
+description: Come gestire l'aspetto dei prodotti in OpenSTAManager
 ---
 
-# Aspetto beni
+# 🪞 Aspetto beni
 
 {% hint style="info" %}
-Il modulo **Aspetto beni** permette di aggiungere nuovi _aspetti_ al campo _**Aspetto beni**_ nella creazione di un **Ddt**.
+Il modulo **Aspetto beni** permette di aggiungere e modificare gli aspetti dei prodotti presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia aspetto beni](../../../.gitbook/assets/AspettoBeni.PNG)
+![](<../../../.gitbook/assets/image (87).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare un nuovo aspetto si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FLghS4xdOwWlwhRcuO15M%2Ffile.png?alt=media)
+Andrà qui inserita la descrizione del nuovo aspetto da inserire.
 
-## Creazione
+![](<../../../.gitbook/assets/image (36).png>)
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+## 🖌️ Modifica
 
-![Screenshot creazione aspetto beni](../../../.gitbook/assets/AggiuntaAspettoBeni.PNG)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare la descrizione dell'aspetto beni selezionato.
 
-E' sufficiente inserire la _Descrizione_ per creare un nuovo _Aspetto_ per un bene.
-
-![Screenshot creazione aspetto beni](../../../.gitbook/assets/AggiungereAspettoBeni.PNG)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![Screenshot modifica dati aspetto beni](../../../.gitbook/assets/ModificaAspettoBeni.PNG)
+![](<../../../.gitbook/assets/image (42).png>)

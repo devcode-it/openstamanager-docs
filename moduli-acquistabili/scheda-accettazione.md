@@ -46,4 +46,4 @@ Cliccando ora su crea attività, il gestionale chiederà se far firmare per acce
 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre al prodotto.
 
-![](<../.gitbook/assets/image (57) (1) (1).png>)
+![](<../.gitbook/assets/image (57) (1) (1) (1).png>)

@@ -21,7 +21,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Destinatario
 * Causale di trasporto
 
-![](<../../../.gitbook/assets/image (87) (1).png>)
+![](<../../../.gitbook/assets/image (87) (1) (1).png>)
 
 ## 🖌️ Modifica
 

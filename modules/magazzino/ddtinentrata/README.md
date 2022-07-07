@@ -9,7 +9,7 @@ description: Come gestire i DDT in entrata con OpenSTAManager
 Il modulo **DDT in Entrata** permette di registrare un documento di trasporto per la merce in entrata.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (87).png>)
+![](<../../../.gitbook/assets/image (87) (1).png>)
 
 ## ➕ Creazione
 

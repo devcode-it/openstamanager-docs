@@ -32,5 +32,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Colore
 * Note
 
-![](<../../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../../.gitbook/assets/image (53) (1) (1) (1).png>)
 

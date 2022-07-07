@@ -40,4 +40,4 @@ Si aprirà quindi la seguente schermata in cui compilare i campi:
 
 Cliccare su Aggiungi per creare l'utente.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)

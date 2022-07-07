@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (29) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (57) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (57) (1) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Preventivo
 
@@ -75,13 +75,13 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (69) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1) (1).png>)
 
 ### 🧬 Duplica preventivo
 
 Dalla schermata di dettaglio di un preventivo è possibile procedere alla sua duplicazione cliccando su duplica preventivo.
 
-![](<../../../.gitbook/assets/image (42) (1) (1).png>)
+![](<../../../.gitbook/assets/image (42) (1) (1) (1).png>)
 
 ### 📃 Crea nuova revisione...
 
@@ -108,7 +108,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (53) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (53) (1) (1) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

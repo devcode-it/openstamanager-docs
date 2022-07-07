@@ -70,7 +70,7 @@ Per scaricare le fatture passive dai fornitori è necessario cliccare su Fattura
 
 Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
 
-![](<../../.gitbook/assets/image (82) (1) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1) (1).png>)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 

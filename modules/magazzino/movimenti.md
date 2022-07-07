@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo movimento:
 
 Cliccando su Movimenta sarà possibile confermare l'operazione.
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+![](<../../.gitbook/assets/image (77) (1) (1).png>)
 
 ####
 

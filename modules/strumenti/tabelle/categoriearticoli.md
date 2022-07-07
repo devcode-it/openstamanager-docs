@@ -1,54 +1,39 @@
 ---
 title: Categorie articoli
+description: Come gestire le categorie articoli in OpenSTAManager
 ---
 
-# Categorie articoli
+# 💻 Categorie articoli
 
 {% hint style="info" %}
-Il modulo **Categorie articoli** permette di aggiungere nuove _Categorie articoli_ al campo _**Categorie articoli**_ nella creazione di un **Articolo**:
+Il modulo **Categorie articoli** permette di creare e modificare le categorie articolo presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia categorie articoli](../../../.gitbook/assets/CategorieArticoli.PNG)
+![](<../../../.gitbook/assets/image (82).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare una nuova categoria articoli si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F5TkLXCU43kggI96UJRAA%2Ffile.png?alt=media)
-
-## Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F0yJMgaYzV2Vts7W8WVIg%2Ffile.png?alt=media)
-
-E' sufficiente inserire il _Nome_, una _Data_ e un eventuale _Nota_ per creare una nuova **Categorie articoli**.
-
-![Screenshot creazione categorie articoli](../../../.gitbook/assets/AggiungereCategorieArticoli.PNG)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.La sezione di modifica è suddivisa in 2 raggruppamenti:
-
-* Dati
-* Sottocategorie
-
-### Dati
-
-Questo primo raggruppamento permette di modificare i **Dati** inseriti nella creazione,quali:
+Andranno qui inserite le informazioni relative alla nuova categoria articoli da creare:
 
 * Nome
 * Colore
-* Note
+* Nota
 
-![Screenshot modifica categorie articoli](../../../.gitbook/assets/ModificaCategorieArticoli.PNG)
+![](<../../../.gitbook/assets/image (86).png>)
 
-### Sottocategoria
+## 🖌️ Modifica
 
-Dove sarà possibile aggiungere una _**Sottocategoria**_ premendo il tasto ![](../../../.gitbook/assets/+Sottocategoria.PNG)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-![Screenshot aggiungi sottocategoria](../../../.gitbook/assets/ModificaSottoCategorie.PNG)
+* Nome
+* Colore
+* Nota
+* Sottocategorie
 
-E' sufficiente inserire il _Nome_, una _Data_ e un eventuale _Nota_ per creare una nuova **Sottocategoria**.
+![](<../../../.gitbook/assets/image (66).png>)
 
-![Screen sottocategoria creata](../../../.gitbook/assets/SottoCategoriaFinale.PNG)
+Per aggiungere una nuova sottocategoria si dovrà cliccare su (+ Sottocategoria) e inserire Nome e Colore.
+
+![](<../../../.gitbook/assets/image (84).png>)

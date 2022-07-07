@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova cassa previdenziale da
 * Percentuale
 * Indetraibile
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (36) (1).png>)
 
 ## 🖌️ Modifica
 

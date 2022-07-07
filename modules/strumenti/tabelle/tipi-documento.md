@@ -10,7 +10,7 @@ Il modulo **Tipi documento** permette di creare e modificare  i tipi di document
 
 
 
-![](<../../../.gitbook/assets/image (103).png>)
+![](<../../../.gitbook/assets/image (103) (1).png>)
 
 ## ➕ Creazione
 

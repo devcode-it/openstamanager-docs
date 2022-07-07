@@ -22,13 +22,13 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su Procedi si confermerà la fatturazione.
 
-&#x20;                                                          <img src="../../../.gitbook/assets/image (42).png" alt="" data-size="original">
+&#x20;                                                          <img src="../../../.gitbook/assets/image (42) (1).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (75) (1).png>)
 
-![](<../../../.gitbook/assets/image (36) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 

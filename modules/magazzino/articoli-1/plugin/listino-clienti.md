@@ -19,7 +19,7 @@ Si aprirà ora una schermata da cui è possibile specificare due tipi di prezzi:
 * Prezzo specifico
 * Prezzo specifico in base alle quantità
 
-![](<../../../../.gitbook/assets/image (77) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (77) (1) (1) (1).png>)
 
 Attivando il pulsante **Imposta prezzo per questa anagrafica** si potrà inserire il prezzo di acquisto/vendita fisso per questa anagrafica.
 

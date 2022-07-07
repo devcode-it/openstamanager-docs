@@ -91,13 +91,13 @@ Questa sezione permette di inserire le righe descrittive dell'attività che poss
 * Righe generiche
 * Sconti/maggiorazioni
 
-![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2) (1).png>)
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../.gitbook/assets/image (82) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🛅 Allegati
 

@@ -1,39 +1,29 @@
 ---
 title: Porto
+description: Come gestire il porto in OpenSTAManager
 ---
 
-# Porto
+# ⚱ Porto
 
 {% hint style="info" %}
-Il modulo **Porto** permette di aggiungere nuovi tipi di _Porto_ al campo _**Porto**_ nella creazione di un **Ddt**:
+Il modulo **Porto** permette di creare e modificare i porto utilizzabili nei DDT.
 {% endhint %}
 
-![Screenshot interfaccia porto](../../../.gitbook/assets/ScreenPorto.PNG)
+![](<../../../.gitbook/assets/image (26).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare un nuovo porto si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F0McqUhxWcNjkqbML8FPZ%2Ffile.png?alt=media)
+Andrà qui inserita la descrizione del nuovo tipo di porto da creare.
 
-## Creazione
+![](<../../../.gitbook/assets/image (68).png>)
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+## 🖌️ Modifica
 
-![Screenshot creazione porto](../../../.gitbook/assets/AggiuntaPorto.PNG)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-E' sufficiente inserire la _Descrizione_ per creare un nuovo _Porto_.
+* Descrizione
+* Se predefinito
 
-![Screenshot creazione porto](../../../.gitbook/assets/CreazionePorto.PNG)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FW4wvKcjXGjnBDvQn3Pow%2Ffile.png?alt=media)
-
-{% hint style="info" %}
-Spuntando la casella _**Porto predefinito**_ il _porto_ sarà impostato _predefinito_ come _Porto_ predefinito per i _Ddt_.
-{% endhint %}
+![](<../../../.gitbook/assets/image (69).png>)

@@ -16,7 +16,7 @@ Per creare un nuovo Preventivo si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo Preventivo:
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -47,7 +47,7 @@ E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare d
 
 Nelle sezioni successive è invece possibile modificare le righe da inserire a preventivo e gli allegati.
 
-![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
 
 ## 🔧 Plugin
 

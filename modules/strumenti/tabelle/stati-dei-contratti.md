@@ -34,4 +34,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se pianificabile
 * Se Fatturabile
 
-![](<../../../.gitbook/assets/image (39).png>)
+![](<../../../.gitbook/assets/image (39) (1).png>)

@@ -44,7 +44,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (68) (1) (1) (2) (1) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1) (2) (1) (1) (1).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
@@ -68,7 +68,7 @@ I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possib
 
 Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
 
-![](<../.gitbook/assets/image (87) (1) (1).png>)
+![](<../.gitbook/assets/image (87) (1) (1) (1).png>)
 
 Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e da qui sarà possibile chiudere il documento, procedere al pagamento e stamparne lo scontrino.
 

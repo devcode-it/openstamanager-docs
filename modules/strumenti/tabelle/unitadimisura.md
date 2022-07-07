@@ -1,35 +1,26 @@
 ---
 title: Unità di misura
+description: Come gestire le unità di misura in OpenSTAManager
 ---
 
-# Unità di misura
+# 📏 Unità di misura
 
 {% hint style="info" %}
-Il modulo **Unità di misura** permette di aggiungere nuove _Unità di misura_ nel rispettivo campo nella creazione di un **Articolo**:
+Il modulo **Unità di misura** permette di aggiungere e modificare le unità di misura presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia unità di misura](../../../.gitbook/assets/UnitaDiMisura.PNG)
+![](<../../../.gitbook/assets/image (56).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per inserire una nuova unità di misura si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FrzoJINublbO29H0HD4HG%2Ffile.png?alt=media)
+Andrà qui inserito il valore della nuova unità di misura da inserire.
 
-## Creazione
+![](<../../../.gitbook/assets/image (65).png>)
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+## 🖌️ Modifica
 
-![Screenshot creazione unità di misura](../../../.gitbook/assets/AggiuntaUnitaDiMisura.PNG)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare il valore.
 
-E' sufficiente inserire il _Valore_ per creare una nuova **Unità di misura**.
-
-![Screenshot creazione unità di misura](../../../.gitbook/assets/Valore.PNG)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![Screenshot modifica dati unità di misura](../../../.gitbook/assets/ModificaAspettoUnitaDiMisura.PNG)
+![](<../../../.gitbook/assets/image (55).png>)

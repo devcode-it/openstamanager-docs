@@ -22,5 +22,5 @@ Andranno qui inseriti il nome e la descrizione della nuova scadenza da creare.
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare il nome e la descrizione.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (65) (1).png>)
 

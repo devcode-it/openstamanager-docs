@@ -1,41 +1,31 @@
 ---
 title: Causali
+description: Come gestire le causali in OpenSTAManager
 ---
 
-# Causali
+# ❔ Causali
 
 {% hint style="info" %}
-Il modulo **Causali** permette di aggiungere nuove _causali_ al campo _**Causale trasporto**_ nella creazione di un **Ddt**:
+Il modulo **Causali** permette di aggiungere e modificare le causali presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia causali](../../../.gitbook/assets/ScreenCausali.PNG)
+![](<../../../.gitbook/assets/image (103).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare una nuova causale si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FZ9xGXfRzvPwPHNGLFXJL%2Ffile.png?alt=media)
+Andrà qui inserita la descrizione della nuova causale da inserire.
 
-## Creazione
+![](<../../../.gitbook/assets/image (53).png>)
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+## 🖌️ Modifica
 
-![Screenshot creazione causali](../../../.gitbook/assets/AggiuntaCausali.PNG)
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-E' sufficiente inserire la _Descrizione_ per creare una nuova causale.
+* Descrizione
+* Se causale predefinita
+* Se importabile
+* Se abilitare lo storno
 
-![Screenshot creazione causali](../../../.gitbook/assets/AggiungereCausali.PNG)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FgPOb9GtzwxwXZLwAeFWM%2Ffile.png?alt=media)
-
-Spuntando la casella _**Causale predefinita**_ la suddetta causale sarà impostata come causale di trasporto predefinita per i _Ddt_.
-
-Spuntando la casella _**Importabile?**_ la suddetta causale permetterà l'importazione a livello contabile del documento collegato in altri documenti (per esempio, in fatture).
-
-Spuntando la casella _**Abilita storno**_ la suddetta causale permetterà di stornare il documento come nota di credito.
+![](<../../../.gitbook/assets/image (75).png>)

@@ -18,4 +18,4 @@ Il modulo per la creazione delle checklist è raggiungibile attraverso il menu l
 
 Cliccando sulla casella di check sarà possibile visualizzare sulla destra l'utente che ha verificato l'operazione, e la data e ora della conferma.
 
-![](<../../../.gitbook/assets/image (41) (1).png>)
+![](<../../../.gitbook/assets/image (41) (1) (1).png>)

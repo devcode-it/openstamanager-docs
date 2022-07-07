@@ -12,7 +12,7 @@ Il modulo **Impianti** permette all’azienda di gestire le informazioni riguard
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Impianti**.
 
-![](<../../.gitbook/assets/image (65) (1).png>)
+![](<../../.gitbook/assets/image (65) (1) (1).png>)
 
 ## 🖥️ Interfaccia
 

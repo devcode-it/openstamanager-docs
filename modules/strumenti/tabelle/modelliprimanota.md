@@ -9,7 +9,7 @@ description: Come gestire i modelli di prima nota in OpenSTAManager
 Il modulo **Modelli prima nota** permette di creare e modificare i modelli di prima nota presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (57).png>)
+![](<../../../.gitbook/assets/image (57) (1).png>)
 
 ## ➕ Creazione
 
