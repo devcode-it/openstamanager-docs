@@ -65,4 +65,4 @@ E' possibile rispondere al cliente con il tasto Rispondi. Da qui, spuntando Noti
 
 In Attività/Conversazioni invece sarà possibile accedere a una vera e propria chat con il cliente.
 
-![](<../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (51) (1) (1) (1) (1) (1).png>)

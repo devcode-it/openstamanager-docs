@@ -29,7 +29,7 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Numero interventi per tipologia
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27) (1).png>)
 
 #### Ore interventi per tipologia
 

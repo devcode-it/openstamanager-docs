@@ -106,7 +106,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile creare un preventivo cliccando su Azioni di gruppo/Crea preventivo.
 
-![](<../../../.gitbook/assets/image (52) (1).png>)
+![](<../../../.gitbook/assets/image (52) (1) (1).png>)
 
 Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attività e la data.
 
@@ -188,7 +188,7 @@ Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per applicare le modifiche.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1) (1).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1) (1) (1).png>)
 
 ### 💶 Imposta una provvigione
 

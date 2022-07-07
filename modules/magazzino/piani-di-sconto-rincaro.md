@@ -8,7 +8,7 @@ description: Come gestire i piani di sconto e le maggiorazioni in OpenSTAManager
 Il modulo **Piani di sconto/magg.** permette all’azienda di gestire le informazioni riguardanti gli sconti o rincari nei diversi documenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (92) (1).png>)
+![](<../../.gitbook/assets/image (92) (1) (2).png>)
 
 ## ➕ Creazione
 

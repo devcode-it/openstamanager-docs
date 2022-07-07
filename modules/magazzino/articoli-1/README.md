@@ -17,7 +17,7 @@ Il modulo **Articoli** permette all’azienda di gestire le informazioni riguard
 * Valore Magazzino
 * Articoli in Magazzino
 
-![](<../../../.gitbook/assets/image (43) (1).png>)
+![](<../../../.gitbook/assets/image (43) (1) (1).png>)
 
 ## ➕ Creazione
 

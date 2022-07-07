@@ -77,7 +77,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-![](<../../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🗒️ Righe
 

@@ -27,7 +27,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (43).png>)
+![](<../../../.gitbook/assets/image (43) (1).png>)
 
 ![](<../../../.gitbook/assets/image (37) (1) (1).png>)
 

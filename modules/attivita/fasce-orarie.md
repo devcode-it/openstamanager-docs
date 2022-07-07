@@ -33,4 +33,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Abilitare se includere le festività
 * Impostare la fascia oraria come predefinita
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
