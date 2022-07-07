@@ -1,6 +1,6 @@
 ---
 title: Ddt in entrata
-description: Guida al modulo DDT in entrata in OpenSTAManager
+description: Come gestire i DDT in entrata con OpenSTAManager
 ---
 
 # 📥 DDT in entrata

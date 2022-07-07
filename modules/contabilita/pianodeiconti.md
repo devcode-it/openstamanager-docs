@@ -26,7 +26,7 @@ Andranno qui inserite le informazioni relative al nuovo conto:
 * Numero
 * Descrizione
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79) (1).png>)
 
 ## 🖌️ Modifica
 

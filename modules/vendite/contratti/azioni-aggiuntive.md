@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (82) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Contratti
 
@@ -69,7 +69,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 * Contratto
 * Consuntivo contratto
 
-![](<../../../.gitbook/assets/image (52) (1).png>)
+![](<../../../.gitbook/assets/image (52) (1) (1).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
@@ -128,7 +128,7 @@ Esso presenterà le spese e righe del contratto originale, fissando le relative 
 
 Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
 
-![](<../../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (51) (1) (1) (1) (1) (1).png>)
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 

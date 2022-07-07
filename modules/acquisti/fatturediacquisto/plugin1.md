@@ -73,11 +73,11 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
-&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -127,7 +127,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua duplicazione cliccando su duplica fattura.
 
-![](<../../../.gitbook/assets/image (78) (2).png>)
+![](<../../../.gitbook/assets/image (78) (2) (1).png>)
 
 ### 📕 Registra insoluto
 

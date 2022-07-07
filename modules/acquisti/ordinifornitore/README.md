@@ -17,7 +17,7 @@ Per creare un nuovo ordine fornitore si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il fornitore.
 
-![](<../../../.gitbook/assets/image (80).png>)
+![](<../../../.gitbook/assets/image (80) (1).png>)
 
 Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
 

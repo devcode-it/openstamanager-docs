@@ -29,7 +29,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -92,7 +92,7 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Cliccando su Procedi il gestionale procederà alla duplicazione.
 
-![](<../../.gitbook/assets/image (80) (1).png>)
+![](<../../.gitbook/assets/image (80) (1) (1).png>)
 
 Si potranno ora vedere tra le attività i record appena creati.
 
@@ -148,7 +148,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1).png>)
 
 ### ✉️ Invio del rapportino intervento
 

@@ -66,7 +66,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * _Porta SMTP_: `25`
 * _Sicurezza SMTP_: `Nessuna`
 
-![](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (52) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.

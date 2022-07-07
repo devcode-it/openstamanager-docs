@@ -29,7 +29,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (43).png>)
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/image (37) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 

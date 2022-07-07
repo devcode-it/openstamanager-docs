@@ -17,7 +17,7 @@ Per creare un nuovo ordine cliente si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il cliente:
 
-![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+![](<../../../.gitbook/assets/image (83) (1) (1) (1).png>)
 
 Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 

@@ -106,7 +106,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile creare un preventivo cliccando su Azioni di gruppo/Crea preventivo.
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../.gitbook/assets/image (52) (1).png>)
 
 Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attività e la data.
 
@@ -150,7 +150,7 @@ Questa azione può essere effettuata solo per articoli che non hanno già un pre
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
-&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1) (1).png>)
+&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1) (1) (1).png>)
 
 ### ✏️ Aggiorna unità di misura
 
@@ -188,13 +188,13 @@ Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per applicare le modifiche.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1) (1).png>)
 
 ### 💶 Imposta una provvigione
 
 Una volta selezionati i record interessati è possibile impostare massivamente una provvigione cliccando su Azioni di gruppo/Imposta una provvigione.
 
-![](<../../../.gitbook/assets/image (37) (1).png>)
+![](<../../../.gitbook/assets/image (37) (1) (1).png>)
 
 Il gestionale chiederà ora l'agente e la provvigione da applicare.
 

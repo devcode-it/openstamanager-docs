@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
