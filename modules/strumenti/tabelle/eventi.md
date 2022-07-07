@@ -5,10 +5,10 @@ description: Come gestire gli eventi in OpenSTAManager
 # 🎉 Eventi
 
 {% hint style="info" %}
-Il modulo **eventi** permette di creare e modificare gli eventi presenti nel gestionale.
+Il modulo **Eventi** permette di creare e modificare gli eventi presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (51).png>)
+![](<../../../.gitbook/assets/image (51) (1).png>)
 
 ## ➕ Creazione
 

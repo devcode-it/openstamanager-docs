@@ -9,7 +9,7 @@ description: Come gestire i movimenti in Prima nota con OpenSTAManager
 Il modulo **prima nota** è uno strumento che viene utilizzato per registrare movimenti contabili di un'attività. I movimenti sono visualizzabili nel [piano dei conti](pianodeiconti.md).
 {% endhint %}
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
 ## ➕ Creazione
 
@@ -23,7 +23,7 @@ Cliccando sul tasto indicato si potrà procedere a registrare il pagamento della
 
 Si aprirà ora il collegamento allo scadenzario, dove andare a inserire in Pagato l'importo della fattura e cliccare su Registra contabile pagamento.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
 
 Qui si potranno vedere le scritture con i due conti del piano dei conti compilati automaticamente in base alle impostazioni predefinite delle due anagrafiche (cliente e azienda). Si dovrà cliccare su Aggiungi per procedere.
 

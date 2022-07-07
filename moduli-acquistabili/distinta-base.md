@@ -21,4 +21,4 @@ Dopo aver selezionato gli articoli che vanno a formare la distinta, è possibile
 * Produci: incrementa la quantità del prodotto finito e diminuisce la quantità degli articoli che servono a costruirlo
 * Scomponi: diminuisce la quantità del prodotto finito e ripristina la quantità degli elementi che lo compongono.
 
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)

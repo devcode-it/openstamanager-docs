@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato del contratto deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (38) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (38) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -73,7 +73,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (88) (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (88) (1) (2) (1) (1).png>)
 
 ### 📃 Crea fattura
 
@@ -100,7 +100,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
 
 ### 🔄 Rinnova
 
@@ -128,7 +128,7 @@ Esso presenterà le spese e righe del contratto originale, fissando le relative 
 
 Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
 
-![](<../../../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 

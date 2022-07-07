@@ -12,7 +12,7 @@ A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il se
 
 Ponendo l'attenzione sui ricavi si può notare che i ricavi reali sono composti dalla somma delle fatture di vendita già contabilizzate, mentre i ricavi totali sono formati dalla somma di questi e i ricavi previsti da previsionali o sergenti dati esterne.
 
-![](<../.gitbook/assets/image (31) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (31) (1) (1) (1) (1).png>)
 
 Le **previsioni economiche** sono configurabili dal sotto-menu "Previsionale", da cui è possibile creare delle **previsioni di costi e ricavi**, con la possibilità di selezionare la ricorrenza.
 
@@ -24,7 +24,7 @@ C'è inoltre la possibilità per utenti avanzati (o in caso di richiesta ai tecn
 
 Volendo analizzare nel dettaglio tutti i documenti che concorrono a costituire il valore di entrate e uscite, è possibile cliccare sull'importo interessato della tabella e si aprirà una schermata con i riferimenti alle diverse fatture.
 
-![](<../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Inoltre, cliccando sul tasto "**+**" vicino a Ricavi e Costi, sarà possibile vedere la lista dei conti in cui ricavi e costi saranno rispettivamente imputati.
 

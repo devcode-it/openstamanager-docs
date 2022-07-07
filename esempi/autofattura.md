@@ -59,7 +59,7 @@ Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare 
 
 Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 
-![Dettaglio Conto economico](<../.gitbook/assets/image (38) (1) (1) (1) (1).png>)
+![Dettaglio Conto economico](<../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
 
 ![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (76) (1) (1) (1) (1).png>)
 

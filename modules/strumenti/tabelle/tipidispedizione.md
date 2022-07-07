@@ -29,4 +29,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Impostare come predefinita (verrà inserita automaticamente al momento della creazione di un DDT)
 * Rendere obbligatorio il vettore (durante la modifica di un DDT)
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (79) (1).png>)

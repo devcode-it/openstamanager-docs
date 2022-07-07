@@ -91,7 +91,7 @@ I campi obbligatori per creare una sede al volo sono Nome sede e città, si potr
 
 I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](broken-reference/) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
-![](<../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2) (1).png>)
 
 ### 🧑 Referente
 
@@ -109,7 +109,7 @@ I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si p
 
 L'unico campo obbligatorio per creare un'anagrafica di tipo tecnico al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.

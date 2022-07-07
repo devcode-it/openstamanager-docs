@@ -91,7 +91,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere alla creazi
 Il preventivo deve avere lo stato impostato su: Bozza, In attesa di conferma o Rifiutato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (46) (1).png>)
 
 ### ➕ Crea...
 
@@ -108,7 +108,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../../.gitbook/assets/image (53) (1) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

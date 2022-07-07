@@ -29,7 +29,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -41,7 +41,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
-![](<../../.gitbook/assets/image (54) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (54) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (55) (1) (1) (2) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (62) (1) (1) (1).png>)
 
@@ -63,7 +63,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../.gitbook/assets/image (103) (1) (1).png>)
+![](<../../.gitbook/assets/image (103) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -121,7 +121,7 @@ Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (56) (1) (1) (1) (1) (1) (1).png>)
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../esempi/calendario-su-telefono.md).
 
@@ -148,7 +148,7 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../.gitbook/assets/image (79) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1) (1) (1).png>)
 
 ### ✉️ Invio del rapportino intervento
 
@@ -169,7 +169,7 @@ Cliccando sul tipo di documento da inviare si verrà indirizzati al template ema
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
 
-![](<../../.gitbook/assets/image (46) (1).png>)
+![](<../../.gitbook/assets/image (46) (1) (1).png>)
 
 ### 🖊️ Anteprima e firma
 

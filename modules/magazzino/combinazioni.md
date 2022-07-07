@@ -37,11 +37,11 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Attributi
 * Varianti disponibili
 
-![](<../../.gitbook/assets/image (79) (1).png>)
+![](<../../.gitbook/assets/image (79) (1) (1).png>)
 
 Cliccando su **Genera tutte le varianti** verrà creato un nuovo articolo di magazzino con le caratteristiche relative ai valori dell'attributo:
 
-![](<../../.gitbook/assets/image (51) (1).png>)
+![](<../../.gitbook/assets/image (51) (1) (1).png>)
 
 Cliccando su Aggiungi variante invece, sarà possibile associare a ogni valore un articolo esistente dal magazzino.
 

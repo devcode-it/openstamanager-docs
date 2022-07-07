@@ -33,7 +33,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica selezionati.
 
-![](<../../../.gitbook/assets/image (55) (1).png>)
+![](<../../../.gitbook/assets/image (55) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -45,13 +45,13 @@ Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei rec
 
 Si potranno ora vedere tra le fatture di acquisto i record appena creati.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
 Una volta selezionati i record interessati è possibile completare le registrazioni contabili cliccando su Azioni di gruppo/Registrazione contabile
 
-![](<../../../.gitbook/assets/image (103) (1).png>)
+![](<../../../.gitbook/assets/image (103) (1) (1).png>)
 
 Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture selezionate, cliccando su Aggiungi si procede alla registrazione delle scritture.
 
@@ -73,7 +73,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 

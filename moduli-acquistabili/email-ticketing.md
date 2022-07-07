@@ -39,7 +39,7 @@ Per collegare la mail in arrivo all'anagrafica del cliente è necessario andare 
 
 Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin **Ticketing** in cui è possibile andare ad associare uno o più indirizzi email che serviranno poi appunto per l'apertura dell'attività.
 
-![](<../.gitbook/assets/image (56) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (56) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (98) (1) (1).png>)
 
@@ -65,4 +65,4 @@ E' possibile rispondere al cliente con il tasto Rispondi. Da qui, spuntando Noti
 
 In Attività/Conversazioni invece sarà possibile accedere a una vera e propria chat con il cliente.
 
-![](<../.gitbook/assets/image (51) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (51) (1) (1) (1) (1) (1) (1).png>)

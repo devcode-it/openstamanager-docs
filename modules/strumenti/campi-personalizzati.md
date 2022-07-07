@@ -32,7 +32,7 @@ E' importante utilizzare i valori |name| e |value| come suggerito dalle istruzio
 
 Questo produrrà la creazione di un campo "Marca" all'interno dei record del modulo Articoli:
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (91) (2).png>)
 
 {% hint style="danger" %}
 I campi creati in questo modo sono difficili da gestire nelle query del gestionale.

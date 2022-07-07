@@ -39,7 +39,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il prezzo di acquisto cliccando su Azioni di gruppo/Aggiorna prezzo di acquisto.
 
-![](<../../../.gitbook/assets/image (65) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1).png>)
 
 Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Distinguendo se applicare uno sconto inserendo un numero negativo, o una maggiorazione senza specificare il segno.
 
@@ -82,7 +82,7 @@ Una volta selezionati i record interessati è possibile stamparne massivamente l
 Nell'articolo deve essere stato inserito un barcode.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (56).png>)
+![](<../../../.gitbook/assets/image (56) (1).png>)
 
 Il gestionale chiederà ora se procedere alla stampa singola o in formato A4 delle etichette.
 
@@ -130,7 +130,7 @@ Fare clic su Procedi per effettuare le modifiche.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente l'aliquota IVA predefinita cliccando su Azioni di gruppo/Aggiorna aliquota IVA.
 
-![](<../../../.gitbook/assets/image (45).png>)
+![](<../../../.gitbook/assets/image (45) (1).png>)
 
 Il gestionale chiederà ora l'aliquota IVA da applicare agli articoli selezionati.
 
@@ -146,23 +146,23 @@ Una volta selezionati i record interessati è possibile impostare massivamente i
 Questa azione può essere effettuata solo per articoli che non hanno già un prezzo di acquisto registrato. Verrà loro applicato il prezzo di acquisto della fattura più recente.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (91) (2).png>)
+![](<../../../.gitbook/assets/image (91) (2) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 
-&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1) (1) (1).png>)
+&#x20;                                                            ![](<../../../.gitbook/assets/image (63) (1) (1) (1) (1).png>)
 
 ### ✏️ Aggiorna unità di misura
 
 Una volta selezionati i record interessati è possibile modificarne massivamente l'unità di misura cliccando su Azioni di gruppo/Aggiorna unità di misura.
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31) (1).png>)
 
 Il gestionale chiederà quindi l'unità di misura da applicare agli articoli.
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                            <img src="../../../.gitbook/assets/image (102) (1) (1).png" alt="" data-size="original">
+&#x20;                                                            <img src="../../../.gitbook/assets/image (102) (1) (1) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna conto predefinito di acquisto
 
@@ -188,7 +188,7 @@ Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 
 Fare clic su Procedi per applicare le modifiche.
 
-&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1) (1) (1).png>)
+&#x20;                                                             ![](<../../../.gitbook/assets/image (51) (1) (1) (1) (1).png>)
 
 ### 💶 Imposta una provvigione
 
@@ -219,4 +219,4 @@ Dalla schermata di dettaglio di un articolo è possibile procedere alla stampa d
 
 Dalla schermata di dettaglio di un articolo è possibile procedere alla sua duplicazione cliccando su duplica articolo.
 
-![](<../../../.gitbook/assets/image (90) (2) (1).png>)
+![](<../../../.gitbook/assets/image (90) (2) (1) (1).png>)

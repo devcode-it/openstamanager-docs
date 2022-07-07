@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../.gitbook/assets/image (63) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -79,4 +79,4 @@ Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve esse
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1).png>)

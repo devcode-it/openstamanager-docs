@@ -12,7 +12,7 @@ Il modulo **Strumenti** permette di configurare le impostazioni del gestionale.
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Strumenti**.
 
-![](<../../.gitbook/assets/image (88).png>)
+![](<../../.gitbook/assets/image (88) (1).png>)
 
 ## 🖥️ Interfaccia
 

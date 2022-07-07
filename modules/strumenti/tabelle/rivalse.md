@@ -1,41 +1,34 @@
 ---
 title: Rivalse
+description: Come gestire le ritenute previdenziali in OpenSTAManager
 ---
 
-# Rivalse
+# ➖ Ritenute previdenziali
 
 {% hint style="info" %}
-Il modulo **Rivalse** permette di aggiungere nuove _Rivalse_ al relativo campo dei relativi moduli.
+Il modulo **Ritenute previdenziali** permette di creare e modificare le ritenute previdenziali presenti nel gestionale.
 {% endhint %}
 
-![Screenshot interfaccia rivalse](../../../.gitbook/assets/Rivalse.PNG)
+![](<../../../.gitbook/assets/image (31).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare una nuova ritenuta previdenziale si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FWdh22ZyJYhUuFa0VtnjT%2Ffile.png?alt=media)
-
-## Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![Screenshot creazione rivalse](../../../.gitbook/assets/AggiuntaRivalse.PNG)
-
-E' sufficiente inserire una _Descrizione_, la _Percentuale_ e una _Percentuale Indetraibile_ per creare una nuova **Ritenuta di Acconto**.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FK3qW8kkcMt2BaeU7KZCp%2Ffile.png?alt=media)
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![Screenshot modifica dati rivalse](../../../.gitbook/assets/ModificaRivalse.PNG)
-
-Dove sarà possibile modificare:
+Andranno qui inserite le informazioni relative alla nuova ritenuta da creare:
 
 * Descrizione
 * Percentuale
-* Indetraibile
+* Percentuale imponibile
+
+![](<../../../.gitbook/assets/image (45).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+* Descrizione
+* Percentuale
+* Percentuale imponibile
+
+![](<../../../.gitbook/assets/image (79).png>)

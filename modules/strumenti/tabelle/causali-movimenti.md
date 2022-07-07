@@ -1,35 +1,33 @@
-# Causali movimenti
+---
+description: Come gestire le causali movimenti in OpenSTAManager
+---
+
+# 🏷 Causali movimenti
 
 {% hint style="info" %}
-Il modulo **Causali movimenti** permette di aggiungere nuove _Causali_ al tipo di movimento _****_ .
+Il modulo **Causali movimenti** permette di creare e modificare le causali movimenti presenti nel gestionale.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FxqyuTbpAezghXAfUD46Q%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/image (40).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Tabelle** nel link **Strumenti**.
+Per creare una nuova causale movimento si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FmiLEd5zCW8yucRpgE5GS%2Ffile.png?alt=media)
+Andranno qui inserite le informazioni relative alla nuova causale movimento da creare:
 
-## Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F6ZX4QuJMTiQDZike4XDH%2Ffile.png?alt=media)
-
-E' sufficiente inserire una _Descrizione_, un _Nome_ per creare un record di **Causali movimenti**.
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.
-
-Si presenterà quindi questa schermata:
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FKgDHcle5kru6zrbTJVaX%2Ffile.png?alt=media)
-
-Dove sarà possibile modificare:
-
-* Descrizione
 * Nome
-* Movimento di carico
+* Tipo movimento
+* Descrizione
+
+![](<../../../.gitbook/assets/image (55).png>)
+
+## 🖌️ Modifica
+
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
+
+* Nome
+* Tipo movimento
+* Descrizione
+
+![](<../../../.gitbook/assets/image (91).png>)
