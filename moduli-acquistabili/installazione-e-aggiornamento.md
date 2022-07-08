@@ -4,7 +4,7 @@ description: >-
   OpenSTAManager
 ---
 
-# 📘 Installazione
+# 📙 Installazione
 
 OpenSTAManager presenta una struttura modulare appositamente pensata per prevedere l'installazione di moduli aggiuntivi e la personalizzazione di quelli esistenti.
 
