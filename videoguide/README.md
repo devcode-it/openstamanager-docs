@@ -1,9 +1,19 @@
+---
+description: >-
+  Videoguide facili e veloci per approfondire e comprendere nel dettaglio le
+  funzionalità di OpenSTAManager e poterne sfruttare al meglio la potenzialità
+---
+
 # 📓 Videoguide
 
-Videoguide facili e veloci per approfondire e comprendere nel dettaglio le funzionalità di OpenSTAManager e poterne sfruttare al meglio la potenzialità:
+»»» Come creare un preventivo mantenendo il controllo sul consuntivo:
 
-»»» [Come creare un preventivo mantenendo il controllo sul consuntivo](preventivo-consuntivo.md)
+{% content-ref url="preventivo-consuntivo.md" %}
+[preventivo-consuntivo.md](preventivo-consuntivo.md)
+{% endcontent-ref %}
 
-»»» [Dall'inserimento di un'attività alla sua fatturazione](attivita-fatturazione.md)
+»»» Dall'inserimento di un'attività alla sua fatturazione:
 
-Tutti i video sono caricati su Youtube alla pagina: [https://www.youtube.com/channel/UCoToaK4dhDXmcQXi1AnqQ4Q](https://www.youtube.com/channel/UCoToaK4dhDXmcQXi1AnqQ4Q)
+{% content-ref url="attivita-fatturazione.md" %}
+[attivita-fatturazione.md](attivita-fatturazione.md)
+{% endcontent-ref %}
