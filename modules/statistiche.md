@@ -21,7 +21,7 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Vendite e acquisti
 
-![](<../.gitbook/assets/image (89) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (89) (1) (1) (1) (1).png>)
 
 #### I 20 clienti TOP e articoli più venduti per il periodo selezionato
 

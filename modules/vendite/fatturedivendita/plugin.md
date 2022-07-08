@@ -75,7 +75,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
-&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1) (1) (1) (1).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../.gitbook/assets/image (60) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -125,7 +125,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (89) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (89) (1) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 

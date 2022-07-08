@@ -63,7 +63,7 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 
 Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o meno:
 
-![](<../../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🧿 Dettagli cliente
 

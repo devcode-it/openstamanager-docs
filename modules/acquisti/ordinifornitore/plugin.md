@@ -75,7 +75,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere alla 
 Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve essere impostato su Accettato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (60) (1) (1).png>)
+![](<../../../.gitbook/assets/image (60) (1) (1) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

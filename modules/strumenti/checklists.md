@@ -8,7 +8,7 @@ description: Come gestire le Checklists in OpenSTAManager
 Il modulo **Checklists** permette di aggiungere e modificare le checklists da utilizzare nel plugin Checklist.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (89) (1).png>)
 
 ## ➕ Creazione
 

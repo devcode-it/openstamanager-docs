@@ -12,7 +12,7 @@ Il modulo Impianti permette l'Esportazione e l'Eliminazione massiva tramite le A
 
 Una volta selezionati i record interessati è possibile esportarli massivamente cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (60) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV degli impianti selezionati.
 
