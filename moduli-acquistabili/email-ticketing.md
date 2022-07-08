@@ -47,7 +47,7 @@ Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin *
 
 Un cliente invia un messaggio all'email configurata precedentemente in [creazione](email-ticketing.md#creazione).
 
-![](<../.gitbook/assets/image (67) (1) (1).png>)
+![](<../.gitbook/assets/image (67) (1) (1) (1).png>)
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 

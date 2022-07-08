@@ -1,39 +1,36 @@
 ---
 title: Import
+description: Come gestire l'importazione di dati in OpenSTAManager
 ---
 
-# Import
+# 📥 Import
 
 {% hint style="info" %}
-Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nel modulo _Articoli_ o _Anagrafiche._
+Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Articoli, Anagrafiche o Piano dei conti._
 {% endhint %}
 
-![Screenshot interfaccia import](../../.gitbook/assets/screenimport.PNG)
+![](<../../.gitbook/assets/image (67).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
+Per poter procedere all'importazione di dati in OpenSTAManager come prima cosa si deve selezionare il modulo in cui si vorranno importante i dati.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FdAWVofCPICjmomr5eJ1D%2Ffile.png?alt=media)
+Selezionando un modulo sarà ora possibile cliccare sul tasto <img src="../../.gitbook/assets/imp (1).png" alt="" data-size="line"> , che permetterà di scaricare un file CSV di esempio.
 
-## Creazione
-
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
-
-![Screenshot creazione import](../../.gitbook/assets/AggiuntaImport.PNG)
-
-![Screenshot creazione import](../../.gitbook/assets/AggiungiImport.PNG)
-
-Selezionando un modulo sarà visibile un ulteriore pulsante <img src="../../.gitbook/assets/imp (1).png" alt="" data-size="line"> , facendo click con il mouse si aprirà un file CSV di esempio di come importare i dati.\
 È possibile importare tre tipologie di dati:
 
 * Anagrafiche (informazioni sulla creazione del file CSV su [Import anagrafiche](../anagrafiche/import-anagrafiche.md))
 * Articoli (informazioni sulla creazione del file CSV su [Import articoli](../../esempi/import-articoli.md))
 * Articoli (informazioni sulla creazione del file CSV su [Import listini](../magazzino/listini/import-listini.md))
 
-Una volta creato il file CSV e selezionato sul campo **File,** cliccando sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
+Una volta creato il file CSV si dovrà cliccare su Sfogliia nel campo **File,** e andare a selezionarlo per il caricamento. Cliccando ora sul tasto ![](../../.gitbook/assets/+aggiungi.PNG) apparirà questa schermata:
 
 ![Screenshot creazione import](../../.gitbook/assets/CampiImport.PNG)
 
-La quale mostrerà il contenuto di ogni colonna, se l'importazione è stata effettuata tenendo i stessi nomi delle colonne presenti nel file d'esempio i menù a tendina di ogni colonna saranno già selezionati automaticamente, in caso contrario selezionare manualmente le colonne corrispondenti.\
+Da qui è possibile:
+
+* decidere se importare anche la prima riga del file CSV come record
+* definire la chiave primaria dei dati da importare
+* selezionare il nome del campo per ogni colonna
+
 Cliccando su ![](../../.gitbook/assets/AvviaImportazione.PNG) il file viene importato nel modulo specificato.
