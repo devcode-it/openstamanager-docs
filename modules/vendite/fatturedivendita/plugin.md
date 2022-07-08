@@ -65,7 +65,7 @@ Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture sel
 
 In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
 
-![](<../../../.gitbook/assets/image (45) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (45) (1) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe FE
 

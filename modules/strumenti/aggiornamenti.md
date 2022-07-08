@@ -45,7 +45,7 @@ In questa sezione sono disponibili tre opzioni:                                 
 
 * Controlla gestionale: Verifica le voci del piano dei conti collegate alle anagrafiche, la corrispondenza tra XML FE e Documenti di vendita, e le colonne duplicate per le viste.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (1).png>)
 
 ### 🔍 Ricerca aggiornamenti
 

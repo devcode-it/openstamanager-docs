@@ -21,7 +21,7 @@ Andranno qui inserite le informazioni relative alla nuova ritenuta da creare:
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../.gitbook/assets/image (45) (1) (1).png>)
 
 ## 🖌️ Modifica
 
