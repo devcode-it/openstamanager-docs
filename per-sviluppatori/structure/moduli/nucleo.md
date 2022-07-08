@@ -35,7 +35,7 @@ Per maggiori informazioni riguardanti la procedura di personalizzazione, rivolge
 
 ## 📒 Root
 
-I contenuti della cartella _root_ sono estremamente importanti per il progetto, in quanto sono generalmente dedicati a garantire il corretto funzionamento dell'intero gestionale. Questa centralizzazione permette al software di essere estremamente scalabile e personalizzabile, soprattutto in relazione ai moduli. Per maggiori informazioni riguardanti lo sviluppo di un modulo, consultare la sezione [Moduli](../../openstamanager/modules/).
+I contenuti della cartella _root_ sono estremamente importanti per il progetto, in quanto sono generalmente dedicati a garantire il corretto funzionamento dell'intero gestionale. Questa centralizzazione permette al software di essere estremamente scalabile e personalizzabile, soprattutto in relazione ai moduli. Per maggiori informazioni riguardanti lo sviluppo di un modulo, consultare la sezione [Moduli](../../../openstamanager/modules/).
 
 ### 📒 add.php
 
@@ -103,15 +103,15 @@ Il file `log.php` permette di visualizzare le informazioni relative agli ultimi 
 
 ### 📒 composer.json, gulpfile.js, package.json
 
-Per maggiori informazioni questi file, consultare le sezioni [Framework ](../base/framework.md)e [Assets](../base/assets.md).
+Per maggiori informazioni questi file, consultare le sezioni [Framework ](../../base/framework.md)e [Assets](../../base/assets.md).
 
 ## 📒 Cartella api
 
-Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](../../contribuire/structure/broken-reference/).
+Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](../../../contribuire/structure/broken-reference/).
 
 ## 📒 Cartella assets
 
-Per maggiori informazioni riguardanti la cartella `assets` e i suoi contenuti, rivolgersi alla sezione [Assets](../base/assets.md).
+Per maggiori informazioni riguardanti la cartella `assets` e i suoi contenuti, rivolgersi alla sezione [Assets](../../base/assets.md).
 
 ## 📒 Cartella backup
 
@@ -123,7 +123,7 @@ La cartella `docs`, come si può intuire, contiene la documentazione di sviluppo
 
 ## 📒 Cartella files
 
-Per maggiori informazioni riguardanti la cartella `files` e i suoi contenuti, rivolgersi alla sezione [Moduli](../../openstamanager/modules/).
+Per maggiori informazioni riguardanti la cartella `files` e i suoi contenuti, rivolgersi alla sezione [Moduli](../../../openstamanager/modules/).
 
 ## 📒 Cartella include
 
@@ -144,7 +144,7 @@ Si ricorda che è possibile creare una personalizzazione di questa pagina nella 
 La cartella `lib` contiene le librerie personalizzate e le funzioni utilizzate dall'intero gestionale nei diversi moduli.
 
 {% hint style="warning" %}
-**Attenzione**: sono qui presenti solo i metodi generali e comunemente riutilizzati. Per maggiori informazioni riguardanti la locazione delle funzioni specifiche di un modulo, visitare la sezione [Moduli](../../openstamanager/modules/).
+**Attenzione**: sono qui presenti solo i metodi generali e comunemente riutilizzati. Per maggiori informazioni riguardanti la locazione delle funzioni specifiche di un modulo, visitare la sezione [Moduli](../../../openstamanager/modules/).
 {% endhint %}
 
 ### 📒 deprecated.php
@@ -169,7 +169,7 @@ La cartella `locale` contiene tutte le traduzioni del progetto, nei formati tipi
 
 ## 📒 Cartella modules
 
-Per maggiori informazioni riguardanti la cartella `modules` e i suoi contenuti, rivolgersi alla sezione [Moduli](../../openstamanager/modules/). Si ricorda che per tutti i contenuti del modulo è possibile creare una personalizzazione nella cartella `custom`.
+Per maggiori informazioni riguardanti la cartella `modules` e i suoi contenuti, rivolgersi alla sezione [Moduli](../../../openstamanager/modules/). Si ricorda che per tutti i contenuti del modulo è possibile creare una personalizzazione nella cartella `custom`.
 
 ## 📒 Cartella templates
 
@@ -192,5 +192,5 @@ I file `VERSIONE.php` contengono l'insieme di operazioni PHP (e, talvolta, SQL) 
 ## 📒 Cartella vendor
 
 {% hint style="info" %}
-Per maggiori informazioni riguardanti la cartella `vendor` e i suoi contenuti, rivolgersi alla sezione [Framework](../base/framework.md).
+Per maggiori informazioni riguardanti la cartella `vendor` e i suoi contenuti, rivolgersi alla sezione [Framework](../../base/framework.md).
 {% endhint %}

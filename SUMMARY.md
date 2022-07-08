@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📰 Novità](README.md)
+* [📣 Novità](README.md)
 
 ## Openstamanager
 
@@ -213,17 +213,17 @@
 * [📙 Google Maps API key](configurazioni/configurazione-google-maps-api-key.md)
 * [📙 OAuth2](configurazioni/configurazione-oauth2.md)
 
-## Sezione tecnica
+## per sviluppatori
 
-* [📘 Recupero della password](sezione-tecnica/recupero-della-password.md)
-* [📒 Contribuire](sezione-tecnica/contribuire.md)
-* [📒 Personalizzazione](sezione-tecnica/base/README.md)
-  * [🕹 Codice](sezione-tecnica/base/code.md)
-  * [🖥 Framework](sezione-tecnica/base/framework.md)
-  * [💾 Assets](sezione-tecnica/base/assets.md)
-* [📒 Strutture](sezione-tecnica/structure/README.md)
-  * [📒 Moduli](sezione-tecnica/structure/moduli.md)
-    * [📒 Nucleo](sezione-tecnica/structure/nucleo.md)
-    * [📒 Stampe](sezione-tecnica/structure/stampe.md)
-    * [📒 Widget](sezione-tecnica/structure/widget.md)
-    * [📒 Plugin](sezione-tecnica/structure/plugin.md)
+* [📘 Recupero della password](per-sviluppatori/recupero-della-password.md)
+* [📒 Contribuire](per-sviluppatori/contribuire.md)
+* [📒 Personalizzazione](per-sviluppatori/base/README.md)
+  * [🕹 Codice](per-sviluppatori/base/code.md)
+  * [🖥 Framework](per-sviluppatori/base/framework.md)
+  * [💾 Assets](per-sviluppatori/base/assets.md)
+* [📒 Strutture](per-sviluppatori/structure/README.md)
+  * [📒 Moduli](per-sviluppatori/structure/moduli/README.md)
+    * [📒 Nucleo](per-sviluppatori/structure/moduli/nucleo.md)
+    * [📒 Stampe](per-sviluppatori/structure/moduli/stampe.md)
+    * [📒 Widget](per-sviluppatori/structure/moduli/widget.md)
+    * [📒 Plugin](per-sviluppatori/structure/moduli/plugin.md)
