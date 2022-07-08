@@ -25,7 +25,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Utenti che appartengono a questa categoria (con possibilità di crearli al momento)
 * Permessi clienti nella categoria
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (78) (2).png>)
 
 Per creare un nuovo utente a cui assegnare la tipologia utenti appena creata, si dovrà cliccare su Aggiungi utente.
 

@@ -71,7 +71,7 @@ In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili ap
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe FE
 
-![](<../../../.gitbook/assets/image (44) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (44) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 

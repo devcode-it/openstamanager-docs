@@ -127,7 +127,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua duplicazione cliccando su duplica fattura.
 
-![](<../../../.gitbook/assets/image (78) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (78) (2) (1) (1) (1).png>)
 
 ### 📕 Registra insoluto
 

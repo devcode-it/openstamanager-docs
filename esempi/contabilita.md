@@ -1,68 +1,43 @@
-# Incassi e pagamenti
+---
+description: Come gestire gli incassi e pagamenti con OpenSTAManager
+---
 
-OpenSTAManager permette di tenere traccia dei pagamenti scaduti e da effettuare attraverso il modulo **Scadenzario,** è presente sotto la voce **Contabilità** nel menu laterale di OpenSTAManager.
+# 💶 Incassi e pagamenti
 
-![](../.gitbook/assets/scadenzario.png)
+Aprendo il modulo **Scadenzario** è possibile vedere le **Fatture di acquisto** e le **Fattura di vendita** che sono state emesse, suddivise per le scadenze relativamente registrate.
 
-### Visualizzazione scadenze
+Indicate in rosso si potranno notare le fatture che hanno superato la data di scadenza.
 
-Aprendo il modulo **Scadenzario** è possibile vedere le **Fatture di acquisto** e le **Fattura di vendita** in stato **Emessa**, suddivise per le scadenze relativamente registrate\*\*.\*\*
+![](<../.gitbook/assets/image (44).png>)
 
-![](../.gitbook/assets/Scadenzario1.png)
+#### Esempio:&#x20;
 
-Esempio: creo un **Fattura di vendita** inserendo come pagamento **Bonifico 30/60/90/120gg d.f.** mettendola in stato di **Emessa,** nello **Scadenzario** vedrò questa fattura con **Data emissione,** il giorno, mese e anno di quando ho emesso la fattura e come **Data scadenza** le diverse scadenze del pagamento specificato precedentemente.
+Creando un **Fattura di vendita** e inserendo come pagamento **Bonifico 30/60/90/120gg** al momento della sua emissione nello scadenzario saranno generate quattro diverse scadenze.
 
-![](../.gitbook/assets/fatturedivenditaincassiepagamenti.png)
+Queste scadenze avranno la stessa data di emissione, riferimento fattura e importo, ma con data di scadenza diversa in base alla rata.
 
-![](../.gitbook/assets/InterfacciaScandezario.png)
+![](<../.gitbook/assets/image (102).png>)
 
-### Chiudere una fattura
+### 📮 Chiudere una fattura
 
-Quando la **Fattura di vendita** è stata pagata dal cliente, per non visualizzarla più nello **Scadenzario** si possono adottare **3** metodi differenti:
+Quando la **Fattura di vendita** è stata pagata dal cliente, per non visualizzarla più nello **Scadenzario** si possono adottare 2 metodi differenti:
 
-#### 1. Con prima nota (consigliato)
+* Con prima nota (Scopri come dal modulo [Prima nota](https://docs.openstamanager.com/modules/contabilita/primanota#creazione))
+* Da scadenzario (Scopri come dal modulo [Scadenzario](https://docs.openstamanager.com/modules/contabilita/scadenzario#modifica))
 
-Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e successivamente cliccando il tasto ![](../.gitbook/assets/AggiungiPrimaNota.png) , dove apparirà questa schermata:
+### 🪡 Caratteristiche
 
-![](../.gitbook/assets/metodo3.png)
+Nello Scadenzario sono presenti sia le Fatture di acquisto che le Fatture di vendita. Le fatture con importo **positivo** sono **Fatture di vendita,** le fatture con importo **negativo** sono **Fatture di acquisto.**
 
-Cliccando su ![](../.gitbook/assets/+Aggiungi.PNG) andrò ad aggiungere il movimento in prima nota:
+Per tenere traccia dei pagamenti scaduti e da effettuare è necessario filtrare la ricerca andando ad inserire in **Data scadenza** mese e anno, nel seguente formato: mese/anno es. 02/2019.
 
-![](../.gitbook/assets/metodo3-1.png)
+Cosi' facendo sarà possibile vedere i pagamenti scaduti e da effettuare nel mese e anno selezionato. E' possibile filtrare i record inserendo anche solo l'anno 2018.
 
-Così facendo la **fattura** non sarà presente nello **Scadenzario** e sarà visibile il movimento in **Prima nota.**
+### 🖨️ Stampa
 
-#### 2. Da scadenzario
+Il gestionale permette la stampa scadenzario dal tasto sotto alla tabella.
 
-Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](<../.gitbook/assets/salva (2) (2) (3).png>) . Esempio:
-
-![](../.gitbook/assets/metodo2.png)
-
-#### 3. Cambiando solamente lo stato
-
-Quando una **fattura** è stata pagata è possibile toglierla dallo **Scadenzario** cambiando lo stato della fattura da **Emessa** a **Pagato.** Esempio:
-
-![](../.gitbook/assets/Stato.png)
-
-### Caratteristiche
-
-Al momento nello **Scadenzario** sono presenti sia le **Fatture di acquisto** sia le **Fatture di vendita.** Le fatture con importo **positivo** sono **Fatture di vendita,** le fatture con importo **negativo** sono **Fatture di acquisto.** Nelle prossime versioni è prevista la divisione dello **Scadenzario** in **Scadenzario Fatture di vendita** e **Scadenzario Fatture di acquisto.**
-
-Per tenere traccia dei pagamenti scaduti e da effettuare è necessario filtrare la ricerca andando ad inserire in **Data scadenza** mese e anno, nel seguente formato: mese/anno es. 02/2019. Cosi' facendo vedrò i pagamenti scaduti e da effettuare nel mese e anno selezionato. Il filtraggio può essere fatto anche solo digitando l'anno es: 2018.
-
-{% hint style="warning" %}
-I pagamenti scaduti e da effettuare che vanno oltre la **Data di scadenza** saranno visualizzati in **rosso.**
-{% endhint %}
-
-### Stampa
-
-Il gestionale offre anche delle opzioni di **stampa**, presenti sotto la tabella, quali:
-
-* **Stampa scadenzario:** effettua la stampa di tutti i record presenti nello scadenzario.
-* **Scadenzario clienti:** effettua la stampa dei clienti quindi delle **Fatture di vendita**.
-* **Scadenzario fornitori**: effettua la stampa dei fornitori quindi delle **Fatture di acquisto.**
-
-![](../.gitbook/assets/StampaScadenzario.png)
+![](<../.gitbook/assets/image (78).png>)
 
 {% hint style="info" %}
 Se si filtra la ricerca nello **Scadenzario** la stampa visualizzerà solo i record filtrati.

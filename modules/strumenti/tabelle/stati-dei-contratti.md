@@ -8,7 +8,7 @@ description: Come gestire gli stati dei contratti in OpenSTAManager
 Il modulo **Stati dei contratti** permette di creare e modificare gli stati dei contratti presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (102).png>)
+![](<../../../.gitbook/assets/image (102) (1).png>)
 
 ## ➕ Creazione
 

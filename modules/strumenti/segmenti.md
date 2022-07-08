@@ -35,7 +35,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Filtro
 * Posizione
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)
 
 Nella sezione Sezionale sarà possibile creare un nuovo sezionale, impostando:
 

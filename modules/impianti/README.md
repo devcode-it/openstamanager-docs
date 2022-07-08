@@ -18,7 +18,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Imp
 
 Nel menu a tendina è possibile trovare il modulo Categorie impianti.
 
-&#x20;                                                            ![](<../../.gitbook/assets/image (44) (1).png>)
+&#x20;                                                            ![](<../../.gitbook/assets/image (44) (1) (1).png>)
 
 ### 🔧 Plugin
 

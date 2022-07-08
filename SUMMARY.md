@@ -164,7 +164,7 @@
     * [⏫ Backup](modules/strumenti/backup.md)
     * [🔝 Aggiornamenti](modules/strumenti/aggiornamenti.md)
 * [📓 Esempi](esempi/README.md)
-  * [Incassi e pagamenti](esempi/contabilita.md)
+  * [💶 Incassi e pagamenti](esempi/contabilita.md)
   * [Magazzino](esempi/magazzino.md)
   * [Contratti a ore](esempi/contratti-a-ore.md)
   * [Contratti di manutenzione](esempi/assistenza-tecnica.md)

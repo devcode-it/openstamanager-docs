@@ -38,3 +38,7 @@ Nel menu a tendina è possibile trovare i moduli:
 {% content-ref url="scadenzario.md" %}
 [scadenzario.md](scadenzario.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../esempi/contabilita.md" %}
+[contabilita.md](../../esempi/contabilita.md)
+{% endcontent-ref %}
