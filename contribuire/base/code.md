@@ -2,17 +2,18 @@
 title: Codice
 sidebar:
   nav: docs-sidebar
+description: Come modificare il codice di OpenSTAManager
 ---
 
-# Codice
+# 🕹 Codice
 
-OpenSTAManager presenta una struttura nativamente predisposta alla personalizzazione delle funzioni principali: di seguito verranno fornite le specifiche tecniche per modificare il comportamento per le sezioni abilitate in tal senso.
+OpenSTAManager presenta una struttura nativamente predisposta alla personalizzazione delle funzioni principali: di seguito verranno fornite le specifiche tecniche per modificare il codice dove previsto.
 
 {% hint style="warning" %}
 Ogni modifica sui file del gestionale potrebbe provocare errori e problematiche imprevedibili all'interno di OpenSTAManager. Si sconsiglia pertanto di non intraprendere queste azioni se non si è estremamente sicuri delle proprie conoscenza informatiche.
 {% endhint %}
 
-## Struttura
+## 🏗️ Struttura
 
 {% hint style="warning" %}
 Per personalizzare un file è inizialmente necessario copiarlo all'interno della relativa cartella `custom/`.
@@ -36,13 +37,13 @@ OpenSTAManager supporta inoltre la personalizzazione di alcuni contenuti della c
   * `login.php` per i contenuti al login
   * `extra.php` per i contenuti dopo il login
 
-## Esempi
+## 📓 Esempi
 
-## Modifica ordine dei campi
+### 📓 Modifica ordine dei campi
 
 Modulo considerato: **Anagrafiche**.
 
-In base ai campi che si desidera riordinare, potrebbe essere necessario modificare sia il file `modules/anagrafiche/custom/edit.php` \(schermata di modifica del record\) che il file `modules/anagrafiche/custom/add.php` \(schermata di creazione del record\).
+In base ai campi che si desidera riordinare, potrebbe essere necessario modificare sia il file `modules/anagrafiche/custom/edit.php` (schermata di modifica del record) che il file `modules/anagrafiche/custom/add.php` (schermata di creazione del record).
 
 Se si desidera modificare l'ordine dei campi di un modulo nella modifica del record, per esempio _Luogo di nascita_ e _Data di nascita_, modificare il codice HTML di default
 
@@ -68,7 +69,7 @@ nel seguente
 </div>
 ```
 
-## Azioni aggiuntive
+### 📓 Azioni aggiuntive
 
 Modulo considerato: **Anagrafiche**.
 
@@ -80,13 +81,13 @@ Valori standard del campo **op**:
 * Modifica del record: `update`
 * Eliminazione del record: `delete`
 
-## Modifica del comportamento
+### 📓 Modifica del comportamento
 
 Modulo considerato: **Fatture**.
 
 In alcuni casi complessi, può essere necessario modificare più sezioni di codice all'interno del modulo e in sezioni separate. Un esempio può essere individuato nella gestione delle righe delle fatture di OpenSTAManager, nel caso si voglia inserire nel campo _Costo unitario_ il costo aggiuntivo di IVA.
 
-In questo caso, le modifiche dovranno considerare numerosi file poichè il comportamento dovrà essere replicato in modo indipendete in tutte le procedure di creazione/modifica righe \(file `modules/fatture/custom/actions.php` e `modules/fatture/custom/modutil.php`\).
+In questo caso, le modifiche dovranno considerare numerosi file poichè il comportamento dovrà essere replicato in modo indipendete in tutte le procedure di creazione/modifica righe (file `modules/fatture/custom/actions.php` e `modules/fatture/custom/modutil.php`).
 
 Una volta completata la gestione del modulo attraverso oggetti Eloquent, sarà possibile limitare la modifica ai soli file `modules/fatture/custom/src/Articolo.php` e `modules/fatture/custom/src/Riga.php` sovrascrivendo i metodi di base _setSubtotale_ e _setIdIvaAttribute_:
 
@@ -127,4 +128,3 @@ Ovviamente, bisognerà adeguare di conseguenza il file `modules/fatture/custom/r
 ```php
 $result['prezzo'] = ($riga['subtotale'] + $riga['iva']) / $riga['qta'];
 ```
-

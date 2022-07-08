@@ -1,8 +1,6 @@
----
-description: Come creare un preventivo mantenendo il controllo sul consuntivo
----
+# Preventivo/Consuntivo
 
-# 🎥 Preventivo/Consuntivo
+#### Come creare un preventivo mantenendo il controllo sul consuntivo
 
 Per prima cosa si dovrà andare in Vendite/fatture di vendita e creare un nuovo preventivo, che includa tutti i materiali e la manodopera che si ipotizza si dovranno impiegare.
 
