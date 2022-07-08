@@ -1,10 +1,13 @@
-# Nota di credito
+---
+description: Come creare una nota di credito in OpenSTAManager
+---
 
-{% hint style="info" %}
-Come creare una **Nota di credito**.
-{% endhint %}
+# 📄 Nota di credito
 
-Per creare una **Nota di credito** si deve aprire la [**Fattura di vendita**](../modules/vendite/fatturedivendita/) a cui farà riferimento dal menù Vendite/Fatture di vendita, e selezionare Crea/Nota di credito.
+In OpenSTAManager ci sono due modi per creare una nota di credito:
+
+* Creare una nuova [fattura di vendita](https://docs.openstamanager.com/modules/vendite/fatturedivendita#creazione) selezionando TD04 - Nota di credito come tipo di documento
+* A partire dalla fattura di vendita di cui si vuole emettere nota di credito, cliccando su Crea/Nota di credito.
 
 ![](<../.gitbook/assets/image (88) (1) (1) (1) (1) (1) (1).png>)
 

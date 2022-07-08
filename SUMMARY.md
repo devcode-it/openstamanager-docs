@@ -174,7 +174,7 @@
   * [💵 Gestione acconto](esempi/gestione-acconto.md)
   * [📲 Import articoli](esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](esempi/contabilita.md)
-  * [Nota di credito](esempi/nota-di-credito.md)
+  * [📄 Nota di credito](esempi/nota-di-credito.md)
   * [Prezzo di vendita automatico](esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](esempi/magazzino.md)
   * [Sconto combinato](esempi/sconto-combinato.md)

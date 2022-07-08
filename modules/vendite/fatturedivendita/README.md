@@ -92,3 +92,7 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 {% content-ref url="../../../esempi/gestione-acconto.md" %}
 [gestione-acconto.md](../../../esempi/gestione-acconto.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../../esempi/nota-di-credito.md" %}
+[nota-di-credito.md](../../../esempi/nota-di-credito.md)
+{% endcontent-ref %}
