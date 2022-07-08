@@ -83,7 +83,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere alla generazione massiva degli XML cliccando su Azioni di gruppo/Genera fatture elettroniche.
 
-![](<../../../.gitbook/assets/image (69) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla generazione delle fatture elettroniche.
 
@@ -125,7 +125,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente gli XML delle fatture cliccando su Azioni di gruppo/Esporta XML.
 
-![](<../../../.gitbook/assets/image (89) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (89) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
@@ -261,7 +261,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
 
-![](<../../../.gitbook/assets/image (69) (2) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

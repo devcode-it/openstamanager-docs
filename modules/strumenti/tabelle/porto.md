@@ -26,4 +26,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Descrizione
 * Se predefinito
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (69) (2).png>)

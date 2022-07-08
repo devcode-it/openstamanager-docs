@@ -216,4 +216,4 @@ Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../.gitbo
 
 In questo widget è possibile visualizzare lo spazio occupato da Backup, Allegati e Logs.
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)

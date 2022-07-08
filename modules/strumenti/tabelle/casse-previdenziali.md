@@ -8,7 +8,7 @@ description: Come gestire le casse previdenziali in OpenSTAManager
 Il modulo Casse previdenziali permette di creare e modificare le casse previdenziali presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89).png>)
+![](<../../../.gitbook/assets/image (89) (1).png>)
 
 ## ➕ Creazione
 

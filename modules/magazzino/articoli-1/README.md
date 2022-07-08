@@ -87,7 +87,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Fattore moltiplicativo
 * Quantità multipla
 
-![](<../../../.gitbook/assets/image (69) (2).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1).png>)
 
 #### Vendita:
 

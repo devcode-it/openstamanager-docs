@@ -160,7 +160,7 @@
     * [📥 Import](modules/strumenti/import.md)
     * [🖨 Stampe](modules/strumenti/stampe.md)
     * [🚦 Stato dei servizi](modules/strumenti/stato-dei-servizi.md)
-    * [Checklists](modules/strumenti/checklists.md)
+    * [☑ Checklists](modules/strumenti/checklists.md)
     * [Backup](modules/strumenti/backup.md)
     * [Aggiornamenti](modules/strumenti/aggiornamenti.md)
 * [📓 Esempi](esempi/README.md)
