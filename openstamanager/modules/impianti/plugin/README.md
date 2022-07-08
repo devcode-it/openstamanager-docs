@@ -10,10 +10,6 @@ Nella barra laterale destra visualizzabile all'interno di un impianto, si posson
 [interventi-svolti.md](interventi-svolti.md)
 {% endcontent-ref %}
 
-{% content-ref url="componenti-ini.md" %}
-[componenti-ini.md](componenti-ini.md)
-{% endcontent-ref %}
-
 {% content-ref url="componenti-1.md" %}
 [componenti-1.md](componenti-1.md)
 {% endcontent-ref %}

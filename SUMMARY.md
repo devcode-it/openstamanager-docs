@@ -130,7 +130,6 @@
     * [❗ Azioni aggiuntive](openstamanager/modules/impianti/azioni-aggiuntive.md)
     * [🔧 Plugin](openstamanager/modules/impianti/plugin/README.md)
       * [🔚 Interventi svolti](openstamanager/modules/impianti/plugin/interventi-svolti.md)
-      * [🗜 Componenti ini](openstamanager/modules/impianti/plugin/componenti-ini.md)
       * [🔌 Componenti](openstamanager/modules/impianti/plugin/componenti-1.md)
   * [📊 Statistiche](openstamanager/modules/statistiche.md)
   * [🔨 Strumenti](openstamanager/modules/strumenti/README.md)
