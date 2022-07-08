@@ -96,3 +96,7 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 {% content-ref url="../../../esempi/nota-di-credito.md" %}
 [nota-di-credito.md](../../../esempi/nota-di-credito.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../../esempi/prezzo-di-vendita-automatico.md" %}
+[prezzo-di-vendita-automatico.md](../../../esempi/prezzo-di-vendita-automatico.md)
+{% endcontent-ref %}

@@ -1,8 +1,8 @@
-# Prezzo di vendita automatico
+---
+description: Come rendere un prezzo di vendita automatico in OpenSTAManager
+---
 
-{% hint style="info" %}
-Come rendere un prezzo di vendita automatico
-{% endhint %}
+# 👨🏫 Prezzo di vendita automatico
 
 Per fare in modo che il prezzo di vendita di un articolo di magazzino venga calcolato automaticamente si deve andare ad attribuirgli un **Coefficiente di vendita**.
 
