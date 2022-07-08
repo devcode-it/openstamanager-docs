@@ -4,9 +4,9 @@ description: >-
   dall'app tecnici.
 ---
 
-# Calendario su telefono
+# 📲 Calendario su telefono
 
-### 📱 Sistema Android
+## 📱 Sistema Android
 
 L'importazione del calendario attività su sistema Android è possibile tramite l'app iCalSync, scaricabile da playstore ([https://play.google.com/store/search?q=iCalSync\&c=apps](https://play.google.com/store/search?q=iCalSync\&c=apps)).
 

@@ -1,10 +1,10 @@
-# Dichiarazioni d'Intento
+---
+description: Come gestire le dichiarazione d'intento in OpenSTAManager
+---
 
-{% hint style="info" %}
-Come registrare una **Dichiarazione d'intento**.
-{% endhint %}
+# 🙋♂ Dichiarazioni d'Intento
 
-Per registrare una Dichiarazione d'intento \*\*\*\* si deve [creare un'**Anagrafica**](../modules/anagrafiche/creazione.md) cliente o aprire quella del cliente interessato, e selezionare **Dichiarazioni d'Intento** tra i Plugin.
+Per registrare una Dichiarazione d'intento si deve [creare un'**Anagrafica**](../modules/anagrafiche/creazione.md) cliente o aprire quella del cliente interessato, e selezionare [**Dichiarazioni d'Intento**](https://docs.openstamanager.com/modules/anagrafiche/plugin/dichiarazioni-dintento) tra i Plugin.
 
 ![](<../.gitbook/assets/image (21).png>)
 
@@ -14,7 +14,7 @@ Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dat
 
 ![](<../.gitbook/assets/image (65) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-Andando ora a [creare una **Fattura di vendita**](broken-reference) \*\*\*\* per quello specifico cliente, \*\*\*\* si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
+Andando ora a [creare una **Fattura di vendita**](broken-reference) per quello specifico cliente, si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
 
 ![](<../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
