@@ -88,3 +88,7 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 {% content-ref url="../../../esempi/autofattura.md" %}
 [autofattura.md](../../../esempi/autofattura.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../../esempi/gestione-acconto.md" %}
+[gestione-acconto.md](../../../esempi/gestione-acconto.md)
+{% endcontent-ref %}

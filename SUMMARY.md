@@ -171,7 +171,7 @@
   * [⌛ Decreto Rilancio 2020](esempi/decreto-rilancio-2020.md)
   * [🙋♂ Dichiarazioni d'Intento](esempi/dichiarazioni-dintento.md)
   * [📃 Fatture non elettroniche](esempi/fatture-non-elettroniche.md)
-  * [Gestione acconto](esempi/gestione-acconto.md)
+  * [💵 Gestione acconto](esempi/gestione-acconto.md)
   * [📲 Import articoli](esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](esempi/contabilita.md)
   * [Nota di credito](esempi/nota-di-credito.md)
