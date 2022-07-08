@@ -95,7 +95,7 @@ Le fatture dovranno trovarsi nello stato Emessa e non essere mai state generate.
 
 Cliccando su Procedi si confermerà l'operazione e sarà possibile vedere lo stato FE Generata.
 
-![](<../../../.gitbook/assets/image (28) (1) (1).png>)
+![](<../../../.gitbook/assets/image (28) (1) (1) (1).png>)
 
 ### 🖨️ Esportazione stampe
 
@@ -141,7 +141,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -224,7 +224,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere al
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile accedere agli Attributi avanzati cliccando sul rispettivo tasto.
 
-![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1) (1).png>)
 
 Sarà qui possibile andare a modificare i dati da inserire in fattura elettronica in formato XML.
 

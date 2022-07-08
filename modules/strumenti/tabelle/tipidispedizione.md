@@ -17,7 +17,7 @@ Per creare un nuovo tipo di spedizione si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la descrizione del nuovo tipo di spedizione da creare.
 
-![](<../../../.gitbook/assets/image (92) (1).png>)
+![](<../../../.gitbook/assets/image (92) (1) (2).png>)
 
 
 

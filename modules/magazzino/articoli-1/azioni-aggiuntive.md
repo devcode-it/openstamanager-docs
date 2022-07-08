@@ -112,7 +112,7 @@ Il gestionale chiederà ora il nome del preventivo, il cliente, il tipo di attiv
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1) (1) (2).png>)
+&#x20;                                                          ![](<../../../.gitbook/assets/image (68) (1) (1) (2) (1).png>)
 
 ### ✏️ Aggiorna categoria e sottocategoria
 

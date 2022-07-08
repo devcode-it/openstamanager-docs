@@ -17,7 +17,7 @@ Per creare un nuovo porto si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la descrizione del nuovo tipo di porto da creare.
 
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (68) (1).png>)
 
 ## 🖌️ Modifica
 

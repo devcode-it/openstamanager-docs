@@ -40,4 +40,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Esigibilità (fatturazione elettronica)
 * Dicitura fissa in fattura
 
-![](<../../../.gitbook/assets/image (83) (1).png>)
+![](<../../../.gitbook/assets/image (83) (1) (1).png>)

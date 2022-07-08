@@ -64,4 +64,4 @@ Dalla schermata di dettaglio di un DDT in entrata è possibile procedere alla su
 
 Dalla schermata di dettaglio di un DDT in entrata è possibile procedere alla sua duplicazione cliccando su Duplica DDT.
 
-![](<../../../.gitbook/assets/image (92) (1) (2).png>)
+![](<../../../.gitbook/assets/image (92) (1) (2) (1).png>)

@@ -1,36 +1,219 @@
-# Stato dei servizi
+---
+description: Come gestire i moduli in OpenSTAManager
+---
 
-## Moduli
+# 🚦 Stato dei servizi
 
-Visualizza una serie di informazioni relative ai moduli, quali:
+{% hint style="info" %}
+Nel modulo **Stato dei servizi** è possibile abilitare e disabilitare i moduli e i plugin di OpenSTAManager.
+{% endhint %}
+
+![](<../../.gitbook/assets/image (28).png>)
+
+Si possono trovare tre sezioni:
+
+### 🧩 Moduli disponibili
+
+In questa sezione è permesso abilitare e disabilitare i seguenti moduli e plugin:
+
+* Dashboard
+* Anagrafiche
+  * Impianti del cliente
+  * Referenti
+  * Sedi
+  * Statistiche
+  * DDT del cliente
+  * Dichiarazioni d'intento
+  * Storico attività
+  * Allegati
+  * Contratti del cliente
+  * Movimenti contabili
+  * Regole pagamenti
+  * Tipi di anagrafiche
+  * Relazioni
+  * Zone
+* Gestione email
+  * Newsletter
+  * Coda di invio
+  * Liste
+  * Account email
+  * Template email
+* Attività
+  * Impianti
+  * Tipi di attività
+  * Stati di attività
+  * Fasce orarie
+  * Tecnici e tariffe
+  * Voci di servizio
+* Vendite
+  * Preventivi
+    * Consuntivo
+    * Revisioni
+  * Contratti
+    * Consuntivo
+    * Pianificazione attività
+    * Rinnovi
+    * Pianificazione fatturazione
+  * Ordini cliente
+    * Consuntivo
+  * Fatture di vendita
+    * Fatturazione elettronica
+    * Ricevute FE
+    * Movimenti contabili
+    * Registrazioni
+* Gestione documentale
+  * Categorie documenti
+* Impianti
+  * Interventi svolti
+  * Componenti ini
+  * Componenti
+  * Categorie impianti
+* Acquisti
+  * Ordini fornitore
+  * Fatture di acquisto
+    * Fatturazione elettronica
+    * Movimenti contabili
+    * Registrazioni
+* Contabilità
+  * Stampe contabili
+  * Prima nota
+  * Piano dei conti
+  * Scadenzario
+    * Presentazioni bancarie
+* Magazzino
+  * Articoli
+    * Movimenti
+    * Serial
+    * Giacenze
+    * Statistiche
+    * Listino clienti
+    * Listino fornitori
+    * Piani di sconto/magg.
+    * Varianti articolo
+  * Piano di sconto/magg.
+  * Movimenti
+  * Listini
+  * DDT in uscita
+  * DDT in entrata
+  * Giacenze sedi
+  * Attributi combinazioni
+  * Combinazioni
+* Statistiche
+* Strumenti
+  * Viste
+  * Utenti e permessi
+  * Impostazioni
+  * Tabelle
+    * IVA
+    * Causali
+    * Aspetto beni
+    * Unità di misura
+    * Porto
+    * Pagamenti
+    * Categorie articoli
+    * Ritenute acconto
+    * Banche
+    * Modelli prima nota
+    * Tipi di spedizione
+    * Casse previdenziali
+    * Ritenute previdenziali
+    * Stati dei preventivi
+    * Stati dei contratti
+    * Tipi scadenze
+    * Causali movimenti
+    * Tipi documento
+    * Eventi
+    * Mansioni referenti
+  * Segmenti
+  * Import
+  * Campi personalizzati
+  * Stato dei servizi (Questo modulo non può essere disabilitato)
+  * Checklists
+  * Stampe
+  * Backup
+  * Aggiornamenti
+
+Per ogni modulo sarà possibile visualizzare:
 
 * Nome
 * Versione
 * Stato
-* Compatibilità
-* Opzioni
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FlR3We5a7LmBpeGsNKIRf%2Ffile.png?alt=media)
-
-## Attenzione
+* Eliminazione
 
 {% hint style="info" %}
-Cliccando sopra un ingranaggio si può disabilitare un _modulo_
+Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (92).png>)della riga corrispondente.
+
+Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67).png>).
+
+Con il tasto <img src="../../.gitbook/assets/image (68).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
 {% endhint %}
 
-## Widgets
+### 👾 Widget disponibili
 
-Visualizza una serie di informazioni relative ai _Widgets_, quali:
+In questa sezione è possibile abilitare e disabilitare i widget:
+
+#### Dashboard:
+
+* Attività da pianificare
+* Promemoria contratti da pianificare
+* Note interne
+* Scadenze
+* Articoli in esaurimento
+* Preventivi in lavorazione
+* Contratti in scadenza
+* Rate contrattuali
+* Stampa calendario
+* Attività confermate
+* Attività nello stato da programmare
+
+#### Anagrafiche:
+
+* Numero di clienti
+* Numero di tecnici
+* Numero di agenti
+* Numero di fornitori
+* Numero di vettori
+* Tutte le anagrafiche
+
+#### Fatture di vendita:
+
+* Fatturato
+* Crediti da clienti
+
+#### Fatture di acquisto
+
+* Acquisti
+* Debiti verso fornitori
+
+#### Articoli
+
+* Articoli in magazzino
+* Valore magazzino
+* Stampa inventario
+
+#### Stato dei servizi
+
+* Spazio utilizzato
+
+#### Liste newsletter
+
+* Sincronizzazione disiscritti
+
+Per ogni widget sarà possibile visualizzare:
 
 * Nome
-* Posizione
+* Posizione (modulo)
 * Stato
-* Posizione(per modificare la _Posizione_ di un determinato _Widget_)
-
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F703Q2ZOSEQMCdMubuOMg%2Ffile.png?alt=media)
-
-## Attenzione
+* Posizione (schermo)
 
 {% hint style="info" %}
-Cliccando sopra una freccia si può modificare la posizione di un _Widget_
+Per abilitare un widget si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (92).png>)della riga corrispondente.
+
+Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67).png>).
 {% endhint %}
+
+### 🧭 Spazio utilizzato
+
+In questo widget è possibile visualizzare lo spazio occupato da Backup, Allegati e Logs.
+
+![](<../../.gitbook/assets/image (83).png>)
