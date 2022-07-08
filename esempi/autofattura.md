@@ -1,8 +1,8 @@
-# Autofattura
+---
+description: Come emettere un'autofattura con OpenSTAManager
+---
 
-{% hint style="info" %}
-Come emettere un'**Autofattura**
-{% endhint %}
+# 👏 Autofattura
 
 In seguito alla ricezione di una fattura in Reverse Charge o di una fattura estera vi è la necessità di emettere un'autofattura per integrare l'IVA a nostro carico.
 
@@ -20,17 +20,21 @@ Le scritture contabili relative a questi movimenti risulteranno essere le seguen
 
 ![](<../.gitbook/assets/image (47) (1) (1) (1) (1) (1).png>)
 
-Come primo passo si dovrà procede alla registrazione della fattura di acquisto estero ricevuta in via cartacea o all'importazione dal SDI della fattura ricevuta con Reverse Charge
+Come primo passo si dovrà procede alla registrazione della fattura di acquisto estero ricevuta in via cartacea o all'importazione dallo SDI della fattura ricevuta con Reverse Charge
+
+{% hint style="danger" %}
+Questa fattura andrà registrata come la si riceve, non si deve quindi aggiungere manualmente l'IVA.
+{% endhint %}
 
 ![](<../.gitbook/assets/immagine (22).png>)
 
 ![](<../.gitbook/assets/immagine (48) (1).png>)
 
-Aprendo la fattura appena registrata, noteremo un avviso che ci guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi andare su Crea/Autofattura.
+Cliccando sulla fattura appena registrata si accederà alla schermata di dettaglio della stessa, dove sarà possibile notare un avviso che guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi cliccare su Crea/Autofattura.
 
 ![](<../.gitbook/assets/immagine (50) (1) (1) (1).png>)
 
-Si aprirà quindi ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
+Si aprirà ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
 
 * **TD16** – integrazione fattura **reverse charge interno**;
 * **TD17** – integrazione/autofattura per **acquisto servizi dall’estero** (prestazioni reste dal Cedente/Prestatore estero, anche residente nella Repubblica di San Marino o nello Stato della Città del Vaticano, nei confronti di un C/C residente o stabilito nel territorio nazionale);
@@ -45,7 +49,7 @@ Con **Crea autofattura** appariranno ora due avvvisi: il riferimento alla fattur
 
 ![](<../.gitbook/assets/immagine (52) (1).png>)
 
-Andando ad andalizzare le righe si potrà vedere l'IVA per integrazione presente in questo documento.
+Andando ad analizzare le righe si potrà vedere l'IVA per integrazione presente in questo documento.
 
 ![](<../.gitbook/assets/immagine (27).png>)
 
@@ -57,10 +61,12 @@ Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare 
 
 ![](<../.gitbook/assets/immagine (21) (1) (1).png>)
 
-Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
+Andando ad analizzare il piano dei conti sarà ora possibile notare solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 
 ![Dettaglio Conto economico](<../.gitbook/assets/image (38) (1) (1) (1) (1) (1).png>)
 
 ![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (76) (1) (1) (1) (1).png>)
 
 ![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (96) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+
+La procedura di integrazione IVA è terminata.

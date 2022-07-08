@@ -164,7 +164,7 @@
     * [⏫ Backup](modules/strumenti/backup.md)
     * [🔝 Aggiornamenti](modules/strumenti/aggiornamenti.md)
 * [📓 Esempi](esempi/README.md)
-  * [Autofattura](esempi/autofattura.md)
+  * [👏 Autofattura](esempi/autofattura.md)
   * [Calendario su telefono](esempi/calendario-su-telefono.md)
   * [⏱ Contratti a ore](esempi/contratti-a-ore.md)
   * [🧑🔧 Contratti di manutenzione](esempi/assistenza-tecnica.md)
