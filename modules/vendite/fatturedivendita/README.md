@@ -52,7 +52,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Banca azienda
 * Abilitare split payment
 * Abilitare fattura per conto terzi
-* Sconto in fattura
+* Sconto in fattura ([Decreto Rilancio 2020](../../../esempi/decreto-rilancio-2020.md))
 * Ritenuta previdenziale
 * Dischiarazione d'intento
 * Abilitare marca da bollo automatica

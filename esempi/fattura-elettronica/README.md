@@ -1,2 +1,0 @@
-# Fattura elettronica
-
