@@ -1,7 +1,4 @@
 ---
-title: Plugin
-sidebar:
-  nav: docs-sidebar
 description: Guida alla personalizzazione dei plugin in OpenSTAManager
 ---
 

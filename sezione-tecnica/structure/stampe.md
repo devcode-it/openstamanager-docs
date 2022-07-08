@@ -1,7 +1,4 @@
 ---
-title: Stampe
-sidebar:
-  nav: docs-sidebar
 description: Guida alla personalizzazione delle stampe in OpenSTAManager
 ---
 
@@ -17,7 +14,7 @@ La maggior parte delle stampe viene generata attraverso il framework [MPDF](http
 
 ## 📒 Struttura
 
-Ogni stampa e le caratteristiche di default (cartella `templates/base/`) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](../../../contribuire/structure/broken-reference/).
+Ogni stampa e le caratteristiche di default (cartella `templates/base/`) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](../../contribuire/structure/broken-reference/).
 
 Il sistema di template delle stampe presenta una gestione automatica per la sostituzione di alcune variabili comuni:
 

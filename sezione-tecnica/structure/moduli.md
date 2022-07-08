@@ -1,7 +1,4 @@
 ---
-title: Moduli
-sidebar:
-  nav: docs-sidebar
 description: Guida alla struttura dei moduli in OpenSTAManager
 ---
 
@@ -15,9 +12,9 @@ All'interno del progetto, i moduli vengono genericamente definiti quali sistemi 
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
-* [Nucleo](../../../contribuire/structure/broken-reference/);
+* [Nucleo](../../contribuire/structure/broken-reference/);
 * [Stampe](stampe.md);
-* [Widget](../../../contribuire/structure/broken-reference/);
+* [Widget](../../contribuire/structure/broken-reference/);
 * [Plugin](plugin.md).
 
 OpenSTAManager presenta inoltre una struttura nativamente predisposta alla personalizzazione delle funzioni principali, il che rende il progetto ancora più complicato da comprendere a prima vista.
@@ -44,7 +41,7 @@ Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percors
 Il gestionale supporta in modo nativo questa struttura, che può essere ampliata e personalizzata secondo le proprie necessità: si consiglia pertanto di analizzare i moduli **Iva**, **Dashboard** e **Contratti** per esempi di diversa complessità.
 
 {% hint style="warning" %}
-**Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](./#database).
+**Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](moduli.md#database).
 {% endhint %}
 
 ### 📒 actions.php
@@ -119,7 +116,7 @@ Sono permessi i seguenti valori:
     { "main_query": [ { "type": "table", "fields": "Nome, Descrizione", "query": "SELECT `id`, `nome` AS `Nome`, `descrizione` AS `Descrizione` FROM `tabella` WHERE 2=2 HAVING 1=1 ORDER BY `nome`"} ]}
 ```
 
-* Query SQL \[vedasi la tabella [zz\_views](./#zz\_views-e-zz\_group\_view)]
+* Query SQL \[vedasi la tabella [zz\_views](moduli.md#zz\_views-e-zz\_group\_view)]
 
 ```sql
     SELECT |select| FROM `tabella` WHERE 2=2 HAVING 1=1
@@ -149,7 +146,7 @@ Siete dunque pregati di identificare chiaramente tutte le caratteristiche del Vo
 
 ### 📒 Sviluppo
 
-Lo sviluppo del codice deve seguire alcune direttive generali per la corretta interpretazione del codice all'interno del gestionale: ciò comporta una struttura di base fondata sui file precedentemente indicati nella sezione [Struttura](./#struttura) ma ampliabile liberamente.
+Lo sviluppo del codice deve seguire alcune direttive generali per la corretta interpretazione del codice all'interno del gestionale: ciò comporta una struttura di base fondata sui file precedentemente indicati nella sezione [Struttura](moduli.md#struttura) ma ampliabile liberamente.
 
 ### 📒 Test
 

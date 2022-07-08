@@ -192,6 +192,7 @@
 * [📽 Videoguide](guide/videoguide/README.md)
   * [🎥 Attività/Fatturazione](guide/videoguide/attivita-fatturazione.md)
   * [🎥 Preventivo/Consuntivo](guide/videoguide/preventivo-consuntivo.md)
+* [📘 F.A.Q.](guide/domande-comuni.md)
 
 ## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
 
@@ -208,14 +209,13 @@
 
 ## Configurazioni
 
-* [📙 Configurazione API](configurazioni/introduzione/README.md)
+* [📙 API](configurazioni/introduzione/README.md)
   * [📙 Retrieve](configurazioni/introduzione/retrieve.md)
-* [📙 Configurazione Google Maps API key](configurazioni/configurazione-google-maps-api-key.md)
-* [📙 Configurazione OAuth2](configurazioni/configurazione-oauth2.md)
+* [📙 Google Maps API key](configurazioni/configurazione-google-maps-api-key.md)
+* [📙 OAuth2](configurazioni/configurazione-oauth2.md)
 
 ## Sezione tecnica
 
-* [📘 F.A.Q.](sezione-tecnica/domande-comuni.md)
 * [📘 Recupero della password](sezione-tecnica/recupero-della-password.md)
 * [📒 Contribuire](sezione-tecnica/contribuire.md)
 * [📒 Personalizzazione](sezione-tecnica/base/README.md)
@@ -223,8 +223,8 @@
   * [🖥 Framework](sezione-tecnica/base/framework.md)
   * [💾 Assets](sezione-tecnica/base/assets.md)
 * [📒 Strutture](sezione-tecnica/structure/README.md)
-  * [📒 Moduli](sezione-tecnica/structure/moduli/README.md)
-    * [📒 Nucleo](sezione-tecnica/structure/moduli/nucleo.md)
-    * [📒 Stampe](sezione-tecnica/structure/moduli/stampe.md)
-    * [📒 Widget](sezione-tecnica/structure/moduli/widget.md)
-    * [📒 Plugin](sezione-tecnica/structure/moduli/plugin.md)
+  * [📒 Moduli](sezione-tecnica/structure/moduli.md)
+    * [📒 Nucleo](sezione-tecnica/structure/nucleo.md)
+    * [📒 Stampe](sezione-tecnica/structure/stampe.md)
+    * [📒 Widget](sezione-tecnica/structure/widget.md)
+    * [📒 Plugin](sezione-tecnica/structure/plugin.md)

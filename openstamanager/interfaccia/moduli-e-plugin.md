@@ -6,7 +6,7 @@ description: Guida ai moduli e plugin di OpenSTAManager
 
 I moduli sono la componente principale della struttura di OpenSTAManager. Sono progettati per avere una struttura facilmente personalizzabile e mantenere comportamenti indipendenti dal resto del software.
 
-Ogni modulo del gestionale è raggiungibile attraverso il [menu laterale](./#navigazione), ma può presentare una grafica personalizzata sulla base della funzione a cui è dedicato. Esistono però alcune caratteristiche comuni che si possono individuare quasi sempre, descritte in questa pagina.
+Ogni modulo del gestionale è raggiungibile attraverso il menu laterale, ma può presentare una grafica personalizzata sulla base della funzione a cui è dedicato. Esistono però alcune caratteristiche comuni che si possono individuare quasi sempre, descritte in questa pagina.
 
 Per ottenere maggiori informazioni sul funzionamento interno e specifico di un modulo, è necessario visitare la relativa guida dedicata.
 
