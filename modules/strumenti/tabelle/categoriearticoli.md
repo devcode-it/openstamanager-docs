@@ -36,4 +36,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 
 Per aggiungere una nuova sottocategoria si dovrà cliccare su (+ Sottocategoria) e inserire Nome e Colore.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (84) (1).png>)

@@ -51,7 +51,7 @@ Cliccando su Procedi il gestionale procederà alla duplicazione
 
 Si potranno ora vedere tra le fatture di vendita i record appena creati.
 
-![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1) (1).png>)
 
 ### ✏️ Registrazione contabile
 
@@ -65,7 +65,7 @@ Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture sel
 
 In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili appena registrate.
 
-![](<../../../.gitbook/assets/image (45) (1) (1).png>)
+![](<../../../.gitbook/assets/image (45) (1) (1) (1).png>)
 
 ### 📤 Esportazione stampe FE
 
@@ -83,7 +83,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile procedere alla generazione massiva degli XML cliccando su Azioni di gruppo/Genera fatture elettroniche.
 
-![](<../../../.gitbook/assets/image (69) (2) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla generazione delle fatture elettroniche.
 
@@ -212,7 +212,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 
 Cliccando sul tipo di mail da inviare si verrà indirizzati al template email compilato con i dati della fattura, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (32) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (32) (1) (1) (1) (1) (1).png>)
 
 ### 🧬 Duplica fattura
 
@@ -261,7 +261,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
 
-![](<../../../.gitbook/assets/image (69) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

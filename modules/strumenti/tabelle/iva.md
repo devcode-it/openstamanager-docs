@@ -25,7 +25,7 @@ Andranno qui inserite le informazioni relative alla nuova aliquota IVA da creare
 * Indetraibile
 * Esigibilità (fatturazione elettronica)
 
-![](<../../../.gitbook/assets/image (90).png>)
+![](<../../../.gitbook/assets/image (90) (2).png>)
 
 ## 🖌️ Modifica
 
@@ -40,4 +40,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Esigibilità (fatturazione elettronica)
 * Dicitura fissa in fattura
 
-![](<../../../.gitbook/assets/image (83) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)

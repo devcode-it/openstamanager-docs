@@ -19,7 +19,7 @@ Andranno qui inserite le informazioni relative alla nuova voce di servizio:
 * Categoria
 * Descrizione
 
-![](<../../.gitbook/assets/image (67) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

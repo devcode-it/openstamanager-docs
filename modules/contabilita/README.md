@@ -19,7 +19,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Piano dei conti
 * Scadenzario
 
-&#x20;                                                         ![](<../../.gitbook/assets/image (90) (2) (1) (1) (1) (1).png>)
+&#x20;                                                         ![](<../../.gitbook/assets/image (90) (2) (1) (1) (1) (1) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

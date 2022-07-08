@@ -33,4 +33,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
   * Giorno
   * Distanza in giorni
 
-![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+![](<../../../.gitbook/assets/image (83) (1) (1) (1).png>)

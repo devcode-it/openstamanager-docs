@@ -25,7 +25,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
-&#x20;                                                       ![](<../../../.gitbook/assets/image (47) (1) (1) (1).png>)
+&#x20;                                                       ![](<../../../.gitbook/assets/image (47) (1) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -77,7 +77,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente g
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
-&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1) (1) (1) (1) (1) (1).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/image (83) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -143,7 +143,7 @@ Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua registrazione contabile cliccando su Registra contabile.
 
-![](<../../../.gitbook/assets/image (30) (1).png>)
+![](<../../../.gitbook/assets/image (30) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare Aggiungi per confermare le scritture da registrare.
 

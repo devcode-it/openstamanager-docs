@@ -42,4 +42,4 @@ Da qui, nella sezione superiore della pagina, è possibile trovare la funzione D
 
 Dalla schermata di dettaglio di un impianto è possibile procedere alla sua duplicazione cliccando su Duplica impianto.
 
-![](<../../.gitbook/assets/image (32) (1).png>)
+![](<../../.gitbook/assets/image (32) (1) (1).png>)

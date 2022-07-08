@@ -31,4 +31,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Causale
 * Conto dare e avere
 
-![](<../../../.gitbook/assets/image (67) (1) (1).png>)
+![](<../../../.gitbook/assets/image (67) (1) (1) (1).png>)

@@ -143,7 +143,7 @@ Per ogni modulo sarà possibile visualizzare:
 {% hint style="info" %}
 Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (92).png>)della riga corrispondente.
 
-Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67).png>).
+Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67) (1).png>).
 
 Con il tasto <img src="../../.gitbook/assets/image (68).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
 {% endhint %}
@@ -209,11 +209,11 @@ Per ogni widget sarà possibile visualizzare:
 {% hint style="info" %}
 Per abilitare un widget si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (92).png>)della riga corrispondente.
 
-Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67).png>).
+Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../.gitbook/assets/image (67) (1).png>).
 {% endhint %}
 
 ### 🧭 Spazio utilizzato
 
 In questo widget è possibile visualizzare lo spazio occupato da Backup, Allegati e Logs.
 
-![](<../../.gitbook/assets/image (83) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1).png>)

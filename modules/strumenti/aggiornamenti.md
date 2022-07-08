@@ -1,36 +1,62 @@
 ---
 title: Aggiornamenti
+description: Come gestire gli aggiornamenti di OpenSTAManager
 ---
 
-# Aggiornamenti
+# 🔝 Aggiornamenti
 
 {% hint style="info" %}
 Il modulo **Aggiornamenti** offre diverse possibilità, quali:
+
+* Caricare un aggiornamento
+* Controllare il gestionale
+* Cercare aggiornamenti
+* Verificare i requisiti
 {% endhint %}
 
-* Carica un aggiornamento
-* Ricerca aggiornamenti
+![](<../../.gitbook/assets/image (104).png>)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FlUD3RDe6eocs2waU28w7%2Ffile.png?alt=media)
+In questo modulo si possono trovare quattro sezioni:
 
-## Navigazione
+* [Carica un aggiornamento](aggiornamenti.md#carica-un-aggiornamento)
+* [Verifica l'integrità dell'installazione](aggiornamenti.md#verifica-lintegrita-dellinstallazione)
+* [Ricerca aggiornamenti](aggiornamenti.md#ricerca-aggiornamenti)
+* [Requisiti](aggiornamenti.md#requisiti)
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
+### ⬆️ Carica un aggiornamento
 
-![Screenshot navigazione aggiornamenti](../../.gitbook/assets/NavigazioneAggiornamenti.png)
+Per caricare un aggiornamento si deve cliccare su Sfoglia, selezionare la release in formato ZIP da caricare, e cliccare su Carica.
 
-## Carica un aggiornamento
+&#x20;                                                      <img src="../../.gitbook/assets/image (83).png" alt="" data-size="original">
 
-Form che permette di caricare:
+### ⤵️ Verifica l'integrità dell'installazione
 
-![Form di caricamento di un aggiornamento](../../.gitbook/assets/ScreenAggiornamenti.PNG)
+In questa sezione sono disponibili tre opzioni:                                                     &#x20;
 
-* aggiornamenti del gestionale
-* Innesti di moduli
-* Innesti di plugin
+![](<../../.gitbook/assets/image (67).png>)
 
-## Ricerca aggiornamenti
+* Controlla file: Mostra l'elenco dei file che presentano checksum diverso da quello registrato nella versione ufficiale.
 
-![Screenshot ricerca aggiornamenti](../../.gitbook/assets/RicercaAggiornamenti.PNG)
+![](<../../.gitbook/assets/image (30).png>)
 
-Cliccando su _Ricerca_ il programma fa un controllo automatico della presenza di aggiornamenti del gestionale
+* Controlla database: Mostra l'elenco dei file che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
+
+![](<../../.gitbook/assets/image (47).png>)
+
+* Controlla gestionale: Verifica le voci del piano dei conti collegate alle anagrafiche, la corrispondenza tra XML FE e Documenti di vendita, e le colonne duplicate per le viste.
+
+![](<../../.gitbook/assets/image (45).png>)
+
+### 🔍 Ricerca aggiornamenti
+
+Permette di verificare la presenza di aggiornamenti e in caso siano disponibili, scaricarli.
+
+![](<../../.gitbook/assets/image (32).png>)
+
+
+
+### 👁️‍🗨️ Requisiti
+
+Questa sezione mostra che requisiti per il corretto funzionamento di OpenSTAManager vengono soddisfatti e quali no.
+
+![](<../../.gitbook/assets/image (84).png>)

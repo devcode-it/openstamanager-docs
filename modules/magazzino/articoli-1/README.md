@@ -9,7 +9,7 @@ description: Come gestire gli Articoli in OpenSTAManager
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (47) (1) (1).png>)
+![](<../../../.gitbook/assets/image (47) (1) (1) (1).png>)
 
 ### 👾 Widget
 
@@ -87,7 +87,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Fattore moltiplicativo
 * Quantità multipla
 
-![](<../../../.gitbook/assets/image (69) (2) (1).png>)
+![](<../../../.gitbook/assets/image (69) (2) (1) (1).png>)
 
 #### Vendita:
 
@@ -99,7 +99,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Volume
 * Conto predefinito di vendita
 
-![](<../../../.gitbook/assets/image (84) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1).png>)
 
 E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
 

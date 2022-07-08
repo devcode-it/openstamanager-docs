@@ -16,7 +16,7 @@ Per creare una nuova mansione referente si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la mansione referente da creare.
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (32) (1).png>)
 
 ## 🖌️ Modifica
 

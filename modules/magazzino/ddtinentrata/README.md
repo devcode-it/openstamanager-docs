@@ -21,7 +21,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Mittente
 * Causale di trasporto
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (30) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -46,7 +46,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Righe
 * Allegati
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (47) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

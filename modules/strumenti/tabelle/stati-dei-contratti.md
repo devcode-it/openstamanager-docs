@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative al nuovo evento da creare:
 * Se Fatturabile
 * Icona
 
-![](<../../../.gitbook/assets/image (90) (2).png>)
+![](<../../../.gitbook/assets/image (90) (2) (1).png>)
 
 ## 🖌️ Modifica
 

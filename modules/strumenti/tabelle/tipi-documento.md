@@ -35,4 +35,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Scegliere se attivare
 * Reversed
 
-![](<../../../.gitbook/assets/image (104).png>)
+![](<../../../.gitbook/assets/image (104) (1).png>)

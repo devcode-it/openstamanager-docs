@@ -42,7 +42,7 @@ Da qui è possibile impostare:
 
 Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o selezionare una o più liste.
 
-![](<../../.gitbook/assets/image (67) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (67) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### 🛅 Allegati
 

@@ -30,7 +30,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1).png>)
 
@@ -83,7 +83,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua fat
 Il contratto deve avere almeno una riga inserita e il suo stato deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (67) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (67) (1) (1) (1) (1) (1) (1).png>)
 
 Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righe da importare del contratto e impostare le opzioni generali delle righe:
 

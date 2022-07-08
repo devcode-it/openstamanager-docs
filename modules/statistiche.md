@@ -25,7 +25,7 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### I 20 clienti TOP e articoli più venduti per il periodo selezionato
 
-![](<../.gitbook/assets/image (104) (1).png>)
+![](<../.gitbook/assets/image (104) (1) (1).png>)
 
 #### Numero interventi per tipologia
 

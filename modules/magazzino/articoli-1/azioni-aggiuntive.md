@@ -45,7 +45,7 @@ Il gestionale chiederà ora la percentuale di sconto/magg. da applicare. Disting
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                              <img src="../../../.gitbook/assets/image (47) (1).png" alt="" data-size="original">
+&#x20;                                                              <img src="../../../.gitbook/assets/image (47) (1) (1).png" alt="" data-size="original">
 
 ### ✏️ Aggiorna prezzo di vendita
 
@@ -88,7 +88,7 @@ Il gestionale chiederà ora se procedere alla stampa singola o in formato A4 del
 
 Fare clic su Procedi per confermare.
 
-&#x20;                                                              ![](<../../../.gitbook/assets/image (32) (1) (1).png>)
+&#x20;                                                              ![](<../../../.gitbook/assets/image (32) (1) (1) (1).png>)
 
 ### ✏️ Aggiorna quantità
 
@@ -130,7 +130,7 @@ Fare clic su Procedi per effettuare le modifiche.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente l'aliquota IVA predefinita cliccando su Azioni di gruppo/Aggiorna aliquota IVA.
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../.gitbook/assets/image (45) (1) (1).png>)
 
 Il gestionale chiederà ora l'aliquota IVA da applicare agli articoli selezionati.
 
@@ -182,7 +182,7 @@ Fare clic su Procedi per confermare.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente il conto predefinito di vendita cliccando su Azioni di gruppo/Aggiorna conto predefinito di vendita.
 
-![](<../../../.gitbook/assets/image (84) (1) (1).png>)
+![](<../../../.gitbook/assets/image (84) (1) (1) (1).png>)
 
 Il gestionale chiederà ora il conto bancario da impostare come predefinito.
 
@@ -219,4 +219,4 @@ Dalla schermata di dettaglio di un articolo è possibile procedere alla stampa d
 
 Dalla schermata di dettaglio di un articolo è possibile procedere alla sua duplicazione cliccando su duplica articolo.
 
-![](<../../../.gitbook/assets/image (90) (2) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (90) (2) (1) (1) (1) (1).png>)

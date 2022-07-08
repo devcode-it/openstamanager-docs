@@ -19,7 +19,7 @@ Andranno qui inserite le informazioni relative al nuovo attributo:
 * Nome
 * Titolo
 
-![](<../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (83) (1) (1) (1) (1) (1).png>)
 
 ## 🖌️ Modifica
 

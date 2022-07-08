@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova checklist:
 * Modulo del template
 * Plugin del template
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (83) (1).png>)
 
 ## 🖌️ Modifica
 
@@ -31,4 +31,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Contenuto
 * Genitore
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (69) (2).png>)

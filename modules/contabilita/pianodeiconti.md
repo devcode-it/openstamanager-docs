@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo conto:
 
 ## 🖌️ Modifica
 
-Per modificare un conto si deve cliccare sul tasto <img src="../../.gitbook/assets/image (84) (1) (1) (1) (1).png" alt="" data-size="original">.
+Per modificare un conto si deve cliccare sul tasto <img src="../../.gitbook/assets/image (84) (1) (1) (1) (1) (1).png" alt="" data-size="original">.
 
 Da qui sarà possibile modificare:
 
