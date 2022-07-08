@@ -1,16 +1,12 @@
-# Fatture non elettroniche
+---
+description: Come gestire le fatture non elettroniche con OpenSTAManager
+---
 
-{% hint style="info" %}
-Come gestire le **Fatture** **non elettroniche**
-{% endhint %}
+# 📃 Fatture non elettroniche
 
 Per una migliore gestione delle fatture non elettroniche è possibile caricarle manualmente e raggrupparle in un distinto **Sezionale**, che ne permette la rapida esportazione e stampa.
 
-In caso il **Sezionale** Fatture non elettroniche non sia già predisposto da gestionale, si dovrà andare a crearne uno nuovo in Strumenti/Segmenti, premendo il tasto **Aggiungi (+)**.
-
-![](<../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
-
-![](<../.gitbook/assets/image (93).png>)
+In caso il **Sezionale** Fatture non elettroniche non sia già predisposto da gestionale, si dovrà andare a [crearne uno nuovo](https://docs.openstamanager.com/modules/strumenti/segmenti#creazione).
 
 Qui si dovranno andare a inserire il Nome e il modulo a cui il nostro sezionale dovrà riferirsi.
 
