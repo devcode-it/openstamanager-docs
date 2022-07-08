@@ -1,14 +1,16 @@
-# Contratti di manutenzione
+---
+description: Come gestire un contratto di manutenzione con OpenSTAManager
+---
+
+# 🧑🔧 Contratti di manutenzione
 
 {% hint style="info" %}
-Come creo dei contratti di manutenzione su impianti, dispositivi o macchine?
+Per registrare un **contratto** di manutenzione relativo a un determinato impianto si deve procedere alla [creazione di un contratto](https://docs.openstamanager.com/modules/vendite/contratti#creazione), la schermata che si presenterà sarà questa:
 {% endhint %}
-
-Per registrare un **contratto** di manutenzione relativo a un determinato impianto si deve procedere alla creazione di un contratto, la schermata che si presenterà sarà questa:
 
 ![](<../.gitbook/assets/immagine (6) (1).png>)
 
-Dopo aver compilato tutti i campi richiesti si andrà a selezionare l'impianto interessato sotto la voce Impianti, andando eventualmente a crearne uno di nuovo cliccando su (+).
+Dopo aver compilato tutti i campi richiesti si andrà a selezionare l'impianto interessato sotto la voce Impianti, creandone eventualmente [uno al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo) cliccando su (+).
 
 Scorrendo alla scheda Costi unitari sarà possibile andare a specificare i costi fissi di chiamata e quelli relativi ai tecnici.
 
