@@ -71,3 +71,7 @@ Ogni modulo della sezione Magazzino presenta plugin specifici legati alle sue fu
 {% content-ref url="combinazioni.md" %}
 [combinazioni.md](combinazioni.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../esempi/magazzino.md" %}
+[magazzino.md](../../esempi/magazzino.md)
+{% endcontent-ref %}

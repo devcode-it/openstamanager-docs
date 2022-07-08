@@ -1,8 +1,8 @@
-# Contratti a ore
+---
+description: Come gestire i contratti a ore con OpenSTAManager
+---
 
-{% hint style="info" %}
-Come gestire il **Consuntivo** di un contratto a ore?
-{% endhint %}
+# ⏱ Contratti a ore
 
 Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Contratto](broken-reference/), e successivamente creare delle **Attività** collegate.
 
@@ -16,7 +16,7 @@ Lo stato dei contratti è verificabile in Strumenti/Tabelle/Stati dei contratti.
 
 ![](<../.gitbook/assets/immagine (12) (1) (1).png>)
 
-Si potrà ora [creare un'**Attività**](../modules/attivita/creazione.md) \*\*\*\* a cui collegare il **Contratto** appena creato. Le ore di lavoro inserite verranno scalate dal **Budget ore** del contratto.
+Si potrà ora [creare un'**Attività**](../modules/attivita/creazione.md) a cui collegare il **Contratto** appena creato. Le ore di lavoro inserite verranno scalate dal **Budget ore** del contratto.
 
 ![](<../.gitbook/assets/immagine (37) (1) (1).png>)
 
