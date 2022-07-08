@@ -1,64 +1,54 @@
 ---
 title: Segmenti
+description: Come gestire i segmenti in OpenSTAManager
 ---
 
-# Segmenti
+# 🪢 Segmenti
 
 {% hint style="info" %}
 Il modulo **Segmenti** permette di aggiungere delle opzioni selezionabili nei campi di creazione di un record di un determinato modulo.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F7emicrlOBkQjrLV89Zkz%2Ffile.png?alt=media)
+![](<../../.gitbook/assets/image (82).png>)
 
-## Navigazione
+## ➕ Creazione
 
-Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il link **Strumenti**.
+Per creare una nuova tipologia di segmento si dovrà cliccare sul tasto (+).
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FuC83LDqWdUrAPLJksXXc%2Ffile.png?alt=media)
+Andranno qui inserite le informazioni relative al nuovo segmento:
 
-## Creazione
+* Nome
+* Maschera
+* Modulo
+* Se predefinito
+* Note
 
-La creazione di nuovi elementi segue il funzionamento standard del gestionale, necessitando il click sul pulsante apposito all'interno dell'intestazione del modulo.
+![](<../../.gitbook/assets/image (23).png>)
 
-Dove si avranno questi campi da compilare:
+## 🖌️ Modifica
 
-![Screenshot creazione segmenti](../../.gitbook/assets/AggiungereSegmenti.PNG)
-
-Per concludere la creazione di un _segmento_ cliccare su **Aggiungi**, dove comparirà questa schermata:
-
-![Screenshot creazione segmento](../../.gitbook/assets/CreazioneSegmento.PNG)
-
-_Spuntare_ **Predefinito** _per rendere il segmento predefinito._
-
-## Modifica
-
-La sezione di modifica degli elementi del modulo segue il sistema standard del gestionale, necessitando il click sulla riga relativa al _record_ all'interno della tabella della schermata principale.La sezione di modifica è suddivisa in 2 raggruppamenti:
-
-* Segmento
-* Sezionale
-
-Si presenterà quindi questa schermata:
-
-![Screenshot modifica segmento](../../.gitbook/assets/ModificaSegmenti.PNG)
-
-### Segmento
-
-Nella sezione _**Segmento**_ è possibile modificare:
+Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
 * Nome
 * Modulo
-* Predefinito
+* Se predefinito
 * Filtro
 * Posizione
 
-### Sezionale
+![](<../../.gitbook/assets/image (44).png>)
 
-Nella sezione _**Sezionale**_ è possibile fare la spunta su:
+Nella sezione Sezionale sarà possibile creare un nuovo sezionale, impostando:
 
-* Sezionale fiscale
-* Predefinito note di credito(per renderlo predefinito per le note di credito)
-* Predefinito note di debito(per renderlo predefinito per le note di debito)
+* Maschera
+* Se sezionale fiscale
+* Se predefinito
 
-## Istruzioni per il campo maschera
+![](<../../.gitbook/assets/image (59).png>)
 
-![Screenshot istruzioni per il campo maschera](../../.gitbook/assets/IstruzioniMaschera.PNG)
+#### Come impostare il campo Maschera:
+
+{% hint style="info" %}
+* **####** Numero progressivo del documento, con zeri non significativi per raggiungere il numero desiderato di caratteri (#)
+* **YYYY** Anno corrente a 4 cifre
+* **yy** Anno corrente a due cifre
+{% endhint %}

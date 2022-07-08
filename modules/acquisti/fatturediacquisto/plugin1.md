@@ -85,7 +85,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile esportare massivamente le ricevute cliccando su Azioni di gruppo/Esporta ricevute.
 
-![](<../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle ricevute delle fatture selezionate.&#x20;
 
@@ -133,7 +133,7 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

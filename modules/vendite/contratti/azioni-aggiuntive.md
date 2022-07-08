@@ -32,7 +32,7 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 
 ![](<../../../.gitbook/assets/image (84) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (82) (1) (1) (1) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Contratti
 
@@ -116,7 +116,7 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 
-![](<../../../.gitbook/assets/image (44) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (44) (1) (1) (1) (1).png>)
 
 Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contratti.
 

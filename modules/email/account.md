@@ -13,7 +13,7 @@ Questo modulo è complementare a [**Template email**](template.md), che si occup
 
 Il modulo si presenta con la seguente schermata:
 
-![](<../../.gitbook/assets/image (23) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (23) (1) (1) (1) (1) (2).png>)
 
 ## ➕ Creazione
 

@@ -31,7 +31,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente g
 
 Il gestionale chiederà quindi conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 
-&#x20;                                                                <img src="../../../.gitbook/assets/image (59).png" alt="" data-size="original">
+&#x20;                                                                <img src="../../../.gitbook/assets/image (59) (1).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 

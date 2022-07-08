@@ -71,7 +71,7 @@ In Contabilità/Prima nota sarà ora possibile trovare le scritture contabili ap
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe FE
 
-![](<../../../.gitbook/assets/image (44) (1) (1).png>)
+![](<../../../.gitbook/assets/image (44) (1) (1) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio di PDF delle fatture di vendita selezionate.
 
@@ -129,7 +129,7 @@ Una volta selezionati i record interessati è possibile esportare massivamente g
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio degli XML delle fatture selezionate.
 
-&#x20;                                                      ![](<../../../.gitbook/assets/image (23) (1).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -251,7 +251,7 @@ Cliccando sul tipo di azione da svolgere si verrà indirizzata alla schermata di
 
 Dalla schermata di dettaglio di una fattura di vendita è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
 
-![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1) (1).png>)
 
 Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
 

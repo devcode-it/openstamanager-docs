@@ -156,7 +156,7 @@
       * [🪞 Aspetto beni](modules/strumenti/tabelle/aspettobeni.md)
       * [❔ Causali](modules/strumenti/tabelle/causali.md)
       * [👨🏭 Mansioni referenti](modules/strumenti/tabelle/mansioni-referenti.md)
-    * [Segmenti](modules/strumenti/segmenti.md)
+    * [🪢 Segmenti](modules/strumenti/segmenti.md)
     * [Import](modules/strumenti/import.md)
     * [Stampe](modules/strumenti/stampe.md)
     * [Stato dei servizi](modules/strumenti/stato-dei-servizi.md)

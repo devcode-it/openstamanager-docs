@@ -13,7 +13,7 @@ Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un anda
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Statistiche.
 
-![](<../.gitbook/assets/image (80) (1).png>)
+![](<../.gitbook/assets/image (80) (1) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

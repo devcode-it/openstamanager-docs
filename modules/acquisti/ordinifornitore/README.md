@@ -17,7 +17,7 @@ Per creare un nuovo ordine fornitore si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il fornitore.
 
-![](<../../../.gitbook/assets/image (80) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (80) (1) (1) (1) (1).png>)
 
 Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
 
@@ -40,7 +40,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Righe
 * Allegati
 
-![](<../../../.gitbook/assets/image (59) (1) (1).png>)
+![](<../../../.gitbook/assets/image (59) (1) (1) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 

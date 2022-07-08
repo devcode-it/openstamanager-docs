@@ -9,7 +9,7 @@ description: Come gestire le categorie articoli in OpenSTAManager
 Il modulo **Categorie articoli** permette di creare e modificare le categorie articolo presenti nel gestionale.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (82).png>)
+![](<../../../.gitbook/assets/image (82) (1).png>)
 
 ## ➕ Creazione
 
