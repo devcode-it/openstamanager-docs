@@ -177,7 +177,7 @@
   * [📄 Nota di credito](esempi/nota-di-credito.md)
   * [👨🏫 Prezzo di vendita automatico](esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](esempi/magazzino.md)
-  * [Sconto combinato](esempi/sconto-combinato.md)
+  * [📝 Sconto combinato](esempi/sconto-combinato.md)
 * [📓 Videoguide](videoguide/README.md)
   * [Attività/Fatturazione](videoguide/attivita-fatturazione.md)
   * [Preventivo/Consuntivo](videoguide/preventivo-consuntivo.md)

@@ -51,8 +51,8 @@ Nelle sezioni successive è invece possibile modificare le righe da inserire a p
 
 ## 🔧 Plugin
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="plugin/consuntivo.md" %}
+[consuntivo.md](plugin/consuntivo.md)
 {% endcontent-ref %}
 
 {% content-ref url="plugin/revisioni.md" %}
@@ -75,6 +75,10 @@ Nelle sezioni successive è invece possibile modificare le righe da inserire a p
 
 {% content-ref url="plugin/" %}
 [plugin](plugin/)
+{% endcontent-ref %}
+
+{% content-ref url="../../../esempi/sconto-combinato.md" %}
+[sconto-combinato.md](../../../esempi/sconto-combinato.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../videoguide/preventivo-consuntivo.md" %}
