@@ -2,27 +2,24 @@
 title: Plugin
 sidebar:
   nav: docs-sidebar
+description: Guida alla personalizzazione dei plugin in OpenSTAManager
 ---
 
-# Plugin
+# 📒 Plugin
 
-{% hint style="warning" %}
-Pagina in costruzione.
-{% endhint %}
+## 📒 Installazione
 
-## Installazione
-
-### Archivio ZIP
+### 📒 Archivio ZIP
 
 L'archivio del modulo deve essere organizzato secondo la seguente struttura:
 
-```text
+```
 modulo.zip
 ├── ... - File contententi il codice del modulo
 └── PLUGIN
 ```
 
-Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) \(download effettuabile da [qui](http://openstamanager.com/download/plugin_di_esempio.zip)\).
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](http://openstamanager.com/download/plugin\_di\_esempio.zip)).
 
 #### UPDATE
 
@@ -32,7 +29,7 @@ Contrariamente ai moduli, i plugin non supportano la modifica del database in fa
 
 Il file `PLUGIN` è infine il diretto responsabile dell'installazione del modulo poiché definisce tutti i valori caratteristici dello stesso; in caso di sua assenza la cartella compressa viene considerata non corretta.
 
-```text
+```
 name = "Nome del plugin"
 version = "Versione"
 directory = "Cartella di installazione"
@@ -43,4 +40,3 @@ module_from = "Nome del modulo di origine"
 module_to = "Nome del modulo di destinazione e visualizzazione"
 position = "Tipo di modulo (valori disponibili: tab)"
 ```
-

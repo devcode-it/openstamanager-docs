@@ -2,9 +2,10 @@
 title: Stampe
 sidebar:
   nav: docs-sidebar
+description: Guida alla personalizzazione delle stampe in OpenSTAManager
 ---
 
-# Stampe
+# 📒 Stampe
 
 {% hint style="info" %}
 All'interno del gestionale, vengono considerate _stampe_ tutte le strutture che si occupano di generare dei file PDF che l'utente può successivamente visualizzare ed eventualmente salvare/stampare.
@@ -14,9 +15,9 @@ Tutte le stampe di OpenSTAManager sono contenute all'interno della cartella `tem
 
 La maggior parte delle stampe viene generata attraverso il framework [MPDF](https://github.com/mpdf/mpdf).
 
-## Struttura
+## 📒 Struttura
 
-Ogni stampa e le caratteristiche di default (cartella `templates/base/`) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](../../contribuire/structure/broken-reference/).
+Ogni stampa e le caratteristiche di default (cartella `templates/base/`) sono personalizzabili con la relativa cartella `custom/`, come documentato nella sezione [Codice](../../../contribuire/structure/broken-reference/).
 
 Il sistema di template delle stampe presenta una gestione automatica per la sostituzione di alcune variabili comuni:
 
@@ -34,7 +35,7 @@ Il sistema di template delle stampe presenta una gestione automatica per la sost
 
 Sono inoltre disponibili attraverso il formato `$c_*$` tutte le informazioni dell'anagrafica cliente e sotto `$f_*$` tutte le informazioni dell'anagrafica azienda.
 
-### settings.php
+### 📒 settings.php
 
 Il file `settings.php` permette di gestire le seguenti impostazioni PDF della stampa:
 
@@ -58,13 +59,13 @@ return [
 
 Le impostazioni di default sono presenti nel file `templates/base/settings.php`.
 
-### init.php
+### 📒 init.php
 
 Il file `init.php` si occupa di definire le variabili principali necessarie per il corpo della stampa. Idealmente, questo file si occupa di gestire tutte le interazioni della stampa con le altre strutture del gestionale e del database.
 
 Ci sono, in particolare, 3 variabili particolarmente importanti:
 
-* `$id_cliente`: individua il cliente interessato dalla stampa (per rendere disponibili le variabili `$c_*$`)
+* `$id_cliente`: individua il cliente interessato dalla stampa (per rendere disponibili le variabili `$c_*$`
 * `$id_sede`: individua la sede relativa del cliente
 *   `$custom`: array per definire i valori personalizzati da sostituire nel template
 
@@ -78,7 +79,7 @@ Ci sono, in particolare, 3 variabili particolarmente importanti:
     // Rende disponibili le variabili aggiuntive: $intervento_numero$, $intervento_data$, $commessa_numero$.
     ```
 
-### body.php
+### 📒 body.php
 
 Il file `body.php` gestisce tutti i contenuti principali della stampa PDF, eventualmente suddividendoli in varie pagine. Ogni stampa può gestire liberamente il proprio codice in questa sezione.
 
@@ -96,7 +97,7 @@ $autofill = [
 
 Ogni volta che viene aggiunta manualmente una riga, è necessario aumentare di conseguenza il valore di `$autofill['count']` per permettere il corretto funzionamento del sistema.
 
-### header.php
+### 📒 header.php
 
 Il file `header.php` si occupa della generazione dell'header di ogni pagina del PDF, in modo da avere una struttura comune di base. La sua presenza è facoltativa, nel qual caso viene utilizzato l'header di default.
 
@@ -108,25 +109,25 @@ Il logo della stampa deve essere sempre inserito con il seguente codice:
 
 L'header di default è presente nel file `templates/base/header.php`.
 
-### footer.php
+### 📒 footer.php
 
 Il file `footer.php` si occupa della generazione del footer di ogni pagina del PDF, in modo da avere una struttura comune di base. La sua presenza è facoltativa, nel qual caso viene utilizzato il footer di default.
 
 Il footer di default è presente nel file `templates/base/footer.php`.
 
-## Problemi
+## 📒 Problemi
 
-### Testo piccolo nelle tabelle
+#### Testo piccolo nelle tabelle
 
 Come indicato nel secondo punto in [http://mpdf.github.io/tables/auto-layout-algorithm.html](http://mpdf.github.io/tables/auto-layout-algorithm.html), MPDF effettua un resizing del font nel caso il contenuto di una cella superi l'altezza totale di una pagina. Si possono quindi verificare dei problemi con le dimensioni del testo nel caso ci siano contenuti molto lunghi.
 
 Pertanto, nel caso si desideri aumentare le dimensioni del font, si consiglia di effettuare alcuni test per controllare se le tabelle vengono renderizzate nel modo corretto e previsto.
 
-## HTML2PDF
+## 📒 HTML2PDF
 
 Il formato delle stampe più vecchie viene strutturato per la generazione attraverso il framework [HTML2PDF](https://github.com/spipu/html2pdf).
 
-### Struttura
+### 📒 Struttura
 
 #### pdfgen.php
 
@@ -136,7 +137,7 @@ Il file `pdfgen.php` si occupa della formattazione dei contenuti dei template pe
 
 Il file `pdfgen_variables.php` si occupa della sostituzione delle variabili comuni a tutti i template, e viene richiamata dal file `pdfgen.MODULO.php` descritto di seguito.
 
-#### Struttura interna
+### 📒 Struttura interna
 
 La cartella _templates_ contiene tutti i template per la creazione dei PDF relativi al modulo specifico, in una struttura interna simile alla seguente (modulo **Contratti** utilizzato come esempio).
 

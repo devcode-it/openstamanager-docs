@@ -71,7 +71,7 @@ Il rispetto delle opzioni sopra indicate, come per la gestione della paginazione
 Questo è particolarmente rilevante in caso di personalizzazioni, interne o esterne, del software.
 {% endhint %}
 
-### Risorse disponibili
+### 📙 Risorse disponibili
 
 * Anagrafiche: `anagrafiche`
 * Interventi: `interventi`

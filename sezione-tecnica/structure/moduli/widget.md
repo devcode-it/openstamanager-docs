@@ -2,9 +2,10 @@
 title: Widget
 sidebar:
   nav: docs-sidebar
+description: Guida alla personalizzazione dei widget in OpenSTAManager
 ---
 
-# Widget
+# 📒 Widget
 
 {% hint style="info" %}
 I **Widget** sono strumenti utili nell'utilizzo di OpenSTAManager, sono presenti in diversi moduli, ognuno con una funzionalità differenti.
@@ -12,7 +13,7 @@ I **Widget** sono strumenti utili nell'utilizzo di OpenSTAManager, sono presenti
 Grazie all'immagine sottostante andremo a darne uno sguardo più tecnico.
 {% endhint %}
 
-![](../../.gitbook/assets/DatabaseWidget.png)
+![](../../../.gitbook/assets/DatabaseWidget.png)
 
 Questi sono i **widgets** che offre OpenSTAManager, presenti dentro la tabella **zz\_widgets.**
 
