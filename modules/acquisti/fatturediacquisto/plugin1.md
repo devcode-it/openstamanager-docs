@@ -61,7 +61,7 @@ Il gestionale proporrà ora le scritture relative ai pagamenti delle fatture sel
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe FE
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (71) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP dell'archivio PDF delle fatture di acquisto selezionate.
 

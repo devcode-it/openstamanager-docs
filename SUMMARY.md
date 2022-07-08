@@ -158,7 +158,7 @@
       * [👨🏭 Mansioni referenti](modules/strumenti/tabelle/mansioni-referenti.md)
     * [🪢 Segmenti](modules/strumenti/segmenti.md)
     * [📥 Import](modules/strumenti/import.md)
-    * [Stampe](modules/strumenti/stampe.md)
+    * [🖨 Stampe](modules/strumenti/stampe.md)
     * [Stato dei servizi](modules/strumenti/stato-dei-servizi.md)
     * [Checklists](modules/strumenti/checklists.md)
     * [Backup](modules/strumenti/backup.md)

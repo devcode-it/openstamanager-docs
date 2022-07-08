@@ -173,7 +173,7 @@ Le fatture selezionate devono essere in stato Bozza.
 
 Cliccando su Procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (71) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (71) (1) (1) (1) (1).png>)
 
 ## 👤 Dal dettaglio Fatture di vendita
 
@@ -202,7 +202,7 @@ Dalla schermata di dettaglio di una fattura di vendita è possibile procedere a 
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                               ![](<../../../.gitbook/assets/image (71) (1) (1).png>)
+&#x20;                                               ![](<../../../.gitbook/assets/image (71) (1) (1) (1).png>)
 
 ### ✉️ Invia fattura
 
