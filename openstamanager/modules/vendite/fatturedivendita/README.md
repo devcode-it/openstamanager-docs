@@ -55,7 +55,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Sconto in fattura ([Decreto Rilancio 2020](../../../../guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md))
 * Ritenuta previdenziale
 * Dischiarazione d'intento
-* Abilitare marca da bollo automatica
+* Abilitare marca da bollo automatica([https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L%27imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b](https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L'imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b))
 * Note
 
 ![](<../../../../.gitbook/assets/immagine (72).png>)
