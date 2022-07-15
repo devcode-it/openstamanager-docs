@@ -28,7 +28,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Attributi combinazioni
 * Combinazioni
 
-&#x20;                                                                 <img src="../../../.gitbook/assets/image (277).png" alt="" data-size="original">
+&#x20;                                                                 <img src="../../../.gitbook/assets/image (277) (1).png" alt="" data-size="original">
 
 ### 🔧 Plugin <a href="#plugin" id="plugin"></a>
 

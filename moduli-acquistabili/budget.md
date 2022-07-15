@@ -28,7 +28,7 @@ Volendo analizzare nel dettaglio tutti i documenti che concorrono a costituire i
 
 Inoltre, cliccando sul tasto "**+**" vicino a Ricavi e Costi, sarà possibile vedere la lista dei conti in cui ricavi e costi saranno rispettivamente imputati.
 
-![](<../.gitbook/assets/image (168).png>)
+![](<../.gitbook/assets/image (168) (1).png>)
 
 L'**andamento finanziario**, a differenza di quello **economico**, attinge dati anche dallo scadenzario, e va quindi ad imputare tutte le scadenze previste nel relativo periodo di competenza.
 

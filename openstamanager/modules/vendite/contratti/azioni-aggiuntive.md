@@ -6,7 +6,7 @@ description: Guida alle azioni aggiuntive del modulo Contratti di OpenSTAManager
 
 ## 👥 Dal modulo Contratti
 
-Il modulo contratti permette di fatturare massivamente i contratti dalle azioni di gruppo.
+Il modulo contratti permette di fatturare e rinnovare massivamente i contratti dalle azioni di gruppo.
 
 ### 📃 Fattura contratti
 
@@ -33,6 +33,22 @@ Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo 
 ![](<../../../../.gitbook/assets/image (557).png>)
 
 ![](<../../../../.gitbook/assets/image (520).png>)
+
+### ⏱️ Rinnova contratti
+
+Una volta selezionati i contratti interessati è possibile rinnovarli massivamente cliccando su Azioni di gruppo/Rinnova contratti.
+
+![](<../../../../.gitbook/assets/image (645).png>)
+
+Il gestionale chiederà quindi la conferma a procedere al rinnovo.
+
+{% hint style="info" %}
+Nel contratto devono essere specificate le date di accettazione e conclusione, deve essere impostato come Rinnovabile, e deve trovarsi in uno stato Completato.&#x20;
+{% endhint %}
+
+&#x20;                                                    ![](<../../../../.gitbook/assets/image (168).png>)
+
+Cliccando su Procedi i contratti selezionati verranno rinnovati.
 
 ## 👤 Dal dettaglio Contratti
 

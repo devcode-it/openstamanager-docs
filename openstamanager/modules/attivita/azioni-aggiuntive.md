@@ -55,7 +55,7 @@ Cliccando su procedi si confermerà la fatturazione.
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../../.gitbook/assets/image (270).png>)
+![](<../../../.gitbook/assets/image (270) (1).png>)
 
 ![](<../../../.gitbook/assets/image (350).png>)
 
