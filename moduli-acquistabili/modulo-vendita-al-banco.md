@@ -7,7 +7,7 @@ description: Guida al modulo aggiuntivo Vendita al banco in OpenSTAManager
 **Vendita al banco** è uno dei diversi moduli acquistabili da **OpenSTAManager.** Il modulo permette la vendita al banco di prodotti con o senza codice a barre.
 
 {% hint style="info" %}
-[Clicca qui](https://www.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto
+[Clicca qui](https://shop.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto
 {% endhint %}
 
 Di seguito sono elencati i parametri consigliati per il registratore di cassa:

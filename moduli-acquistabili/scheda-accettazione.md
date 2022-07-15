@@ -7,7 +7,7 @@ description: Guida al modulo aggiuntivo Scheda accettazione di OpenSTAManager
 Scheda accettazione è uno dei diversi moduli acquistabili da OpenSTAManager. Il modulo permette di registrare le richieste di assistenza al volo e stamparne etichetta e riepilogo.
 
 {% hint style="info" %}
-[Clicca qui](https://www.openstamanager.com/prodotto/scheda-accettazione/) per procedere all'acquisto.
+[Clicca qui](https://shop.openstamanager.com/prodotto/scheda-accettazione/) per procedere all'acquisto.
 {% endhint %}
 
 A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la seguente schermata dove andare a inserire:

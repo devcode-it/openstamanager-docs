@@ -17,7 +17,7 @@ Il modulo permetterà di:
 * Generare i corretti movimenti nello scadenzario e in prima nota
 
 {% hint style="info" %}
-[clic](https://www.openstamanager.com/prodotto/modulo-import-fe-ciclo-attivo/)[ca qui](https://www.openstamanager.com/prodotto/modulo-import-fe-ciclo-attivo/) per procedere all'acquisto
+[clicca qui](https://shop.openstamanager.com/prodotto/modulo-import-fe-ciclo-attivo/) per procedere all'acquisto
 {% endhint %}
 
 A seguito dell'installazione del modulo, cliccando su **Vendite -> Fatture di Vendita** apparirà in alto a destra il menù dei plugin, cliccando su **Importazione FE** apparirà la schermata seguente.

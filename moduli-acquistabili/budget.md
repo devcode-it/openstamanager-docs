@@ -3,7 +3,7 @@
 **Budget** è uno dei diversi moduli acquistabili da **OpenSTAManager.** Permette di visualizzare sotto forma di grafico e tabella l'**andamento economico** (costi/ricavi) e l'**andamento finanziario** (entrate/uscite). Oltre all'andamento reale, permette di integrare anche le **previsioni di costi e ricavi**, e delle **entrate** e **uscite**.
 
 {% hint style="info" %}
-[Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto.
+[Clicca qui](https://shop.openstamanager.com/prodotto/budget/) per procedere all'acquisto.
 {% endhint %}
 
 A seguito dell'installazione del modulo, cliccando su **Budget** apparirà il seguente prospetto che evidenzia l'**Utile totale**, dato dalla differenza tra ricavi e costi totali.

@@ -14,7 +14,7 @@ Servizi/Provider al momento disponibili:
 * WooCommerce
 
 {% hint style="info" %}
-[Clicca qui](https://www.openstamanager.com/categoria-prodotto/moduli/) per procedere all'acquisto
+[Clicca qui](https://shop.openstamanager.com/prodotto/e-commerce/) per procedere all'acquisto
 {% endhint %}
 
 A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** apparirà alla destra la seguente schermata.
@@ -36,7 +36,7 @@ Ogni modifica effettuata nella sezione **Impostazioni** viene aggiornata premend
 ![](../.gitbook/assets/Sincronizzazione-Bike-Manager.png)
 
 {% hint style="info" %}
-Una volta configurate le impostazioni del modulo **Sincronizzazione** è possibile eseguire manualmente la sincronizzazione selezionando una risorsa da importare/esportare e premendo successivamente **Avvia**.
+Una volta configurate le impostazioni del modulo **E-commerce** è possibile eseguire manualmente la sincronizzazione selezionando una risorsa da importare/esportare e premendo successivamente **Avvia**.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -50,7 +50,18 @@ RewriteRule . - [E=HTTP_AUTHORIZATION:%1]
 ```
 {% endhint %}
 
-Per la risorsa articoli vengono sincronizzati da OpenSTAManager i campi codice, barcode, descrizione articolo, descrizione breve e completa, friendly url, quantità, prezzo di acquisto e di vendita, l'immagine principale e le immagini aggiuntive (gestite come allegati del prodotto).\
+Per la risorsa articoli vengono sincronizzati da OpenSTAManager i campi:
+
+* codice
+* barcode
+* descrizione articolo
+* descrizione breve e completa
+* friendly url
+* quantità
+* prezzo di acquisto e di vendita
+* l'immagine principale
+* le immagini aggiuntive (gestite come allegati del prodotto).
+
 In seguito alla vendita su Prestashop vengono decrementate le quantità anche di conseguenza in OpenSTAManager.
 
 Per definire i campi da esportare è accessibile inoltre un nuovo plugin **Info** **sincronizzazione** che è presente nel menù di destra nella schermata di modifica degli **Articoli** in cui è possibile definire le informazioni aggiuntive che verranno sincronizzate nell'E-commerce con la possibilità di disattivare l'articolo dalla sincronizzazione:
