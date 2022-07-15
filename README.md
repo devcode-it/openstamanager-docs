@@ -14,6 +14,6 @@ Di seguito le principali novità della versione 2.4.34, per maggiori dettagli vi
 
 &#x20;                                                <img src=".gitbook/assets/image (277).png" alt="" data-size="original">
 
-:rocket: Aggiunta moduli Provenienze clienti e Settori merceologici.
+:rocket: Aggiunta moduli [Provenienze clienti](openstamanager/modules/anagrafiche/zone-1.md) e [Settori merceologici](openstamanager/modules/anagrafiche/zone-2.md).
 
 ![](<.gitbook/assets/image (438).png>)
