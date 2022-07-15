@@ -45,7 +45,7 @@ Avviando questa procedura si può notare che si sta attualmente lavorando nel se
 
 ![](<../../.gitbook/assets/immagine (29).png>)
 
-Con **Crea autofattura** appariranno ora due avvvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.
+Con **Crea autofattura** appariranno ora due avvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.
 
 ![](<../../.gitbook/assets/immagine (52) (1).png>)
 

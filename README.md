@@ -4,7 +4,7 @@ description: Elenco delle principali novità introdotte con la release 2.4.33.
 
 # 📣 Novità
 
-ConfigurazioneDi seguito le principali novità della versione 2.4.33, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager/releases/tag/v2.4.33).
+Di seguito le principali novità della versione 2.4.33, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager/releases/tag/v2.4.33).
 
 Ora è più veloce [duplicare o eliminare massivamente delle righe](https://docs.openstamanager.com/interfaccia/moduli-e-plugin#modifica-record) all'interno dei documenti (ddt, fatture, preventivi, ecc) utilizzando la spunta a fianco di ogni riga e i due pulsanti a fine tabella:
 
