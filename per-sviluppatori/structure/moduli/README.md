@@ -184,7 +184,7 @@ modulo.zip
 └── MODULE
 ```
 
-Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](http://openstamanager.com/download/plugin\_di\_esempio.zip)).
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](https://shop.openstamanager.com/categoria-prodotto/moduli/)).
 
 #### update/VERSIONE.sql
 
