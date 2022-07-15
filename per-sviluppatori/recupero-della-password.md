@@ -1,10 +1,12 @@
 ---
-description: Guida al recupero della password in OpenSTAManager
+description: >-
+  Guida al recupero della password in OpenSTAManager per utenti senza indirizzo
+  e-mail
 ---
 
 # 📘 Recupero della password
 
-Non esiste una procedura semplificata per permettere il recupero della password degli account di amministrazione (di default, _admin_) o di quelli comuni. Si ricorda che è comunque possibile **cambiare** la password in ogni momento, se è stato effettuato l'accesso, attraverso l'utilizzo del modulo **Utenti e permessi** disponibile sotto la dicitura **Strumenti**.
+Non esiste una procedura semplificata per permettere il recupero della password degli account di amministrazione (di default, _admin_) o di quelli comuni ai quali non è stato associato un indirizzo e-mail. Si ricorda che è comunque possibile **cambiare** la password in ogni momento, se è stato effettuato l'accesso, attraverso l'utilizzo del modulo **Utenti e permessi** disponibile sotto la dicitura **Strumenti**.
 
 Può però essere necessario **reimpostare** la password, in particolare se è stata dimenticata, per ripristinare l'accesso ad OpenSTAManager.
 
