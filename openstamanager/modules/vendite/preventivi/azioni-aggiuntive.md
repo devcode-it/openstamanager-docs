@@ -62,7 +62,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere a diversi t
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../../../.gitbook/assets/image (30).png>)
+![](<../../../../.gitbook/assets/image (30) (1).png>)
 
 ### 📧 Invia
 

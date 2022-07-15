@@ -24,13 +24,19 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Anagrafiche**.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FLs4k5TwrOATHMnBZcMjX%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/image (426).png>)
 
 ## 🖥️ Interfaccia
 
-Aprendo il menu a tendina è possibile trovare i moduli Tipi di anagrafiche, Relazioni e Zone.
+Aprendo il menu a tendina è possibile trovare i moduli:
 
-![](<../../../.gitbook/assets/image (452).png>)
+* Tipi di anagrafiche
+* Relazioni
+* Zone
+* Provenienze clienti
+* Settori merceologici
+
+&#x20;                                                      <img src="../../../.gitbook/assets/image (225).png" alt="" data-size="original">
 
 ### 👾 Widget
 

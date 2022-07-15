@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../../.gitbook/assets/image (438).png>)
+![](<../../../../.gitbook/assets/image (438) (1).png>)

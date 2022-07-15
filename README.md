@@ -10,7 +10,10 @@ Di seguito le principali novità della versione 2.4.34, per maggiori dettagli vi
 
 ![](<.gitbook/assets/image (270).png>)
 
-Aggiunta azione di gruppo [Rinnova contratti](https://docs.openstamanager.com/openstamanager/modules/vendite/contratti/azioni-aggiuntive#rinnova-contratti), per il rinnovo massivo dei contratti previa selezione.
+:rocket: Aggiunta azione di gruppo [Rinnova contratti](https://docs.openstamanager.com/openstamanager/modules/vendite/contratti/azioni-aggiuntive#rinnova-contratti), per il rinnovo massivo dei contratti previa selezione.
 
 &#x20;                                                <img src=".gitbook/assets/image (277).png" alt="" data-size="original">
 
+:rocket: Aggiunta moduli Provenienze clienti e Settori merceologici.
+
+![](<.gitbook/assets/image (438).png>)

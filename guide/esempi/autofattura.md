@@ -28,7 +28,7 @@ Questa fattura andrà registrata come la si riceve, non si deve quindi aggiunger
 
 ![](<../../.gitbook/assets/image (309).png>)
 
-![](<../../.gitbook/assets/image (426).png>)
+![](<../../.gitbook/assets/image (426) (1).png>)
 
 Cliccando sulla fattura appena registrata si accederà alla schermata di dettaglio della stessa, dove sarà possibile notare un avviso che guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi cliccare su Crea/Autofattura.
 

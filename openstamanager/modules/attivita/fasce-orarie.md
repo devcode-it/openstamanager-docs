@@ -8,7 +8,7 @@ description: Come gestire le fasce orarie con OpenSTAManager
 Il modulo **Fasce orarie** permette di impostare delle specifiche fasce orarie da collegare alle attività.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (225).png>)
+![](<../../../.gitbook/assets/image (225) (1).png>)
 
 ## ➕ Creazione
 

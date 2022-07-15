@@ -26,6 +26,8 @@
     * [🦠 Tipi di anagrafiche](openstamanager/modules/anagrafiche/tipi-di-anagrafiche.md)
     * [📞 Relazioni](openstamanager/modules/anagrafiche/relazioni.md)
     * [🌏 Zone](openstamanager/modules/anagrafiche/zone.md)
+    * [📭 Provenienze clienti](openstamanager/modules/anagrafiche/zone-1.md)
+    * [🗃 Settori merceologici](openstamanager/modules/anagrafiche/zone-2.md)
     * [❗ Azioni aggiuntive](openstamanager/modules/anagrafiche/azioni-aggiuntive.md)
     * [🔧 Plugin](openstamanager/modules/anagrafiche/plugin/README.md)
       * [🔨 Impianti del cliente](openstamanager/modules/anagrafiche/plugin/impianti-del-cliente.md)
