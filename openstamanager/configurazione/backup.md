@@ -60,7 +60,6 @@ E' disponibile una impostazione nativa per l'esecuzione del backup al primo acce
 
 ![Opzioni disponibili per i backup](<../../.gitbook/assets/image (5).png>)
 
-Il backup automatico viene eseguito in modi diversi a seconda della versione del gestionale installata:
-
-* per versioni < 2.4.11 il backup viene eseguito durante la procedura di login del primo utente;
-* dalla versione 2.4.11 in poi, è presente un _hook_ indipendente che effettua il backup in background.
+{% hint style="info" %}
+E' presente un _hook_ indipendente che effettua il backup in background.
+{% endhint %}
