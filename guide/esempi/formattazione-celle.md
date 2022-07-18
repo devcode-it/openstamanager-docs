@@ -9,11 +9,11 @@ Con OpenSTAManager è possibile modificare la formattazione di una cella in base
 Sarà sufficiente creare un nuovo campo utilizzando questi Nomi:
 
 * **color\_Nome:** colore esadecimale della cella
-* **color\_title\_Nome:** etichetta della cella colorata ([relazione anagrafiche](../../openstamanager/modules/anagrafiche/relazioni.md))
-* **\_bg\_:** colore esadecimale della riga (attività che hanno come colore di sfondo il colore dello stato)
-* **\_print\_:** visualizza un'icona di una stampante che al click porta alla stampa utilizzando il valore di questo campo per definire quale template usare. Ad esempio nelle attività è valorizzata fissa a "intervento", questo significa che al click sul pulsante di stampa viene usato il template di stampa dentro templates/intervento/ e passa il campo id come id del record da stampare ([attività](../../openstamanager/modules/attivita/))
+* **color\_title\_Nome:** etichetta della cella colorata (es. campo relazione in anagrafica)
+* **\_bg\_:** colore esadecimale della riga (es. campo Attività del colore dello stato attività)
+* **\_print\_:** visualizza un'icona di una stampante che al click porta alla stampa utilizzando il valore di questo campo per definire quale template usare. Ad esempio nelle attività è valorizzata fissa a "intervento", questo significa che al click sul pulsante di stampa viene usato il template di stampa dentro templates/intervento/ e passa il campo id come id del record da stampare (es. attività)
 * **icon\_Nome:** visualizza un'icona di FontAwesome ([https://fontawesome.com/v4/icons/](https://fontawesome.com/v4/icons/)) nella colonna di nome Nome
-* **icon\_title\_Nome:** oltre all'icona aggiunge a fianco anche la descrizione dell'icona ([stato di un ordine](../../openstamanager/modules/vendite/ordinicliente/))
+* **icon\_title\_Nome:** oltre all'icona aggiunge a fianco anche la descrizione dell'icona (es. lo stato di un ordine)
 
 {% hint style="warning" %}
 Si dovrà sostituire Nome con il nome del campo interessato
