@@ -60,6 +60,8 @@ Nella sezione **Ordine di visualizzazione** si può cambiare l'ordine dei campi 
 
 ![Screenshot ordine di visualizzazione](../../../.gitbook/assets/OrdineDiVisualizzazione.PNG)
 
+### 🔽 Esempi di personalizzazione viste
+
 {% content-ref url="../../../guide/esempi/formattazione-celle.md" %}
 [formattazione-celle.md](../../../guide/esempi/formattazione-celle.md)
 {% endcontent-ref %}
