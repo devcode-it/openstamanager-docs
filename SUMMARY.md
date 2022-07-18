@@ -183,6 +183,7 @@
     * [⛔ Errori frequenti](guide/esempi/fatturazione-elettronica/errori-frequenti.md)
     * [🤓 Split payment e reverse charge](guide/esempi/fatturazione-elettronica/fattura-pa.md)
   * [📃 Fatture non elettroniche](guide/esempi/fatture-non-elettroniche.md)
+  * [🌈 Formattazione celle](guide/esempi/formattazione-celle.md)
   * [💵 Gestione acconto](guide/esempi/gestione-acconto.md)
   * [📲 Import articoli](guide/esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)

@@ -50,11 +50,16 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 * Ricerca lenta (selezionabile per indicare se la ricerca di quel campo è lenta)
 * Sommabile (se il campo è da sommare a fine tabella)
 * Formattabile (se formattare automaticamente il campo, ad esempio visualizzare la data nel formato italiano, inserire i separatori di decimali o migliaia, ecc...)
+* Abilitare o disabilitare l'utilizzo dell'HTML nel campo
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F79E49ifrbdzf3TGRNxCi%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/immagine (57).png>)
 
 ### 🔨 Ordine di visualizzazione
 
 Nella sezione **Ordine di visualizzazione** si può cambiare l'ordine dei campi trascinandoli:
 
 ![Screenshot ordine di visualizzazione](../../../.gitbook/assets/OrdineDiVisualizzazione.PNG)
+
+{% content-ref url="../../../guide/esempi/formattazione-celle.md" %}
+[formattazione-celle.md](../../../guide/esempi/formattazione-celle.md)
+{% endcontent-ref %}

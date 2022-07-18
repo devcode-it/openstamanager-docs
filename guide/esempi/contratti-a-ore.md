@@ -22,6 +22,6 @@ Si potrà ora [creare un'**Attività**](../../openstamanager/modules/attivita/cr
 
 Per verificarne il **Consuntivo,** si dovrà ora aprire il contratto da Vendite/Contratti e selezionare il Plugin **Consuntivo**.
 
-![](<../../.gitbook/assets/immagine (57).png>)
+![](<../../.gitbook/assets/immagine (57) (1).png>)
 
 Da questa schermata è ora possibile verificare la lista delle **Attività** associate a questo contratto, l'ammontare del **Budget ore** disponibile e le ore erogate/residue.
