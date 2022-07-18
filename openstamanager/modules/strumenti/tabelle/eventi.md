@@ -34,3 +34,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Scegliere se festività
 
 ![](<../../../../.gitbook/assets/image (154).png>)
+
+{% hint style="info" %}
+Per visualizzare gli eventi sulla Dashboard è necessario andare in Strumenti/Impostazioni /Dashboard e abilitare Visualizza informazioni aggiuntive sulla Dashboard.
+{% endhint %}

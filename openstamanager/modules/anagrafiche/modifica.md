@@ -28,7 +28,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-![](<../../../.gitbook/assets/immagine (41).png>)
+![](<../../../.gitbook/assets/immagine (41) (1).png>)
 
 ## 🏭 Sede legale
 
@@ -114,7 +114,30 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 
 In questa sezione include elementi non fondamentali per ogni tipologia di anagrafica, ma che potrebbero essere utili in base alle necessità dell'utente.
 
-![](<../../../.gitbook/assets/immagine (71).png>)
+E' qui possibile trovare le informazioni relative a:
+
+* Numero d'iscrizione registro imprese
+* Codice R.E.A.
+* Riferimento Amministrazione
+* Provvigione predefinita (nel caso di anagrafica del tipo Agente)
+* Numero di iscrizione al tribunale
+* Numero di iscrizione all'albo degli artigiani
+* Foro di competenza
+* Capitale sociale
+* Settore merceologico
+* Marche trattate
+* Numero dipendenti
+* Numero macchine
+* Tipo di anagrafica
+* Note
+
+![](<../../../.gitbook/assets/immagine (41).png>)
+
+{% hint style="info" %}
+Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;
+
+Sarà possibile visualizzare poi il totale della provvigione tra i valori del documento.
+{% endhint %}
 
 ## 🛄 Allegati
 

@@ -31,5 +31,13 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Importo
 * Pagato
 * Data concordata
+* Note
+* Info distinta
+* Allegati
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](<../../../.gitbook/assets/immagine (64).png>)
+
+{% hint style="info" %}
+E' possibile inserire il pdf della fattura di vendita come allegato alla scadenza, così da poter inviare il sollecito di pagamento e scegliere tra gli allegati anche la fattura originale.
+{% endhint %}
+

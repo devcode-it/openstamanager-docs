@@ -6,14 +6,26 @@ description: Elenco delle principali novità introdotte con la release 2.4.34.
 
 Di seguito le principali novità della versione 2.4.34, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager/releases/tag/v2.4.33).
 
-:rocket: Corretta e migliorata la funzione [autofattura](guide/esempi/autofattura.md), con aggiunta riferimento fatture collegate.
+:rocket: [Gestione provvigioni](https://docs.openstamanager.com/openstamanager/modules/anagrafiche/modifica#informazioni-aggiuntive): Sarà ora possibile specificare la provvigione di un determinato agente dalla sua anagrafica.&#x20;
 
-![](<.gitbook/assets/image (270).png>)
+![](<.gitbook/assets/immagine (101).png>)
 
-:rocket: Aggiunte azioni di gruppo [Rinnova contratti](https://docs.openstamanager.com/openstamanager/modules/vendite/contratti/azioni-aggiuntive#rinnova-contratti) e [Eliminazione massiva degli impianti](https://docs.openstamanager.com/openstamanager/modules/impianti/azioni-aggiuntive#eliminazione-massiva), previa selezione e scelta dall'apposito menù.
+:rocket:Aggiunta visualizzazione eventi in Dashboard.
 
-&#x20;                                                <img src=".gitbook/assets/image (277).png" alt="" data-size="original">
+![](<.gitbook/assets/immagine (115).png>)
 
-:rocket: Aggiunta moduli [Provenienze clienti](openstamanager/modules/anagrafiche/zone-1.md) e [Settori merceologici](openstamanager/modules/anagrafiche/zone-2.md).
+:rocket: Aggiunte azioni di gruppo [Rinnova contratti](https://docs.openstamanager.com/openstamanager/modules/vendite/contratti/azioni-aggiuntive#rinnova-contratti), [Stampa barcode](https://docs.openstamanager.com/openstamanager/modules/magazzino/articoli-1/azioni-aggiuntive#stampa-etichette) e [Eliminazione massiva degli impianti](https://docs.openstamanager.com/openstamanager/modules/impianti/azioni-aggiuntive#eliminazione-massiva), previa selezione e scelta dall'apposito menù.
 
-![](<.gitbook/assets/image (438).png>)
+&#x20;                                                  <img src=".gitbook/assets/immagine (40).png" alt="" data-size="original">
+
+:rocket: Aggiunta la possibilità di [allegare documenti](https://docs.openstamanager.com/openstamanager/modules/contabilita/scadenzario#modifica) alle Scadenze.
+
+![](<.gitbook/assets/immagine (152).png>)
+
+:rocket: Aggiunto nuovo plugin[ Statistiche vendita](https://docs.openstamanager.com/openstamanager/modules/magazzino/articoli-1/plugin/statistiche) in Articoli
+
+![](<.gitbook/assets/immagine (96).png>)
+
+:rocket: Aggiunto grafico [Nuove anagrafiche](https://docs.openstamanager.com/openstamanager/modules/statistiche#nuove-anagrafiche) per mese in Statistiche
+
+![](<.gitbook/assets/immagine (56).png>)

@@ -8,7 +8,7 @@ description: Come gestire le Fatture di vendita in OpenSTAManager
 Il modulo **Fatture di vendita** permette di gestire la fatturazione in uscita dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (96).png>)
+![](<../../../../.gitbook/assets/immagine (96) (1).png>)
 
 ## ⚠️ Avvisi
 
