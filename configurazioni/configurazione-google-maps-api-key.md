@@ -26,7 +26,7 @@ Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti
 
 Successivamente cliccare sulle 3 linee in alto a sinistra, andare su API e servizi e selezionare Credenziali.
 
-![](<../.gitbook/assets/immagine (77).png>)
+![](<../.gitbook/assets/immagine (77) (1).png>)
 
 Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e selezionare Chiave API. Ora la chiave API è stata creata.
 
