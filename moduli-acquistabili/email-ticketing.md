@@ -95,3 +95,11 @@ Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
 ![](<../.gitbook/assets/immagine (146).png>)
+
+{% hint style="warning" %}
+Vedi anche:
+{% endhint %}
+
+{% content-ref url="../configurazioni/configurazione-oauth2.md" %}
+[configurazione-oauth2.md](../configurazioni/configurazione-oauth2.md)
+{% endcontent-ref %}
