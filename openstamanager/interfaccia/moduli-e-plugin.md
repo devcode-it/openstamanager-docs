@@ -59,7 +59,7 @@ Cliccando su un singolo record è possibile accede alla schermata di dettaglio d
 
 Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
 
-![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (149).png>)
+![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (149) (1).png>)
 
 ### 🔧 Plugin
 

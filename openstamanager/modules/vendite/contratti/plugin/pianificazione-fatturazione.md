@@ -35,7 +35,7 @@ La sezione **Righe** invece riporta una serie di variabili che è possibile util
 
 Avendo impostato da esempio 4 rate da 200€+IVA con scadenza trimestrale si dovrà quindi impostare 1 quantità a rata, per far in modo che vengano generate le seguenti fatture in bozza:
 
-![](<../../../../../.gitbook/assets/immagine (38).png>)
+![](<../../../../../.gitbook/assets/immagine (38) (1).png>)
 
 Andando a selezionare Crea fattura si potranno ora vedere nelle note i riferimenti della rata e del contratto e nella descrizione la riga e il periodo a cui la rata fa riferimento.
 

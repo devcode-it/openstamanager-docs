@@ -4,11 +4,19 @@ description: Guida al modulo aggiuntivo Email ticketing in OpenSTAManager
 
 # 📗 Email ticketing
 
-**Email ticketing** è uno dei diversi moduli acquistabili da **OpenSTAManager**. Il modulo permette la gestione delle richieste dei clienti via email direttamente dal gestionale, con la possibilità di creare delle attività ad ogni email. Inoltre, c'è la possibilità di mantenere raggruppate tutte le conversazioni avvenute per una specifica attività, con l'opportunità di rispondere alle email direttamente da **OpenSTAManager.**
+Il modulo **Email ticketing** permette la gestione delle richieste dei clienti via email direttamente dal gestionale.&#x20;
 
 {% hint style="info" %}
-[Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per procedere all'acquisto
+Questo modulo converte automaticamente in attività le email ricevute nella casella di posta selezionata.
 {% endhint %}
+
+Dall'interno delle attività così create, sarà possibile avviare una vera e propria chat con il cliente mediante il plugin Conversazioni, tenendo traccia così di tutte le interazioni con il cliente.
+
+{% hint style="info" %}
+[Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
+{% endhint %}
+
+![](<../.gitbook/assets/immagine (62).png>)
 
 ## ➕ Creazione
 
@@ -16,7 +24,9 @@ La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su G
 
 ![](<../.gitbook/assets/image (623).png>)
 
-Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato, dove si dovranno compilare:
+Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato (oppure configurare l'account predefinito), composto da diverse sezioni.
+
+Nella prima, si dovranno compilare:
 
 * Nome account
 * IMAP hostname
@@ -25,44 +35,63 @@ Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email de
 * IMAP password
 * Cifratura connessione
 * Cartella mail processate (cartella dell'account email dove verranno archiviate le email processate)
-* Stato attività
-* Tipo attività
-* Template di invio mail (da configurare come da immagine)
+* Se disabilitare l'autenticazione
+* Se validare il certificato
 
-![](<../.gitbook/assets/image (335).png>)
+![](<../.gitbook/assets/immagine (72).png>)
 
-Dopo aver salvato, si potrà utilizzare il modulo.
+Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
+
+![](<../.gitbook/assets/immagine (149).png>)
+
+E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
+
+* Se ricevere una notifica quando viene generata una nuova attività
+  * L'indirizzo email a cui mandare la notifica
+  * Il template da utilizzare
+* Se inviare una notifica al cliente quando viene presa in carico l'attività
+  * Il template da utilizzare
+* Il template da utilizzare per rispondere al cliente
+* Se ricevere una notifica quando il cliente risponde
+  * L'indirizzo email a cui mandare la notifica
+  * Il template da utilizzare
+
+![](<../.gitbook/assets/immagine (150).png>)
 
 ## 🎛️ Configurazione
 
-Per collegare la mail in arrivo all'anagrafica del cliente è necessario andare ad associare gli indirizzi email all'anagrafica corrispondente.
+Dalla schermata di dettaglio di un'anagrafica sarà ora possibile configurare gli account email dai quali importare le attività quando arrivano sotto forma di richieste via mail.
 
-Dalla schermata di modifica del modulo Anagrafiche sarà accessibile il plugin **Ticketing** in cui è possibile andare ad associare uno o più indirizzi email che serviranno poi appunto per l'apertura dell'attività.
+Sarà qui possibile selezionare account mail diversi validi al momento della conversione di un'attività, per ogni account mail configurato per l'email ticketing.
 
-![](<../.gitbook/assets/image (255).png>)
+{% hint style="warning" %}
+Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verrà creata un'attività collegata a questa anagrafica.
 
-![](<../.gitbook/assets/image (634).png>)
+In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
+{% endhint %}
 
-## Esempio:
+![](<../.gitbook/assets/immagine (151).png>)
 
-Un cliente invia un messaggio all'email configurata precedentemente in [creazione](email-ticketing.md#creazione).
+#### Esempio:
 
-![](<../.gitbook/assets/image (367).png>)
+Si riceve una mail di richiesta di assistenza da parte di un cliente:
+
+&#x20;                                                  ![](../.gitbook/assets/screen.jpg)
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/image (151).png>)
+![](<../.gitbook/assets/immagine (38).png>)
 
-Entrando nella schermata di dettaglio dell'attività e cliccando su Conversazioni, sarà possibile vedere le conversazioni con il cliente via email.
+Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/immagine (37).png>)
 
-![](<../.gitbook/assets/image (541).png>)
+Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
-E' possibile rispondere al cliente con il tasto Rispondi. Da qui, spuntando Notifica di lettura, si potrà vedere quando il cliente visualizza la mail.
+Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/image (103).png>)
+![](<../.gitbook/assets/immagine (39).png>)
 
-In Attività/Conversazioni invece sarà possibile accedere a una vera e propria chat con il cliente.
+Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/image (229).png>)
+![](<../.gitbook/assets/immagine (146).png>)
