@@ -16,7 +16,7 @@ Sarà sufficiente creare un nuovo campo utilizzando questi Nomi:
 * **icon\_title\_Nome:** oltre all'icona aggiunge a fianco anche la descrizione dell'icona (es. lo stato di un ordine)
 
 {% hint style="warning" %}
-Si dovrà sostituire Nome con il nome del campo interessato
+Si dovrà sostituire Nome con il nome del campo interessato.
 {% endhint %}
 
 #### Esempio
@@ -30,6 +30,10 @@ IF(`qta`<5, 'red', '')
 ```
 
 ![](<../../.gitbook/assets/immagine (55).png>)
+
+{% hint style="warning" %}
+Per poter abilitare il campo è importante che il campo Gruppi con accesso sia compilato con i tipi di utenti che dovranno visualizzarlo, e che la Visibilità sia impostata in 'Visibile nella sezione'.
+{% endhint %}
 
 In questo modo l'effetto generato sarà il seguente:
 
