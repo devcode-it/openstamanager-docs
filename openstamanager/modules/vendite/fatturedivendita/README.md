@@ -31,7 +31,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di vendita:
 * Tipo documento
 * Sezionale
 
-![](<../../../../.gitbook/assets/immagine (132).png>)
+![](<../../../../.gitbook/assets/immagine (132) (1).png>)
 
 ## 🖌️ Modifica
 

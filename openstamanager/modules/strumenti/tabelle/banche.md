@@ -42,3 +42,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 
 ![](<../../../../.gitbook/assets/image (409).png>)
+
+{% content-ref url="../../../../guide/esempi/banca-predefinita-anagrafica.md" %}
+[banca-predefinita-anagrafica.md](../../../../guide/esempi/banca-predefinita-anagrafica.md)
+{% endcontent-ref %}

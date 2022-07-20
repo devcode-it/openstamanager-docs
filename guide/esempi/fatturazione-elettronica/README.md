@@ -82,6 +82,6 @@ Per completare l'importazione, gli unici dati obbligatori sono quelli contrasseg
 
 In fase di importazione di una fattura elettronica, è possibile selezionare quali righe convertire in articolo di magazzino, dopo aver spuntato _Creazione automatica articoli_.
 
-![](<../../../.gitbook/assets/immagine (64) (1) (1).png>)
+![](<../../../.gitbook/assets/immagine (64) (1) (1) (1).png>)
 
 Sarà così possibile movimentare automaticamente il magazzino senza dover ricorrere ad ulteriori passaggi.

@@ -172,6 +172,7 @@
 
 * [🔮 Come si fa?](guide/esempi/README.md)
   * [👏 Autofattura](guide/esempi/autofattura.md)
+  * [🏦 Banca predefinita anagrafica](guide/esempi/banca-predefinita-anagrafica.md)
   * [📲 Calendario su telefono](guide/esempi/calendario-su-telefono.md)
   * [⏱ Contratti a ore](guide/esempi/contratti-a-ore.md)
   * [🧑🔧 Contratti di manutenzione](guide/esempi/assistenza-tecnica.md)
