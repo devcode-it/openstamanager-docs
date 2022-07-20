@@ -84,7 +84,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Agenti secondari
 * Tipo attività predefinita
 
-![](<../../../.gitbook/assets/immagine (36).png>)
+![](<../../../.gitbook/assets/immagine (36) (1).png>)
 
 ### 💁‍♂️ Fornitore
 

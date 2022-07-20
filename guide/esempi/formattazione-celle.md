@@ -49,7 +49,7 @@ IF(`qta`<5, 'red', '#008000')
 
 Il risultato ottenuto sarà il seguente:
 
-![](<../../.gitbook/assets/immagine (147).png>)
+![](<../../.gitbook/assets/immagine (147) (1).png>)
 
 {% hint style="warning" %}
 Si consiglia di utilizzare i colori in formato esadecimale.

@@ -187,6 +187,7 @@
   * [💵 Gestione acconto](guide/esempi/gestione-acconto.md)
   * [📲 Import articoli](guide/esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)
+  * [🔜 Incassi e pagamenti anticipati](guide/esempi/incassi-e-pagamenti-anticipati.md)
   * [📄 Nota di credito](guide/esempi/nota-di-credito.md)
   * [👨🏫 Prezzo di vendita automatico](guide/esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](guide/esempi/magazzino.md)

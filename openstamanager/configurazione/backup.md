@@ -52,7 +52,7 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 * Rimuovere il file `database.sql` dalla cartella del ripristino
 * Procedere alla configurazione del database per il gestionale (tramite procedura semplificata o impostazione manuale del file `config.inc.php`)
 
-![](<../../.gitbook/assets/immagine (87).png>)
+![](<../../.gitbook/assets/immagine (87) (1).png>)
 
 ## 📙 Backup automatico
 

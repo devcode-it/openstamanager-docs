@@ -8,13 +8,13 @@ Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Con
 
 Per poter far ciò, al momento della creazione di un **Contratto**, si deve selezionare uno **Stato dei Contratti** che risulti pianificabile.
 
-![](<../../.gitbook/assets/immagine (6).png>)
+![](<../../.gitbook/assets/immagine (6) (1).png>)
 
 Lo stato dei contratti è verificabile in Strumenti/Tabelle/Stati dei contratti.
 
-![](<../../.gitbook/assets/immagine (39) (1).png>)
+![](<../../.gitbook/assets/immagine (39) (1) (1).png>)
 
-![](<../../.gitbook/assets/immagine (24).png>)
+![](<../../.gitbook/assets/immagine (24) (1).png>)
 
 Si potrà ora [creare un'**Attività**](../../openstamanager/modules/attivita/creazione.md) a cui collegare il **Contratto** appena creato. Le ore di lavoro inserite verranno scalate dal **Budget ore** del contratto.
 
