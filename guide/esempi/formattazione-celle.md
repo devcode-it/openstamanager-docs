@@ -32,7 +32,7 @@ IF(`qta`<5, 'red', '')
 ![](<../../.gitbook/assets/immagine (55).png>)
 
 {% hint style="warning" %}
-Per poter abilitare il campo è importante che il campo Gruppi con accesso sia compilato con i tipi di utenti che dovranno visualizzarlo, e che la Visibilità sia impostata in 'Visibile nella sezione'.
+Per poter abilitare il campo è importante che il campo Gruppi con accesso sia compilato con i tipi di utenti che dovranno visualizzarlo.
 {% endhint %}
 
 In questo modo l'effetto generato sarà il seguente:
