@@ -1,7 +1,6 @@
 # Table of contents
 
-* [🚀 Seleziona la tua versione di OpenSTAManager](README.md)
-* [OpenSTAManager](readme.md)
+* [OpenSTAManager](README.md)
 * [Configurazione](configurazione/README.md)
   * [Installazione](configurazione/installazione.md)
   * [Inizializzazione](configurazione/inizializzazione.md)
