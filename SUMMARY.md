@@ -186,6 +186,7 @@
   * [📃 Fatture non elettroniche](guide/esempi/fatture-non-elettroniche.md)
   * [🌈 Formattazione celle](guide/esempi/formattazione-celle.md)
   * [💵 Gestione acconto](guide/esempi/gestione-acconto.md)
+  * [🗳 Gestione magazzini](guide/esempi/gestione-magazzini.md)
   * [📲 Import articoli](guide/esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)
   * [🔜 Incassi e pagamenti anticipati](guide/esempi/incassi-e-pagamenti-anticipati.md)

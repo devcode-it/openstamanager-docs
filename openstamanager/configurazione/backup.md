@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-![](<../../.gitbook/assets/immagine (153).png>)
+![](<../../.gitbook/assets/immagine (153) (1).png>)
 
 ### 📗 Formato dei backup
 

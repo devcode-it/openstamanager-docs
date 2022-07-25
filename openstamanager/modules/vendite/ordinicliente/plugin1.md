@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato dell'ordine cliente deve essere Accettato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (156).png>)
+![](<../../../../.gitbook/assets/immagine (156) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 

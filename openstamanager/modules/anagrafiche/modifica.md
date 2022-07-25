@@ -95,14 +95,14 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Ritenuta d'acconto predefinita
 * Piano dei conti fornitore\*
 
-![](<../../../.gitbook/assets/immagine (138).png>)
+![](<../../../.gitbook/assets/immagine (138) (1).png>)
 
 ### 🧑‍💼 Cliente e Fornitore
 
 * Abilitare lo split payment
 * Dicitura fissa in fattura
 
-![](<../../../.gitbook/assets/immagine (99).png>)
+![](<../../../.gitbook/assets/immagine (99) (1).png>)
 
 ### 🧑‍🔧 Tecnico
 

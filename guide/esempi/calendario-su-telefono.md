@@ -32,7 +32,7 @@ Andando ora ad aprire il calendario si potranno vedere gli interventi registrati
 
 Il calendario si sincronizzerà ogni 30 minuti come preimpostato, per forzare la sincronizzazione di un'attività appena creata in dashboard basterà premere sul calendario OSM dentro l'app.
 
-![](<../../.gitbook/assets/immagine (147) (1) (1).png>)
+![](<../../.gitbook/assets/immagine (147) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/montaggio (1).jpg>)
 

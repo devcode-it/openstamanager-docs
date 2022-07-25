@@ -18,7 +18,7 @@ Lo stato dei contratti è verificabile in Strumenti/Tabelle/Stati dei contratti.
 
 Si potrà ora [creare un'**Attività**](../../openstamanager/modules/attivita/creazione.md) a cui collegare il **Contratto** appena creato. Le ore di lavoro inserite verranno scalate dal **Budget ore** del contratto.
 
-![](<../../.gitbook/assets/immagine (78).png>)
+![](<../../.gitbook/assets/immagine (78) (1).png>)
 
 Per verificarne il **Consuntivo,** si dovrà ora aprire il contratto da Vendite/Contratti e selezionare il Plugin **Consuntivo**.
 

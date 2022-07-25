@@ -38,7 +38,7 @@ Per registrare un incasso anticipato si dovrà innanzitutto procedere a verifica
 
 Si dovrà ora accedere al modulo Anagrafiche, entrare nella schermata di dettaglio del cliente interessato e cliccare su Crea.../Nuova registrazione contabile (cliente).
 
-![](<../../.gitbook/assets/immagine (147).png>)
+![](<../../.gitbook/assets/immagine (147) (1).png>)
 
 Da qui si dovrà registrare il versamento dell'anticipo, utilizzando il conto impostato come predefinito per l'anticipo clienti.
 

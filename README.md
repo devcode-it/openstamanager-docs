@@ -16,7 +16,7 @@ Di seguito le principali novità della versione 2.4.34, per maggiori dettagli vi
 
 :rocket: Aggiunte azioni di gruppo [Rinnova contratti](https://docs.openstamanager.com/openstamanager/modules/vendite/contratti/azioni-aggiuntive#rinnova-contratti), [Stampa barcode](https://docs.openstamanager.com/openstamanager/modules/magazzino/articoli-1/azioni-aggiuntive#stampa-etichette) e [Eliminazione massiva degli impianti](https://docs.openstamanager.com/openstamanager/modules/impianti/azioni-aggiuntive#eliminazione-massiva), previa selezione e scelta dall'apposito menù.
 
-&#x20;                                                  <img src=".gitbook/assets/immagine (40).png" alt="" data-size="original">
+&#x20;                                                  <img src=".gitbook/assets/immagine (40) (1).png" alt="" data-size="original">
 
 :rocket: Aggiunta la possibilità di [allegare documenti](https://docs.openstamanager.com/openstamanager/modules/contabilita/scadenzario#modifica) alle Scadenze.
 
