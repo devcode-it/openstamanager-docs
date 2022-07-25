@@ -57,7 +57,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Abilitare marca da bollo automatica([https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L%27imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b](https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L'imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b))
 * Note
 
-![](<../../../../.gitbook/assets/immagine (155).png>)
+![](<../../../../.gitbook/assets/immagine (155) (1).png>)
 
 * Righe
 * Allegati

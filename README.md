@@ -20,7 +20,7 @@ Di seguito le principali novità della versione 2.4.34, per maggiori dettagli vi
 
 :rocket: Aggiunta la possibilità di [allegare documenti](https://docs.openstamanager.com/openstamanager/modules/contabilita/scadenzario#modifica) alle Scadenze.
 
-![](<.gitbook/assets/immagine (152).png>)
+![](<.gitbook/assets/immagine (152) (1).png>)
 
 :rocket: Aggiunto nuovo plugin[ Statistiche vendita](https://docs.openstamanager.com/openstamanager/modules/magazzino/articoli-1/plugin/statistiche) in Articoli
 
