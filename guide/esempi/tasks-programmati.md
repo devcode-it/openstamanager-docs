@@ -31,6 +31,18 @@ I caratteri speciali che si possono trovare sono:
 * \* -> qualsiasi valore
 * , -> separatore di valori in una lista
 * \- -> range di valori
-* / -> intervallo di valori
+* / -> intervallo di valori\
+
 
 E' possibile verificare queste impostazioni in siti che verificano se la configurazione del cron è corretta come ad esempio: [https://crontab.guru/](https://crontab.guru/).
+
+{% hint style="info" %}
+**cron.php**: Script dedicato alla gestione delle operazioni di cron ricorrenti del gestionale.\
+Una volta attivato, rimane in background per gestire l'esecuzione delle diverse operazioni come pianificate nella tabella zz\_tasks.
+{% endhint %}
+
+Il file viene richiamato in automatico al login di un utente.
+
+Per garantire che lo script resti attivo in ogni situazione, si consiglia di introdurre una chiamata nel relativo crontab di sistema secondo il seguente schema:
+
+Schema crontab: "/5 \* \* \* php \<percorso\_root>/cron.php"
