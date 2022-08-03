@@ -24,7 +24,7 @@ Il modulo fatture di vendita permette di effettuare diverse azioni massive dalle
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../../../.gitbook/assets/immagine (4).png>)
+![](<../../../../.gitbook/assets/immagine (4) (1).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle fatture di vendita selezionate.
 

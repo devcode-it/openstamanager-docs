@@ -18,14 +18,14 @@ Accedere come amministratore.&#x20;
 
 Abilitare il modulo Viste da Stato dei servizi, in caso sia disattivato (opzione di default).
 
-&#x20;                                                                 <img src="../../.gitbook/assets/image (19).png" alt="" data-size="original">\
+&#x20;                                                                 <img src="../../.gitbook/assets/image.png" alt="" data-size="original">\
 
 
 Da qui, si dovrà selezionare il modulo Attività e andare alla sezione Filtri. E' qui possibile vedere l'elenco dei filtri attivati e attivabili inseriti di default.
 
 Per permettere ai tecnici di visualizzare tutte le attività si dovrà quindi andare a disabilitare il filtro "Mostra interventi ai tecnici coinvolti".
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 {% hint style="info" %}
 Mostra interventi ai tecnici coinvolti se abilitato permetterà ai tecnici di visualizzare solo le attività che gli sono state assegnate o a cui sono collegati.
