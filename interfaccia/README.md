@@ -36,13 +36,13 @@ Sono presenti diversi valori preimpostati:
 
 Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard** e **Articoli**).
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 ## Opzioni di controllo
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-![](<../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 

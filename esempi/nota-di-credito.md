@@ -6,9 +6,9 @@ Come creare una **Nota di credito**.
 
 Per creare una **Nota di credito** si deve aprire la [**Fattura di vendita**](../modules/vendite/fatturedivendita/) a cui farà riferimento dal menù Vendite/Fatture di vendita, e selezionare Crea/Nota di credito.
 
-![](<../.gitbook/assets/image (82).png>)
+![](<../.gitbook/assets/image (39).png>)
 
-![ ](<../.gitbook/assets/image (63).png>)
+![ ](<../.gitbook/assets/image (21).png>)
 
 Da questa schermata sarà ora possibile modificare la quantità da evadere in caso di storno parziale, o annullare la fattura per il suo ammontare totale premendo il tasto **Aggiungi**.
 
@@ -16,15 +16,15 @@ Da questa schermata sarà ora possibile modificare la quantità da evadere in ca
 
 Impostando lo stato su **Emessa**, alla **Nota di credito** verrà assegnato un numero fattura progressivo e si potrà andare ora a [Creare una fattura di vendita](../modules/vendite/fatturedivendita/creazionefatturevendita.md) corretta.
 
-![](<../.gitbook/assets/image (55).png>)
+![](<../.gitbook/assets/image (29).png>)
 
 Nel caso in cui la fattura da emettere debba presentare modifiche minimali rispetto a quella iniziale, è possibile riaprire la **Fattura di vendita** originale in Vendite/Fatture di vendita e utilizzare la funzione **Duplica fattura.**
 
-![](<../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 Verrà così creata in bozza una copia della **Fattura di vendita** originale dove andare ad apportare le necessarie modifiche e che, una volta emessa, avrà numerazione progressiva.
 
-![Bozza della fattura Duplicata](<../.gitbook/assets/image (46).png>)
+![Bozza della fattura Duplicata](<../.gitbook/assets/image (86).png>)
 
-![Fattura modificata ed emessa](<../.gitbook/assets/image (53).png>)
+![Fattura modificata ed emessa](<../.gitbook/assets/image (52).png>)
 

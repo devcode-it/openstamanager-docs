@@ -34,7 +34,7 @@ Così facendo la **fattura** non sarà presente nello **Scadenzario** e sarà vi
 
 #### 2. Da scadenzario
 
-Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](<../.gitbook/assets/salva (2) (2) (3).png>) . Esempio:
+Quando una **fattura** è stata pagata o parzialmente pagata è possibile toglierla dallo **Scadenzario** cliccando sopra al record e andando ad inserire in **Pagato** quanto il cliente ha pagato e successivamente cliccare su ![](<../.gitbook/assets/salva (2) (2) (3) (1).png>) . Esempio:
 
 ![](../.gitbook/assets/metodo2.png)
 

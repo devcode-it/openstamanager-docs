@@ -18,35 +18,35 @@ Le **fatture passive** ricevute da soggetti esteri andranno integrate _entro il 
 
 Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (63).png>)
 
 In **OpenSTAManager** per poter procedere all'emissione di un'autofattura è consigliato seguire prima alcuni passaggi:
 
 Per prima cosa si deve andare a modificare il tipo di anagrafica della propria azienda aggiungendovi il tipo "Fornitore" e quella dei fornitori che ci invieranno fatture in Reverse Charge aggiungendo la tipologia "Cliente". Per fare ciò si dovrà quindi accedere alla sezione "Informazioni aggiuntive" delle anagrafiche interessate e andare a inserirle manualmente.
 
-![Modifica tipo anagrafica](<../.gitbook/assets/immagine (17).png>)
+![Modifica tipo anagrafica](<../.gitbook/assets/immagine (23).png>)
 
 Per far si che le registrazioni contabili risultino normalizzate si dovrà poi creare un apposito conto in cui far confluire i costi e ricavi generati. Per creare un nuovo conto dello stato patrimoniale si deve premere sul tasto **(+)**, aggiungere una nuova categoria (**Conti Compensativi**), e selezionare Utilizza come **Ricavo e Costo**.
 
-![](<../.gitbook/assets/immagine (6).png>)
+![](<../.gitbook/assets/immagine (20).png>)
 
-![Creazione nuova tipologia di conto ](<../.gitbook/assets/immagine (3).png>)
+![Creazione nuova tipologia di conto ](<../.gitbook/assets/immagine (11).png>)
 
 Ora si dovrà creare il conto "Compensazione per autofattura" che si andrà ad utilizzare al momento della registrazione dell'autofattura in entrata e uscita.
 
-![Creazione nuovo conto](<../.gitbook/assets/immagine (20).png>)
+![Creazione nuovo conto](<../.gitbook/assets/immagine (24).png>)
 
 Come ultimo passo in preparazione all'emissione di autofatture è consigliato creare due appositi **Sezionali** in cui raggrupparle, uno per le fatture di vendita e uno per quelle di acquisto, da Strumenti/Segmenti premendo il tasto **Aggiungi (+)**.
 
 Qui si dovranno inserire il Nome e il modulo a cui i nostri sezionali dovranno riferirsi.
 
-![Creazione sezionale](<../.gitbook/assets/immagine (18).png>)
+![Creazione sezionale](<../.gitbook/assets/immagine (26).png>)
 
 Si registrerà ora la fattura di acquisto estero ricevuta in via cartacea o importando dal SDI la fattura ricevuta con Reverse Charge.&#x20;
 
-![Registrazione fattura di acquisto](<../.gitbook/assets/immagine (14).png>)
+![Registrazione fattura di acquisto](<../.gitbook/assets/immagine (19).png>)
 
-![](<../.gitbook/assets/immagine (2).png>)
+![](<../.gitbook/assets/immagine (21).png>)
 
 Si potrà ora procedere ad emettere l'autofattura creando una nuova [Fattura di vendita](../modules/vendite/fatturedivendita/creazionefatturevendita.md) nel sezionale Autofatture, selezionando come Cliente il fornitore emittente la fattura di acquisto ricevuta, e come tipo di documento si dovrà scegliere tra:
 
@@ -55,35 +55,35 @@ Si potrà ora procedere ad emettere l'autofattura creando una nuova [Fattura di 
 * **TD18** – **integrazione/autofattura per acquisto beni intracomunitari** (vendita dal Cedente/Prestatore residente in altro paese UE di beni al C/C residente o stabilito nel territorio nazionale);
 * **TD19** – **Integrazione/autofattura per acquisto di beni ex art.17 c.2 DPR 633/72** (vendita da Cedente/Prestatore estero di beni già presenti in Italia);
 
-![Creazione fattura di vendita per autofattura](<../.gitbook/assets/immagine (5).png>)
+![Creazione fattura di vendita per autofattura](<../.gitbook/assets/immagine (18).png>)
 
 Si dovrà ora attivare la spunta su Fattura per conto terzi, andando così a invertire cliente e fornitore.
 
-![Modifica fattura di vendita in fattura Reverse Charge](<../.gitbook/assets/immagine (21).png>)
+![Modifica fattura di vendita in fattura Reverse Charge](<../.gitbook/assets/immagine (17).png>)
 
 All'atto dell'inserimento righe si andranno a selezionare il conto creato precedentemente e l'aliquota IVA adeguata da applicare.
 
-![](<../.gitbook/assets/immagine (19).png>)
+![](<../.gitbook/assets/immagine (16).png>)
 
 Tra le fatture di vendita nel sezionale Autofatture sarà ora possibile vedere la fattura appena creata e andando a esaminare l'XML del documento si troveranno cliente e fornitore nella giusta posizione.
 
-![XML Reverse Charge](<../.gitbook/assets/immagine (16).png>)
+![XML Reverse Charge](<../.gitbook/assets/immagine (14).png>)
 
 Si dovrà ora registrare questa fattura tra quelle di acquisto, inserendo gli stessi valori della fattura di vendita appena emessa.
 
-![Creazione fattura di acquisto per autofattura](<../.gitbook/assets/image (32).png>)
+![Creazione fattura di acquisto per autofattura](<../.gitbook/assets/image (77).png>)
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (85).png>)
 
 Per normalizzare i valori dello stato patrimoniale si dovrà ora andare a eseguire un movimento in prima nota che avrà in Avere il conto utilizzato per il cliente della fattura di vendita (in questo caso è il conto Forniture impianti srl avendo fatto un'operazione con Reverse Charge, come lo si distingue dal codice rientrante tra quello dei Crediti clienti), e in Dare il conto utilizzato per il fornitore della fattura di acquisto appena registrata.
 
-![Normalizzazione dei conti per compensazione](<../.gitbook/assets/image (29).png>)
+![Normalizzazione dei conti per compensazione](<../.gitbook/assets/image (61).png>)
 
 Andando ad analizzare il piano dei conti sarà ora possibile trovarvi solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 
-![Dettaglio Conto economico](<../.gitbook/assets/image (20).png>)
+![Dettaglio Conto economico](<../.gitbook/assets/image (75).png>)
 
-![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (39).png>)
+![Dettaglio Stato patrimoniale](<../.gitbook/assets/image (56).png>)
 
-![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (45).png>)
+![Dettaglio pareggio IVA tra i Conti transitori](<../.gitbook/assets/image (83).png>)
 

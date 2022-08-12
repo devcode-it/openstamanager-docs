@@ -31,7 +31,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/Conti
 
 * Inserire password
 
-![](<../../.gitbook/assets/password (3).PNG>)
+![](<../../.gitbook/assets/password (3) (1).PNG>)
 
 * Se appare nuovamente la schermata del punto uno fare nuovamente la spunta sulle 3 caselle, se non appare, invece, apparirà questa schermata:
 
@@ -54,7 +54,7 @@ Fare la spunta su tutte e 3 le caselle e premere ![](../../.gitbook/assets/Conti
 
 ![API e servizi](../../.gitbook/assets/ApiEServizi.PNG)
 
-Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2) (1).PNG>)
+Successivamente cliccare sulle 3 linee in alto a sinistra,andare su **API e servizi** e selezionare ![](<../../.gitbook/assets/credenziali (1) (2).PNG>)
 
 ![Generazione API Key](../../.gitbook/assets/ChiaveAPI.PNG)
 

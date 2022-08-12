@@ -19,7 +19,7 @@ Il modulo è raggiungibile attraverso il menu laterale del gestionale, sotto il 
 
 Per la creazione di un backup guardare il video sottostante
 
-![GIF creazione backup](<../../.gitbook/assets/creazionebackup (2) (2) (4) (2).gif>)
+![GIF creazione backup](<../../.gitbook/assets/creazionebackup (2) (2) (4) (4).gif>)
 
 Una volta creato il backup lo si può:
 
