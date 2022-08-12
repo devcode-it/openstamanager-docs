@@ -6,7 +6,7 @@ description: Come installare Awesome screenshot per inviare segnalazioni a OpenS
 
 Per inviare segnalazioni più complete e comprensibili al team OpenSTAManager, in modo da aiutarci a capire al meglio qual è il problema trattato, consigliamo di integrare i propri messaggi con screenshot che evidenziano il problema.
 
-Uno dei tool più utilizzati è [**Awesome Screenshot**](https://www.awesomescreenshot.com/), un plugin che permette di catturare immagini e scrivervi e disegnarvi sopra.
+Uno degli strumenti più utilizzati è [**Awesome Screenshot**](https://www.awesomescreenshot.com/), un plugin che permette di catturare immagini e scrivervi e disegnarvi sopra.
 
 Per installarlo si dovrà cliccare su Add to Chrome, potremo quindi trovarlo tra i nostri componenti aggiuntivi. ![](<../../.gitbook/assets/immagine (10).png>)
 
