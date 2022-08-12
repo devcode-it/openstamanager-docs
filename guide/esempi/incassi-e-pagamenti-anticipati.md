@@ -10,7 +10,7 @@ Nel caso in cui si debba effettuare un pagamento verso fornitori al momento dell
 
 Per registrare un pagamento anticipato si dovrà innanzitutto procedere a verificare il conto predefinito per l'anticipo dei fornitori, in Strumenti/Impostazioni/Fatturazione, sotto la voce Conto anticipo fornitori.
 
-![](<../../.gitbook/assets/immagine (6).png>)
+![](<../../.gitbook/assets/immagine (6) (1).png>)
 
 Si dovrà ora accedere al modulo Anagrafiche, entrare nella schermata di dettaglio del fornitore interessato e cliccare su Crea.../Nuova registrazione contabile (fornitore).
 
