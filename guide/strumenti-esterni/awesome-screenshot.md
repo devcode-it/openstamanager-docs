@@ -6,19 +6,22 @@ description: Come installare Awesome screenshot per inviare segnalazioni a OpenS
 
 Per inviare segnalazioni più complete e comprensibili al team OpenSTAManager, in modo da aiutarci a capire al meglio qual è il problema trattato, consigliamo di integrare i propri messaggi con screenshot che evidenziano il problema.
 
-Uno degli strumenti più utilizzati è [**Awesome Screenshot**](https://www.awesomescreenshot.com/), un plugin che permette di catturare immagini e scrivervi e disegnarvi sopra.
+Uno degli strumenti più utilizzati è [**Awesome Screenshot**](https://www.awesomescreenshot.com/), un plugin che permette di catturare immagini e scrivervi e disegnarvi sopra:
 
-Per installarlo si dovrà cliccare su Add to Chrome, potremo quindi trovarlo tra i nostri componenti aggiuntivi. ![](<../../.gitbook/assets/immagine (10).png>)
+* [Installa per Chrome](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+* [Installa per Firefox](https://addons.mozilla.org/it/firefox/addon/screenshot-capture-annotate/)
 
-![](<../../.gitbook/assets/immagine (5).png>)
+Si potrà ora quindi trovarlo tra i componenti aggiuntivi: ![](<../../.gitbook/assets/immagine (10).png>)
 
-Si aprirà quindi un menù che permetterà di:
+Al clic si aprirà un menu che permetterà di:
 
 * Catturare la parte visibile della pagina
   * Catturare immagine dopo conto alla rovescia
 * Catturare l'area selezionata
 * Catturare l'intera pagina
 * Selezionare un'immagine locale
+
+&#x20;                                                          ![](<../../.gitbook/assets/immagine (1).png>)
 
 Dopo aver selezionato la modalità interessata e catturato l'immagine del problema da riportare, si aprirà la schermata di modifica, dove sarà possibile modificare l'immagine:
 
