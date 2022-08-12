@@ -195,6 +195,7 @@
   * [👨🏫 Prezzo di vendita automatico](guide/esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](guide/esempi/magazzino.md)
   * [📝 Sconto combinato](guide/esempi/sconto-combinato.md)
+  * [📸 Awesome screenshot](guide/esempi/awesome-screenshot.md)
   * [🗓 Tasks programmati](guide/esempi/tasks-programmati.md)
 * [📽 Videoguide](guide/videoguide/README.md)
   * [🎥 Attività/Fatturazione](guide/videoguide/attivita-fatturazione.md)
