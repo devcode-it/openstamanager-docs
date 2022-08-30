@@ -23,6 +23,10 @@ Di seguito sono elencati i parametri consigliati per il registratore di cassa:
 * VIRGOLA INCLUSA: **SI**
 * ECHO FULL: **NO**
 
+### 🔍 Requisiti
+
+Compatibile con stampanti fiscali che supportano il protocollo xon-xoff e lavorano in rete.
+
 ## 🪙 Vendita al banco
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
