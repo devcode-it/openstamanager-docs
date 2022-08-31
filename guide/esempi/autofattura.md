@@ -74,3 +74,13 @@ Andando ad analizzare il piano dei conti sarà ora possibile notare solo il movi
 ![Dettaglio pareggio IVA tra i Conti transitori](<../../.gitbook/assets/image (289).png>)
 
 La procedura di integrazione IVA è terminata.
+
+### ➖ Nota di credito da fornitore estero
+
+Per registrare una nota di credito da fornitore estero si dovrà eseguire la medesima procedura, mettendo segno negativo davanti agli importi delle righe.&#x20;
+
+I passaggi saranno quindi i seguenti:
+
+* Fattura di acquisto originale da fornitore estero con le righe con valore negativo
+* Si andrà a generare l'autofattura (di vendita)che avrà quindi valori negativi, dal documento appena registrato
+* Si andrà a importare l'autofattura (di acquisto) che avrà valore negativo.
