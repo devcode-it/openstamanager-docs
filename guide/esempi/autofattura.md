@@ -36,10 +36,10 @@ Cliccando sulla fattura appena registrata si accederà alla schermata di dettagl
 
 Si aprirà ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
 
-* **TD16** – integrazione fattura per **reverse charge interno**: da inviare in caso di ricevimento di fatture passive Italia soggette al regime di inversione contabile (art.17, commi 5 e 6 del DPR n. 633/1972 - art. 74 del DPR n.633/1972). Nella sezione 2.1.6 - Dati fatture collegate devono essere riportati gli estremi della fattura di riferimento; -> Reverse charge Italia
-* **TD17** – integrazione/autofattura per **acquisto servizi dall’estero**: da inviare in caso di ricevimento di fatture estere per acquisti di servizi territorialmente rilevanti ai fini IVA in Italia qualora il fornitore sia soggetto passivo stabilito ai fini IVA in altro Paese della UE o in un Paese extra-UE (art. 17 2 comma DPR 633/72); -> Servizi CEE e extraCEE
-* **TD18** – integrazione per **acquisto di beni intracomunitari**: da inviare in caso di ricevimento di fatture CEE per acquisti intracomunitari di beni (art. 38 del DL n. 331/1993); -> Beni CEE
-* **TD19** – Integrazione/autofattura per **acquisto di beni ex art. 17 c. 2 DPR n. 633/1972**: da inviare in caso di acquisti di beni territorialmente rilevanti in Italia, diversi dagli acquisti intracomunitari e dalle importazioni da soggetti non residenti (beni presenti in Italia); -> Beni extra CEE ma presenti in Italia
+* **TD16** – **integrazione fattura per** **reverse charge interno**: da inviare in caso di ricevimento di fatture passive Italia soggette al regime di inversione contabile (art.17, commi 5 e 6 del DPR n. 633/1972 - art. 74 del DPR n.633/1972). Nella sezione 2.1.6 - Dati fatture collegate devono essere riportati gli estremi della fattura di riferimento; _» Reverse charge Italia_
+* **TD17** – **integrazione/autofattura per** **acquisto servizi dall’estero**: da inviare in caso di ricevimento di fatture estere per acquisti di servizi territorialmente rilevanti ai fini IVA in Italia qualora il fornitore sia soggetto passivo stabilito ai fini IVA in altro Paese della UE o in un Paese extra-UE (art. 17 2 comma DPR 633/72); _» Servizi CEE e extraCEE_
+* **TD18** – **integrazione per acquisto di beni intracomunitari**: da inviare in caso di ricevimento di fatture CEE per acquisti intracomunitari di beni (art. 38 del DL n. 331/1993); _» Beni CEE_
+* **TD19** – **Integrazione/autofattura per acquisto di beni ex art. 17 c. 2 DPR n. 633/1972**: da inviare in caso di acquisti di beni territorialmente rilevanti in Italia, diversi dagli acquisti intracomunitari e dalle importazioni da soggetti non residenti (beni presenti in Italia); _» Beni extra CEE ma presenti in Italia_
 
 Avviando questa procedura si può notare che si sta attualmente lavorando nel sezionale **Autofatture**, che la procedura guidata selezionerà autonomamente.
 
