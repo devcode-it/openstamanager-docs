@@ -12,8 +12,15 @@ description: >-
 [preventivo-consuntivo.md](preventivo-consuntivo.md)
 {% endcontent-ref %}
 
+»»» Come creare un'autofattura tramite gli automatismi di OSM
+
+{% content-ref url="autofattura.md" %}
+[autofattura.md](autofattura.md)
+{% endcontent-ref %}
+
 »»» Dall'inserimento di un'attività alla sua fatturazione:
 
 {% content-ref url="attivita-fatturazione.md" %}
 [attivita-fatturazione.md](attivita-fatturazione.md)
 {% endcontent-ref %}
+

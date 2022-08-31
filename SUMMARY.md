@@ -198,6 +198,7 @@
   * [📸 Awesome screenshot](guide/strumenti-esterni/awesome-screenshot.md)
 * [📽 Videoguide](guide/videoguide/README.md)
   * [🎥 Attività/Fatturazione](guide/videoguide/attivita-fatturazione.md)
+  * [🎥 Autofattura](guide/videoguide/autofattura.md)
   * [🎥 Preventivo/Consuntivo](guide/videoguide/preventivo-consuntivo.md)
 * [📘 F.A.Q.](guide/domande-comuni.md)
 

@@ -16,9 +16,19 @@ Le **fatture attive** dovranno essere emesse verso soggetti esteri _entro 12 gio
 Le **fatture passive** ricevute da soggetti esteri andranno integrate _entro il giorno 15 del mese successivo_ a quello in cui sono stati ricevuti i documenti che provano l’effettuazione dell’operazione.
 {% endhint %}
 
+### ✍️ Scritture contabili
+
 Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
 
 ![](<../../.gitbook/assets/image (290).png>)
+
+I documenti che si riscontreranno al termine di questa operazione sono 3:
+
+1. Fattura estera di acquisto
+2. Autofattura registrata tra le fatture di vendita nel sezionale Autofatture
+3. Autofattura registrata tra le fatture di acquisto nel sezionale Autofatture
+
+### 1️ Registrazione fattura estera
 
 Come primo passo si dovrà procede alla registrazione della fattura di acquisto estero ricevuta in via cartacea o all'importazione dallo SDI della fattura ricevuta con Reverse Charge
 
@@ -29,6 +39,8 @@ Questa fattura andrà registrata come la si riceve, non si deve quindi aggiunger
 ![](<../../.gitbook/assets/image (635).png>)
 
 ![](<../../.gitbook/assets/image (630).png>)
+
+### 2️ Creazione autofattura di vendita
 
 Cliccando sulla fattura appena registrata si accederà alla schermata di dettaglio della stessa, dove sarà possibile notare un avviso che guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi cliccare su Crea/Autofattura.
 
@@ -41,7 +53,9 @@ Si aprirà ora un menu che permetterà di scegliere la tipologia del documento c
 * **TD18** – **integrazione per acquisto di beni intracomunitari**: da inviare in caso di ricevimento di fatture CEE per acquisti intracomunitari di beni (art. 38 del DL n. 331/1993); _» Beni CEE_
 * **TD19** – **Integrazione/autofattura per acquisto di beni ex art. 17 c. 2 DPR n. 633/1972**: da inviare in caso di acquisti di beni territorialmente rilevanti in Italia, diversi dagli acquisti intracomunitari e dalle importazioni da soggetti non residenti (beni presenti in Italia); _» Beni extra CEE ma presenti in Italia_
 
-Avviando questa procedura si può notare che si sta attualmente lavorando nel sezionale **Autofatture**, che la procedura guidata selezionerà autonomamente.
+{% hint style="info" %}
+Avviando questa procedura si può notare che si sta attualmente lavorando nel sezionale **Autofatture.**
+{% endhint %}
 
 ![](<../../.gitbook/assets/image (634).png>)
 
@@ -53,13 +67,19 @@ Andando ad analizzare le righe si potrà vedere l'IVA per integrazione presente 
 
 ![](<../../.gitbook/assets/image (622).png>)
 
-All'atto di importazione delle fatture di acquisto si potrà ora trovare l'autofattura da importare, che andrà a registrarsi nel sezionale Autofatture.
+Questa fattura andrà emessa e inviata allo SDI.
+
+### 3️ Importazione autofattura di acquisto
+
+All'atto di importazione delle fatture di acquisto, dopo che sarà esaminata e approvata dallo SDI, si potrà trovare l'autofattura da importare, che andrà a registrarsi nel sezionale Autofatture.
 
 {% hint style="info" %}
 Nel campo autofattura collegata si potrà selezionare l'autofattura di vendita da collegare.
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (600).png>)
+
+### 📕 Piano dei conti
 
 Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare a compensare i conti dello stato patrimoniale.
 
@@ -84,3 +104,9 @@ I passaggi saranno quindi i seguenti:
 * Fattura di acquisto originale da fornitore estero con le righe con valore negativo
 * Si andrà a generare l'autofattura (di vendita)che avrà quindi valori negativi, dal documento appena registrato
 * Si andrà a importare l'autofattura (di acquisto) che avrà valore negativo.
+
+### 🎥 Videoguida
+
+{% content-ref url="../videoguide/autofattura.md" %}
+[autofattura.md](../videoguide/autofattura.md)
+{% endcontent-ref %}
