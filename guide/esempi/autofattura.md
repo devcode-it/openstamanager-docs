@@ -36,22 +36,26 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 Questa fattura andrà registrata come la si riceve, non si deve quindi aggiungere manualmente l'IVA.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (635).png>)
+<figure><img src="../../.gitbook/assets/immagine (155).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (630).png>)
+In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
+
+* **TD16** – **integrazione fattura per** **reverse charge interno**: da inviare in caso di ricevimento di fatture passive Italia soggette al regime di inversione contabile (art.17, commi 5 e 6 del DPR n. 633/1972 - art. 74 del DPR n.633/1972). Nella sezione 2.1.6 - Dati fatture collegate devono essere riportati gli estremi della fattura di riferimento; _» Reverse charge Italia_
+* **TD17** – **integrazione/autofattura per** **acquisto servizi dall’estero**: da inviare in caso di ricevimento di fatture estere per acquisti di servizi territorialmente rilevanti ai fini IVA in Italia qualora il fornitore sia soggetto passivo stabilito ai fini IVA in altro Paese della UE o in un Paese extra-UE (art. 17 2 comma DPR 633/72); _» Servizi CEE e extraCEE_
+* **TD18** – **integrazione per acquisto di beni intracomunitari**: da inviare in caso di ricevimento di fatture CEE per acquisti intracomunitari di beni (art. 38 del DL n. 331/1993); _» Beni CEE_
+* **TD19** – **Integrazione/autofattura per acquisto di beni ex art. 17 c. 2 DPR n. 633/1972**: da inviare in caso di acquisti di beni territorialmente rilevanti in Italia, diversi dagli acquisti intracomunitari e dalle importazioni da soggetti non residenti (beni presenti in Italia); _» Beni extra CEE ma presenti in Italia_
+
+Una volta compilato il form si dovrà cliccare su Aggiungi, andare a selezionare la modalità di pagamento e procedere all'inserimento delle righe, per cui andrà selezionata una categoria IVA Non Imponibile.
+
+<figure><img src="../../.gitbook/assets/immagine (152).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/immagine (154).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️ Creazione autofattura di vendita
 
 Cliccando sulla fattura appena registrata si accederà alla schermata di dettaglio della stessa, dove sarà possibile notare un avviso che guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi cliccare su Crea/Autofattura.
 
 ![](<../../.gitbook/assets/image (643).png>)
-
-Si aprirà ora un menu che permetterà di scegliere la tipologia del documento corretta tra:
-
-* **TD16** – **integrazione fattura per** **reverse charge interno**: da inviare in caso di ricevimento di fatture passive Italia soggette al regime di inversione contabile (art.17, commi 5 e 6 del DPR n. 633/1972 - art. 74 del DPR n.633/1972). Nella sezione 2.1.6 - Dati fatture collegate devono essere riportati gli estremi della fattura di riferimento; _» Reverse charge Italia_
-* **TD17** – **integrazione/autofattura per** **acquisto servizi dall’estero**: da inviare in caso di ricevimento di fatture estere per acquisti di servizi territorialmente rilevanti ai fini IVA in Italia qualora il fornitore sia soggetto passivo stabilito ai fini IVA in altro Paese della UE o in un Paese extra-UE (art. 17 2 comma DPR 633/72); _» Servizi CEE e extraCEE_
-* **TD18** – **integrazione per acquisto di beni intracomunitari**: da inviare in caso di ricevimento di fatture CEE per acquisti intracomunitari di beni (art. 38 del DL n. 331/1993); _» Beni CEE_
-* **TD19** – **Integrazione/autofattura per acquisto di beni ex art. 17 c. 2 DPR n. 633/1972**: da inviare in caso di acquisti di beni territorialmente rilevanti in Italia, diversi dagli acquisti intracomunitari e dalle importazioni da soggetti non residenti (beni presenti in Italia); _» Beni extra CEE ma presenti in Italia_
 
 {% hint style="info" %}
 Avviando questa procedura si può notare che si sta attualmente lavorando nel sezionale **Autofatture.**
@@ -71,7 +75,7 @@ Questa fattura andrà emessa e inviata allo SDI.
 
 ### 3️ Importazione autofattura di acquisto
 
-All'atto di importazione delle fatture di acquisto, dopo che sarà esaminata e approvata dallo SDI, si potrà trovare l'autofattura da importare, che andrà a registrarsi nel sezionale Autofatture.
+All'atto di importazione delle fatture di acquisto, dopo che sarà esaminata e approvata dallo SDI, si potrà trovare l'autofattura da importare che andrà a registrarsi nel sezionale Autofatture.
 
 {% hint style="info" %}
 Nel campo autofattura collegata si potrà selezionare l'autofattura di vendita da collegare.
