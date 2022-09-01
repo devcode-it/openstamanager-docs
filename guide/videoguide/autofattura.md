@@ -6,4 +6,4 @@ description: Guida alla creazione di un'autofattura
 
 Creazione di un'autofattura tramite gli automatismi OpenSTAManager.
 
-{% embed url="https://www.youtube.com/watch?v=KBKZtOR0CfQ" %}
+{% embed url="https://youtu.be/KBKZtOR0CfQ" %}
