@@ -71,7 +71,14 @@ Andando ad analizzare le righe si potrà vedere l'IVA per integrazione presente 
 
 ![](<../../.gitbook/assets/image (622).png>)
 
-Questa fattura andrà emessa e inviata allo SDI.
+Le righe possono essere sintetizzate con i riferimenti alle normative in base al tipo di documento:
+
+* "Autofattura Art.17, c.5-6 DPR 633/72" per **TD16**
+* "Autofattura Art.17, c.2 DPR 633/72" per **TD17**&#x20;
+* "Autofattura Art.38 del DL n. 331/1993" per **TD18**
+* "Autofattura ex Art.17, c.2 DPR 633/72" per **TD19**
+
+Questa fattura andrà ora emessa e inviata allo SDI.
 
 ### 3️ Importazione autofattura di acquisto
 
