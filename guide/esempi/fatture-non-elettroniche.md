@@ -16,6 +16,8 @@ Si dovranno quindi ora caricare le fatture di acquisto interessate in quest'appo
 
 ![](<../../.gitbook/assets/image (621).png>)
 
+### Esportazione fatture
+
 Per poter procedere all'esportazione si dovrà ora da Acquisti/Fatture di acquisto impostare il sezionale Fatture non elettroniche, spuntare tutte le fatture interessate e premere il tasto a fondo pagina **Azioni di gruppo**/Esporta stampe FE.
 
 ![](<../../.gitbook/assets/image (611).png>)
@@ -27,3 +29,11 @@ Queste non saranno fatture elettroniche ma il formato con cui vengono create nel
 Premendo **Procedi** sarà possibile selezionare la cartella dove scaricare il file .zip contenente le fatture non elettroniche in formato PDF.
 
 ![](<../../.gitbook/assets/image (627).png>)
+
+### Vedi anche
+
+Come emettere un'autofattura in seguito alla ricezione di una fattura non elettronica estera.
+
+{% content-ref url="autofattura.md" %}
+[autofattura.md](autofattura.md)
+{% endcontent-ref %}
