@@ -43,7 +43,7 @@ Il campo stato ora potrà riportare uno dei seguenti valori:
 Nel caso in cui ci sia necessità di modificare una fattura elettronica già depositata allo SDI, si dovrà procedere ad emettere una nota di credito per annullare la fattura in questione e a inviare una nuova fattura riportando i dati corretti.
 {% endhint %}
 
-### ✉️ Importazione delle fatture elettroniche di acquisto
+### ✉️ Importazione delle ricevute delle fatture di acquisto
 
 Per importare le fatture elettroniche di acquisto si dovrà accedere al modulo Acquisti/Fatture di acquisto e dal plugin Fatturazione Elettronica cliccare su Ricerca fatture di acquisto/Importa in sequenza, per scaricarle dallo SDI.
 
