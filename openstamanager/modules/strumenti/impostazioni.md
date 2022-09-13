@@ -29,28 +29,30 @@ Il modulo **impostazioni** permette di apportare delle modifiche ai seguenti mod
 
 ### 🔨 Aggiornamenti
 
-In questa sezione è possibile attivare o disattivare gli aggiornamenti.
+In questa sezione è possibile attivare o disattivare gli aggiornamenti di OpenSTAManager.
 
 ### 🔨 Anagrafiche
 
-In questa sezione è possibile modificare il Formato codice anagrafica.
+In questa sezione è possibile modificare il formato codice anagrafica.
+
+Ogni "#" in fase di aggiunta di una nuova anagrafica verrà valorizzato, si può quindi impostare il numero di cifre che verranno mostrate e valorizzate come codice anagrafica.
 
 ### 🔨 API
 
 In questa sezione è possibile modificare:
 
-* Lunghezza pagine per API
-* Google Maps API key
-* apilayer API key for VAT number
+* Lunghezza pagine per API (default)
+* Google Maps API key: API key di Google Maps per permettere una corretta visualizzazione delle mappe
+* apilayer API key for VAT number: API key verso servizi che permettono di verificare la Partita IVA e inserire automaticamente i dati anagrafici registrati.
 
 ### 🔨 Applicazione
 
 In questa sezione è possibile modificare:
 
-* Google Maps API key per Tecnici
-* Scegliere se mostrare i prezzi
+* Google Maps API key per Tecnici: API key di Google dove confluiranno le richieste dei tecnici
+* Scegliere se mostrare i prezzi nell'APP
 * Scegliere se sincronizzare solo i Clienti per cui il Tecnico ha lavorato in passato
-* Mesi per lo storico delle Attività
+* Impostare i mesi per lo storico delle Attività
 * Scegliere se abilitare la modifica di altri tecnici
 
 ### 🔨 Attività
