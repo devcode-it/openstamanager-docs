@@ -52,11 +52,11 @@ Con la Chiusura contabile:
 
 Con l'Apertura contabile:
 
-* Tutti i Conti Patrimoniali attivi vengono, aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
-* Tutti i Conti Patrimoniali passivi vengono, aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
+* Tutti i Conti Patrimoniali attivi vengono aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
+* Tutti i Conti Patrimoniali passivi vengono aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
 * Il Bilancio di Apertura viene pareggiato dal Risultato di Esercizio.
 
-I tasti presenteranno colore azzurro se durante l'anno corrente questi movimenti non sono ancora stati effettuati, mentre presenteranno colore bianco nel caso in cui le scritture relative all'apertura o chiusura siano già presenti a gestionale.
+I tasti "Apertura bilancio" e "Chiusura bilancio" presenteranno colore azzurro se durante l'anno corrente questi movimenti non sono ancora stati effettuati, mentre presenteranno colore bianco nel caso in cui le scritture relative all'apertura o chiusura siano già presenti a gestionale.
 
 <figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
