@@ -18,7 +18,7 @@ Dopo aver registrato correttamente l'anagrafica si dovrà procedere ad emettere 
 
 Si dovrà qui selezionare l'Ente pubblico e cliccare su Aggiungi.
 
-<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si potrà ora procedere al completamento dei dati da riportare in fattura inserendo le righe e andando ad attivare l'impostazione "Split payment", un meccanismo secondo cui la PA acquirente non corrisponde l'IVA presente in fattura al fornitore ma la trattiene e la versa direttamente all'erario.
 

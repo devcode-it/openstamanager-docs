@@ -31,3 +31,13 @@ Il procedimento è uguale a quello di[ Creazione di un Articolo](https://docs.op
 Spuntando la casella **Questo articolo è un servizio** le quantità non saranno considerate, in questo modo rimarranno fisse a **0** mentre il **Prezzo di vendita** sarà il prezzo stabilito per il servizio.
 
 Grazie alla possibilità di aggiungere un articolo fittizio si potranno ad esempio aggiungere le spese di spedizione in un DDT in uscita.
+
+## 🕳️ Utilizzare articoli con quantità negativa nei documenti
+
+Il magazzino viene popolato tramite le fatture di acquisto, può succedere però per vari motivi che questa fattura arrivi in data successiva alla ricezione della merce, e che si abbia la necessità di inserirla in un'attività, DDT o fattura di vendita.
+
+Per poter far ciò senza modificare manualmente le quantità in magazzino rischiando di commettere errori, si può abilitare l'impostazione "Permetti selezione articoli con quantità minore o guale a zero in Documenti di Vendita"
+
+<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+
+Inserendo questi articoli nei vari documenti verranno automaticamente generati dei movimenti che li porteranno in quantità negativa, fino al momento dalla registrazione della relativa fattura d'acquisto dove le quantità corrette verranno ripristinate.&#x20;
