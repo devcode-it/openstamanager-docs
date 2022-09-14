@@ -38,6 +38,6 @@ Il magazzino viene popolato tramite le fatture di acquisto, può succedere però
 
 Per poter far ciò senza modificare manualmente le quantità in magazzino rischiando di commettere errori, si può abilitare l'impostazione "Permetti selezione articoli con quantità minore o guale a zero in Documenti di Vendita" in Strumenti/impostazioni/Generali.
 
-<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Inserendo questi articoli nei vari documenti verranno automaticamente generati dei movimenti che li porteranno in quantità negativa, fino al momento dalla registrazione della relativa fattura d'acquisto dove le quantità corrette verranno ripristinate.&#x20;

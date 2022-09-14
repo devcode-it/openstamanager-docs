@@ -18,7 +18,7 @@ Dopo aver registrato correttamente l'anagrafica si dovrà procedere ad emettere 
 
 Si dovrà qui selezionare l'Ente pubblico e cliccare su Aggiungi.
 
-<figure><img src="../../../.gitbook/assets/immagine (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si potrà ora procedere al completamento dei dati da riportare in fattura inserendo le righe e andando ad attivare l'impostazione "Split payment", un meccanismo secondo cui la PA acquirente non corrisponde l'IVA presente in fattura al fornitore ma la trattiene e la versa direttamente all'erario.
 
@@ -44,7 +44,7 @@ Le amministrazioni non potranno procedere al pagamento delle fatture elettronich
 
 Questi codici vanno inseriti nelle voci 2.1.2.6 CodiceCUP e 2.1.2.7 CodiceCIG **dopo aver specificato il corretto 2.1.2.2 IdDocumento.**
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 Sarà ora possibile emettere e inviare elettronicamente la fattura appena generata.
 

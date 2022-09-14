@@ -38,3 +38,26 @@ Da qui sarà possibile modificare:
 * Utilizza come (Costo, Ricavo, Ricavo e Costo)
 
 ![](<../../../.gitbook/assets/image (371).png>)
+
+## 📅 Apertura e chiusura bilancio
+
+Queste funzioni consentono di effettuare la Chiusura Contabile del vecchio anno e l’Apertura Contabile del nuovo, procedendo alla loro movimentazione automatica in prima nota.
+
+Con la Chiusura contabile:
+
+* Tutti i Conti Economici vengono azzerati e girati a Risultato di Esercizio;
+* Tutti i Conti Patrimoniali attivi vengono sommati e girati a Bilancio di Chiusura;
+* Tutti i Conti Patrimoniali passivi vengono sommati e girati a Bilancio di Chiusura;
+* Il Bilancio di Chiusura viene pareggiato dal Risultato di Esercizio.
+
+Con l'Apertura contabile:
+
+* Tutti i Conti Patrimoniali attivi vengono, aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
+* Tutti i Conti Patrimoniali passivi vengono, aperti con saldo uguale a quello dell’anno precedente, e girati a Bilancio di Apertura.
+* Il Bilancio di Apertura viene pareggiato dal Risultato di Esercizio.
+
+I tasti presenteranno colore azzurro se durante l'anno corrente questi movimenti non sono ancora stati effettuati, mentre presenteranno colore bianco nel caso in cui le scritture relative all'apertura o chiusura siano già presenti a gestionale.
+
+<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>

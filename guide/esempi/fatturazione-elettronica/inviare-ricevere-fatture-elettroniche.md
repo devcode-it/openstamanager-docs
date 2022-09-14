@@ -47,7 +47,7 @@ Nel caso in cui ci sia necessità di modificare una fattura elettronica già dep
 
 Per importare le fatture elettroniche di acquisto si dovrà accedere al modulo Acquisti/Fatture di acquisto e dal plugin Fatturazione Elettronica cliccare su Ricerca fatture di acquisto/Importa in sequenza, per scaricarle dallo SDI.
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
