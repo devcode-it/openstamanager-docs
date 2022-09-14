@@ -180,6 +180,7 @@
     * [⌛ Decreto Rilancio 2020](guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md)
     * [🤔 Domande comuni](guide/esempi/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
     * [⛔ Errori frequenti](guide/esempi/fatturazione-elettronica/errori-frequenti.md)
+    * [🏫 Fattura elettronica verso PA](guide/esempi/fatturazione-elettronica/fattura-elettronica-verso-pa.md)
     * [📩 Inviare/ricevere fatture elettroniche](guide/esempi/fatturazione-elettronica/inviare-ricevere-fatture-elettroniche.md)
     * [🏫 Split payment e reverse charge](guide/esempi/fatturazione-elettronica/fattura-pa.md)
   * [📃 Fatture non elettroniche](guide/esempi/fatture-non-elettroniche.md)

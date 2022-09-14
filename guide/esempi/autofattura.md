@@ -94,7 +94,7 @@ Nel campo autofattura collegata si potrà selezionare l'autofattura di vendita d
 
 Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare a compensare i conti dello stato patrimoniale.
 
-![](<../../.gitbook/assets/immagine (4).png>)
+![](<../../.gitbook/assets/immagine (4) (1).png>)
 
 Andando ad analizzare il piano dei conti sarà ora possibile notare solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 

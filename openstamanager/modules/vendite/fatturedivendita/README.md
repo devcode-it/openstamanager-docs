@@ -14,11 +14,11 @@ Il modulo **Fatture di vendita** permette di gestire la fatturazione in uscita d
 
 Nel caso siano presenti delle fatture di vendita **generate** ma non ancora inviate (entro i 12 giorni dalla scadenza per inviare le fatture allo SDI), verranno segnalate dal gestionale con un avviso nella sezione fatture di vendita.
 
-![](<../../../../.gitbook/assets/immagine (2) (1).png>)
+![](<../../../../.gitbook/assets/immagine (2) (1) (1).png>)
 
 Verranno notificare anche le fatture che invece risulteranno **scartate** dallo SDI e andranno quindi corrette e riemesse.
 
-![](<../../../../.gitbook/assets/immagine (3) (1).png>)
+![](<../../../../.gitbook/assets/immagine (3) (1) (1).png>)
 
 ## ➕ Creazione
 
