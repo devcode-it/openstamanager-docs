@@ -18,7 +18,7 @@ Andare ora a confermare l'importazione dei movimenti in prima nota, cliccando su
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fh5XCsMIlZ8HQqDuy3DTu%2Ffile.png?alt=media)
 
-Sarà possibile ora andare a registrare un nuovo movimento ABI, visulizzabile poi dal relativo modulo.
+Sarà possibile ora andare a registrare un nuovo movimento ABI, visualizzabile poi dal relativo modulo.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F4k7MOts57VHl8mzoxpEK%2Ffile.png?alt=media)
 
