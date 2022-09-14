@@ -36,7 +36,7 @@ Grazie alla possibilità di aggiungere un articolo fittizio si potranno ad esemp
 
 Il magazzino viene popolato tramite le fatture di acquisto, può succedere però per vari motivi che questa fattura arrivi in data successiva alla ricezione della merce, e che si abbia la necessità di inserirla in un'attività, DDT o fattura di vendita.
 
-Per poter far ciò senza modificare manualmente le quantità in magazzino rischiando di commettere errori, si può abilitare l'impostazione "Permetti selezione articoli con quantità minore o guale a zero in Documenti di Vendita"
+Per poter far ciò senza modificare manualmente le quantità in magazzino rischiando di commettere errori, si può abilitare l'impostazione "Permetti selezione articoli con quantità minore o guale a zero in Documenti di Vendita" in Strumenti/impostazioni/Generali.
 
 <figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
