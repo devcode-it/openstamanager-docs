@@ -12,13 +12,13 @@ Il modulo **gestione documentale** permette di creare un elenco di _documenti_ g
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Gestione documentale**.
 
-![](<../../../.gitbook/assets/image (276).png>)
+![](<../../../.gitbook/assets/image (25).png>)
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare il modulo Categorie documenti.
 
-![](<../../../.gitbook/assets/image (190).png>)
+![](<../../../.gitbook/assets/image (91).png>)
 
 ## 🔽 Informazioni aggiuntive
 

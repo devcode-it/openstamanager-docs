@@ -12,7 +12,7 @@ Il modulo DDT in uscita permette la fatturazione massiva e il cambio di stato ma
 
 Una volta selezionati i record interessati è possibile fatturare massivamente i DDT cliccando su Azioni di gruppo/Fattura DDT di vendita.
 
-![](<../../../../.gitbook/assets/image (73).png>)
+![](<../../../../.gitbook/assets/image (152).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -22,19 +22,19 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                 <img src="../../../../.gitbook/assets/image (65).png" alt="" data-size="original">
+&#x20;                                                 <img src="../../../../.gitbook/assets/image (157).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../../.gitbook/assets/image (16).png>)
+![](<../../../../.gitbook/assets/image (160).png>)
 
-![](<../../../../.gitbook/assets/image (17).png>)
+![](<../../../../.gitbook/assets/image (196).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../../.gitbook/assets/image (95).png>)
+![](<../../../../.gitbook/assets/image (192).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere fra gli stati presenti:
 
@@ -44,7 +44,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Parzialmente fatturato
 * Parzialmente evaso
 
-&#x20;                                                  <img src="../../../../.gitbook/assets/image (54).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../../.gitbook/assets/image (141).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -63,30 +63,30 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla stampa del DDT con o senza prezzi.
 
-![](<../../../../.gitbook/assets/image (23).png>)
+![](<../../../../.gitbook/assets/image (133).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                          <img src="../../../../.gitbook/assets/image (68).png" alt="" data-size="original">
+&#x20;                                                          <img src="../../../../.gitbook/assets/image (660).png" alt="" data-size="original">
 
 ### ✉️ Invio DDT
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere al suo inoltro via mail cliccando su Invia DDT.
 
-![](<../../../../.gitbook/assets/image (67).png>)
+![](<../../../../.gitbook/assets/image (167).png>)
 
 Si verrà quindi indirizzati al template email compilato con i dati del DDT, dove sarà possibile procedere all'invio cliccando su Invia.
 
-![](<../../../../.gitbook/assets/image (85).png>)
+![](<../../../../.gitbook/assets/image (182).png>)
 
 ### 📃 Crea fattura di vendita
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua fatturazione cliccando su Crea fattura di vendita.
 
-![](<../../../../.gitbook/assets/image (27).png>)
+![](<../../../../.gitbook/assets/image (641).png>)
 
 ### 🧬 Duplica DDT
 
 Dalla schermata di dettaglio di un DDT in uscita è possibile procedere alla sua duplicazione cliccando su Duplica DDT
 
-![](<../../../../.gitbook/assets/image (13).png>)
+![](<../../../../.gitbook/assets/image (187).png>)

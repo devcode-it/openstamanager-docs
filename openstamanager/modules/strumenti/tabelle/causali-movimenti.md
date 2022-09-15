@@ -8,7 +8,7 @@ description: Come gestire le causali movimenti in OpenSTAManager
 Il modulo **Causali movimenti** permette di creare e modificare le causali movimenti presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (549).png>)
+![](<../../../../.gitbook/assets/image (268).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova causale movimento da c
 * Tipo movimento
 * Descrizione
 
-![](<../../../../.gitbook/assets/image (573).png>)
+![](<../../../../.gitbook/assets/image (309).png>)
 
 ## 🖌️ Modifica
 
@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Tipo movimento
 * Descrizione
 
-![](<../../../../.gitbook/assets/image (511).png>)
+![](<../../../../.gitbook/assets/image (265).png>)

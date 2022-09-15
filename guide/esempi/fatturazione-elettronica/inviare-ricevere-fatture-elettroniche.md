@@ -14,7 +14,7 @@ Accedendo al plugin Fatturazione Elettronica, sarà possibile: rigenerare il doc
 
 Si dovrà quindi ora procedere a cliccare su Invia per mandare la fattura appena emessa allo SDI, che prenderà quindi lo stato _Inviata_.
 
-<figure><img src="../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (168).png" alt=""><figcaption></figcaption></figure>
 
 ### ✉️ Importazione delle ricevute dallo SDI
 
@@ -22,7 +22,7 @@ Dopo qualche giorno dall'invio delle fatture elettroniche, si dovrà provvedere 
 
 Si dovrà quindi dal modulo Vendite/Fatture di vendita cliccare su Ricevute FE/Ricerca ricevute, e in seguito procedere a importarle facendo clic sul tasto Importa tutte le ricevute.
 
-<figure><img src="../../../.gitbook/assets/immagine (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (52).png" alt=""><figcaption></figcaption></figure>
 
 Il campo stato ora potrà riportare uno dei seguenti valori:
 
@@ -47,7 +47,7 @@ Nel caso in cui ci sia necessità di modificare una fattura elettronica già dep
 
 Per importare le fatture elettroniche di acquisto si dovrà accedere al modulo Acquisti/Fatture di acquisto e dal plugin Fatturazione Elettronica cliccare su Ricerca fatture di acquisto/Importa in sequenza, per scaricarle dallo SDI.
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (194).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -8,13 +8,13 @@ description: Come gestire l'importazione di dati in OpenSTAManager
 Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Articoli, Anagrafiche o Piano dei conti._
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (538).png>)
+![](<../../../.gitbook/assets/image (304).png>)
 
 ## ➕ Creazione
 
 Per poter procedere all'importazione di dati in OpenSTAManager come prima cosa si deve selezionare il modulo in cui si vorranno importante i dati.
 
-Selezionando un modulo sarà ora possibile cliccare sul tasto <img src="../../../.gitbook/assets/imp (1).png" alt="" data-size="line"> , che permetterà di scaricare un file CSV di esempio.
+Selezionando un modulo sarà ora possibile cliccare sul tasto <img src="../../../.gitbook/assets/imp.png" alt="" data-size="line"> , che permetterà di scaricare un file CSV di esempio.
 
 È possibile importare diverse tipologie di dati:
 

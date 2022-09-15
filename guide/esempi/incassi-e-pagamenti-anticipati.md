@@ -10,15 +10,15 @@ Nel caso in cui si debba effettuare un pagamento verso fornitori al momento dell
 
 Per registrare un pagamento anticipato si dovrà innanzitutto procedere a verificare il conto predefinito per l'anticipo dei fornitori, in Strumenti/Impostazioni/Fatturazione, sotto la voce Conto anticipo fornitori.
 
-![](<../../.gitbook/assets/immagine (41).png>)
+![](<../../.gitbook/assets/immagine (98).png>)
 
 Si dovrà ora accedere al modulo Anagrafiche, entrare nella schermata di dettaglio del fornitore interessato e cliccare su Crea.../Nuova registrazione contabile (fornitore).
 
-![](<../../.gitbook/assets/immagine (25).png>)
+![](<../../.gitbook/assets/immagine (118).png>)
 
 Da qui si dovrà registrare il versamento dell'anticipo, utilizzando il conto impostato come predefinito per l'anticipo fornitori.
 
-![](<../../.gitbook/assets/immagine (20).png>)
+![](<../../.gitbook/assets/immagine (79).png>)
 
 In seguito, al momento dell'importazione della fattura di acquisto, si dovrà procedere a registrare il pagamento precedentemente effettuato in fattura cliccando su Registra contabile.
 
@@ -26,7 +26,7 @@ Da qui si potrà visualizzare l'ammontare dell'importo già versato dalla notifi
 
 Utilizzando nuovamente il conto predefinito per l'anticipo fornitori, esso verrà chiuso e l'anticipo sarà correttamente contabilizzato.
 
-![](<../../.gitbook/assets/immagine (51).png>)
+![](<../../.gitbook/assets/immagine (115).png>)
 
 ## 📥  Incassi anticipati
 
@@ -34,15 +34,15 @@ Nel caso in cui si debba registrare un incasso da clienti effettuato al momento 
 
 Per registrare un incasso anticipato si dovrà innanzitutto procedere a verificare il conto predefinito per l'anticipo dei clienti, in Strumenti/Impostazioni/Fatturazione, sotto la voce Conto anticipo clienti.
 
-![](<../../.gitbook/assets/immagine (29).png>)
+![](<../../.gitbook/assets/immagine (96).png>)
 
 Si dovrà ora accedere al modulo Anagrafiche, entrare nella schermata di dettaglio del cliente interessato e cliccare su Crea.../Nuova registrazione contabile (cliente).
 
-![](<../../.gitbook/assets/immagine (18).png>)
+![](<../../.gitbook/assets/immagine (242).png>)
 
 Da qui si dovrà registrare il versamento dell'anticipo, utilizzando il conto impostato come predefinito per l'anticipo clienti.
 
-![](<../../.gitbook/assets/immagine (52).png>)
+![](<../../.gitbook/assets/immagine (78).png>)
 
 In seguito, al momento dell'emissione della fattura di vendita, si dovrà procedere a registrare in fattura il pagamento precedentemente incassato, cliccando su Registra contabile.
 
@@ -50,4 +50,4 @@ Da qui si potrà visualizzare l'ammontare dell'importo già versato dalla notifi
 
 Utilizzando nuovamente il conto predefinito per l'anticipo clienti, esso verrà chiuso e l'anticipo sarà correttamente contabilizzato.
 
-![](<../../.gitbook/assets/immagine (60).png>)
+![](<../../.gitbook/assets/immagine (83).png>)

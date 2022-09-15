@@ -18,8 +18,8 @@ Creando un intervento in questo modo si hanno a disposizione una serie di campi 
 * Fine attività
 * Tecnici
 
-![](<../../../.gitbook/assets/Senzanome (7).png>)
+![](<../../../.gitbook/assets/Senzanome (4).png>)
 
 Gli interventi creati in questo modo saranno poi visualizzati a calendario e verranno automaticamente registrati tra le attività:
 
-![](<../../../.gitbook/assets/immagine (110).png>)
+![](<../../../.gitbook/assets/immagine (240).png>)

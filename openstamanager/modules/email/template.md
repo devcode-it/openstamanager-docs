@@ -12,13 +12,13 @@ Questo modulo è complementare a [**Account email**](account.md), che si occupa 
 
 La schermata del modulo si presenterà così:
 
-![](<../../../.gitbook/assets/image (201).png>)
+![](<../../../.gitbook/assets/image (43).png>)
 
 ## ➕ Creazione
 
 Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire il Nome, Modulo a cui applicarlo, Oggetto e indirizzo email da cui inviare la mail.
 
-![](<../../../.gitbook/assets/image (259).png>)
+![](<../../../.gitbook/assets/image (28).png>)
 
 ## 🖌️ Modifica
 
@@ -33,17 +33,17 @@ La schermata di modifica permette il completamento di tutte le informazioni rigu
 * Mansioni
 * Contenuto
 
-![](<../../../.gitbook/assets/image (264).png>)
+![](<../../../.gitbook/assets/image (38).png>)
 
 Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Variabili**.
 
-![](<../../../.gitbook/assets/image (214).png>)
+![](<../../../.gitbook/assets/image (53).png>)
 
 La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-![](<../../../.gitbook/assets/image (200).png>)
+![](<../../../.gitbook/assets/image (588).png>)
 
 ## 🪀 Particolarità
 

@@ -8,7 +8,7 @@ description: Come gestire le ritenute d'acconto in OpenSTAManager
 Il modulo **Ritenute Acconto** permette di creare e modificare le ritenute d'acconto in OpenSTAManager.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (579).png>)
+![](<../../../../.gitbook/assets/image (291).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo evento da creare:
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../../.gitbook/assets/image (560).png>)
+![](<../../../../.gitbook/assets/image (232).png>)
 
 ## 🖌️ Modifica
 
@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../../.gitbook/assets/image (578).png>)
+![](<../../../../.gitbook/assets/image (315).png>)

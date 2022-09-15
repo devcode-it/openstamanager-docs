@@ -20,7 +20,7 @@ Le **fatture passive** ricevute da soggetti esteri andranno integrate _entro il 
 
 Le scritture contabili relative a questi movimenti risulteranno essere le seguenti:
 
-![](<../../.gitbook/assets/image (290).png>)
+![](<../../.gitbook/assets/image (524).png>)
 
 I documenti che si riscontreranno al termine di questa operazione sono 3:
 
@@ -36,7 +36,7 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 Questa fattura andrà registrata come la si riceve, non si deve quindi aggiungere manualmente l'IVA.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (195).png" alt=""><figcaption></figcaption></figure>
 
 In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 
@@ -47,29 +47,29 @@ In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 
 Una volta compilato il form si dovrà cliccare su Aggiungi, andare a selezionare la modalità di pagamento e procedere all'inserimento delle righe, per cui andrà selezionata una categoria IVA Non Imponibile.
 
-<figure><img src="../../.gitbook/assets/immagine (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (174).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (187).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️ Creazione autofattura di vendita
 
 Cliccando sulla fattura appena registrata si accederà alla schermata di dettaglio della stessa, dove sarà possibile notare un avviso che guida alla generazione dell'autofattura per andare a reintegrare l'IVA, si dovrà quindi cliccare su Crea/Autofattura.
 
-![](<../../.gitbook/assets/image (643).png>)
+![](<../../.gitbook/assets/image (127).png>)
 
 {% hint style="info" %}
 Avviando questa procedura si può notare che si sta attualmente lavorando nel sezionale **Autofatture.**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (634).png>)
+![](<../../.gitbook/assets/image (106).png>)
 
 Con **Crea autofattura** appariranno ora due avvisi: il riferimento alla fattura di acquisto originale, e l'avviso che si tratta di una fattura per conto terzi.
 
-![](<../../.gitbook/assets/image (597).png>)
+![](<../../.gitbook/assets/image (494).png>)
 
 Andando ad analizzare le righe si potrà vedere l'IVA per integrazione presente in questo documento.
 
-![](<../../.gitbook/assets/image (622).png>)
+![](<../../.gitbook/assets/image (556).png>)
 
 Le righe possono essere sintetizzate con i riferimenti alle normative in base al tipo di documento:
 
@@ -88,21 +88,21 @@ All'atto di importazione delle fatture di acquisto, dopo che sarà esaminata e a
 Nel campo autofattura collegata si potrà selezionare l'autofattura di vendita da collegare.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (600).png>)
+![](<../../.gitbook/assets/image (512).png>)
 
 ### 📕 Piano dei conti
 
 Si potrà vedere a questo punto un movimento in prima nota, creatosi per andare a compensare i conti dello stato patrimoniale.
 
-![](<../../.gitbook/assets/immagine (4) (1).png>)
+![](<../../.gitbook/assets/immagine (247).png>)
 
 Andando ad analizzare il piano dei conti sarà ora possibile notare solo il movimento della fattura di acquisto ricevuta inizialmente, ma tra i **Conti transitori** dello Stato patrimoniale saranno presenti i due movimenti IVA a pareggio.
 
-![Dettaglio Conto economico](<../../.gitbook/assets/image (299).png>)
+![Dettaglio Conto economico](<../../.gitbook/assets/image (532).png>)
 
-![Dettaglio Stato patrimoniale](<../../.gitbook/assets/image (293).png>)
+![Dettaglio Stato patrimoniale](<../../.gitbook/assets/image (538).png>)
 
-![Dettaglio pareggio IVA tra i Conti transitori](<../../.gitbook/assets/image (289).png>)
+![Dettaglio pareggio IVA tra i Conti transitori](<../../.gitbook/assets/image (537).png>)
 
 La procedura di integrazione IVA è terminata.
 

@@ -8,7 +8,7 @@ Aprendo il modulo **Scadenzario** è possibile vedere le **Fatture di acquisto**
 
 Indicate in rosso si potranno notare le fatture che hanno superato la data di scadenza.
 
-![](<../../.gitbook/assets/image (550).png>)
+![](<../../.gitbook/assets/image (306).png>)
 
 #### Esempio:&#x20;
 
@@ -16,7 +16,7 @@ Creando un **Fattura di vendita** e inserendo come pagamento **Bonifico 30/60/90
 
 Queste scadenze avranno la stessa data di emissione, riferimento fattura e importo, ma con data di scadenza diversa in base alla rata.
 
-![](<../../.gitbook/assets/image (515).png>)
+![](<../../.gitbook/assets/image (252).png>)
 
 ### 📮 Chiudere una fattura
 
@@ -37,7 +37,7 @@ Cosi' facendo sarà possibile vedere i pagamenti scaduti e da effettuare nel mes
 
 Il gestionale permette la stampa scadenzario dal tasto sotto alla tabella.
 
-![](<../../.gitbook/assets/image (581).png>)
+![](<../../.gitbook/assets/image (276).png>)
 
 {% hint style="info" %}
 Se si filtra la ricerca nello **Scadenzario** la stampa visualizzerà solo i record filtrati.

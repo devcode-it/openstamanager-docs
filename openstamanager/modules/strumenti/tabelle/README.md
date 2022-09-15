@@ -8,7 +8,7 @@ description: Guida al modulo Tabelle in OpenSTAManager
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Strumenti/Tabelle.
 
-![](<../../../../.gitbook/assets/image (12).png>)
+![](<../../../../.gitbook/assets/image (135).png>)
 
 ## 🖥️ Interfaccia
 
@@ -35,7 +35,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Causali
 * Mansioni referenti
 
-&#x20;                                                                  <img src="../../../../.gitbook/assets/image (78).png" alt="" data-size="original">
+&#x20;                                                                  <img src="../../../../.gitbook/assets/image (211).png" alt="" data-size="original">
 
 ## 🔽 Informazioni aggiuntive
 

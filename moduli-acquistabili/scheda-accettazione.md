@@ -26,7 +26,7 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Telefono
 * Cellulare
 
-![](<../.gitbook/assets/image (481).png>)
+![](<../.gitbook/assets/image (362).png>)
 
 * Modello
 * Seriale
@@ -38,12 +38,12 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Giorni di deposito
 * Tecnici
 
-![](<../.gitbook/assets/image (484).png>)
+![](<../.gitbook/assets/image (410).png>)
 
 Cliccando ora su crea attività, il gestionale chiederà se far firmare per accettazione al cliente, o se procedere alla creazione dell'attività
 
-![](<../.gitbook/assets/image (416).png>)
+![](<../.gitbook/assets/image (386).png>)
 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre al prodotto.
 
-![](<../.gitbook/assets/image (479).png>)
+![](<../.gitbook/assets/image (377).png>)

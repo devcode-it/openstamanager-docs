@@ -19,4 +19,4 @@ Grazie a questo plugin é possibile aggiungere o modificare le dichiarazione d'i
 * Massimale
 * Data emissione
 
-![](<../../../../.gitbook/assets/image (641).png>)
+![](<../../../../.gitbook/assets/image (128).png>)

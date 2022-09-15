@@ -8,7 +8,7 @@ description: Come gestire le Giacenze nelle varie sedi con OpenSTAManager
 Il modulo **Giacenze sedi** permette all’azienda di gestire le informazioni riguardanti le giacenze di magazzino di tutti gli articoli presenti in OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (161).png>)
 
 Questo modulo mostra le giacenze di magazzino di tutti gli articoli registrati divisi per sede, è infatti possibile scegliere la sede tramite il menù a tendina presente in alto a destra nella schermata.
 

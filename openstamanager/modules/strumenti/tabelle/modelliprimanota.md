@@ -8,7 +8,7 @@ description: Come gestire i modelli di prima nota in OpenSTAManager
 Il modulo **Modelli prima nota** permette di creare e modificare i modelli di prima nota presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (532).png>)
+![](<../../../../.gitbook/assets/image (294).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo evento da creare:
 * Causale
 * Conto dare e avere
 
-![](<../../../../.gitbook/assets/image (568).png>)
+![](<../../../../.gitbook/assets/image (242).png>)
 
 ## 🖌️ Modifica
 
@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Causale
 * Conto dare e avere
 
-![](<../../../../.gitbook/assets/image (494).png>)
+![](<../../../../.gitbook/assets/image (239).png>)

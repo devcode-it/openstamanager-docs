@@ -16,4 +16,4 @@ Questo plugin è molto utile per la gestione delle giacenze a magazzino, infatti
 * **Da ordinare**, è una differenza tra la quantità richiesta dal cliente e le quantità già ordinate.
 * **Disponibile**, quantità totale a magazzino di tutte le sedi.
 
-![](<../../../../../.gitbook/assets/image (323).png>)
+![](../../../../../.gitbook/assets/image.png)

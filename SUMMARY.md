@@ -1,8 +1,10 @@
 # Table of contents
 
+* [📣 Novità](README.md)
+
 ## Openstamanager
 
-* [🚀 OpenSTAManager](README.md)
+* [🚀 OpenSTAManager](openstamanager/readme-1.md)
 * [📙 Configurazione](openstamanager/configurazione/README.md)
   * [🎯 Installazione](openstamanager/configurazione/installazione.md)
   * [▶ Inizializzazione](openstamanager/configurazione/inizializzazione.md)

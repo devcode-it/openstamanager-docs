@@ -10,4 +10,4 @@ Il plugin **Allegati** è una componente del modulo **Anagrafiche** dedicata al 
 
 La schermata che si presenta è questa:
 
-![](<../../../../.gitbook/assets/image (647).png>)
+![](<../../../../.gitbook/assets/image (120).png>)

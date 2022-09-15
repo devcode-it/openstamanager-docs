@@ -11,11 +11,11 @@ Il modulo **Backup** permette di:
 * Creare un _Backup_
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (571).png>)
+![](<../../../.gitbook/assets/image (281).png>)
 
 ## ➕ Creazione
 
-Per creare un nuovo backup si dovrà cliccare sul tasto <img src="../../../.gitbook/assets/image (530).png" alt="" data-size="original">
+Per creare un nuovo backup si dovrà cliccare sul tasto <img src="../../../.gitbook/assets/image (293).png" alt="" data-size="original">
 
 La procedura sarà automatica e il backup sarà visualizzabile, scaricabile, ripristinabile ed eliminabile sotto la voce Backup compressi.
 
@@ -25,9 +25,9 @@ La procedura sarà automatica e il backup sarà visualizzabile, scaricabile, rip
 
 E' possibile ripristinare un backup cliccando sul relativo tasto dall'elenco backup, oppure caricandone uno manualmente nella sezione Ripristina backup.
 
-![](<../../../.gitbook/assets/image (540).png>)
+![](<../../../.gitbook/assets/image (282).png>)
 
-![](<../../../.gitbook/assets/image (522).png>)
+![](<../../../.gitbook/assets/image (310).png>)
 
 {% hint style="danger" %}
 Per motivi di sicurezza si consiglia di modificare il percorso della cartella di backup al di fuori della cartella di OSM, possibilmente in una unità esterna.

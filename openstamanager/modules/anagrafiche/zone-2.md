@@ -10,4 +10,4 @@ Questo modulo è dedicato alla gestione dei settori merceologici, registrabili i
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (584).png>)
+![](<../../../.gitbook/assets/image (506).png>)

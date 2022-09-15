@@ -8,4 +8,4 @@ description: Guida al plugin Provvigioni di OpenSTAManager
 Dal plugin Provvigioni è possibile visualizzare tutte le provvigioni collegate a un determinato articolo.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (92).png>)
+![](<../../../../../.gitbook/assets/image (199).png>)

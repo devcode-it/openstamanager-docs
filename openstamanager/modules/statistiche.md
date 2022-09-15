@@ -12,7 +12,7 @@ Il modulo **Statistiche**, grazie ad una rappresentazione grafica, offre un anda
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Statistiche.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (181).png>)
 
 ## 🔽 Informazioni aggiuntive
 
@@ -20,24 +20,24 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Vendite e acquisti
 
-![](<../../.gitbook/assets/image (89).png>)
+![](<../../.gitbook/assets/image (217).png>)
 
 #### I 20 clienti TOP e articoli più venduti per il periodo selezionato
 
-![](<../../.gitbook/assets/image (98).png>)
+![](<../../.gitbook/assets/image (153).png>)
 
 #### Numero interventi per tipologia
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (205).png>)
 
 #### Ore interventi per tipologia
 
-![](<../../.gitbook/assets/image (70).png>)
+![](<../../.gitbook/assets/image (185).png>)
 
 #### Ore di lavoro per tecnico
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (206).png>)
 
 #### Nuove anagrafiche
 
-![](<../../.gitbook/assets/Clipboard - 7 luglio 2022 12 56.png>)
+![](<../../.gitbook/assets/Clipboard - 7 luglio 2022 12 56 (1).png>)
