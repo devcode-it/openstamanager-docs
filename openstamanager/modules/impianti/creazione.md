@@ -14,5 +14,5 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Sede
 * Tecnico assegnato (con possibilità di [crearlo al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 

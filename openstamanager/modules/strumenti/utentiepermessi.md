@@ -8,7 +8,7 @@ description: Come gestire gli utenti e permessi in OpenSTAManager
 Il modulo **Utenti e permessi** permette di assegnare determinati utenti ad un gruppo, concedendogli dei privilegi.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (164).png>)
+![](<../../../.gitbook/assets/image (459).png>)
 
 ## ➕ Creazione
 
@@ -25,7 +25,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Utenti che appartengono a questa categoria (con possibilità di crearli al momento)
 * Permessi clienti nella categoria
 
-![](<../../../.gitbook/assets/image (165).png>)
+![](<../../../.gitbook/assets/image (457).png>)
 
 Per creare un nuovo utente a cui assegnare la tipologia utenti appena creata, si dovrà cliccare su Aggiungi utente.
 
@@ -40,6 +40,6 @@ Si aprirà quindi la seguente schermata in cui compilare i campi:
 
 Cliccare su Aggiungi per creare l'utente.
 
-![](<../../../.gitbook/assets/image (179).png>)
+![](<../../../.gitbook/assets/image (482).png>)
 
 Successivamente, dal modulo viste, sarà possibile impostare la visualizzazione di determinati campi nei vari moduli, ristretta a una determinata categoria di utenti.

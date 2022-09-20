@@ -16,7 +16,7 @@ Per poter fatturare massivamente dei preventivi, devono essere in uno dei seguen
 
 Una volta selezionati i record interessati è possibile fatturare massivamente i preventivi cliccando su Azioni di gruppo/Fattura preventivi.
 
-![](<../../../../.gitbook/assets/image (374).png>)
+![](<../../../../.gitbook/assets/image (201).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -26,13 +26,13 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-![](<../../../../.gitbook/assets/image (380).png>)
+![](<../../../../.gitbook/assets/image (228).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../../.gitbook/assets/image (350).png>)
+![](<../../../../.gitbook/assets/image (196).png>)
 
-![](<../../../../.gitbook/assets/image (358).png>)
+![](<../../../../.gitbook/assets/image (212).png>)
 
 ## 👤 Dal dettaglio Preventivo
 
@@ -58,11 +58,11 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere a diversi t
 * Stampa preventivo (senza prezzi)
 * Stampa consuntivo preventivo (senza prezzi)
 
-![](<../../../../.gitbook/assets/image (343).png>)
+![](<../../../../.gitbook/assets/image (268).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../../../.gitbook/assets/image (412).png>)
+![](<../../../../.gitbook/assets/image (277).png>)
 
 ### 📧 Invia
 
@@ -71,17 +71,17 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 * Preventivo
 * Preventivo consuntivo
 
-![](<../../../../.gitbook/assets/image (341).png>)
+![](<../../../../.gitbook/assets/image (210).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../../.gitbook/assets/image (405).png>)
+![](<../../../../.gitbook/assets/image (202).png>)
 
 ### 🧬 Duplica preventivo
 
 Dalla schermata di dettaglio di un preventivo è possibile procedere alla sua duplicazione cliccando su duplica preventivo.
 
-![](<../../../../.gitbook/assets/image (398).png>)
+![](<../../../../.gitbook/assets/image (263).png>)
 
 ### 📃 Crea nuova revisione...
 
@@ -91,7 +91,7 @@ Dalla schermata di dettaglio di un preventivo è possibile procedere alla creazi
 Il preventivo deve avere lo stato impostato su: Bozza, In attesa di conferma o Rifiutato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (407).png>)
+![](<../../../../.gitbook/assets/image (204).png>)
 
 ### ➕ Crea...
 
@@ -108,8 +108,8 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (88).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../../.gitbook/assets/image (335).png>)
+![](<../../../../.gitbook/assets/image (205).png>)

@@ -8,18 +8,26 @@ description: Guida al modulo aggiuntivo Registrazione movimenti bancari di OpenS
 
 A seguito dell'installazione del modulo, sarà possibile importare i movimenti della banca tramite un file CSV che solitamente viene fornito direttamente dalla propria banca.
 
-Procedere quindi con l'importazione utilizzando il modulo standard di OSM, **Import**, accessibile dal menù **Strumenti**
+Si dovrà andare in Strumenti/Import e cliccare sul tasto (+). Da qui si dovrà quindi selezionare Prima nota nel menu a tendina.
+
+Cliccando su Scarica esempio CSV sarà possibile scaricare un file di esempio da seguire per configurare correttamente i campi del file da importare, in quanto banche diverse possono fornire file CSV diversi.
+
+<figure><img src="../.gitbook/assets/immagine (93).png" alt=""><figcaption></figcaption></figure>
+
+Una volta importato il file CSV si visualizzerà l'elenco di tutti i movimenti, dal menu a tendina sarà selezionabile la relativa scadenza se trovata corrispondenza con la relativa fattura di vendita o di acquisto, e sarà possibile registrarli cliccando su Registra.
 
 ***
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fe5Xm7m4stXvh6joWAPKK%2Ffile.png?alt=media)
 
-Andare ora a confermare l'importazione dei movimenti in prima nota, cliccando su Aggiungi.
+Si potrà ora confermare l'importazione dei movimenti in prima nota, cliccando su Aggiungi.
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fh5XCsMIlZ8HQqDuy3DTu%2Ffile.png?alt=media)
 
-Sarà possibile ora andare a registrare un nuovo movimento ABI, visualizzabile poi dal relativo modulo.
+Da questo modulo si potrà inoltre registrare dei movimenti ricorrenti e impostarne uno specifico modello da utilizzare.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F4k7MOts57VHl8mzoxpEK%2Ffile.png?alt=media)
+<figure><img src="../.gitbook/assets/immagine (100).png" alt=""><figcaption></figcaption></figure>
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FniqTfPenYNq2zv1kyHY2%2Ffile.png?alt=media)
+Nella sezione Movimenti ABI sarà ora possibile visualizzare in anteprima la lista dei movimenti e il tipo di operazione di cui si tratta (stipendio, pagamento fornitore, ecc...).
+
+<figure><img src="../.gitbook/assets/immagine (102).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ description: Come gestire le Combinazioni con OpenSTAManager
 Il modulo Combinazioni permette di creare una combinazione a cui associare un determinato Attributo e un articolo di magazzino per ogni suo valore.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (208).png>)
+![](<../../../.gitbook/assets/image (491).png>)
 
 ## ➕ Creazione
 
@@ -24,7 +24,7 @@ Andranno qui inserite le informazioni relative alla combinazione:
 
 Fare clic su Aggiungi per procedere
 
-![](<../../../.gitbook/assets/image (137).png>)
+![](<../../../.gitbook/assets/image (514).png>)
 
 ## 🖌️ Modifica
 
@@ -37,12 +37,12 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Attributi
 * Varianti disponibili
 
-![](<../../../.gitbook/assets/image (597).png>)
+![](<../../../.gitbook/assets/image (571).png>)
 
 Cliccando su **Genera tutte le varianti** verrà creato un nuovo articolo di magazzino con le caratteristiche relative ai valori dell'attributo:
 
-![](<../../../.gitbook/assets/image (216).png>)
+![](<../../../.gitbook/assets/image (473).png>)
 
 Cliccando su Aggiungi variante invece, sarà possibile associare a ogni valore un articolo esistente dal magazzino.
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](<../../../.gitbook/assets/image (446).png>)

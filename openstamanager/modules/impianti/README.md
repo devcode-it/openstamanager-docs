@@ -12,13 +12,13 @@ Il modulo **Impianti** permette all’azienda di gestire le informazioni riguard
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Impianti**.
 
-![](<../../../.gitbook/assets/image (149).png>)
+![](<../../../.gitbook/assets/image (496).png>)
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare il modulo Categorie impianti.
 
-&#x20;                                                            ![](<../../../.gitbook/assets/image (207).png>)
+&#x20;                                                            ![](<../../../.gitbook/assets/image (501).png>)
 
 ### 🔧 Plugin
 

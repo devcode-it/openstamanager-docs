@@ -8,18 +8,18 @@ description: Guida al plugin Listino clienti in OpenSTAManager
 Il plugin **Listino clienti** serve ad inserire il listino clienti dell'articolo
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (171).png>)
+![](<../../../../../.gitbook/assets/image (513).png>)
 
 Per aggiungere un nuovo listino cliente si deve selezionare un cliente e cliccare su Prezzi.
 
-![](<../../../../../.gitbook/assets/image (189).png>)
+![](<../../../../../.gitbook/assets/image (474).png>)
 
 Si aprirà ora una schermata da cui è possibile specificare due tipi di prezzi:
 
 * Prezzo specifico
 * Prezzo specifico in base alle quantità
 
-![](<../../../../../.gitbook/assets/image (148).png>)
+![](<../../../../../.gitbook/assets/image (504).png>)
 
 Attivando il pulsante **Imposta prezzo per questa anagrafica** si potrà inserire il prezzo di acquisto/vendita fisso per questa anagrafica.
 

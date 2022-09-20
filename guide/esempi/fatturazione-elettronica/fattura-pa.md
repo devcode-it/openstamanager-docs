@@ -20,9 +20,9 @@ Così facendo nella tabella **Righe** il **Totale** sarà comprensivo di **IVA,*
 
 Si dovrà inoltre cliccare su Attributi avanzati e andare a inserire l'IdDocumento e a valorizzare almeno uno dei due campi CodiceCUP e CodiceCIG.
 
-![](<../../../.gitbook/assets/immagine (85).png>)
+![](<../../../.gitbook/assets/immagine (180).png>)
 
-![](<../../../.gitbook/assets/immagine (243).png>)
+![](<../../../.gitbook/assets/immagine (222).png>)
 
 ## &#x20;🔋 Reverse charge
 

@@ -8,15 +8,15 @@ Cliccare su questo link: [https://cloud.google.com/maps-platform/?\_\_utma=10234
 
 Apparirà questa schermata dove si dovranno spuntare tutte e 3 le caselle (Maps API, Geocoding API, Places API) e premere continua:
 
-![](<../.gitbook/assets/immagine (10).png>)
+![](<../.gitbook/assets/immagine (50).png>)
 
 Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
 
-![](<../.gitbook/assets/immagine (17).png>)
+![](<../.gitbook/assets/immagine (87).png>)
 
 Si dovrà ora creare un account di fatturazione seguendo il tasto in basso.
 
-![](<../.gitbook/assets/immagine (28).png>)
+![](<../.gitbook/assets/immagine (64).png>)
 
 Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti e cliccare su Avvia la mia prova gratuita.
 
@@ -26,12 +26,12 @@ Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti
 
 Successivamente cliccare sulle 3 linee in alto a sinistra, andare su API e servizi e selezionare Credenziali.
 
-![](<../.gitbook/assets/immagine (21).png>)
+![](<../.gitbook/assets/immagine (84).png>)
 
 Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e selezionare Chiave API. Ora la chiave API è stata creata.
 
-![](<../.gitbook/assets/immagine (233).png>)
+![](<../.gitbook/assets/immagine (39).png>)
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, sarà ora possibile visualizzare le mappe nella sezione Geolocalizzazione.
 
-![](<../.gitbook/assets/immagine (238).png>)
+![](<../.gitbook/assets/immagine (38).png>)

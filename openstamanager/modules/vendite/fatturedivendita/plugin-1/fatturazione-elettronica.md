@@ -16,7 +16,7 @@ La schermata si presenta così, permettendo di:
 * Inviare il file XML al Sistema di Interscambio
 * Verificare le notifiche da parte dello SDI
 
-![](<../../../../../.gitbook/assets/image (453).png>)
+![](<../../../../../.gitbook/assets/image (678).png>)
 
 Per maggiori informazioni consultare la sezione:
 

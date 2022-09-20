@@ -75,6 +75,6 @@ Una volta acquistato un modulo aggiuntivo e scaricato l'archivio ZIP contenente 
 
 * Dopo il refresh della pagina, può essere richiesto di aggiornare il database
 
-![](<../.gitbook/assets/image (523).png>)
+![](<../.gitbook/assets/image (188).png>)
 
 In seguito a questi passaggi, dovrebbe essere possibile continuare a utilizzare il gestionale normalmente e trovare di conseguenza i nuovi componenti presenti all'interno.

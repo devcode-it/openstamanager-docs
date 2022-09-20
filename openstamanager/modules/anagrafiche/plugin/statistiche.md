@@ -17,6 +17,6 @@ Il plugin presenta 6 sezioni che portano ai rispettivi moduli, quali:
 * Ordini cliente
 * DDT in uscita
 
-![](<../../../../.gitbook/assets/image (112).png>)
+![](<../../../../.gitbook/assets/image (137).png>)
 
 È possibile inoltre selezionare uno o più periodi temporali.

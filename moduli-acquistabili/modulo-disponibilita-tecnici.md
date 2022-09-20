@@ -12,7 +12,7 @@ description: Guida al modulo aggiuntivo Disponibilità tecnici in OpenSTAManager
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/1 (1).jpeg>)
+![](<../.gitbook/assets/1 (2).jpeg>)
 
 Attraverso l'applicazione del filtro questo modulo offre una visione degli **Interventi** in base al tecnico e al calendario selezionato, e permette uno sguardo più approfondito su determinate operazioni.
 

@@ -8,7 +8,7 @@ description: Come inizializzare OpenSTAManager
 Una volta completata l'installazione del gestionale, ed in alcuni casi a seguito di un aggiornamento, verrà caricata la schermata di inizializzazione del software.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (204).png>)
+![](<../../.gitbook/assets/immagine (213).png>)
 
 Andranno qui immesse le informazioni base dell'azienda per effettuare il primo accesso, suddivise in:
 
@@ -30,7 +30,7 @@ E' in particolare possibile definire:
 * Password dell'account
 * Email collegata
 
-![](<../../.gitbook/assets/immagine (202).png>)
+![](<../../.gitbook/assets/immagine (215).png>)
 
 ### 👤 Azienda predefinita
 
@@ -40,7 +40,7 @@ La sezione **Azienda predefinita** richiede il completamento delle informazioni 
 
 In particolare, è possibile definire la _ragione sociale_ e una serie di dati anagrafici di base. E' inoltre possibile caricare il _logo aziendale_, che verrà successivamente implementato nelle stampe del gestionale.
 
-![](<../../.gitbook/assets/immagine (200).png>)
+![](<../../.gitbook/assets/immagine (221).png>)
 
 ### 📗 Impostazioni di base
 
@@ -48,7 +48,7 @@ In particolare, è possibile definire la _ragione sociale_ e una serie di dati a
 Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune opzioni di OpenSTAManager obbligatorie per il funzionamento di diverse componenti, quali per esempio la contabilità e la fatturazione elettronica.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (133).png>)
+![](<../../.gitbook/assets/immagine (103).png>)
 
 ## ✅ Salvataggio
 
@@ -56,6 +56,6 @@ Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune op
 Una volta completate correttamente le informazioni richieste dalle sezioni precedenti, è possibile procedere al salvataggio delle stesse e al successivo utilizzo del software cliccando sul pulsante **Configura**.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (232).png>)
+![](<../../.gitbook/assets/immagine (45).png>)
 
 Sarà possibile accedere fin da subito con le credenziali di amministrazione immesse in precedenza.

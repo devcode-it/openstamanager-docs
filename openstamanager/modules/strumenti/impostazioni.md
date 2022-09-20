@@ -25,7 +25,7 @@ Il modulo **impostazioni** permette di apportare delle modifiche ai seguenti mod
 * Piano dei conti
 * Preventivi
 
-![](<../../../.gitbook/assets/image (627).png>)
+![](<../../../.gitbook/assets/image (590).png>)
 
 ### 🔨 Aggiornamenti
 

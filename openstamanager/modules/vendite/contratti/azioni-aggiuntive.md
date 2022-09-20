@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato del contratto deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (392).png>)
+![](<../../../../.gitbook/assets/image (221).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -26,19 +26,19 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-![](<../../../../.gitbook/assets/image (367).png>)
+![](<../../../../.gitbook/assets/image (207).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../../.gitbook/assets/image (349).png>)
+![](<../../../../.gitbook/assets/image (236).png>)
 
-![](<../../../../.gitbook/assets/image (63).png>)
+![](<../../../../.gitbook/assets/image (36).png>)
 
 ### ⏱️ Rinnova contratti
 
 Una volta selezionati i contratti interessati è possibile rinnovarli massivamente cliccando su Azioni di gruppo/Rinnova contratti.
 
-![](<../../../../.gitbook/assets/image (146).png>)
+![](<../../../../.gitbook/assets/image (521).png>)
 
 Il gestionale chiederà quindi la conferma a procedere al rinnovo.
 
@@ -46,7 +46,7 @@ Il gestionale chiederà quindi la conferma a procedere al rinnovo.
 Nel contratto devono essere specificate le date di accettazione e conclusione, deve essere impostato come Rinnovabile, e deve trovarsi in uno stato Completato.&#x20;
 {% endhint %}
 
-&#x20;                                                    ![](<../../../../.gitbook/assets/image (509).png>)
+&#x20;                                                    ![](<../../../../.gitbook/assets/image (10).png>)
 
 Cliccando su Procedi i contratti selezionati verranno rinnovati.
 
@@ -72,11 +72,11 @@ Dalla schermata di dettaglio di un contratto è possibile procedere a diversi ti
 * Contratto (senza prezzi)
 * Consuntivo contratto (senza prezzi)
 
-![](<../../../../.gitbook/assets/image (354).png>)
+![](<../../../../.gitbook/assets/image (244).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../../../.gitbook/assets/image (338).png>)
+![](<../../../../.gitbook/assets/image (242).png>)
 
 ### 📧 Invia
 
@@ -85,11 +85,11 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare vi
 * Contratto
 * Consuntivo contratto
 
-![](<../../../../.gitbook/assets/image (347).png>)
+![](<../../../../.gitbook/assets/image (231).png>)
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../../.gitbook/assets/image (404).png>)
+![](<../../../../.gitbook/assets/image (215).png>)
 
 ### 📃 Crea fattura
 
@@ -99,7 +99,7 @@ Dalla schermata di dettaglio di un contratto è possibile procedere alla sua fat
 Il contratto deve avere almeno una riga inserita e il suo stato deve essere: Accettato, In lavorazione, Concluso o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (31).png>)
+![](<../../../../.gitbook/assets/image (46).png>)
 
 Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righe da importare del contratto e impostare le opzioni generali delle righe:
 
@@ -110,13 +110,13 @@ Si aprirà ora la seguente schermata, in cui sarà possibile selezionare le righ
 
 Una volta apportate le necessarie modifiche si dovrà cliccare su Aggiungi per procedere alla creazione della fattura di vendita.
 
-![](<../../../../.gitbook/assets/image (371).png>)
+![](<../../../../.gitbook/assets/image (232).png>)
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../../.gitbook/assets/image (356).png>)
+![](<../../../../.gitbook/assets/image (200).png>)
 
-![](<../../../../.gitbook/assets/image (396).png>)
+![](<../../../../.gitbook/assets/image (254).png>)
 
 ### 🔄 Rinnova
 
@@ -128,24 +128,24 @@ La funzione **Rinnova** viene resa disponibile al verificarsi delle seguenti con
 * Il contratto si trova in uno stato Completato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (351).png>)
+![](<../../../../.gitbook/assets/image (230).png>)
 
 Il gestionale chiederà quindi la conferma di procedere al rinnovo del contratto, da confermare cliccando su Rinnova.
 
-![](<../../../../.gitbook/assets/image (363).png>)
+![](<../../../../.gitbook/assets/image (208).png>)
 
 Sarà ora possibile visualizzare il contratto appena rinnovato nel modulo Contratti.
 
 Esso presenterà le spese e righe del contratto originale, fissando le relative pianificazioni.
 
-![](<../../../../.gitbook/assets/image (333).png>)
+![](<../../../../.gitbook/assets/image (199).png>)
 
 ### 🧬 Duplica contratto
 
 Dalla schermata di dettaglio di un contratto è possibile procedere alla sua duplicazione cliccando su duplica contratto.
 
-![](<../../../../.gitbook/assets/image (384).png>)
+![](<../../../../.gitbook/assets/image (216).png>)
 
 Verrà quindi creata una copia del contratto che presenterà gli stessi dati:
 
-![](<../../../../.gitbook/assets/image (359).png>)
+![](<../../../../.gitbook/assets/image (262).png>)

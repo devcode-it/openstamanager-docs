@@ -14,7 +14,7 @@ Le operazioni programmate di default sono:
 * Importazione automatica ricevute FE: ogni 24 ore.
 * Eliminazione automatica della coda d'invio: ogni 4 ore.
 
-![](<../../.gitbook/assets/immagine (95).png>)
+![](<../../.gitbook/assets/immagine (204).png>)
 
 La determinazione del momento in cui verrà eseguita l'operazione viene determinata dall'espressione presente in Expression.&#x20;
 

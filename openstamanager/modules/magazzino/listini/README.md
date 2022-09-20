@@ -8,6 +8,6 @@ description: Come gestire i Listini in OpenSTAManager
 Il modulo **Listini** permette di visualizzare tutti i listini degli articoli inseriti dai plugin [Listino clienti](../articoli-1/plugin/listino-clienti.md) e [Listino fornitori](../articoli-1/plugin/listino-fornitori.md).
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (204).png>)
+![](<../../../../.gitbook/assets/image (468).png>)
 
 ##

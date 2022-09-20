@@ -8,7 +8,7 @@ description: Guida alla Dashboard di OpenSTAManager
 
 Il modulo è raggiungibile dal menu laterale del gestionale, cliccando su **Dashboard**
 
-![](<../../../.gitbook/assets/immagine (12).png>)
+![](<../../../.gitbook/assets/immagine (63).png>)
 
 ## 🖥️ **Interfaccia**
 
@@ -16,7 +16,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, cliccando su **Dash
 
 Grazie al calendario questo modulo offre una visione generale degli I**nterventi,** a cui è possibile applicare dei filtri.
 
-![](<../../../.gitbook/assets/immagine (231).png>)
+![](<../../../.gitbook/assets/immagine (40).png>)
 
 ### 👾 Widget
 

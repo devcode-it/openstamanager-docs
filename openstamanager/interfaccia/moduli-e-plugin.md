@@ -29,7 +29,7 @@ La schermata principale che si apre entrando in un modulo è formata da una tabe
   * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
   * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 
-![](<../../.gitbook/assets/immagine (113).png>)
+![](<../../.gitbook/assets/immagine (177).png>)
 
 ### ✏️ Contenuti personalizzati
 
@@ -59,13 +59,13 @@ Cliccando su un singolo record è possibile accede alla schermata di dettaglio d
 
 Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
 
-![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (97).png>)
+![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (179).png>)
 
 ### 🔧 Plugin
 
 I plugin sono dei moduli che dipendono da altri moduli, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, che è possibile visualizzare nella sezione destra della pagina entrando in un record.
 
-![](<../../.gitbook/assets/immagine (26).png>)
+![](<../../.gitbook/assets/immagine (65).png>)
 
 {% hint style="info" %}
 Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia del record
@@ -79,6 +79,6 @@ Le operazioni di gestione dei moduli, quali abilitazione e disabilitazione, sono
 
 Nel menu superiore di OpenSTAManager è possibile accedere ai LOG degli accessi cliccando sul pulsante:
 
-<figure><img src="../../.gitbook/assets/immagine (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (129).png" alt=""><figcaption></figcaption></figure>
 
 Qui sarà possibile visualizzare che utente si è connesso, in che data e ora, lo stato del login e il suo indirizzo IP.

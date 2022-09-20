@@ -28,11 +28,11 @@ Volendo inserire un campo "Marca" selezionabile dalla videata articoli, la sinta
 E' importante utilizzare i valori |name| e |value| come suggerito dalle istruzioni per il campo contenuto presenti nella parte inferiore della pagina, affinchè i record vengano salvati correttamente.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (172).png>)
+![](<../../../.gitbook/assets/image (503).png>)
 
 Questo produrrà la creazione di un campo "Marca" all'interno dei record del modulo Articoli:
 
-![](<../../../.gitbook/assets/image (221).png>)
+![](<../../../.gitbook/assets/image (447).png>)
 
 {% hint style="danger" %}
 I campi creati in questo modo sono difficili da gestire nelle query del gestionale.

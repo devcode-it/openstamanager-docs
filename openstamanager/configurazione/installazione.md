@@ -100,8 +100,8 @@ Se le credenziali inserite sono corrette, dopo aver cliccato su **Installa** si 
 
 Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../../.gitbook/assets/Installa!.PNG) per avviare l'installazione del database di OpenSTAManager.
 
-![](<../../.gitbook/assets/immagine (207).png>)
+![](<../../.gitbook/assets/immagine (211).png>)
 
 Appena l'installazione sarà terminata, sarà possibile cliccare su Continua e procedere con l'inizializzazione del gestionale.
 
-![](<../../.gitbook/assets/immagine (209).png>)
+![](<../../.gitbook/assets/immagine (219).png>)

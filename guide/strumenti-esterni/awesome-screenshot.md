@@ -11,7 +11,7 @@ Uno degli strumenti più utilizzati è [**Awesome Screenshot**](https://www.awes
 * [Installa per Chrome](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 * [Installa per Firefox](https://addons.mozilla.org/it/firefox/addon/screenshot-capture-annotate/)
 
-Si potrà ora quindi trovarlo tra i componenti aggiuntivi: ![](<../../.gitbook/assets/immagine (77).png>)
+Si potrà ora quindi trovarlo tra i componenti aggiuntivi: ![](<../../.gitbook/assets/immagine (163).png>)
 
 Al clic si aprirà un menu che permetterà di:
 
@@ -21,7 +21,7 @@ Al clic si aprirà un menu che permetterà di:
 * Catturare l'intera pagina
 * Selezionare un'immagine locale
 
-&#x20;                                                          ![](<../../.gitbook/assets/immagine (76).png>)
+&#x20;                                                          ![](<../../.gitbook/assets/immagine (193).png>)
 
 Dopo aver selezionato la modalità interessata e catturato l'immagine del problema da riportare, si aprirà la schermata di modifica, dove sarà possibile modificare l'immagine:
 
@@ -33,22 +33,22 @@ Dopo aver selezionato la modalità interessata e catturato l'immagine del proble
 * Evidenziando dati
 * Modificando il colore e la dimensione dei precedenti
 
-![](<../../.gitbook/assets/immagine (80).png>)
+![](<../../.gitbook/assets/immagine (186).png>)
 
-Una volta effettuate le modifiche interessate si dovrà procedere cliccando su ![](<../../.gitbook/assets/immagine (107).png>).
+Una volta effettuate le modifiche interessate si dovrà procedere cliccando su ![](<../../.gitbook/assets/immagine (195).png>).
 
 La schermata che si presenterà sarà quindi questa, dove sarà possibile copiare, salvare o stampare l'immagine appena creata.
 
-![](<../../.gitbook/assets/immagine (71).png>)
+![](<../../.gitbook/assets/immagine (182).png>)
 
 #### Esempio
 
 Si vuole evidenziare un problema con una fattura di vendita che risulta scartata, si andrà quindi a inviare uno screenshot dell'elenco delle fatture di vendita, evidenziando la fattura interessata:
 
-![](<../../.gitbook/assets/immagine (87).png>)
+![](<../../.gitbook/assets/immagine (207).png>)
 
 #### Esempio
 
 Si vuole evidenziare un problema in una fattura di vendita, una scadenza pagata ma che risulta ancora aperta dalla relativa fattura. Si andrà quindi a evidenziare la scadenza:
 
-![](<../../.gitbook/assets/immagine (100).png>)
+![](<../../.gitbook/assets/immagine (202).png>)

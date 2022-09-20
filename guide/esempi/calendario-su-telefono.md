@@ -12,9 +12,9 @@ L'importazione del calendario attività su sistema Android è possibile tramite 
 
 Per prima cosa si dovrà risalire all'API token, visualizzabile dalla schermata che si presenterà cliccando sul nome dell'azienda, sotto calendario interventi.
 
-![](<../../.gitbook/assets/image (286).png>)
+![](<../../.gitbook/assets/image (372).png>)
 
-![](<../../.gitbook/assets/immagine (68).png>)
+![](<../../.gitbook/assets/immagine (143).png>)
 
 {% hint style="danger" %}
 L'API corretto è quello nella sezione di destra: Calendario interventi. Copiando l'API nella sezione API la procedura non andrà a buon fine.
@@ -26,15 +26,15 @@ Si dovrà ora lanciare l'app iCalSync appena scaricata e la schermata che si pre
 
 Andando ora ad aprire il calendario si potranno vedere gli interventi registrati sulla dashboard.
 
-![](<../../.gitbook/assets/immagine (62).png>)
+![](<../../.gitbook/assets/immagine (144).png>)
 
-&#x20;                                                          <img src="../../.gitbook/assets/Screenshot_20220601-123002_Calendar2 (1).jpg" alt="" data-size="original">
+&#x20;                                                          <img src="../../.gitbook/assets/Screenshot_20220601-123002_Calendar2.jpg" alt="" data-size="original">
 
 Il calendario si sincronizzerà ogni 30 minuti come preimpostato, per forzare la sincronizzazione di un'attività appena creata in dashboard basterà premere sul calendario OSM dentro l'app.
 
-![](<../../.gitbook/assets/immagine (55).png>)
+![](<../../.gitbook/assets/immagine (138).png>)
 
-![](<../../.gitbook/assets/montaggio (1).jpg>)
+![](../../.gitbook/assets/montaggio.jpg)
 
 ## 📱 Sistema iOS
 

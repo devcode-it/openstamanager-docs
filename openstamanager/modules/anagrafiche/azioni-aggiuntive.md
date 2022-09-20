@@ -12,11 +12,11 @@ Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezion
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../../.gitbook/assets/image (154).png>)
+![](<../../../.gitbook/assets/image (454).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (389).png>)
+![](<../../../.gitbook/assets/image (258).png>)
 
 ## 👤 Dal dettaglio Anagrafica
 
@@ -34,21 +34,21 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 * Dettaglio anagrafica
 * Dati aziendali
 
-![](<../../../.gitbook/assets/image (370).png>)
+![](<../../../.gitbook/assets/image (264).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-![](<../../../.gitbook/assets/image (402).png>)
+![](<../../../.gitbook/assets/image (256).png>)
 
 ### 📧 Invia email da template
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare una[ mail da template](../email/template.md) preimpostato.
 
-![](<../../../.gitbook/assets/image (364).png>)
+![](<../../../.gitbook/assets/image (234).png>)
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (406).png>)
+![](<../../../.gitbook/assets/image (237).png>)
 
 ### ➕ Crea...
 
@@ -62,8 +62,8 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 * Nuova fattura di vendita
 * Nuova registrazione contabile (cliente)
 
-![](<../../../.gitbook/assets/image (361).png>)
+![](<../../../.gitbook/assets/image (270).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (394).png>)
+![](<../../../.gitbook/assets/image (203).png>)

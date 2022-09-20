@@ -13,7 +13,7 @@ Il modulo **Aggiornamenti** offre diverse possibilità, quali:
 * Verificare i requisiti
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (289).png>)
+![](<../../../.gitbook/assets/image (342).png>)
 
 In questo modulo si possono trovare quattro sezioni:
 
@@ -26,31 +26,31 @@ In questo modulo si possono trovare quattro sezioni:
 
 Per caricare un aggiornamento si deve cliccare su Sfoglia, selezionare la release in formato ZIP da caricare, e cliccare su Carica.
 
-&#x20;                                                      <img src="../../../.gitbook/assets/image (313).png" alt="" data-size="original">
+&#x20;                                                      <img src="../../../.gitbook/assets/image (307).png" alt="" data-size="original">
 
 ### ⤵️ Verifica l'integrità dell'installazione
 
 In questa sezione sono disponibili tre opzioni:                                                     &#x20;
 
-![](<../../../.gitbook/assets/image (278).png>)
+![](<../../../.gitbook/assets/image (314).png>)
 
 * Controlla file: Mostra l'elenco dei file che presentano checksum diverso da quello registrato nella versione ufficiale.
 
-![](<../../../.gitbook/assets/image (266).png>)
+![](<../../../.gitbook/assets/image (395).png>)
 
 * Controlla database: Mostra l'elenco dei file che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
 
-![](<../../../.gitbook/assets/image (316).png>)
+![](<../../../.gitbook/assets/image (389).png>)
 
 * Controlla gestionale: Verifica le voci del piano dei conti collegate alle anagrafiche, la corrispondenza tra XML FE e Documenti di vendita, e le colonne duplicate per le viste.
 
-![](<../../../.gitbook/assets/image (283).png>)
+![](<../../../.gitbook/assets/image (394).png>)
 
 ### 🔍 Ricerca aggiornamenti
 
 Permette di verificare la presenza di aggiornamenti e in caso siano disponibili, scaricarli.
 
-![](<../../../.gitbook/assets/image (298).png>)
+![](<../../../.gitbook/assets/image (385).png>)
 
 
 
@@ -58,4 +58,4 @@ Permette di verificare la presenza di aggiornamenti e in caso siano disponibili,
 
 Questa sezione mostra che requisiti per il corretto funzionamento di OpenSTAManager vengono soddisfatti e quali no.
 
-![](<../../../.gitbook/assets/image (269).png>)
+![](<../../../.gitbook/assets/image (336).png>)

@@ -10,7 +10,7 @@ description: Guida al plugin Pianificazione attività in OpenSTAManager
 Il plugin **Pianificazione attività** è una componente del modulo **Contratti** dedicata alla completa gestione della pianificazione delle attività (_promemoria_) relative ai contratti registrati all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (365).png>)
+![](<../../../../../.gitbook/assets/image (250).png>)
 
 Da questo plugin è possibile pianificare dei promemoria o delle attività da effettuare entro determinate scadenze.
 
@@ -57,11 +57,11 @@ Chiede di completare i campi:
 * Inizio pianificazione
 * Fine pianificazione (coincide con la fine del contratto)
 
-![](<../../../../../.gitbook/assets/image (375).png>)
+![](<../../../../../.gitbook/assets/image (217).png>)
 
 I promemoria creati verranno successivamente visualizzati nel modulo **Dashboard** per semplificare la pianificazione del giorno dell'intervento, ad esempio nel caso di interventi con cadenza mensile.
 
-![](<../../../../../.gitbook/assets/image (16).png>)
+![](<../../../../../.gitbook/assets/image (65).png>)
 
 ### 🔁 Pianificazione interventi?
 
@@ -72,4 +72,4 @@ Con questa funzione è possibile creare un'attività, e richiede di completare i
 * Orario inizio
 * Orario fine
 
-![](<../../../../../.gitbook/assets/image (383).png>)
+![](<../../../../../.gitbook/assets/image (261).png>)
