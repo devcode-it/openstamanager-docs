@@ -231,7 +231,7 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 * Selezionare l'archivio scaricato nella selezione file della sezione "Carica un nuovo modulo";
 * Cliccare il pulsante "Carica".
 
-Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)).
+Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](https://www.php.net/manual/en/zip.installation.php)).
 
 {% hint style="warning" %}
 **Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
@@ -250,7 +250,7 @@ modulo.zip
 └── MODULE
 ```
 
-Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](https://shop.openstamanager.com/categoria-prodotto/moduli/)).
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example).
 
 #### update/VERSIONE.sql
 
