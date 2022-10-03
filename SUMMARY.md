@@ -204,6 +204,7 @@
   * [🎥 Attività/Fatturazione](guide/videoguide/attivita-fatturazione.md)
   * [🎥 Autofattura](guide/videoguide/autofattura.md)
   * [🎥 Preventivo/Consuntivo](guide/videoguide/preventivo-consuntivo.md)
+  * [🎥 Registrazione movimenti bancari](guide/videoguide/registrazione-movimenti-bancari.md)
 * [📘 F.A.Q.](guide/domande-comuni.md)
 
 ## Moduli premium <a href="#moduli-acquistabili" id="moduli-acquistabili"></a>
