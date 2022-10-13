@@ -16,7 +16,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, cliccando su **Dash
 
 Grazie al calendario questo modulo offre una visione generale degli I**nterventi,** a cui è possibile applicare dei filtri.
 
-![](<../../../.gitbook/assets/immagine (40).png>)
+![](<../../../.gitbook/assets/immagine (40) (1).png>)
 
 ### 👾 Widget
 

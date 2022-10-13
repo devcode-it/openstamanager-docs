@@ -22,4 +22,4 @@ Creando un intervento in questo modo si hanno a disposizione una serie di campi 
 
 Gli interventi creati in questo modo saranno poi visualizzati a calendario e verranno automaticamente registrati tra le attività:
 
-![](<../../../.gitbook/assets/immagine (42).png>)
+![](<../../../.gitbook/assets/immagine (42) (1).png>)

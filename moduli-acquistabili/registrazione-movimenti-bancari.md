@@ -31,3 +31,9 @@ Da questo modulo si potrà inoltre registrare dei movimenti ricorrenti e imposta
 Nella sezione Movimenti ABI sarà ora possibile visualizzare in anteprima la lista dei movimenti e il tipo di operazione di cui si tratta (stipendio, pagamento fornitore, ecc...).
 
 <figure><img src="../.gitbook/assets/immagine (102).png" alt=""><figcaption></figcaption></figure>
+
+#### Videoguida:
+
+{% content-ref url="../guide/videoguide/registrazione-movimenti-bancari.md" %}
+[registrazione-movimenti-bancari.md](../guide/videoguide/registrazione-movimenti-bancari.md)
+{% endcontent-ref %}

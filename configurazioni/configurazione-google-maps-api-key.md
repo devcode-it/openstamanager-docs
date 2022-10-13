@@ -30,8 +30,8 @@ Successivamente cliccare sulle 3 linee in alto a sinistra, andare su API e servi
 
 Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e selezionare Chiave API. Ora la chiave API è stata creata.
 
-![](<../.gitbook/assets/immagine (39).png>)
+![](<../.gitbook/assets/immagine (39) (1).png>)
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, sarà ora possibile visualizzare le mappe nella sezione Geolocalizzazione.
 
-![](<../.gitbook/assets/immagine (38).png>)
+![](<../.gitbook/assets/immagine (38) (1).png>)

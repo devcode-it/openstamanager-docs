@@ -196,6 +196,7 @@
   * [🧑🔧 Permessi di visualizzazione degli utenti](guide/esempi/permessi-di-visualizzazione-degli-utenti.md)
   * [👨🏫 Prezzo di vendita automatico](guide/esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](guide/esempi/magazzino.md)
+  * [💸 Registrazione di crediti inesigibili](guide/esempi/registrazione-di-crediti-inesigibili.md)
   * [📝 Sconto combinato](guide/esempi/sconto-combinato.md)
   * [🗓 Tasks programmati](guide/esempi/tasks-programmati.md)
 * [🪂 Strumenti esterni](guide/strumenti-esterni/README.md)
