@@ -28,7 +28,9 @@ L'installazione del gestionale richiede la presenza di un web server Apache con 
 
 Le versioni di PHP supportate sono dalla 7.3 alla 8.0, mentre quelle di MySQL dalla 5.7 alla 8.0.
 
+{% hint style="warning" %}
 Il gestionale non è compatibile con MariaDB.
+{% endhint %}
 
 Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti, nella sezione evidenziata.
 
