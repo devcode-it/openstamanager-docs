@@ -16,7 +16,7 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 [Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (7).png>)
+![](<../.gitbook/assets/immagine (7) (1).png>)
 
 ## ➕ Creazione
 
@@ -80,7 +80,7 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/immagine (8).png>)
+![](<../.gitbook/assets/immagine (8) (1).png>)
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
@@ -90,11 +90,11 @@ Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (3).png>)
+![](<../.gitbook/assets/immagine (3) (1).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/immagine (10).png>)
+![](<../.gitbook/assets/immagine (10) (1).png>)
 
 {% hint style="warning" %}
 Vedi anche:

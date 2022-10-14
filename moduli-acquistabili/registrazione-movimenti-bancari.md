@@ -12,7 +12,7 @@ Si dovrà andare in Strumenti/Import e cliccare sul tasto (+). Da qui si dovrà 
 
 Cliccando su Scarica esempio CSV sarà possibile scaricare un file di esempio da seguire per configurare correttamente i campi del file da importare, in quanto banche diverse possono fornire file CSV diversi.
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
 
 Una volta importato il file CSV si visualizzerà l'elenco di tutti i movimenti, dal menu a tendina sarà selezionabile la relativa scadenza se trovata corrispondenza con la relativa fattura di vendita o di acquisto, e sarà possibile registrarli cliccando su Registra.
 

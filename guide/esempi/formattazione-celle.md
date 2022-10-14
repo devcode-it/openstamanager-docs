@@ -29,7 +29,7 @@ Si dovrà andare in Strumenti/Viste/Articoli e creare un nuovo campo, con Query 
 IF(`qta`<5, 'red', '')
 ```
 
-![](<../../.gitbook/assets/immagine (2).png>)
+![](<../../.gitbook/assets/immagine (2) (1).png>)
 
 {% hint style="warning" %}
 Per poter abilitare il campo è importante che il campo Gruppi con accesso sia compilato con i tipi di utenti che dovranno visualizzarlo.
@@ -49,7 +49,7 @@ IF(`qta`<5, 'red', '#008000')
 
 Il risultato ottenuto sarà il seguente:
 
-![](<../../.gitbook/assets/immagine (4).png>)
+![](<../../.gitbook/assets/immagine (4) (1).png>)
 
 {% hint style="warning" %}
 Si consiglia di utilizzare i colori in formato esadecimale.

@@ -199,6 +199,7 @@
   * [💸 Registrazione di crediti inesigibili](guide/esempi/registrazione-di-crediti-inesigibili.md)
   * [📝 Sconto combinato](guide/esempi/sconto-combinato.md)
   * [🗓 Tasks programmati](guide/esempi/tasks-programmati.md)
+  * [🔨 Verificare l'installazione di OSM](guide/esempi/verificare-linstallazione-di-osm.md)
 * [🪂 Strumenti esterni](guide/strumenti-esterni/README.md)
   * [📸 Awesome screenshot](guide/strumenti-esterni/awesome-screenshot.md)
 * [📽 Videoguide](guide/videoguide/README.md)
