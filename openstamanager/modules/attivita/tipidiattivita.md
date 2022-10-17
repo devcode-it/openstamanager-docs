@@ -48,4 +48,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Aggiungere righe
 * Addebiti e costi per fasce orarie
 
-![](<../../../.gitbook/assets/Senzanome (1).png>)
+![](<../../../.gitbook/assets/Senzanome (1) (1).png>)

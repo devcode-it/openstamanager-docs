@@ -14,7 +14,7 @@ Accedendo al plugin Fatturazione Elettronica, sarà possibile: rigenerare il doc
 
 Si dovrà quindi ora procedere a cliccare su Invia per mandare la fattura appena emessa allo SDI, che prenderà quindi lo stato _Inviata_.
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### ✉️ Importazione delle ricevute dallo SDI
 

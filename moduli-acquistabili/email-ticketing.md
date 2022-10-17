@@ -16,7 +16,7 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 [Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (7) (1).png>)
+![](<../.gitbook/assets/immagine (7) (1) (1).png>)
 
 ## ➕ Creazione
 
@@ -90,7 +90,7 @@ Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (3) (1).png>)
+![](<../.gitbook/assets/immagine (3) (1) (1).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
