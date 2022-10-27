@@ -14,7 +14,7 @@ In anagrafica dovrà essere selezionata l'anagrafica a cui la banca andrà quind
 
 Dalla schermata successiva si dovrà procedere a impostare la banca come predefinita tramite l'apposita selezione.
 
-![](<../../.gitbook/assets/immagine (4).png>)
+![](<../../.gitbook/assets/immagine (4) (1).png>)
 
 Aprendo ora l'anagrafica interessata dal modulo Anagrafiche e scorrendo fino alla sezione Informazioni per tipo di anagrafica, in Cliente e fornitore potremo andare a visualizzare:
 

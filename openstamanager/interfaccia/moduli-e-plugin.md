@@ -29,7 +29,7 @@ La schermata principale che si apre entrando in un modulo è formata da una tabe
   * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
   * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 
-![](<../../.gitbook/assets/immagine (6).png>)
+![](<../../.gitbook/assets/immagine (6) (1).png>)
 
 ### ✏️ Contenuti personalizzati
 

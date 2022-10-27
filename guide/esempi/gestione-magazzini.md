@@ -22,7 +22,7 @@ E' possibile spostare un articolo di magazzino da una sede all'altra dal modulo 
 
 Qui si dovranno andare a selezionare la sede di partenza e di destinazione dell'articolo, selezionando come causale "Spostamento". E poi cliccando su Movimenta per procedere a inserire un altro movimento, o su Movimenta e chiudi per tornare all'elenco dei movimenti.
 
-![](<../../.gitbook/assets/immagine (7).png>)
+![](<../../.gitbook/assets/immagine (7) (1).png>)
 
 Tra i movimenti sarà ora possibile vedere il movimento appena effettuato, ovvero una diminuzione di 1 unità nella sede legale, e un aumento di 1 unità nella sede Cespiti.
 
@@ -38,7 +38,7 @@ Andando in Magazzino/Giacenze sedi e selezionando la sede Cespiti sarà ora poss
 
 E' possibile registrare un DDT in entrata dalla nostra sede a una sede secondaria specificando come causale Trasferimento sede.
 
-![](<../../.gitbook/assets/immagine (5).png>)
+![](<../../.gitbook/assets/immagine (5) (1).png>)
 
 Da qui si dovranno ora specificare la sede di partenza e di arrivo della merce, e inserire come righe gli articoli da spostare.
 
@@ -52,7 +52,7 @@ Una volta effettuato il trasferimento e impostato il DDT come evaso, si dovrà a
 
 Il gestionale chiederà ora la conferma a procedere con la generazione del documento. Cliccare su Completa per eseguire l'operazione.
 
-&#x20;                                                                <img src="../../.gitbook/assets/immagine (3).png" alt="" data-size="original">
+&#x20;                                                                <img src="../../.gitbook/assets/immagine (3) (1).png" alt="" data-size="original">
 
 
 
