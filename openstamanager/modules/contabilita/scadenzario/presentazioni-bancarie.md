@@ -13,7 +13,7 @@ Per accedere al plugin Presentazioni bancarie si dovrà andare in Contabilità/S
 <figure><img src="../../../../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Tramite questo plugin è possibile esportare una selezione di scadenze in formato CSV.
+Tramite questo plugin è possibile esportare una selezione di scadenze nei vari formati disponibili.
 {% endhint %}
 
 Sarà possibile esportare:
@@ -25,6 +25,6 @@ Dopo aver selezionato il tipo di dato da esportare, si dovrà cliccare su Esport
 
 <figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
-Sarà possibile ora visualizzare l'elenco delle causali dei pagamenti da esportare, per procedere sarà sufficiente cliccare nuovamente su Esporta.
+Sarà possibile ora visualizzare l'elenco delle causali delle scadenze da esportare, per procedere sarà sufficiente cliccare nuovamente su Esporta.
 
 <figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
