@@ -35,8 +35,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [pianodeiconti.md](pianodeiconti.md)
 {% endcontent-ref %}
 
-{% content-ref url="scadenzario.md" %}
-[scadenzario.md](scadenzario.md)
+{% content-ref url="scadenzario/" %}
+[scadenzario](scadenzario/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../guide/esempi/contabilita.md" %}

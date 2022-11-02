@@ -46,13 +46,13 @@ Per sincronizzare il calendario di Outlook con quello di OpenSTAManager sarà su
 
 Sarà necessario risalire all'API token, cliccando sul nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Il link da utilizzare per la corretta configurazione di outlook è quello nella sezione di destra: Calendario interventi.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🐦 Thunderbird
 
@@ -60,7 +60,7 @@ Per poter sincronizzare il calendario di OpenSTAManager con Thunderbird sarà ne
 
 Questo permetterà la creazione di un nuovo Google calendar che sarà possibile sincronizzare con il calendario del gestionale tramite l'API token del gestionale, disponibile nella sezione Calendario interventi, cliccando sul proprio nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
