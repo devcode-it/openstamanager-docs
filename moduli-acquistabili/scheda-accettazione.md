@@ -46,6 +46,8 @@ Il gestionale permetterà ora di generare la scheda accettazione da far firmare 
 
 ![](<../.gitbook/assets/image (467).png>)
 
+<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
 ![](<../.gitbook/assets/image (459).png>)
