@@ -40,10 +40,12 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 
 ![](<../.gitbook/assets/image (438).png>)
 
-Cliccando ora su crea attività, il gestionale chiederà se far firmare per accettazione al cliente, o se procedere alla creazione dell'attività
+Per procedere cliccare su Crea attività.
+
+Il gestionale permetterà ora di generare la scheda accettazione da far firmare al cliente e l'attività di presa in carico del dispositivo, per gestire poi eventuali valutazioni o attività di laboratorio.
 
 ![](<../.gitbook/assets/image (467).png>)
 
-Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre al prodotto.
+Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
 ![](<../.gitbook/assets/image (459).png>)
