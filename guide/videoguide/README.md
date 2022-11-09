@@ -29,3 +29,6 @@ description: >-
 {% content-ref url="registrazione-movimenti-bancari.md" %}
 [registrazione-movimenti-bancari.md](registrazione-movimenti-bancari.md)
 {% endcontent-ref %}
+
+»»» Modulo scheda accettazione
+
