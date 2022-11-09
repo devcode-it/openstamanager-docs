@@ -4,7 +4,7 @@ description: Guida al modulo aggiuntivo Scheda accettazione di OpenSTAManager
 
 # 📗 Scheda accettazione
 
-Scheda accettazione è uno dei diversi moduli acquistabili da OpenSTAManager. Il modulo permette di registrare le richieste di assistenza al volo e stamparne etichetta e riepilogo.
+Scheda accettazione è un modulo che permette la generazione di una scheda di accettazione, un documento pensato per gestire le assistenze tecniche e volto a tutelare entrambe le parti. Su questa scheda infatti vengono riportate le condizioni di assistenza disposte dal negozio, e la richiesta di intervento da parte del cliente.
 
 {% hint style="info" %}
 [Clicca qui](https://shop.openstamanager.com/prodotto/scheda-accettazione/) per procedere all'acquisto.
@@ -51,6 +51,10 @@ Il gestionale permetterà ora di generare la scheda accettazione da far firmare 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
 ![](<../.gitbook/assets/image (459).png>)
+
+Sulla scheda di accettazione vengono quindi riportati i dati anagrafici del cliente, il codice di intervento, le specifiche del prodotto al momento del ritiro, la descrizione del problema a cura del cliente e le condizioni di assistenza tecnica. Tutto questo viene firmato direttamente a video dal cliente che ne accetta le clausole, avviando quindi la presa in carico dell'attività.
+
+Compreso nel modulo, al primo avvio, è **inclusa una configurazione delle informazioni da includere nella scheda accettazione**. Si avrà quindi la possibilità di variare, aggiungendo o togliendo, le informazioni presenti nella schermata "Intervento".
 
 #### Vai alla videoguida:
 
