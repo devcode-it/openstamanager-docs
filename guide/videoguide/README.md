@@ -32,3 +32,6 @@ description: >-
 
 »»» Modulo scheda accettazione
 
+{% content-ref url="scheda-accettazione.md" %}
+[scheda-accettazione.md](scheda-accettazione.md)
+{% endcontent-ref %}

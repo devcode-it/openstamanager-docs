@@ -51,3 +51,9 @@ Il gestionale permetterà ora di generare la scheda accettazione da far firmare 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
 ![](<../.gitbook/assets/image (459).png>)
+
+#### Vai alla videoguida:
+
+{% content-ref url="../guide/videoguide/scheda-accettazione.md" %}
+[scheda-accettazione.md](../guide/videoguide/scheda-accettazione.md)
+{% endcontent-ref %}
