@@ -30,6 +30,6 @@ Si dovrà aprire la scadenza interessata, compilare il campo Pagato con l'import
 
 <figure><img src="../../.gitbook/assets/immagine (56).png" alt=""><figcaption></figcaption></figure>
 
-Si dovrà ora a inserire in Dare il conto appena creato ibi cliccare su Aggiungi, chiudendo così il conto del cliente, ma registrando la perdita a bilancio.
+Si dovrà ora a inserire in Dare il conto appena creato e cliccare su Aggiungi, chiudendo così il conto del cliente, ma registrando la perdita a bilancio.
 
 <figure><img src="../../.gitbook/assets/immagine (70).png" alt=""><figcaption></figcaption></figure>
