@@ -207,6 +207,7 @@
 * [📽 Videoguide](guide/videoguide/README.md)
   * [🎥 Attività/Fatturazione](guide/videoguide/attivita-fatturazione.md)
   * [🎥 Autofattura](guide/videoguide/autofattura.md)
+  * [🎥 Importazione articoli](guide/videoguide/importazione-articoli.md)
   * [🎥 Preventivo/Consuntivo](guide/videoguide/preventivo-consuntivo.md)
   * [🎥 Registrazione movimenti bancari](guide/videoguide/registrazione-movimenti-bancari.md)
   * [🎥 Scheda accettazione](guide/videoguide/scheda-accettazione.md)
