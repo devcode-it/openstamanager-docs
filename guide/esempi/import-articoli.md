@@ -14,4 +14,16 @@ Cliccando su questo pulsante si aprirà un file di esempio di come importare gli
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fe7Aad6qn1TB3J72HMwdI%2Ffile.png?alt=media)
 
-A questo punto si può iniziare a creare il file CSV per l'importazione degli articoli, utilizzare gli stessi nomi delle colonne per automatizzare l'importazione dei dati.
+A questo punto si può iniziare a creare il file CSV per l'importazione degli articoli, seguendo la base del file d'esempio.
+
+Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
+
+<figure><img src="../../.gitbook/assets/immagine (95).png" alt=""><figcaption></figcaption></figure>
+
+Da questa schermata sarà ora possibile procedere a mappare i campi del CSV con quelli del gestionale, impostare la chiave primaria e cliccare su Avvia importazione.
+
+#### Vedi anche:&#x20;
+
+{% content-ref url="../videoguide/importazione-articoli.md" %}
+[importazione-articoli.md](../videoguide/importazione-articoli.md)
+{% endcontent-ref %}

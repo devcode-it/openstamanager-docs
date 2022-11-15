@@ -49,3 +49,7 @@ Cliccando su ![](../../../.gitbook/assets/AvviaImportazione.PNG) il file viene i
 {% content-ref url="../../../guide/esempi/import-articoli.md" %}
 [import-articoli.md](../../../guide/esempi/import-articoli.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../../guide/videoguide/importazione-articoli.md" %}
+[importazione-articoli.md](../../../guide/videoguide/importazione-articoli.md)
+{% endcontent-ref %}
