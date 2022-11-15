@@ -6,31 +6,37 @@ description: >-
 
 # 📽 Videoguide
 
-»»» Come creare un preventivo mantenendo il controllo sul consuntivo:
-
-{% content-ref url="preventivo-consuntivo.md" %}
-[preventivo-consuntivo.md](preventivo-consuntivo.md)
-{% endcontent-ref %}
-
-»»» Come creare un'autofattura tramite gli automatismi di OSM
-
-{% content-ref url="autofattura.md" %}
-[autofattura.md](autofattura.md)
-{% endcontent-ref %}
-
 »»» Dall'inserimento di un'attività alla sua fatturazione:
 
 {% content-ref url="attivita-fatturazione.md" %}
 [attivita-fatturazione.md](attivita-fatturazione.md)
 {% endcontent-ref %}
 
-»»» Registrazione movimenti bancari
+»»» Come creare un'autofattura tramite gli automatismi di OSM:
+
+{% content-ref url="autofattura.md" %}
+[autofattura.md](autofattura.md)
+{% endcontent-ref %}
+
+»»» Come importare massivamente articoli:
+
+{% content-ref url="importazione-articoli.md" %}
+[importazione-articoli.md](importazione-articoli.md)
+{% endcontent-ref %}
+
+»»» Come creare un preventivo mantenendo il controllo sul consuntivo:
+
+{% content-ref url="preventivo-consuntivo.md" %}
+[preventivo-consuntivo.md](preventivo-consuntivo.md)
+{% endcontent-ref %}
+
+»»» Come registrare movimenti bancari con il modulo aggiuntivo:
 
 {% content-ref url="registrazione-movimenti-bancari.md" %}
 [registrazione-movimenti-bancari.md](registrazione-movimenti-bancari.md)
 {% endcontent-ref %}
 
-»»» Modulo scheda accettazione
+»»» Come registrare l'accettazione di un prodotto con l'apposito modulo aggiuntivo:
 
 {% content-ref url="scheda-accettazione.md" %}
 [scheda-accettazione.md](scheda-accettazione.md)

@@ -48,6 +48,10 @@ description: Esempi pratici alle principali funzioni di OpenSTAManager
 [gestione-magazzini.md](gestione-magazzini.md)
 {% endcontent-ref %}
 
+{% content-ref url="import-anagrafiche.md" %}
+[import-anagrafiche.md](import-anagrafiche.md)
+{% endcontent-ref %}
+
 {% content-ref url="import-articoli.md" %}
 [import-articoli.md](import-articoli.md)
 {% endcontent-ref %}
