@@ -10,7 +10,7 @@ Per poter procedere all'esportazione è necessario che siano state specificate l
 
 Per accedere al plugin Presentazioni bancarie si dovrà andare in Contabilità/Scadenzario, selezionare le scadenze interessate nell'elenco, e cliccare su Presentazioni Bancarie.
 
-<figure><img src="../../../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Tramite questo plugin è possibile esportare la presentazione bancaria dell'azienda in formato CSV.

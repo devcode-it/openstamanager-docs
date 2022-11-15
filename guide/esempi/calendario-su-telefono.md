@@ -46,7 +46,7 @@ Per sincronizzare il calendario di Outlook con quello di OpenSTAManager sarà su
 
 Sarà necessario risalire all'API token, cliccando sul nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Il link da utilizzare per la corretta configurazione di outlook è quello nella sezione di destra: Calendario interventi.

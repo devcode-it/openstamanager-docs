@@ -18,7 +18,7 @@ Cliccando sul tasto <img src="../../../.gitbook/assets/imp (1).png" alt="" data-
 
 È possibile importare massivamente dati in tre diversi moduli:
 
-* Anagrafiche (informazioni sulla creazione del file CSV su [Import anagrafiche](../anagrafiche/import-anagrafiche.md))
+* Anagrafiche (informazioni sulla creazione del file CSV su [Import anagrafiche](../../../guide/esempi/import-anagrafiche.md))
 * Articoli (informazioni sulla creazione del file CSV su [Import articoli](../../../guide/esempi/import-articoli.md))
 * Piano dei conti
 
@@ -38,8 +38,8 @@ Cliccando su ![](../../../.gitbook/assets/AvviaImportazione.PNG) il file viene i
 
 #### Vedi anche:
 
-{% content-ref url="../anagrafiche/import-anagrafiche.md" %}
-[import-anagrafiche.md](../anagrafiche/import-anagrafiche.md)
+{% content-ref url="../../../guide/esempi/import-anagrafiche.md" %}
+[import-anagrafiche.md](../../../guide/esempi/import-anagrafiche.md)
 {% endcontent-ref %}
 
 {% content-ref url="../magazzino/listini/import-listini.md" %}
@@ -48,6 +48,10 @@ Cliccando su ![](../../../.gitbook/assets/AvviaImportazione.PNG) il file viene i
 
 {% content-ref url="../../../guide/esempi/import-articoli.md" %}
 [import-articoli.md](../../../guide/esempi/import-articoli.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../moduli-acquistabili/registrazione-movimenti-bancari.md" %}
+[registrazione-movimenti-bancari.md](../../../moduli-acquistabili/registrazione-movimenti-bancari.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../guide/videoguide/importazione-articoli.md" %}

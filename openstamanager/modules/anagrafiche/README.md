@@ -103,6 +103,6 @@ Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico
 [plugin](plugin/)
 {% endcontent-ref %}
 
-{% content-ref url="import-anagrafiche.md" %}
-[import-anagrafiche.md](import-anagrafiche.md)
+{% content-ref url="../../../guide/esempi/import-anagrafiche.md" %}
+[import-anagrafiche.md](../../../guide/esempi/import-anagrafiche.md)
 {% endcontent-ref %}
