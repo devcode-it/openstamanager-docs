@@ -27,4 +27,4 @@ Dopo aver selezionato il tipo di dato da esportare, si dovrà cliccare su Esport
 
 Sarà possibile ora visualizzare l'elenco delle causali dei pagamenti da esportare, per procedere sarà sufficiente cliccare su Esporta.
 
-<figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (3) (2).png" alt=""><figcaption></figcaption></figure>

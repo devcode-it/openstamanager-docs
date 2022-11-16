@@ -184,6 +184,7 @@
     * [🤔 Domande comuni](guide/esempi/fatturazione-elettronica/domande-comuni-fatturazione-elettronica.md)
     * [⛔ Errori frequenti](guide/esempi/fatturazione-elettronica/errori-frequenti.md)
     * [🏫 Fattura elettronica verso PA](guide/esempi/fatturazione-elettronica/fattura-elettronica-verso-pa.md)
+    * [🙋♀ Fatture TD21 - TD27](guide/esempi/fatturazione-elettronica/fatture-td21-td27.md)
     * [📩 Inviare/ricevere fatture elettroniche](guide/esempi/fatturazione-elettronica/inviare-ricevere-fatture-elettroniche.md)
     * [🏫 Split payment e reverse charge](guide/esempi/fatturazione-elettronica/fattura-pa.md)
   * [📃 Fatture non elettroniche](guide/esempi/fatture-non-elettroniche.md)
