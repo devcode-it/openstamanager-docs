@@ -64,6 +64,10 @@ description: Esempi pratici alle principali funzioni di OpenSTAManager
 [incassi-e-pagamenti-anticipati.md](incassi-e-pagamenti-anticipati.md)
 {% endcontent-ref %}
 
+{% content-ref url="liquidazione-di-salari-e-stipendi.md" %}
+[liquidazione-di-salari-e-stipendi.md](liquidazione-di-salari-e-stipendi.md)
+{% endcontent-ref %}
+
 {% content-ref url="nota-di-credito.md" %}
 [nota-di-credito.md](nota-di-credito.md)
 {% endcontent-ref %}
