@@ -38,17 +38,17 @@ Andando in Magazzino/Giacenze sedi e selezionando la sede Cespiti sarà ora poss
 
 E' possibile registrare un DDT in entrata dalla nostra sede a una sede secondaria specificando come causale Trasferimento sede.
 
-![](<../../.gitbook/assets/immagine (5) (1) (1).png>)
+![](<../../.gitbook/assets/immagine (5) (1) (1) (1).png>)
 
 Da qui si dovranno ora specificare la sede di partenza e di arrivo della merce, e inserire come righe gli articoli da spostare.
 
 ![](<../../.gitbook/assets/immagine (214).png>)
 
-![](<../../.gitbook/assets/immagine (11).png>)
+![](<../../.gitbook/assets/immagine (11) (1).png>)
 
 Una volta effettuato il trasferimento e impostato il DDT come evaso, si dovrà andare a registrare lo stesso DDT con direzione opposta. Sarà possibile registrare questo DDT direttamente da questa schermata cliccando sul tasto Completa trasferimento tra sedi.
 
-![](<../../.gitbook/assets/immagine (13).png>)
+![](<../../.gitbook/assets/immagine (13) (1).png>)
 
 Il gestionale chiederà ora la conferma a procedere con la generazione del documento. Cliccare su Completa per eseguire l'operazione.
 

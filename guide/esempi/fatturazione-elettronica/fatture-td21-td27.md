@@ -18,9 +18,9 @@ Si potrà ora salvare e andare ad emettere fattura in Vendite/fatture di vendita
 
 Andando qui a selezionare una tra le due tipologie di documento interessate (TD21 o TD27), si dovrà impostare come Cliente la nostra anagrafica azienda, e cliccare su Aggiungi.
 
-<figure><img src="../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Si potranno ora inserire le righe e procedere all'emissione della fattura, che riporterà come cedente/prestatore e cessionario committente i dati anagrafici della nostra azienda.
 
-<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (3).png" alt=""><figcaption></figcaption></figure>
 

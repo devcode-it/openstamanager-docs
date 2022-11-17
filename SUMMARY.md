@@ -195,6 +195,7 @@
   * [📲 Import articoli](guide/esempi/import-articoli.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)
   * [🔜 Incassi e pagamenti anticipati](guide/esempi/incassi-e-pagamenti-anticipati.md)
+  * [💵 Liquidazione di salari e stipendi](guide/esempi/liquidazione-di-salari-e-stipendi.md)
   * [📄 Nota di credito](guide/esempi/nota-di-credito.md)
   * [🧑🔧 Permessi di visualizzazione degli utenti](guide/esempi/permessi-di-visualizzazione-degli-utenti.md)
   * [👨🏫 Prezzo di vendita automatico](guide/esempi/prezzo-di-vendita-automatico.md)

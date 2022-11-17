@@ -27,7 +27,7 @@ Per procedere alla pianificazione della fatturazione si dovrà cliccare sul tast
 
 Si aprirà quindi una schermata in cui sarà possibile pianificare la fatturazione specificando la ricorrenza delle rate, ed eventualmente modificando i mesi in cui cadranno, cliccando sulla checkbox a lato. E' inoltre possibile impostare il Giorno di fatturazione tra: inizio mese, fine mese, e un giorno fisso selezionato.
 
-![](<../../../../../.gitbook/assets/immagine (14).png>)
+![](<../../../../../.gitbook/assets/immagine (14) (1).png>)
 
 La sezione **Righe** invece riporta una serie di variabili che è possibile utilizzare per personalizzare la descrizione delle righe che verranno riportate in fattura e permette di stabilire la quantità da inserire in ogni rata.
 
@@ -41,4 +41,4 @@ Andando a selezionare Crea fattura si potranno ora vedere nelle note i riferimen
 
 E' inoltre possibile scegliere se aggiungere le righe appena create a una fattura di vendita già presente in bozze dello stesso cliente, o se creare un nuovo documento.
 
-![](<../../../../../.gitbook/assets/immagine (10).png>)
+![](<../../../../../.gitbook/assets/immagine (10) (1).png>)

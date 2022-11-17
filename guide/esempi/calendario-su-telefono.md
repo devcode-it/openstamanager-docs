@@ -60,7 +60,7 @@ Per poter sincronizzare il calendario di OpenSTAManager con Thunderbird sarà ne
 
 Questo permetterà la creazione di un nuovo Google calendar che sarà possibile sincronizzare con il calendario del gestionale tramite l'API token del gestionale, disponibile nella sezione Calendario interventi, cliccando sul proprio nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 

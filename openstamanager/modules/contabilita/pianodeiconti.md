@@ -18,11 +18,13 @@ E' possibile visualizzare nel dettaglio gli elementi che lo compongono espandend
 
 ## ➕ Creazione
 
-Per creare un nuovo conto si dovrà cliccare sul tasto (+).
+Per creare un nuovo conto si dovrà cliccare sul tasto (+) corrispondente alla voce sotto la quale si vorrà inserire:
+
+<figure><img src="../../../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui inserite le informazioni relative al nuovo conto:
 
-* Numero
+* Numero (è consigliato inserire un numero progressivo a quelli esistenti)
 * Descrizione
 
 ![](<../../../.gitbook/assets/image (199).png>)

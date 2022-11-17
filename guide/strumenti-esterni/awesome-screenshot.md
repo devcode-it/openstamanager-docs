@@ -45,7 +45,7 @@ La schermata che si presenterà sarà quindi questa, dove sarà possibile copiar
 
 Si vuole evidenziare un problema con una fattura di vendita che risulta scartata, si andrà quindi a inviare uno screenshot dell'elenco delle fatture di vendita, evidenziando la fattura interessata:
 
-![](<../../.gitbook/assets/immagine (9).png>)
+![](<../../.gitbook/assets/immagine (9) (1).png>)
 
 #### Esempio
 
