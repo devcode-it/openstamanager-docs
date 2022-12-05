@@ -28,7 +28,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-![](<../../../.gitbook/assets/immagine (195).png>)
+![](<../../../.gitbook/assets/immagine (40).png>)
 
 ## 🏭 Sede legale
 
@@ -47,7 +47,7 @@ Nella seconda sezione è possibile trovare:
 * Distanza
 * Opt-out per newsletter (attivando questa opzione l'anagrafica verrà esclusa dai destinatari di eventuali Newsletter)
 
-![](<../../../.gitbook/assets/immagine (225).png>)
+![](<../../../.gitbook/assets/immagine (294).png>)
 
 ## 🗺️ Geolocalizzazione
 
@@ -57,13 +57,13 @@ In questa sezione è possibile visualizzare attraverso _Google Maps_ l'indirizzo
 
 Per fare ciò basta cliccare sopra il link mostrato all'interno del riquadro:
 
-![](<../../../.gitbook/assets/immagine (214).png>)
+![](<../../../.gitbook/assets/immagine (36).png>)
 
 Successivamente si verrà indirizzati in _impostazioni_ per inserire un [_Google Maps API Key_ ](../../../configurazioni/configurazione-google-maps-api-key.md)valido.
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, dall'anagrafica cliente sarà ora possibile visualizzare la sua locazione in Geolocalizzazione.
 
-![](<../../../.gitbook/assets/image (575).png>)
+![](<../../../.gitbook/assets/image (340).png>)
 
 ## ℹ️ Informazioni per tipo di anagrafica
 
@@ -84,7 +84,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Agenti secondari
 * Tipo attività predefinita
 
-![](<../../../.gitbook/assets/immagine (219).png>)
+![](<../../../.gitbook/assets/immagine (288).png>)
 
 ### 💁‍♂️ Fornitore
 
@@ -95,14 +95,14 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Ritenuta d'acconto predefinita
 * Piano dei conti fornitore\*
 
-![](<../../../.gitbook/assets/immagine (199).png>)
+![](<../../../.gitbook/assets/immagine (34).png>)
 
 ### 🧑‍💼 Cliente e Fornitore
 
 * Abilitare lo split payment
 * Dicitura fissa in fattura
 
-![](<../../../.gitbook/assets/immagine (230).png>)
+![](<../../../.gitbook/assets/immagine (280).png>)
 
 ### 🧑‍🔧 Tecnico
 
@@ -131,7 +131,7 @@ E' qui possibile trovare le informazioni relative a:
 * Tipo di anagrafica
 * Note
 
-![](<../../../.gitbook/assets/immagine (187).png>)
+![](<../../../.gitbook/assets/immagine (177).png>)
 
 {% hint style="info" %}
 Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;
@@ -149,7 +149,7 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 Questo permetterà di visualizzare in tutte le stampe cartacee il logo appena caricato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/immagine (220).png>)
+![](<../../../.gitbook/assets/immagine (274).png>)
 
 ## 🗳️ Altro
 

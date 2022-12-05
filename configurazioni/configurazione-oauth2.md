@@ -8,7 +8,7 @@ description: >-
 
 A partire dalla versione 2.4.24, il gestionale OpenSTAManager supporta l'autenticazione OAuth2 per l'accesso agli account di posta elettronica attraverso il pannello OAuth2 del modulo **Account email**.
 
-![Modulo Account email con pannello OAuth2](<../.gitbook/assets/image (376).png>)
+![Modulo Account email con pannello OAuth2](<../.gitbook/assets/image (569).png>)
 
 Per abilitare l'autenticazione OAuth2 per un account email è necessario utilizzare la relativa checkbox **Abilita OAuth2** e selezionare il **Provider** tra quelli disponibili. A seguito di queste azioni, comparirà un link dinamico a questa documentazione che descrive le procedure da utilizzare per ottenere **Client ID e Secret** sulla base del provider selezionato.
 
@@ -26,7 +26,7 @@ La configurazione dell'accesso OAuth2 per account Google si effettua all'indiriz
 
 Una volta raggiunta la Google Cloud Platform, si deve procedere a generare un _Nuovo progetto_ appositamente denominato "OpenSTAManager"; in alternativa, se è disponibile un progetto pre-esistente, è possibile utilizzarlo.
 
-![Schermata di Nuovo progetto](<../.gitbook/assets/image (379).png>)
+![Schermata di Nuovo progetto](<../.gitbook/assets/image (567).png>)
 
 Dopo la creazione del progetto in questione, nella sezione Credenziali del menù di navigazione laterale è possibile procedere alla generazione della schermata e delle credenziali di accesso OAuth2.
 

@@ -10,7 +10,7 @@ Accedendo al plugin sedi dall'anagrafica della nostra azienda è possibile quind
 
 Per registrare una nuova sede sarà sufficiente cliccare sul tasto (+).
 
-![](<../../.gitbook/assets/immagine (101).png>)
+![](<../../.gitbook/assets/immagine (213).png>)
 
 Oltre alla sede legale ora saranno disponibili due sedi aggiuntive e un magazzino Cespiti, in cui si andranno a registrare tutti i beni non destinati alla vendita che l'azienda acquisirà.
 
@@ -18,54 +18,54 @@ Oltre alla sede legale ora saranno disponibili due sedi aggiuntive e un magazzin
 
 E' possibile spostare un articolo di magazzino da una sede all'altra dal modulo Magazzino/Movimenti, cliccando sul tasto (+) per creare un nuovo movimento.
 
-![](<../../.gitbook/assets/immagine (99).png>)
+![](<../../.gitbook/assets/immagine (212).png>)
 
 Qui si dovranno andare a selezionare la sede di partenza e di destinazione dell'articolo, selezionando come causale "Spostamento". E poi cliccando su Movimenta per procedere a inserire un altro movimento, o su Movimenta e chiudi per tornare all'elenco dei movimenti.
 
-![](<../../.gitbook/assets/immagine (285).png>)
+![](<../../.gitbook/assets/immagine (7) (1) (1).png>)
 
 Tra i movimenti sarà ora possibile vedere il movimento appena effettuato, ovvero una diminuzione di 1 unità nella sede legale, e un aumento di 1 unità nella sede Cespiti.
 
-![](<../../.gitbook/assets/immagine (100).png>)
+![](<../../.gitbook/assets/immagine (209).png>)
 
 ### 🏡 Visualizzare le giacenze per sede
 
 Andando in Magazzino/Giacenze sedi e selezionando la sede Cespiti sarà ora possibile vedere tutti gli articoli presenti in questo magazzino.
 
-![](<../../.gitbook/assets/immagine (106).png>)
+![](<../../.gitbook/assets/immagine (211).png>)
 
 ### 🧾 Tramite registrazione di un DDT
 
 E' possibile registrare un DDT in entrata dalla nostra sede a una sede secondaria specificando come causale Trasferimento sede.
 
-![](<../../.gitbook/assets/immagine (267).png>)
+![](<../../.gitbook/assets/immagine (5) (1) (1) (1).png>)
 
 Da qui si dovranno ora specificare la sede di partenza e di arrivo della merce, e inserire come righe gli articoli da spostare.
 
-![](<../../.gitbook/assets/immagine (89).png>)
+![](<../../.gitbook/assets/immagine (214).png>)
 
-![](<../../.gitbook/assets/immagine (274).png>)
+![](<../../.gitbook/assets/immagine (11) (1).png>)
 
 Una volta effettuato il trasferimento e impostato il DDT come evaso, si dovrà andare a registrare lo stesso DDT con direzione opposta. Sarà possibile registrare questo DDT direttamente da questa schermata cliccando sul tasto Completa trasferimento tra sedi.
 
-![](<../../.gitbook/assets/immagine (282).png>)
+![](<../../.gitbook/assets/immagine (13) (1).png>)
 
 Il gestionale chiederà ora la conferma a procedere con la generazione del documento. Cliccare su Completa per eseguire l'operazione.
 
-&#x20;                                                                <img src="../../.gitbook/assets/immagine (265).png" alt="" data-size="original">
+&#x20;                                                                <img src="../../.gitbook/assets/immagine (3) (1) (1).png" alt="" data-size="original">
 
 
 
 Verrà così generato un DDT in uscita con stato Evaso con gli stessi estremi di quello registrato in entrata.
 
-![](<../../.gitbook/assets/immagine (84).png>)
+![](<../../.gitbook/assets/immagine (197).png>)
 
 Andando ad analizzare i movimenti sarà ora possibile vedere lo spostamento dei prodotti dalla sede legale al punto vendita selezionato.
 
-![](<../../.gitbook/assets/immagine (172).png>)
+![](<../../.gitbook/assets/immagine (85).png>)
 
 ### 📦 Visualizzare le giacenze per articolo
 
 Per visualizzare le giacenze di un determinato articolo si deve andare in Magazzino/Articoli e selezionare l'articolo interessato. Da qui sarà possibile tramite il plugin Giacenze verificare la sua disponibilità e presenza nelle diverse sedi.
 
-![](<../../.gitbook/assets/immagine (286).png>)
+![](<../../.gitbook/assets/immagine (22).png>)

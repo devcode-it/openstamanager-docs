@@ -33,13 +33,13 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
 
 Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/preventivi.md) e [**Contratti**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/contratti.md), visitare le sezioni relative.
 
-![](<../../../.gitbook/assets/image (539).png>)
+![](<../../../.gitbook/assets/image (322).png>)
 
 ### 🗺️ Geolocalizzazione
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
 
-![](<../../../.gitbook/assets/image (434).png>)
+![](<../../../.gitbook/assets/image (107).png>)
 
 ### 📖 Dati intervento
 
@@ -62,7 +62,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-![](<../../../.gitbook/assets/image (454).png>)
+![](<../../../.gitbook/assets/image (106).png>)
 
 ### 🗒️ Righe
 
@@ -76,13 +76,13 @@ Questa sezione permette di inserire le righe descrittive dell'attività che poss
 * Righe generiche
 * Sconti/maggiorazioni
 
-![](<../../../.gitbook/assets/image (537).png>)
+![](<../../../.gitbook/assets/image (360).png>)
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../../.gitbook/assets/image (555).png>)
+![](<../../../.gitbook/assets/image (371).png>)
 
 ### 🛅 Allegati
 

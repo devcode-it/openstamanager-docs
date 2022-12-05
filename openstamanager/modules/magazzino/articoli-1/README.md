@@ -8,7 +8,7 @@ description: Come gestire gli Articoli in OpenSTAManager
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (82).png>)
+![](<../../../../.gitbook/assets/image (515).png>)
 
 ### 👾 Widget
 
@@ -16,7 +16,7 @@ Il modulo **Articoli** permette all’azienda di gestire le informazioni riguard
 * Valore Magazzino
 * Articoli in Magazzino
 
-![](<../../../../.gitbook/assets/image (268).png>)
+![](<../../../../.gitbook/assets/image (211).png>)
 
 ## ➕ Creazione
 
@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo articolo:
 * Categoria (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
 * Sottocategoria
 
-![](<../../../../.gitbook/assets/image (261).png>)
+![](<../../../../.gitbook/assets/image (183).png>)
 
 Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 
@@ -44,7 +44,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 * Conto predefinito di vendita
 * Abilitare serial number
 
-![](<../../../../.gitbook/assets/image (267).png>)
+![](<../../../../.gitbook/assets/image (172).png>)
 
 ## 🖌️ Modifica
 
@@ -64,7 +64,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Unità di misura
 * Note
 
-![](<../../../../.gitbook/assets/image (285).png>)
+![](<../../../../.gitbook/assets/image (202).png>)
 
 #### Giacenza totale:
 
@@ -73,7 +73,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
   * Descrizione movimento
   * Data movimento
 
-![](<../../../../.gitbook/assets/image (266).png>)
+![](<../../../../.gitbook/assets/image (203).png>)
 
 #### Acquisto:
 
@@ -86,7 +86,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Fattore moltiplicativo
 * Quantità multipla
 
-![](<../../../../.gitbook/assets/image (248).png>)
+![](<../../../../.gitbook/assets/image (193).png>)
 
 #### Vendita:
 
@@ -98,7 +98,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Volume
 * Conto predefinito di vendita
 
-![](<../../../../.gitbook/assets/image (241).png>)
+![](<../../../../.gitbook/assets/image (215).png>)
 
 E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
 

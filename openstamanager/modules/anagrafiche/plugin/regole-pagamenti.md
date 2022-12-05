@@ -12,10 +12,10 @@ Questa funzione può essere utilizzata nel caso in cui dei clienti notifichino l
 
 La schermata che si presenta è questa:
 
-![](<../../../../.gitbook/assets/image (496).png>)
+![](<../../../../.gitbook/assets/image (676).png>)
 
 Per aggiungere una nuova regola, si dovrà cliccare sul tasto (+).
 
 Andranno qui inseriti quindi il mese di chiusura dell'attività e il giorno del mese successivo in cui andare a riprogrammare le scadenze.
 
-![](<../../../../.gitbook/assets/immagine (43).png>)
+![](<../../../../.gitbook/assets/immagine (1).png>)

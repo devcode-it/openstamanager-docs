@@ -12,7 +12,7 @@ Questo modulo è complementare a [**Template email**](template.md), che si occup
 
 Il modulo si presenta con la seguente schermata:
 
-![](<../../../.gitbook/assets/image (581).png>)
+![](<../../../.gitbook/assets/image (335).png>)
 
 ## ➕ Creazione
 
@@ -38,7 +38,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-![](<../../../.gitbook/assets/image (425).png>)
+![](<../../../.gitbook/assets/image (114).png>)
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 
@@ -65,7 +65,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * _Porta SMTP_: `25`
 * _Sicurezza SMTP_: `Nessuna`
 
-![](<../../../.gitbook/assets/image (552).png>)
+![](<../../../.gitbook/assets/image (341).png>)
 
 {% hint style="warning" %}
 Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
@@ -82,7 +82,7 @@ Per configurare correttamente un account email Gmail all'interno di OpenSTAManag
 * _Porta SMTP_: `587`
 * _Sicurezza SMTP_: `TLS`
 
-![](<../../../.gitbook/assets/image (433).png>)
+![](<../../../.gitbook/assets/image (128).png>)
 
 L'account appena configurato può avere abilitata l'autenticazione a due fattori:
 
@@ -92,15 +92,15 @@ Se l'autenticazione a due fattori è abilitata, è necessario creare una chiave 
 
 Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (523).png>)
 
 Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
 
-![](<../../../.gitbook/assets/image (572).png>)
+![](<../../../.gitbook/assets/image (351).png>)
 
 Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
 
-![](<../../../.gitbook/assets/image (542).png>)
+![](<../../../.gitbook/assets/image (336).png>)
 
 ### 📂 App meno sicure
 
@@ -110,7 +110,7 @@ DEPRECATA dal 30/05/22: [https://support.google.com/accounts/answer/6010255?hl=i
 
 Nel caso **non** sia abilitata l'autenticazione a due fattori, è necessario procedere ad abilitare l'accesso da applicazioni meno sicure attraverso le impostazioni dell'account Google: [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
 
-![](<../../../.gitbook/assets/image (535).png>)
+![](<../../../.gitbook/assets/image (326).png>)
 
 E' quindi necessario inserire nel campo _Password SMTP_ dell'account del gestionale la password originale dell'account Gmail.
 
@@ -124,7 +124,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-![](<../../../.gitbook/assets/image (532).png>)
+![](<../../../.gitbook/assets/image (342).png>)
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 

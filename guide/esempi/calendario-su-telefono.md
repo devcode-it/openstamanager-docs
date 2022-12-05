@@ -12,9 +12,9 @@ L'importazione del calendario attività su sistema Android è possibile tramite 
 
 Per prima cosa si dovrà risalire all'API token, visualizzabile dalla schermata che si presenterà cliccando sul nome dell'azienda, sotto calendario interventi.
 
-![](<../../.gitbook/assets/image (196).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
-![](<../../.gitbook/assets/immagine (35).png>)
+![](<../../.gitbook/assets/immagine (238).png>)
 
 {% hint style="danger" %}
 L'API corretto è quello nella sezione di destra: Calendario interventi. Copiando l'API nella sezione API (sinistra) la procedura non andrà a buon fine.
@@ -26,13 +26,13 @@ Si dovrà ora lanciare l'app iCalSync appena scaricata e la schermata che si pre
 
 Andando ora ad aprire il calendario si potranno vedere gli interventi registrati sulla dashboard.
 
-![](<../../.gitbook/assets/immagine (41).png>)
+![](<../../.gitbook/assets/immagine (251).png>)
 
 &#x20;                                                          <img src="../../.gitbook/assets/Screenshot_20220601-123002_Calendar2 (1).jpg" alt="" data-size="original">
 
 Il calendario si sincronizzerà ogni 30 minuti come preimpostato, per forzare la sincronizzazione di un'attività appena creata in dashboard basterà premere sul calendario OSM dentro l'app.
 
-![](<../../.gitbook/assets/immagine (23).png>)
+![](<../../.gitbook/assets/immagine (252).png>)
 
 ![](../../.gitbook/assets/montaggio.jpg)
 
@@ -46,13 +46,13 @@ Per sincronizzare il calendario di Outlook con quello di OpenSTAManager sarà su
 
 Sarà necessario risalire all'API token, cliccando sul nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Il link da utilizzare per la corretta configurazione di outlook è quello nella sezione di destra: Calendario interventi.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🐦 Thunderbird
 
@@ -60,7 +60,7 @@ Per poter sincronizzare il calendario di OpenSTAManager con Thunderbird sarà ne
 
 Questo permetterà la creazione di un nuovo Google calendar che sarà possibile sincronizzare con il calendario del gestionale tramite l'API token del gestionale, disponibile nella sezione Calendario interventi, cliccando sul proprio nome utente.
 
-<figure><img src="../../.gitbook/assets/immagine (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -12,13 +12,13 @@ Il modulo Acquisti permette di gestire i documenti in entrata (Ordini fornitore 
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Acquisti.
 
-![](<../../../.gitbook/assets/image (620).png>)
+![](<../../../.gitbook/assets/image (375).png>)
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare i moduli Ordini fornitore e Fatture di acquisto.
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (399).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (415).png>)
 
 ## 🔽 Informazioni aggiuntive
 

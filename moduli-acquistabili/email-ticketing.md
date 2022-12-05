@@ -16,13 +16,13 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 [Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (300).png>)
+![](<../.gitbook/assets/immagine (134).png>)
 
 ## ➕ Creazione
 
 La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su Gestione email/Email ticketing
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (486).png>)
 
 Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato (oppure configurare l'account predefinito), composto da diverse sezioni.
 
@@ -38,11 +38,11 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-![](<../.gitbook/assets/immagine (305).png>)
+![](<../.gitbook/assets/immagine (143).png>)
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-![](<../.gitbook/assets/immagine (290).png>)
+![](<../.gitbook/assets/immagine (120) (1).png>)
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 
@@ -56,7 +56,7 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
   * L'indirizzo email a cui mandare la notifica
   * Il template da utilizzare
 
-![](<../.gitbook/assets/immagine (184).png>)
+![](<../.gitbook/assets/immagine (180).png>)
 
 ## 🎛️ Configurazione
 
@@ -70,7 +70,7 @@ Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verr
 In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (297).png>)
+![](<../.gitbook/assets/immagine (124).png>)
 
 #### Esempio:
 
@@ -80,21 +80,21 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/immagine (306).png>)
+![](<../.gitbook/assets/immagine (127).png>)
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-![](<../.gitbook/assets/immagine (191).png>)
+![](<../.gitbook/assets/immagine (173).png>)
 
 Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (291).png>)
+![](<../.gitbook/assets/immagine (121) (1).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/immagine (192).png>)
+![](<../.gitbook/assets/immagine (171).png>)
 
 {% hint style="warning" %}
 Vedi anche:

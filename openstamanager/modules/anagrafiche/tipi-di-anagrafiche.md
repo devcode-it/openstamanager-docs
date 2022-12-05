@@ -10,4 +10,4 @@ Da questo modulo è possibile visualizzare e modificare i tipi di anagrafiche es
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (436).png>)
+![](<../../../.gitbook/assets/image (159).png>)

@@ -20,7 +20,7 @@ Per inviare una fattura elettronica è necessario creare la fattura dal modulo *
 
 Con l'emissione della fattura il gestionale genererà in modo automatico il suo XML, si dovrà ora accedere al plugin Fatturazione Elettronica e cliccare Invia.
 
-![](<../../../.gitbook/assets/image (606).png>)
+![](<../../../.gitbook/assets/image (377).png>)
 
 Dopo aver inviato la fattura, accedendo al modulo Fatture di vendita, sarà possibile vedere che lo stato FE della fattura appena inviata è cambiato in "In elaborazione".&#x20;
 
@@ -32,11 +32,11 @@ La fattura è ora in attesa di essere verificata dallo SDI, che provvederà entr
 
 Per verificare la presenza di ricevute da parte dello SDI si deve andare nell'apposita sezione Ricevute FE, presente in Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image (563).png>)
 
 Da qui sarà possibili cliccare su Ricerca ricevute per verificare la presenza di ricevute da importare, e su Importa tutte le ricevute per importarle massivamente.
 
-![](<../../../.gitbook/assets/image (648).png>)
+![](<../../../.gitbook/assets/image (307).png>)
 
 ### 🏷️ **Stati**
 
@@ -66,11 +66,11 @@ Questo caso è **frequente** nel caso di invio **fatture elettroniche** a person
 
 Per scaricare le fatture passive dai fornitori è necessario cliccare su Fatturazione elettronica dal modulo Fatture di acquisto.
 
-![](<../../../.gitbook/assets/image (121).png>)
+![](<../../../.gitbook/assets/image (545).png>)
 
 Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
 
-![](<../../../.gitbook/assets/image (609).png>)
+![](<../../../.gitbook/assets/image (394).png>)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 
@@ -82,6 +82,6 @@ Per completare l'importazione, gli unici dati obbligatori sono quelli contrasseg
 
 In fase di importazione di una fattura elettronica, è possibile selezionare quali righe convertire in articolo di magazzino, dopo aver spuntato _Creazione automatica articoli_.
 
-![](<../../../.gitbook/assets/immagine (64) (1).png>)
+![](<../../../.gitbook/assets/immagine (64) (1) (1).png>)
 
 Sarà così possibile movimentare automaticamente il magazzino senza dover ricorrere ad ulteriori passaggi.

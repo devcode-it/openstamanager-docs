@@ -12,7 +12,7 @@ Il modulo Ordini fornitore permette di cambiare lo stato degli ordini massivamen
 
 Una volta selezionati i record interessati è possibile modificarne massivamente lo stato cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../../.gitbook/assets/image (256).png>)
+![](<../../../../.gitbook/assets/image (201).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -25,7 +25,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                            <img src="../../../../.gitbook/assets/image (270).png" alt="" data-size="original">
+&#x20;                                            <img src="../../../../.gitbook/assets/image (160).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -46,21 +46,21 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 * Richiesta di acquisto (RdA)
 * Richiesta di offerta (RdO)
 
-![](<../../../../.gitbook/assets/image (264).png>)
+![](<../../../../.gitbook/assets/image (220).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                  ![](<../../../../.gitbook/assets/image (279).png>)
+&#x20;                                                  ![](<../../../../.gitbook/assets/image (166).png>)
 
 ### ✉️ Invia
 
 Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a inviarlo via mail al fornitore.
 
-![](<../../../../.gitbook/assets/image (676).png>)
+![](<../../../../.gitbook/assets/image (580).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine fornitore, dove sarà possibile inviare la mail cliccando su invia.
 
-![](<../../../../.gitbook/assets/image (242).png>)
+![](<../../../../.gitbook/assets/image (205).png>)
 
 ### ➕ Crea...
 
@@ -74,8 +74,8 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere alla 
 Nell'ordine fornitore deve essere presente almeno una riga, e lo stato deve essere impostato su Accettato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (659).png>)
+![](<../../../../.gitbook/assets/image (575).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../../.gitbook/assets/image (671).png>)
+![](<../../../../.gitbook/assets/image (598).png>)

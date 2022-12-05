@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Destinatario
 * Causale di trasporto
 
-![](<../../../../.gitbook/assets/image (511).png>)
+![](<../../../../.gitbook/assets/image (658).png>)
 
 ## 🖌️ Modifica
 
@@ -49,7 +49,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Sconto in fattura
 * Note
 
-![](<../../../../.gitbook/assets/image (154).png>)
+![](../../../../.gitbook/assets/image.png)
 
 ## 🔽 Informazioni aggiuntive
 

@@ -6,7 +6,7 @@ description: Come modificare un documento in OpenSTAManager
 
 Per modificare un documento in OpenSTAManager si deve cliccare su un determinato record e accedere alla schermata di dettaglio.
 
-![](<../../../.gitbook/assets/image (586).png>)
+![](<../../../.gitbook/assets/image (324).png>)
 
 Così facendo è possibile modificare:
 

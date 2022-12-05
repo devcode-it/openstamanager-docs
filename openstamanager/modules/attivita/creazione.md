@@ -19,7 +19,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Stato
 * Richiesta
 
-![](<../../../.gitbook/assets/Senzanome (6).png>)
+![](<../../../.gitbook/assets/Senzanome (1).png>)
 
 Si possono notare anche 5 sottosezioni:
 
@@ -37,7 +37,7 @@ In questa sezione sarà possibile inserire:
 * Impianto (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 * Componenti
 
-![](<../../../.gitbook/assets/image (569).png>)
+![](<../../../.gitbook/assets/image (364).png>)
 
 ### 🧑‍🔧 Assegnazione tecnici
 
@@ -56,19 +56,19 @@ La sezione _Ore di lavoro_ si occupa di determinare durata dell'attività e il t
 * Zona
 * Tecnici (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 
-![](<../../../.gitbook/assets/image (410).png>)
+![](<../../../.gitbook/assets/image (147).png>)
 
 ### 🔁 Ricorrenza
 
 Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o meno:
 
-![](<../../../.gitbook/assets/image (459).png>)
+![](<../../../.gitbook/assets/image (111).png>)
 
 ### 🧿 Dettagli cliente
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../../.gitbook/assets/image (637).png>)
+![](<../../../.gitbook/assets/image (309).png>)
 
 ## 💸 Creazione di Record al volo
 
@@ -78,37 +78,37 @@ Cliccando sul tasto (+) alla destra del campo di cui dobbiamo inserire un nuovo 
 
 L'unico campo obbligatorio per creare un'anagrafica al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 
-![](<../../../.gitbook/assets/image (444).png>)
+![](<../../../.gitbook/assets/image (129).png>)
 
 ### 🏭 Sede destinazione
 
 I campi obbligatori per creare una sede al volo sono Nome sede e città, si potrà procedere in un secondo momento a [completare](../anagrafiche/plugin/sedi.md) gli altri campi entrando nel nuovo record tra le sedi del cliente scelto.
 
-![](<../../../.gitbook/assets/image (531).png>)
+![](<../../../.gitbook/assets/image (357).png>)
 
 ### 📄 Contratto
 
 I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](https://github.com/devcode-it/openstamanager-docs/blob/master/modules/attivita/broken-reference/README.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
-![](<../../../.gitbook/assets/image (562).png>)
+![](<../../../.gitbook/assets/image (370).png>)
 
 ### 🧑 Referente
 
 I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e Sede, si potrà procedere in un secondo momento a [completare](https://docs.openstamanager.com/modules/anagrafiche/plugin/referenti#modifica) gli altri campi entrando nel nuovo record tra i referenti del cliente scelto.
 
-![](<../../../.gitbook/assets/image (421).png>)
+![](<../../../.gitbook/assets/image (122).png>)
 
 ### 📡 Impianto
 
 I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si potrà procedere in un secondo momento a [completare](../impianti/modifica.md) gli altri campi entrando nel nuovo record tra gli impianti.
 
-![](<../../../.gitbook/assets/image (447).png>)
+![](<../../../.gitbook/assets/image (120).png>)
 
 ### 🧑‍🔧 Tecnico
 
 L'unico campo obbligatorio per creare un'anagrafica di tipo tecnico al volo è Denominazione, si potrà procedere in un secondo momento a [completare](../anagrafiche/modifica.md) gli altri campi entrando nel nuovo record in anagrafica.
 
-![](<../../../.gitbook/assets/image (541).png>)
+![](<../../../.gitbook/assets/image (356).png>)
 
 {% hint style="warning" %}
 Creare un'attività senza tecnici selezionati la aggiungerà al widget **Promemoria attività da pianificare** della **Dashboard**.

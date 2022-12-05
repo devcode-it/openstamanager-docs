@@ -13,4 +13,4 @@ E' possibile applicare i seguenti filtri alla Dashboard per visualizzare solo gl
 * Tecnici
 * Zone
 
-![](<../../../.gitbook/assets/immagine (236).png>)
+![](<../../../.gitbook/assets/immagine (284).png>)

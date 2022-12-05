@@ -8,7 +8,7 @@ description: Guida al plugin Listino fornitori di OpenSTAManager
 Il plugin **Listino fornitori** serve ad inserire il listino fornitori dell'articolo
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (512).png>)
+![](<../../../../../.gitbook/assets/image (662).png>)
 
 Per aggiungere un nuovo listino fornitore si deve selezionare un fornitore e cliccare su Prezzi.
 

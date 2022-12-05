@@ -34,7 +34,7 @@ Il gestionale non è compatibile con MariaDB.
 
 Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti, nella sezione evidenziata.
 
-<figure><img src="../../.gitbook/assets/immagine (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (73).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️Eseguire i controlli sull'integrità dell'installazione
 
@@ -42,7 +42,7 @@ Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti,
 
 Il controllo dei file si può effettuare da Strumenti/Aggiornamenti cliccando su Controlla file.
 
-<figure><img src="../../.gitbook/assets/immagine (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (81).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli registrati nella versione ufficiale.
 
@@ -50,13 +50,13 @@ Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli re
 Questa funzionalità potrebbe presentare dei risultati falsamente positivi, sulla base del contenuto del file checksum.json
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (67).png" alt=""><figcaption></figcaption></figure>
 
 #### Controllo sul database
 
 Il controllo del database può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla database.
 
-<figure><img src="../../.gitbook/assets/immagine (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (63).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencate le tabelle del database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale.
 
@@ -64,7 +64,7 @@ Qui verranno elencate le tabelle del database che presentano una struttura diver
 Questa funzionalità può presentare dei risultati falsamente positivi, sulla base del contenuto del file database.json o nel caso di aggiornamento del database alla versione 8.0.30 di MySQL.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (58).png" alt=""><figcaption></figcaption></figure>
 
 #### Controllo sul gestionale
 
@@ -78,13 +78,13 @@ Qui verranno effettuati 3 controlli:
 2. Se gli importi degli XML delle fatture elettroniche hanno corrispondenza con gli importi delle fatture di vendita
 3. Se sono presenti colonne duplicate per le Viste
 
-<figure><img src="../../.gitbook/assets/immagine (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (62).png" alt=""><figcaption></figcaption></figure>
 
 ### 3️Verificare la presenza di personalizzazioni
 
 Nel caso siano presenti personalizzazioni, esse verranno elencate nella parte superione della pagina in Strumenti/Aggiornamenti.
 
-<figure><img src="../../.gitbook/assets/immagine (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (75).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Le personalizzazioni possono essere effettuate sul modulo o sul database, e in caso siano presenti l'aggiornamento del gestionale senza il supporto dell'assistenza ufficiale è altamente sconsigliato.
@@ -92,7 +92,7 @@ Le personalizzazioni possono essere effettuate sul modulo o sul database, e in c
 
 Sotto la tabella contenente le personalizzazioni è possibile trovare l'elenco dei moduli modificati:
 
-<figure><img src="../../.gitbook/assets/immagine (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (59).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nel caso in cui queste verifiche vengano superate e non si sia riusciti a risalire alla causa del problema, vi invitiamo a contattare l'assistenza.

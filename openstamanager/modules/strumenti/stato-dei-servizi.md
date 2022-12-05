@@ -8,7 +8,7 @@ description: Come gestire i moduli in OpenSTAManager
 Nel modulo **Stato dei servizi** è possibile abilitare e disabilitare i moduli e i plugin di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](<../../../.gitbook/assets/image (34).png>)
 
 Si possono trovare tre sezioni:
 
@@ -141,11 +141,11 @@ Per ogni modulo sarà possibile visualizzare:
 * Eliminazione
 
 {% hint style="info" %}
-Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (357).png>)della riga corrispondente.
+Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (274).png>)della riga corrispondente.
 
-Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (325).png>).
+Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (269).png>).
 
-Con il tasto <img src="../../../.gitbook/assets/image (219).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
+Con il tasto <img src="../../../.gitbook/assets/image (37).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
 {% endhint %}
 
 ### 👾 Widget disponibili
@@ -207,13 +207,13 @@ Per ogni widget sarà possibile visualizzare:
 * Posizione (schermo)
 
 {% hint style="info" %}
-Per abilitare un widget si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (357).png>)della riga corrispondente.
+Per abilitare un widget si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (274).png>)della riga corrispondente.
 
-Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (325).png>).
+Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (269).png>).
 {% endhint %}
 
 ### 🧭 Spazio utilizzato
 
 In questo widget è possibile visualizzare lo spazio occupato da Backup, Allegati e Logs.
 
-![](<../../../.gitbook/assets/image (350).png>)
+![](<../../../.gitbook/assets/image (275).png>)

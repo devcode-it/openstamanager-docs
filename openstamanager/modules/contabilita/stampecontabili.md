@@ -21,7 +21,7 @@ Il modulo stampe contabili permette di stampare:
   * Situazione economica
 * Libro giornale
 
-![](<../../../.gitbook/assets/image (229).png>)
+![](<../../../.gitbook/assets/image (219).png>)
 
 {% hint style="danger" %}
 **ATTENZIONE**: Le suddette stampe contabili non sono da considerarsi valide ai fini fiscali.

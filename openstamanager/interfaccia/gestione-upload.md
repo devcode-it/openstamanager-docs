@@ -6,7 +6,7 @@ description: Guida alla gestione degli upload in OpenSTAManager
 
 Per caricare un allegato in un modulo o plugin si dovrà procedere a trascinarlo all'interno dell'apposito riquadro, o selezionarne il percorso. L'allegato verrà quindi caricato e la schermata che si presenterà sarà la seguente:
 
-![](<../../.gitbook/assets/immagine (203).png>)
+![](<../../.gitbook/assets/immagine (35).png>)
 
 Tutti gli upload di OpenSTAManager vengono salvati all'interno della cartella `files/` , suddivisi secondo il nome del modulo cui sono relativi.
 

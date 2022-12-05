@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova categoria impianti:
 * Colore
 * Note
 
-![](<../../../.gitbook/assets/image (484).png>)
+![](<../../../.gitbook/assets/image (657).png>)
 
 ## 🖌️ Modifica
 
@@ -32,5 +32,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Colore
 * Note
 
-![](<../../../.gitbook/assets/image (145).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 

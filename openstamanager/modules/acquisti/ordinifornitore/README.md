@@ -8,7 +8,7 @@ description: Come gestire gli Ordini fornitore in OpenSTAManager
 Il modulo **Ordini fornitore** permette all'utente di creare un documento per richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (607).png>)
+![](<../../../../.gitbook/assets/image (397).png>)
 
 ## ➕ Creazione
 
@@ -16,7 +16,7 @@ Per creare un nuovo ordine fornitore si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il fornitore.
 
-![](<../../../../.gitbook/assets/image (601).png>)
+![](<../../../../.gitbook/assets/image (382).png>)
 
 Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
 
@@ -34,12 +34,12 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Pagamento
 * Note
 
-![](<../../../../.gitbook/assets/image (621).png>)
+![](<../../../../.gitbook/assets/image (376).png>)
 
 * Righe
 * Allegati
 
-![](<../../../../.gitbook/assets/image (232).png>)
+![](<../../../../.gitbook/assets/image (195).png>)
 
 ## 🔽 Informazioni aggiuntive
 

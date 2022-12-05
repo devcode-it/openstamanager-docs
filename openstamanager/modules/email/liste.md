@@ -12,7 +12,7 @@ Questo modulo è complementare a [Newsletter](newsletter.md), che si occupa dell
 
 Il modulo si presenta così:
 
-![](<../../../.gitbook/assets/image (420).png>)
+![](<../../../.gitbook/assets/image (124).png>)
 
 ## ➕ Creazione
 
@@ -32,4 +32,4 @@ Sono qui disponibili i seguenti attributi:
   _Esempio_: "SELECT idanagrafica AS id, 'Modules\Anagrafiche\Anagrafica' AS tipo FROM an\_anagrafiche WHERE deleted\_at IS NULL**"** aggiungerà tutte le anagrafiche nella tabella Destinatari.
 * **Destinatari:** In alternativa, lasciando vuoto il campo _Query dinamica_ è possibile aggiungere i vari destinatari tramite il menù a tendina, cliccando su aggiungi infatti, verranno inseriti i destinatari sulla tabella corrispondente.
 
-![](<../../../.gitbook/assets/image (475).png>)
+![](<../../../.gitbook/assets/image (622).png>)

@@ -118,6 +118,7 @@
     * [✂ Piani di sconto/magg.](openstamanager/modules/magazzino/piani-di-sconto-rincaro.md)
     * [🧾 Listini](openstamanager/modules/magazzino/listini/README.md)
       * [📲 Import listini](openstamanager/modules/magazzino/listini/import-listini.md)
+    * [📑 Listini cliente](openstamanager/modules/magazzino/listini-cliente.md)
     * [📤 DDT in uscita](openstamanager/modules/magazzino/ddtinuscita/README.md)
       * [❗ Azioni aggiuntive](openstamanager/modules/magazzino/ddtinuscita/plugin.md)
     * [📥 DDT in entrata](openstamanager/modules/magazzino/ddtinentrata/README.md)

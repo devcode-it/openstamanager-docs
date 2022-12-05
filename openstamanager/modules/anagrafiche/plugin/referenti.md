@@ -31,10 +31,10 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative al 
 * Sede
 * Opt-out per newsletter
 
-![](<../../../../.gitbook/assets/image (289).png>)
+![](<../../../../.gitbook/assets/image (501).png>)
 
 ## 🖌️ Modifica
 
 La schermata di modifica risulta identica a quella di creazione, permettendo in aggiunta l'eventuale eliminazione del referente dal sistema.
 
-![](<../../../../.gitbook/assets/image (449).png>)
+![](<../../../../.gitbook/assets/image (109).png>)

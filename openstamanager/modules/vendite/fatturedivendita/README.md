@@ -8,17 +8,17 @@ description: Come gestire le Fatture di vendita in OpenSTAManager
 Il modulo **Fatture di vendita** permette di gestire la fatturazione in uscita dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (37).png>)
+![](<../../../../.gitbook/assets/immagine (243).png>)
 
 ## ⚠️ Avvisi
 
 Nel caso siano presenti delle fatture di vendita **generate** ma non ancora inviate (entro i 12 giorni dalla scadenza per inviare le fatture allo SDI), verranno segnalate dal gestionale con un avviso nella sezione fatture di vendita.
 
-![](<../../../../.gitbook/assets/immagine (82).png>)
+![](<../../../../.gitbook/assets/immagine (200).png>)
 
 Verranno notificare anche le fatture che invece risulteranno **scartate** dallo SDI e andranno quindi corrette e riemesse.
 
-![](<../../../../.gitbook/assets/immagine (9).png>)
+![](<../../../../.gitbook/assets/immagine (223).png>)
 
 ## ➕ Creazione
 
@@ -31,7 +31,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di vendita:
 * Tipo documento
 * Sezionale
 
-![](<../../../../.gitbook/assets/immagine (252).png>)
+![](<../../../../.gitbook/assets/immagine (153).png>)
 
 ## 🖌️ Modifica
 
@@ -57,12 +57,12 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Abilitare marca da bollo automatica([https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L%27imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b](https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L'imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b))
 * Note
 
-![](<../../../../.gitbook/assets/immagine (40).png>)
+![](<../../../../.gitbook/assets/immagine (240).png>)
 
 * Righe
 * Allegati
 
-![](<../../../../.gitbook/assets/immagine (256).png>)
+![](<../../../../.gitbook/assets/immagine (151).png>)
 
 ## 🔧 Plugin
 

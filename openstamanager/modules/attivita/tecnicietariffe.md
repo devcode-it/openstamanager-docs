@@ -8,7 +8,7 @@ description: Come gestire i Tecnici e le tariffe in OpenSTAManager
 Il modulo **Tecnici e tariffe** offre la possibilità di personalizzare le _tariffe_ di uno o più tecnici. In questo modo ogni tecnico avrà la propria tariffa.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (585).png>)
+![](<../../../.gitbook/assets/image (359).png>)
 
 ## 🖌️ Modifica
 
@@ -28,4 +28,4 @@ Costi del tecnico all'azienda:
 
 Per ogni tipo di attività collegata ad esso.
 
-![](<../../../.gitbook/assets/image (551).png>)
+![](<../../../.gitbook/assets/image (343).png>)

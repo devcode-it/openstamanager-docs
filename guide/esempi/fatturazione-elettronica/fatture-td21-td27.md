@@ -12,15 +12,15 @@ Per poter selezionare come cliente la propria anagrafica azienda sarà necessari
 
 Si andrà quindi in Anagrafiche, si cliccherà sull'anagrafica azienda, e si scorrerà fino a Informazioni aggiuntive, dove si potrà aggiungere "Cliente" nel riquadro "Tipo di anagrafica".
 
-<figure><img src="../../../.gitbook/assets/immagine (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
 
 Si potrà ora salvare e andare ad emettere fattura in Vendite/fatture di vendita, cliccando sul tasto (+).
 
 Andando qui a selezionare una tra le due tipologie di documento interessate (TD21 o TD27), si dovrà impostare come Cliente la nostra anagrafica azienda, e cliccare su Aggiungi.
 
-<figure><img src="../../../.gitbook/assets/immagine (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Si potranno ora inserire le righe e procedere all'emissione della fattura, che riporterà come cedente/prestatore e cessionario committente i dati anagrafici della nostra azienda.
 
-<figure><img src="../../../.gitbook/assets/immagine (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (3).png" alt=""><figcaption></figcaption></figure>
 

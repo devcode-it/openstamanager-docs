@@ -10,4 +10,4 @@ In questo modulo si possono trovare i tipi di relazioni che si possono assegnare
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/immagine (196).png>)
+![](<../../../.gitbook/assets/immagine (37).png>)

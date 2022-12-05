@@ -8,7 +8,7 @@ description: Come gestire le voci di servizio in OpenSTAManager
 Il modulo **Voci di servizio** offre la possibilità di personalizzare le Voci di servizio utilizzate negli interventi
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (457).png>)
+![](<../../../.gitbook/assets/image (132).png>)
 
 ## ➕ Creazione
 
@@ -19,7 +19,7 @@ Andranno qui inserite le informazioni relative alla nuova voce di servizio:
 * Categoria
 * Descrizione
 
-![](<../../../.gitbook/assets/image (415).png>)
+![](<../../../.gitbook/assets/image (134).png>)
 
 ## 🖌️ Modifica
 
@@ -28,4 +28,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Categoria
 * Descrizione
 
-![](<../../../.gitbook/assets/image (557).png>)
+![](<../../../.gitbook/assets/image (339).png>)

@@ -13,10 +13,10 @@ Visualizza una serie di informazioni relative ai moduli, quali:
 * Nome
 * Plugin dipendenti
 * Versione
-* Stato (abilitato <img src="../../.gitbook/assets/immagine (204).png" alt="" data-size="line">- disabilitato <img src="../../.gitbook/assets/immagine (215).png" alt="" data-size="line">- abilita tutti i sotto-moduli ![](<../../.gitbook/assets/immagine (198).png>))
+* Stato (abilitato <img src="../../.gitbook/assets/immagine (29).png" alt="" data-size="line">- disabilitato <img src="../../.gitbook/assets/immagine (33).png" alt="" data-size="line">- abilita tutti i sotto-moduli ![](<../../.gitbook/assets/immagine (45).png>))
 * Opzioni (disinstalla modulo)
 
-![](<../../.gitbook/assets/immagine (209).png>)
+![](<../../.gitbook/assets/immagine (41).png>)
 
 ## 👾 Widget disponibili
 
@@ -24,7 +24,7 @@ Visualizza una serie di informazioni relative ai _Widgets_, quali:
 
 * Nome
 * Posizione
-* Stato (abilitato <img src="../../.gitbook/assets/immagine (204).png" alt="" data-size="line">- disabilitato <img src="../../.gitbook/assets/immagine (215).png" alt="" data-size="line">)
+* Stato (abilitato <img src="../../.gitbook/assets/immagine (29).png" alt="" data-size="line">- disabilitato <img src="../../.gitbook/assets/immagine (33).png" alt="" data-size="line">)
 * Posizione (per modificare la _Posizione_ di un determinato _Widget_)
 
-![](<../../.gitbook/assets/immagine (222).png>)
+![](<../../.gitbook/assets/immagine (278).png>)

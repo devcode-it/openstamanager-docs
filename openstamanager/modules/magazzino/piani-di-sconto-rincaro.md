@@ -8,7 +8,7 @@ description: Come gestire i piani di sconto e le maggiorazioni in OpenSTAManager
 Il modulo **Piani di sconto/magg.** permette all’azienda di gestire le informazioni riguardanti gli sconti o rincari nei diversi documenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (506).png>)
+![](<../../../.gitbook/assets/image (660).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo piano di sconto/magg.:
 * Sconto/magg. combinato
 * Sconto/magg.
 
-![](<../../../.gitbook/assets/image (191).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 ## 🖌️ Modifica
 
@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Sconto/magg.
 * Note
 
-![](<../../../.gitbook/assets/image (501).png>)
+![](<../../../.gitbook/assets/image (643).png>)
