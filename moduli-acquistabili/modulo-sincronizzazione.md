@@ -8,12 +8,11 @@ description: Guida al modulo aggiuntivo E-commerce in OpenSTAManager
 Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del gestionale con servizi esterni attraverso una procedura basata sul concetto di importazione ed esportazione dei dati.
 {% endhint %}
 
-Servizi/Provider al momento disponibili:
+{% hint style="warning" %}
+La sincronizzazione è attualmente gestita con provider PrestaShop, mentre con WooCommerce la funzionalità è ancora in sviluppo.
+{% endhint %}
 
-* PrestaShop
-* WooCommerce
-
-{% hint style="info" %}
+{% hint style="success" %}
 [Clicca qui](https://shop.openstamanager.com/prodotto/e-commerce/) per procedere all'acquisto
 {% endhint %}
 
@@ -21,6 +20,8 @@ A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** appar
 
 * **URL del servizio**: è l'indirizzo del sito web di E-commerce
 * **Token di accesso**: è la chiave generata dal provider per poter interagire con i web services
+  * PrestaShop: [https://www.edupass.it/manuali/manualistica-passweb/manuale-siti-ecommerce?a=manuale-passweb-ecommerce/marketplace/altri-marketplace/prestashop/attivazione-api-prestashop](https://www.edupass.it/manuali/manualistica-passweb/manuale-siti-ecommerce?a=manuale-passweb-ecommerce/marketplace/altri-marketplace/prestashop/attivazione-api-prestashop)
+  * WooCommerce: [https://woocommerce.com/document/woocommerce-rest-api/#section-2](https://woocommerce.com/document/woocommerce-rest-api/#section-2)
 * **Debug abilitato:** se attivato mostra l'eventuale avviso di errore in fase di esportazione/importazione.
 * **Categorie da sincronizzare:** menù a tendina multiplo che permette di esportare sul sito di E-commerce solo gli articoli delle categorie selezionate.
 * **Disabilita articoli con quantità nulla:** se questa impostazione è attiva, in fase di esportazione articoli viene disattiva la visualizzazione sul sito di E-commerce se la quantità è a 0 e quindi non disponibile a magazzino.
@@ -35,11 +36,12 @@ Ogni modifica effettuata nella sezione **Impostazioni** viene aggiornata premend
 
 ![](../.gitbook/assets/Sincronizzazione-Bike-Manager.png)
 
-{% hint style="info" %}
-Una volta configurate le impostazioni del modulo **E-commerce** è possibile eseguire manualmente la sincronizzazione selezionando una risorsa da importare/esportare e premendo successivamente **Avvia**.
+{% hint style="danger" %}
+**Prima di procedere con la prima sincronizzazione consigliamo di eseguire un Backup.**
 {% endhint %}
 
-{% hint style="danger" %}
+Una volta configurate le impostazioni del modulo **E-commerce** è possibile eseguire manualmente la sincronizzazione selezionando una risorsa da importare/esportare e premendo successivamente **Avvia**.
+
 Se l'esportazione va in errore, provare a collegarsi alle api del webservice, digitando dal browser l'url dell'E-commerce, aggiungendo "/api" all'url e inserendo come password il token corrispondente.\
 Se non vengono visualizzate le risorse disponibile sarà necessario inserire nel file .htaccess del webservice la seguente stringa:
 
@@ -48,7 +50,6 @@ RewriteEngine on
 RewriteCond %{HTTP:Authorization} ^(.*)
 RewriteRule . - [E=HTTP_AUTHORIZATION:%1]
 ```
-{% endhint %}
 
 Per la risorsa articoli vengono sincronizzati da OpenSTAManager i campi:
 
