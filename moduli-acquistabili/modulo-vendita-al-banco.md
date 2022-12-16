@@ -66,7 +66,7 @@ Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cass
 
 ![](<../.gitbook/assets/image (447).png>)
 
-I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.\\
+I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.
 
 ![](<../.gitbook/assets/image (472).png>)
 
