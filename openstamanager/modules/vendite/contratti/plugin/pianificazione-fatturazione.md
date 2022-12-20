@@ -13,6 +13,10 @@ Per pianificare la fatturazione di un contratto è necessario che si verifichino
 * Deve riportare la data di accettazione e di conclusione
 * Lo stato deve essere: In lavorazione, Fatturato, Pagato o Parzialmente fatturato
 
+{% hint style="info" %}
+Le righe devono avere quantità pari al numero di rate che si andranno a creare, e come importo unitario deve essere inserito l'importo della singola rata.
+{% endhint %}
+
 {% hint style="warning" %}
 Tutte le righe del contratto vengono convertite in righe generiche, rendendo impossibile risalire ad eventuali articoli utilizzati all'interno del contratto e pertanto non movimentano il magazzino.
 {% endhint %}
