@@ -6,7 +6,7 @@ description: Come liquidare correttamente salari e stipendi in OpenSTAManager
 
 Per poter registrare correttamente i salari e gli stipendi in OpenSTAManager si dovranno predisporre i conti necessari dal piano dei conti.
 
-Per creare nuove voci nel piano dei conti è necessario cliccare sul tasto <img src="../../.gitbook/assets/immagine (5).png" alt="" data-size="original"> corrispondente alla riga dove andare a inserire il nuovo conto:
+Per creare nuove voci nel piano dei conti è necessario cliccare sul tasto <img src="../../.gitbook/assets/immagine (5) (1).png" alt="" data-size="original"> corrispondente alla riga dove andare a inserire il nuovo conto:
 
 <figure><img src="../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ Si andrà quindi in Contabilità/Piano dei conti e si andranno a creare:
 * **Erario c/Ritenute dipendenti** nello Stato Patrimoniale, sotto la voce 200 Erario IVA, INPS, IRPEF, INAIL, ecc;
 * Banca c/c (Già presente nello Stato Patrimoniale, sotto la voce 100 Cassa e banche).
 
-<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si potrà ora procedere ad effettuare le scritture contabili da Contabilità/Prima nota, cliccando sul tasto (+).
 
@@ -40,4 +40,4 @@ In questo modo nel Conto Economico e nello Stato Patrimoniale figureranno rispet
 
 <figure><img src="../../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>

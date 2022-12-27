@@ -52,7 +52,7 @@ Sarà necessario risalire all'API token, cliccando sul nome utente.
 Il link da utilizzare per la corretta configurazione di outlook è quello nella sezione di destra: Calendario interventi.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 🐦 Thunderbird
 
@@ -62,5 +62,5 @@ Questo permetterà la creazione di un nuovo Google calendar che sarà possibile 
 
 <figure><img src="../../.gitbook/assets/immagine (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
