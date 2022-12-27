@@ -22,7 +22,7 @@ Dopo qualche giorno dall'invio delle fatture elettroniche, si dovrà provvedere 
 
 Si dovrà quindi dal modulo Vendite/Fatture di vendita cliccare su Ricevute FE/Ricerca ricevute, e in seguito procedere a importarle facendo clic sul tasto Importa tutte le ricevute.
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
 
 Il campo stato ora potrà riportare uno dei seguenti valori:
 

@@ -18,4 +18,4 @@ Per aggiungere una nuova regola, si dovrà cliccare sul tasto (+).
 
 Andranno qui inseriti quindi il mese di chiusura dell'attività e il giorno del mese successivo in cui andare a riprogrammare le scadenze.
 
-![](<../../../../.gitbook/assets/immagine (1).png>)
+![](<../../../../.gitbook/assets/immagine (1) (1).png>)
