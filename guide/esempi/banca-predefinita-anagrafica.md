@@ -8,7 +8,7 @@ Un'anagrafica può aver diversi conti correnti collegati. Per aggiungere un nuov
 
 Andare in Strumenti/Tabelle/Banche e cliccare su (+) per registrare una nuova banca.
 
-![](<../../.gitbook/assets/immagine (17).png>)
+![](<../../.gitbook/assets/immagine (17) (1).png>)
 
 In anagrafica dovrà essere selezionata l'anagrafica a cui la banca andrà quindi collegata.
 

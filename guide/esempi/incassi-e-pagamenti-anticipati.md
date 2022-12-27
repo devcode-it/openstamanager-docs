@@ -50,4 +50,4 @@ Da qui si potrà visualizzare l'ammontare dell'importo già versato dalla notifi
 
 Utilizzando nuovamente il conto predefinito per l'anticipo clienti, esso verrà chiuso e l'anticipo sarà correttamente contabilizzato.
 
-![](<../../.gitbook/assets/immagine (15).png>)
+![](<../../.gitbook/assets/immagine (15) (1).png>)

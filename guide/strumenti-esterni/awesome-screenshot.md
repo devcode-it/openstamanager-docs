@@ -39,7 +39,7 @@ Una volta effettuate le modifiche interessate si dovrà procedere cliccando su !
 
 La schermata che si presenterà sarà quindi questa, dove sarà possibile copiare, salvare o stampare l'immagine appena creata.
 
-![](<../../.gitbook/assets/immagine (18).png>)
+![](<../../.gitbook/assets/immagine (18) (1).png>)
 
 #### Esempio
 
