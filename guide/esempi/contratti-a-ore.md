@@ -6,7 +6,7 @@ description: Come gestire i contratti a ore con OpenSTAManager
 
 Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Contratto](https://github.com/devcode-it/openstamanager-docs/blob/master/esempi/broken-reference/README.md), e successivamente creare delle **Attività** collegate.
 
-Per poter far ciò, al momento della creazione di un **Contratto**, si deve selezionare uno **Stato dei Contratti** che risulti pianificabile.
+Per poter far ciò, il **Contratto** interessato deve essere impostato in uno stato pianificabile (di default: In lavorazione, Fatturato, Pagato e Parzialmente fatturato).
 
 ![](<../../.gitbook/assets/immagine (246).png>)
 
