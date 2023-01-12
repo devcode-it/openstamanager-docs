@@ -28,6 +28,10 @@ description: Esempi pratici alle principali funzioni di OpenSTAManager
 [dichiarazioni-dintento.md](dichiarazioni-dintento.md)
 {% endcontent-ref %}
 
+{% content-ref url="esportare-correttamente-in-excel.md" %}
+[esportare-correttamente-in-excel.md](esportare-correttamente-in-excel.md)
+{% endcontent-ref %}
+
 {% content-ref url="fatturazione-elettronica/" %}
 [fatturazione-elettronica](fatturazione-elettronica/)
 {% endcontent-ref %}
