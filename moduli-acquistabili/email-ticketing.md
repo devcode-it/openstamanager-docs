@@ -124,6 +124,6 @@ Questo script esegue l'importazione delle email e visualizza l'esito.
 Se la configurazione IMAP non è corretta o il modulo genera errori è possibile visualizzarli quindi aprendo questo script.
 {% endhint %}
 
-
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Esempio di importazione andata a buon fine</p></figcaption></figure>
 
 Una volta terminato il test di importazione, occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.
