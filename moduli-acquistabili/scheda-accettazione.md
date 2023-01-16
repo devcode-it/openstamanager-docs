@@ -38,7 +38,7 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Giorni di deposito
 * Tecnici
 
-![](<../.gitbook/assets/image (287) (1).png>)
+![](<../.gitbook/assets/image (287).png>)
 
 Per procedere cliccare su Crea attività.
 

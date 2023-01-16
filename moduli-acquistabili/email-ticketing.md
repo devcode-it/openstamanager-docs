@@ -112,7 +112,7 @@ Vedi anche:
 
 ## 🏗️ Testing
 
-Dopo aver configurato la casella IMAP si può testare la corretta configurazione del modulo aprendo su browser l'indirizzo:
+Dopo aver configurato la casella IMAP si può testare la corretta configurazione del modulo aprendo sul browser l'indirizzo:
 
 https://**indirizzo-installazione-osm**/plugins/imap/cron/index.php
 
@@ -121,9 +121,11 @@ dove /**indirizzo-installazione-osm**/ va sostituito con l'indirizzo dell'instal
 {% hint style="info" %}
 Questo script esegue l'importazione delle email e visualizza l'esito.
 
-Se la configurazione IMAP non è corretta o il modulo genera errori è possibile visualizzarli quindi aprendo questo script.
+Da qui è quindi possibile verificare se la configurazione IMAP è corretta, o se il modulo genera errori.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption><p>Esempio di importazione andata a buon fine</p></figcaption></figure>
+La schermata che si presenterà sarà la seguente:
 
-Una volta terminato il test di importazione, occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Esempio di importazione andata a buon fine</p></figcaption></figure>
+
+Una volta terminato il test di importazione occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.
