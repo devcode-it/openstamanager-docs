@@ -60,6 +60,12 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
 
 ## 🎛️ Configurazione
 
+{% hint style="info" %}
+Il modulo email ticketing importa **tutte** le email presenti in Posta in arrivo.
+
+E' consigliato quindi creare un'email ad-hoc per questo utilizzo, al fine di evitare l'importazione di attività pregresse già completate o la mancava importazione delle attività per timeout del server.
+{% endhint %}
+
 Dalla schermata di dettaglio di un'anagrafica sarà ora possibile configurare gli account email dai quali importare le attività quando arrivano sotto forma di richieste via mail.
 
 Sarà qui possibile selezionare account mail diversi validi al momento della conversione di un'attività, per ogni account mail configurato per l'email ticketing.
@@ -103,3 +109,21 @@ Vedi anche:
 {% content-ref url="../configurazioni/configurazione-oauth2.md" %}
 [configurazione-oauth2.md](../configurazioni/configurazione-oauth2.md)
 {% endcontent-ref %}
+
+## 🏗️ Testing
+
+Dopo aver configurato la casella IMAP si può testare la corretta configurazione del modulo aprendo su browser l'indirizzo:
+
+https://**indirizzo-installazione-osm**/plugins/imap/cron/index.php
+
+dove /**indirizzo-installazione-osm**/ va sostituito con l'indirizzo dell'installazione in uso.
+
+{% hint style="info" %}
+Questo script esegue l'importazione delle email e visualizza l'esito.
+
+Se la configurazione IMAP non è corretta o il modulo genera errori è possibile visualizzarli quindi aprendo questo script.
+{% endhint %}
+
+
+
+Una volta terminato il test di importazione, occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.
