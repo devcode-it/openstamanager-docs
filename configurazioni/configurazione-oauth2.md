@@ -80,9 +80,13 @@ Una volta completata l'informazione di cui sopra, è necessario procedere alla r
 
 ![Modalità di registrazione nuova applicazione](../.gitbook/assets/registra.png)
 
-Al momento della compilazione delle informazioni, è fondamentale impostare correttamente il campo **URI di reindirizzamento**. Nell'esempio, considerando OpenSTAManager disponibile a `https://osmcloud.it/oauth2/`: `https://osmcloud.it/oauth2/oauth2.php`.
+Al momento della compilazione delle informazioni, è fondamentale impostare correttamente il campo **URI di reindirizzamento**.
 
-![Compilazione dati per la registrazione applicazione](../.gitbook/assets/dati.png)
+Nell'esempio, considerando OpenSTAManager disponibile in `https://osmcloud.it/miainstallazione/,`si dovrà inserire:
+
+&#x20;`https://osmcloud.it/miainstallazione/oauth2.php`.
+
+<figure><img src="../.gitbook/assets/spaces_udbmyQrl0FL3lcDlHZWD_uploads_MVHHqiAe9HFUPmpML3DJ_dati.png" alt=""><figcaption></figcaption></figure>
 
 Una volta completato questo passaggio, viene reso disponibile il **Client ID** sotto il nome di **ID applicazione (client)**. La generazione del Client Secret avviene attraverso il menu laterale **Certificati e segreti**, che propone la creazione del segreto tramite il pulsante **Nuovo segreto client**: il **Client Secret** è quindi disponibile sotto il nome **Valore** del nuovo segreto.
 
