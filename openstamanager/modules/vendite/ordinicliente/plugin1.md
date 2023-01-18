@@ -107,4 +107,4 @@ Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo d
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../../.gitbook/assets/immagine (25).png>)
+![](<../../../../.gitbook/assets/immagine (25) (1).png>)

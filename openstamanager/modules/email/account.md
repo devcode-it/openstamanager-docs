@@ -56,20 +56,19 @@ Come configurare correttamente OpenSTAManager con il servizio di hosting:
 
 ### 📘 Aruba
 
-{% hint style="info" %}
-Per configurare correttamente un account email Aruba all'interno di OpenSTAManager è necessario inserire le seguenti informazioni nel modulo [Account email](account.md):
-{% endhint %}
+Per configurare correttamente un account email Aruba all'interno di OpenSTAManager è necessario inserire le seguenti informazioni:
 
-* _Server SMTP_: `smtp.miodominio.ext`
-* _Username SMTP_: indirizzo email (example@miodominio.ext, oppure example@miodominio.ext)
-* _Porta SMTP_: `25`
-* _Sicurezza SMTP_: `Nessuna`
+* **Server SMTP:**
+  * per caselle dominio: `smtps.aruba.it`
+  * per caselle @aruba.it o @technet.it: `smtp.aruba.it`
+* **Porta SMTP**: `465`
+* **Non verificare il certificato SSL**: `Disattivato`
+* **Sicurezza SMTP**: `SSL`
+* **Email mittente**: `email-esempio@aruba.it`
+* **Username SMTP**: `Nome-utente-da-visualizzare`
+* **Password SMTP**: `password`
 
-![](<../../../.gitbook/assets/image (525).png>)
-
-{% hint style="warning" %}
-Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Gmail
 
