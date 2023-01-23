@@ -22,7 +22,7 @@ Si dovrà inoltre cliccare su Attributi avanzati e andare a inserire l'IdDocumen
 
 ![](<../../../.gitbook/assets/immagine (224).png>)
 
-![](<../../../.gitbook/assets/immagine (97).png>)
+![](<../../../.gitbook/assets/immagine (97) (1).png>)
 
 ## &#x20;🔋 Reverse charge
 

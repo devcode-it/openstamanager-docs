@@ -50,7 +50,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui si troveranno diverse sezioni da cui sarà possibile modificare:
 
-#### Articolo:
+### Articolo
 
 * Immagine
 * Codice
@@ -66,7 +66,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 
 ![](<../../../../.gitbook/assets/image (284).png>)
 
-#### Giacenza totale:
+### Giacenza totale
 
 * Modifica quantità
   * Quantità
@@ -75,7 +75,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 
 ![](<../../../../.gitbook/assets/image (263).png>)
 
-#### Acquisto:
+### Acquisto
 
 * Prezzo di acquisto
 * Coefficiente di vendita
@@ -88,7 +88,33 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 
 ![](<../../../../.gitbook/assets/image (279).png>)
 
-#### Vendita:
+#### Fattore moltiplicativo:
+
+Aggiungendo nella scheda articolo un'unità di misura secondaria e il relativo moltiplicatore è possibile visualizzare unità di misura diverse negli ordini fornitore, qualora si dovessero trattare quantità da convertire per la vendita al dettaglio.
+
+Esempio: Nel caso di attività che acquistano al kg e rivendono al grammo, si dovrà impostare come unità di misura primaria il g e secondaria il kg, con relativo fattore moltiplicativo.
+
+<figure><img src="../../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+Per poter impostare fattori moltiplicativi con più di 2 decimali, si deve andare in **Strumenti/Impostazioni/Generali** e alla voce **Cifre decimali per quantità**, impostare il numero di decimali necessario.
+{% endhint %}
+
+In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 2000g, sulla stampa del documento la quantità risulterà invece pari a 2kg, avendo effettuato la conversione.
+
+Esempio 2: Nel caso di acquisto di licenze mensili e rivendita annualmente, si dovrà impostare come unità di misura primaria il mese e secondaria l'anno, con relativo fattore moltiplicativo.
+
+<figure><img src="../../../../.gitbook/assets/immagine (99).png" alt=""><figcaption></figcaption></figure>
+
+In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 12 mesi, sulla stampa del documento la quantità risulterà invece pari a 1 anno, avendo effettuato la conversione.
+
+Esempio 3: Nel caso di acquisto di licenze annuali da rivendere mensilmente, si dovrà impostare come unità di misura primaria l'anno e secondaria il mese, con relativo fattore moltiplicativo.
+
+<figure><img src="../../../../.gitbook/assets/immagine (96).png" alt=""><figcaption></figcaption></figure>
+
+In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 1 anno, sulla stampa del documento la quantità risulterà invece pari a 12 mesi, avendo effettuato la conversione.
+
+### Vendita
 
 * Prezzo di vendita
 * IVA di vendita

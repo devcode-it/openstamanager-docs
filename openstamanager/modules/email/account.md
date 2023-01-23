@@ -68,7 +68,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * **Username SMTP**: `Nome-utente-da-visualizzare`
 * **Password SMTP**: `password`
 
-<figure><img src="../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Gmail
 
