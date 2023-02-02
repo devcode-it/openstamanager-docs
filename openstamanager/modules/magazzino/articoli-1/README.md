@@ -92,9 +92,13 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 
 Aggiungendo nella scheda articolo un'unità di misura secondaria e il relativo moltiplicatore è possibile visualizzare unità di misura diverse negli ordini fornitore, qualora si dovessero trattare quantità da convertire per la vendita al dettaglio.
 
+{% hint style="info" %}
+E' possibile aggiungere nuove unità di misura oltre a quelle previste dal gestionale in **Strumenti/Tabelle/Unità di misura**.
+{% endhint %}
+
 Esempio: Nel caso di attività che acquistano al kg e rivendono al grammo, si dovrà impostare come unità di misura primaria il g e secondaria il kg, con relativo fattore moltiplicativo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Per poter impostare fattori moltiplicativi con più di 2 decimali, si deve andare in **Strumenti/Impostazioni/Generali** e alla voce **Cifre decimali per quantità**, impostare il numero di decimali necessario.
