@@ -74,7 +74,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a diver
 * ordine cliente (senza codici)
 * ordine cliente (senza prezzi)
 
-![](../../../../.gitbook/assets/immagine.png)
+![](<../../../../.gitbook/assets/immagine (1).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
