@@ -24,7 +24,7 @@ Esempio:
 che a seguito della pianificazione fatturazione verranno convertite in:\
 
 
-<figure><img src="../../../../../.gitbook/assets/immagine (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/immagine (93) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Tutte le righe del contratto vengono convertite in righe generiche, rendendo impossibile risalire ad eventuali articoli utilizzati all'interno del contratto e pertanto non movimentano il magazzino.
