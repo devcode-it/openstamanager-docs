@@ -48,7 +48,7 @@ In particolare, è possibile definire la _ragione sociale_ e una serie di dati a
 Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune opzioni di OpenSTAManager obbligatorie per il funzionamento di diverse componenti, quali per esempio la contabilità e la fatturazione elettronica.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (2).png>)
+![](<../../.gitbook/assets/immagine (2) (1).png>)
 
 ## ✅ Salvataggio
 

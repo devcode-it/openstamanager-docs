@@ -12,7 +12,7 @@ Per poter far ciò, il **Contratto** interessato deve essere impostato in uno st
 
 Lo stato dei contratti è verificabile in Strumenti/Tabelle/Stati dei contratti.
 
-![](../../.gitbook/assets/immagine.png)
+![](<../../.gitbook/assets/immagine (10).png>)
 
 ![](<../../.gitbook/assets/immagine (122).png>)
 

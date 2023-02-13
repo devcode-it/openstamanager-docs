@@ -62,4 +62,4 @@ I tasti "Apertura bilancio" e "Chiusura bilancio" presenteranno colore azzurro s
 
 <figure><img src="../../../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (10) (1).png" alt=""><figcaption></figcaption></figure>

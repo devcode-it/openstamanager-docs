@@ -44,7 +44,7 @@ Si aprirà quindi una schermata in cui sarà possibile pianificare la fatturazio
 
 La sezione **Righe** invece riporta una serie di variabili che è possibile utilizzare per personalizzare la descrizione delle righe che verranno riportate in fattura e permette di stabilire la quantità da inserire in ogni rata.
 
-![](<../../../../../.gitbook/assets/immagine (7).png>)
+![](<../../../../../.gitbook/assets/immagine (7) (1).png>)
 
 Avendo impostato da esempio 4 rate da 200€+IVA con scadenza trimestrale si dovrà quindi impostare 1 quantità a rata, per far in modo che vengano generate le seguenti fatture in bozza:
 
