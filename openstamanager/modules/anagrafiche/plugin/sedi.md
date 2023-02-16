@@ -40,6 +40,10 @@ La schermata di modifica, sebbene molto simile a quella di creazione, permette i
 
 ![](<../../../../.gitbook/assets/image (602).png>)
 
+{% hint style="info" %}
+Il **Codice destinatario** inserito in una determinata sede, verrà impostato come codice destinatario del cliente nei documenti di vendita in cui quella sede verrà selezionata.
+{% endhint %}
+
 Se l'impostazione [**Google Maps API key**](https://docs.openstamanager.com/modules/anagrafiche/modifica#geolocalizzazione) viene impostata, sarà possibile visualizzare la geolocalizzazione dall'interno dell'anagrafica.
 
 {% hint style="warning" %}
