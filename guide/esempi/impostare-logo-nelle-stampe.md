@@ -16,7 +16,7 @@ E' possibile ridimensionare il proprio logo prima di caricarlo dal proprio edito
 
 Una volta che il logo è stato ridimensionato correttamente sarà sufficiente trascinarlo nell'apposito riquadro o selezionare il percorso del file da caricare.
 
-Cliccando ora sul tasto modifica in corrispondenza alla riga del logo, sarà possibile cambiare il nome del file in "Logo stampe".
+Cliccando ora sul tasto modifica in corrispondenza alla riga del logo, sarà possibile cambiare il nome del file in _**Logo stampe**_.
 
 <figure><img src="../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
 
