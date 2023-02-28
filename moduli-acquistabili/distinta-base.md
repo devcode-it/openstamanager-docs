@@ -26,3 +26,13 @@ Dopo aver selezionato gli articoli che vanno a formare la distinta, è possibile
 * Scomponi: diminuisce la quantità del prodotto finito e ripristina la quantità degli elementi che lo compongono.
 
 ![](<../.gitbook/assets/image (90).png>)
+
+#### Produci articoli della distinta base in fase di vendita
+
+Questa impostazione, se abilitata, permette l'esecuzione automatica dei meccanismi di composizione e scomposizione dell'articolo padre inserito in fattura, mantenendo bloccata la sua giacenza, e andando a movimentare invece le giacenze degli articoli figli.
+
+Questa funzionalità è stata pensata per le attività che assemblano gli articoli padre al momento della vendita e non ne tengono delle quantitià fisse presenti a magazzino, come per esempio un negozio di informatica che vende un pc assemblato con dei specifici componenti. Al momento della vendita del pc assemblato non si andrà a ridurre la quantità dell'articolo padre _Computer_, ma andranno scalate a magazzino le quantità relative ai suoi componenti, mantenendo così allineate le giacenze.
+
+Con questa impostazione abilitata si devono però tenere sotto controllo le giacenze degli articoli figli perchè in caso non siano sufficienti alla composizione dell'articolo padre inserito in fattura verranno comunque movimentati, e la loro giacenza assumerà quindi valore negativo.
+
+Per automatizzare questo processo e avere il pieno controllo del magazzino non rischiando così di compromettere il flusso di lavoro a causa di materie prime mancanti, è stato sviluppato il modulo aggiuntivo [**Riordino fornitori**](riordino-fornitori.md), che permette di gestire in maniera ottimale la quanittà di materiale presente a magazzino, evidenziando gli articoli presenti in quantità inferiore alla soglia minima impostata e quelli presenti in quantità non sufficiente ad assolvere gli ordini cliente in cui sono impegnati, tenendo in considerazione gli articoli che fanno parte di una distinta base.
