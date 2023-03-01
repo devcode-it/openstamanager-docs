@@ -179,7 +179,7 @@
   * [⏱ Contratti a ore](guide/esempi/contratti-a-ore.md)
   * [🧑🔧 Contratti di manutenzione](guide/esempi/assistenza-tecnica.md)
   * [🙋♂ Dichiarazioni d'Intento](guide/esempi/dichiarazioni-dintento.md)
-  * [👍 Esportare correttamente in Excel](guide/esempi/esportare-correttamente-in-excel.md)
+  * [👍 Esportare e stampare tabelle con molti record](guide/esempi/esportare-e-stampare-tabelle-con-molti-record.md)
   * [📘 Fatturazione Elettronica](guide/esempi/fatturazione-elettronica/README.md)
     * [🏷 Codice identificativo documento e CIG](guide/esempi/fatturazione-elettronica/codice-identificativo-documento-e-cig.md)
     * [⌛ Decreto Rilancio 2020](guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md)

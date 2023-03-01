@@ -1,8 +1,10 @@
 ---
-description: Come esportare correttamente in Excel con OpenSTAManager
+description: >-
+  Come gestire le tabelle con molti record in fase di esportazione in Excel o
+  stampa con OpenSTAManager
 ---
 
-# 👍 Esportare correttamente in Excel
+# 👍 Esportare e stampare tabelle con molti record
 
 {% hint style="info" %}
 In OpenSTAManager è presente un filtro che limita il caricamento dei record delle tabelle per non subire rallentamenti nel caso di tabelle di grandi dimensioni.
