@@ -63,3 +63,16 @@ I tasti "Apertura bilancio" e "Chiusura bilancio" presenteranno colore azzurro s
 <figure><img src="../../../.gitbook/assets/immagine (39).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
+
+Per procedere ai movimenti di chiusura bilancio si dovrà quindi:
+
+1. impostare il filtro calendario al 31/12 dell'anno di cui chiudere
+2. andare in Contabilità/Piano dei conti
+3. cliccare **Chiusura bilancio**
+
+Per procedere ai movimenti di apertura bilancio si dovrà invece:
+
+1. impostare il filtro calendario in Gennaio dell'anno di cui aprire i conti
+2. andare in Contabilità/Piano dei conti
+3. cliccare su **Apertura bilancio**
+
