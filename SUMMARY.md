@@ -169,6 +169,7 @@
     * [☑ Checklists](openstamanager/modules/strumenti/checklists.md)
     * [⏫ Backup](openstamanager/modules/strumenti/backup.md)
     * [🔝 Aggiornamenti](openstamanager/modules/strumenti/aggiornamenti.md)
+* [📱 APP Tecnici](openstamanager/app-tecnici.md)
 
 ## guide
 
