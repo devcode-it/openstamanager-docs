@@ -73,3 +73,7 @@ Con questa funzione è possibile creare un'attività, e richiede di completare i
 * Orario fine
 
 ![](<../../../../../.gitbook/assets/image (133).png>)
+
+{% hint style="warning" %}
+Per poter correttamente creare le sessioni di lavoro e visualizzare le attività pianificate in Dashboard, è necessario che il campo **Tecnici** sia valorizzato.
+{% endhint %}
