@@ -70,7 +70,7 @@ Con la funzione **Inserimento massivo** è possibile pianificare massivamente il
 
 Le attività verranno così visualizzate in Dashboard:
 
-<figure><img src="../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗒️ Righe
 
