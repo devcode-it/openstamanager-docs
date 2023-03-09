@@ -13,3 +13,13 @@ L'app Tecnici è disponibile per dispositivi:
 Richiede almeno [OSM Business](https://shop.openstamanager.com/prodotto/business300/)
 {% endhint %}
 
+{% hint style="success" %}
+Provala accedendo alla nostra demo con username: _tecnico_ e password: _tecnicotecnico_
+{% endhint %}
+
+Vai alla versione:
+
+{% content-ref url="v3.0.30.md" %}
+[v3.0.30.md](v3.0.30.md)
+{% endcontent-ref %}
+
