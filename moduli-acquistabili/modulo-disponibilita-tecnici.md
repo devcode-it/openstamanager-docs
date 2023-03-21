@@ -30,7 +30,7 @@ Da qui, cliccando direttamente sul calendario, è possibile andare a programmare
 
 L'attività appena creata sarà ora visualizzabile in calendario e sarà possibile vederne i dettagli passandoci sopra il mouse.
 
-<figure><img src="../.gitbook/assets/immagine (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (68) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su un intervento nel calendario è possibile accedere alla sua schermata di dettaglio, da dove è possibile apportare modifiche, stamparne le specifiche, inviare il rapportino e la notifica di presa in carico, e accedere al pannello di anteprima e firma.
 

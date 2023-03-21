@@ -26,11 +26,11 @@ Si potrà ora confermare l'importazione dei movimenti in prima nota, cliccando s
 
 Da questo modulo si potrà inoltre registrare dei movimenti ricorrenti e impostarne uno specifico modello da utilizzare.
 
-<figure><img src="../.gitbook/assets/immagine (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (86) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nella sezione Movimenti ABI sarà ora possibile visualizzare in anteprima la lista dei movimenti e il tipo di operazione di cui si tratta (stipendio, pagamento fornitore, ecc...).
 
-<figure><img src="../.gitbook/assets/immagine (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (289) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Videoguida:
 

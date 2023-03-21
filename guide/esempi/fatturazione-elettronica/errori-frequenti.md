@@ -30,4 +30,4 @@ Se per alcuni clienti la ritenuta d'acconto deve essere sempre presente nei docu
 
 Per poter procedere alla corretta emissione di una fattura con ritenuta d'acconto si dovrà inoltre specificare la **Causale ritenuta d'acconto** in Impostazioni/Fatturazione elettronica, che andrà a compilare il campo \<CausalePagamento> in fattura elettronica.
 
-<figure><img src="../../../.gitbook/assets/immagine (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (287) (1).png" alt=""><figcaption></figcaption></figure>

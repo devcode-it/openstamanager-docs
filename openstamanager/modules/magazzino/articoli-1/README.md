@@ -114,7 +114,7 @@ In questo modo, inserendo tale articolo in un ordine fornitore con quantità par
 
 Esempio 3: Nel caso di acquisto di licenze annuali da rivendere mensilmente, si dovrà impostare come unità di misura primaria l'anno e secondaria il mese, con relativo fattore moltiplicativo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (95) (1).png" alt=""><figcaption></figcaption></figure>
 
 In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 1 anno, sulla stampa del documento la quantità risulterà invece pari a 12 mesi, avendo effettuato la conversione.
 

@@ -16,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato dell'ordine cliente deve essere Accettato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (92).png>)
+![](<../../../../.gitbook/assets/immagine (92) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -26,13 +26,13 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (85).png" alt="" data-size="original">
+&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (85) (1).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
 ![](<../../../../.gitbook/assets/immagine (252).png>)
 
-![](<../../../../.gitbook/assets/immagine (292).png>)
+![](<../../../../.gitbook/assets/immagine (292) (1).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
@@ -78,7 +78,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a diver
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                           ![](<../../../../.gitbook/assets/immagine (295).png>)
+&#x20;                                           ![](<../../../../.gitbook/assets/immagine (295) (1).png>)
 
 ### ✉️ Invia
 
@@ -107,4 +107,4 @@ Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo d
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../../.gitbook/assets/immagine (290).png>)
+![](<../../../../.gitbook/assets/immagine (290) (1).png>)

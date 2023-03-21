@@ -8,13 +8,13 @@ Per modificare un'attività in OpenSTAManager si dovrà cliccare sul record da m
 
 Una volta aperta la schermata di dettaglio, sarà possibile completare l'attività in tutti i campi supportati. La sezione di modifica è suddivisa in 6 sezioni:
 
-* [Dati cliente](modifica.md#dati-cliente)
-* [Geolocalizzazione](modifica.md#geolocalizzazione)
-* [Dati intervento](modifica.md#dati-intervento)
-* [Ore di lavoro](modifica.md#ore-di-lavoro)
-* [Righe](modifica.md#righe)
-* [Costi totali](modifica.md#tabella-dei-costi-totali)
-* [Allegati](modifica.md#allegati)
+* Dati cliente
+* Geolocalizzazione
+* Dati intervento
+* Ore di lavoro
+* Righe
+* Costi totali
+* Allegati
 
 ### 👨 Dati cliente
 
@@ -55,8 +55,13 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Richiesta
 * Descrizione
 * Note interne
+* Partenza merce
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FxNNZ8XcNvCNiPBTQpdxJ%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (297).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/immagine (298).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### ⏰ Ore di lavoro
 
@@ -74,17 +79,16 @@ Le attività verranno così visualizzate in Dashboard:
 
 ### 🗒️ Righe
 
-Questa sezione permette di inserire le righe descrittive dell'attività che possono essere aggiunte tramite:
+Questa sezione permette di inserire le righe descrittive dell'attività, che possono essere:
 
+* Articoli
+* Righe generiche
+* Sconto/maggiorazione
 * Preventivo
 * Contratto
 * DDT
-* Articolo di magazzino
-* Barcode
-* Righe generiche
-* Sconti/maggiorazioni
 
-![](<../../../.gitbook/assets/image (473).png>)
+<figure><img src="../../../.gitbook/assets/immagine (73).png" alt=""><figcaption></figcaption></figure>
 
 ### 📃 Tabella dei costi totali
 

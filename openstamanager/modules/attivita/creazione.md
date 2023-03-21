@@ -15,11 +15,15 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Contratto (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
 * Ordine
 * Referente (con possibilità di [crearlo al momento](creazione.md#creazione-impianto-al-volo))
+* Sezionale
+* Data/ora richiesta
 * Tipo
 * Stato
 * Richiesta
 
-![](<../../../.gitbook/assets/Senzanome (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (76).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/immagine (292).png" alt=""><figcaption></figcaption></figure>
 
 Si possono notare anche 5 sottosezioni:
 
@@ -68,7 +72,7 @@ Nella sezione Ricorrenza è possibile dichiarare se l'attività è ricorrente o 
 
 Nella sezione Dettagli cliente vengono visualizzati i Contratti, Preventivi e Fatture attivi per il cliente selezionato, e vengono visualizzate le note interne.
 
-![](<../../../.gitbook/assets/image (595).png>)
+<figure><img src="../../../.gitbook/assets/immagine (75).png" alt=""><figcaption></figcaption></figure>
 
 ## 💸 Creazione di Record al volo
 
@@ -90,7 +94,7 @@ I campi obbligatori per creare una sede al volo sono Nome sede e città, si potr
 
 I campi obbligatorio per creare un contratto al volo sono Nome e Stato, si potrà procedere in un secondo momento a [completare](https://github.com/devcode-it/openstamanager-docs/blob/master/modules/attivita/broken-reference/README.md) gli altri campi entrando nel nuovo record in Vendite/Contratti.
 
-![](<../../../.gitbook/assets/image (448).png>)
+<figure><img src="../../../.gitbook/assets/immagine (296).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑 Referente
 
@@ -102,7 +106,7 @@ I campi obbligatorio per creare un contratto al volo sono Nominativo, Mansione e
 
 I campi obbligatorio per creare un contratto al volo sono Matricola e Nome, si potrà procedere in un secondo momento a [completare](../impianti/modifica.md) gli altri campi entrando nel nuovo record tra gli impianti.
 
-![](<../../../.gitbook/assets/image (328).png>)
+<figure><img src="../../../.gitbook/assets/immagine (81).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑‍🔧 Tecnico
 

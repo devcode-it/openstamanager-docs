@@ -62,7 +62,7 @@ I tasti "Apertura bilancio" e "Chiusura bilancio" presenteranno colore azzurro s
 
 <figure><img src="../../../.gitbook/assets/immagine (255).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (293) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per procedere ai movimenti di chiusura bilancio si dovrà quindi:
 

@@ -22,7 +22,7 @@ Si dovrà qui selezionare l'Ente pubblico e cliccare su Aggiungi.
 
 Si potrà ora procedere al completamento dei dati da riportare in fattura inserendo le righe e andando ad attivare l'impostazione "Split payment", un meccanismo secondo cui la PA acquirente non corrisponde l'IVA presente in fattura al fornitore ma la trattiene e la versa direttamente all'erario.
 
-&#x20;                                          <img src="../../../.gitbook/assets/immagine (298).png" alt="" data-size="original">
+&#x20;                                          <img src="../../../.gitbook/assets/immagine (298) (1).png" alt="" data-size="original">
 
 
 

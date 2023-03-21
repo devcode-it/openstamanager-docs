@@ -37,6 +37,10 @@ Il gestionale chiederà quindi la conferma di procedere all'esportazione in form
 
 Cliccando su procedi si confermerà l'operazione.
 
+{% content-ref url="../../../guide/esempi/esportare-e-stampare-tabelle-con-molti-record.md" %}
+[esportare-e-stampare-tabelle-con-molti-record.md](../../../guide/esempi/esportare-e-stampare-tabelle-con-molti-record.md)
+{% endcontent-ref %}
+
 ### 📃 Fatturazione massiva
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.

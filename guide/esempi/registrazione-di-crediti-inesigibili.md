@@ -8,11 +8,11 @@ description: Come registrare crediti inesibili in OpenSTAManager
 
 Il caso tipico in cui un credito diventa inesigibile è ad esempio quello di una società messa in liquidazione, si ha quindi la necessità di chiudere la relativa scadenza a gestionale affinchè non venga più segnalato il mancato pagamento.
 
-<figure><img src="../../.gitbook/assets/immagine (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (72) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per prima cosa è consigliabile creare un apposito conto sul piano dei conti da utilizzare per le registrazioni, si andrà quindi a cliccare sull'apposito tasto (+) in corrispondenza della voce 620 Costi diversi.
 
-<figure><img src="../../.gitbook/assets/immagine (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (90) (1).png" alt=""><figcaption></figcaption></figure>
 
 Qui sarà possibile inserire il numero e la descrizione del conto, chiamato nell'esempio "Crediti inesigibili".
 
@@ -28,8 +28,8 @@ Si potrà quindi ora procedere alla registrazione contabile.
 
 Si dovrà aprire la scadenza interessata, compilare il campo Pagato con l'importo della fattura e cliccare su Registra contabile pagamento.
 
-<figure><img src="../../.gitbook/assets/immagine (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (78) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si dovrà ora a inserire in Dare il conto appena creato e cliccare su Aggiungi, chiudendo così il conto del cliente, ma registrando la perdita a bilancio.
 
-<figure><img src="../../.gitbook/assets/immagine (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (71) (1).png" alt=""><figcaption></figcaption></figure>

@@ -16,9 +16,9 @@ Per creare un nuovo ordine fornitore si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il fornitore.
 
-![](<../../../../.gitbook/assets/image (98).png>)
-
 Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
+
+<figure><img src="../../../../.gitbook/assets/immagine (65).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -32,14 +32,20 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Referente
 * Sede
 * Pagamento
+* Condizioni generali di fornitura
 * Note
+* Note interne
 
-![](<../../../../.gitbook/assets/image (89).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (83).png" alt=""><figcaption></figcaption></figure>
 
-* Righe
+* Righe, che possono includere:
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
 * Allegati
 
-![](<../../../../.gitbook/assets/image (344).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (79).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

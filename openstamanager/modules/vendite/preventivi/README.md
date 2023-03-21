@@ -16,28 +16,29 @@ Per creare un nuovo Preventivo si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo Preventivo:
 
-![](<../../../../.gitbook/assets/image (582).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (74).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
 * Numero
-* Nome
+* Date  di bozza, accettazione, conclusione e rifiuto
 * Cliente
 * Sede
-* Agente
 * Referente
-* Tempi di consegna
-* Validità (in giorni)
+* Agente
+* Nome
 * Metodo di pagamento
-* Date di bozza, accettazione, conclusione e rifiuto
 * Stato
+* Validità offerta
 * Tipo di attività
+* Tempi di consegna
 * Esclusioni
 * Garanzia
 * Descrizione
 * Condizioni generali di fornitura
+* Note interne
 
 {% hint style="warning" %}
 E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
@@ -47,7 +48,14 @@ E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare d
 
 Nelle sezioni successive è invece possibile modificare le righe da inserire a preventivo e gli allegati.
 
-![](<../../../../.gitbook/assets/image (327).png>)
+Le righe possono includere:
+
+* Articolo
+* Riga generica
+* Descrizione
+* Sconto/maggiorazione
+
+<figure><img src="../../../../.gitbook/assets/immagine (77).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di acquisto:
 * Tipo documento
 * Sezionale
 
-![](<../../../../.gitbook/assets/image (248).png>)
+
 
 ## 🖌️ Modifica
 
@@ -46,9 +46,15 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 ![](<../../../../.gitbook/assets/image (509).png>)
 
 * Righe
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
+  * DDT
+  * Ordine
 * Allegati
 
-![](<../../../../.gitbook/assets/image (244).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (80).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

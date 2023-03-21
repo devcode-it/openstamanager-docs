@@ -34,7 +34,7 @@ Il gestionale non è compatibile con MariaDB.
 
 Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti, nella sezione evidenziata.
 
-<figure><img src="../../.gitbook/assets/immagine (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (91) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️Eseguire i controlli sull'integrità dell'installazione
 
@@ -42,7 +42,7 @@ Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti,
 
 Il controllo dei file si può effettuare da Strumenti/Aggiornamenti cliccando su Controlla file.
 
-<figure><img src="../../.gitbook/assets/immagine (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (82) (1).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli registrati nella versione ufficiale.
 
@@ -64,7 +64,7 @@ Qui verranno elencate le tabelle del database che presentano una struttura diver
 Questa funzionalità può presentare dei risultati falsamente positivi, sulla base del contenuto del file database.json o nel caso di aggiornamento del database alla versione 8.0.30 di MySQL.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Controllo sul gestionale
 

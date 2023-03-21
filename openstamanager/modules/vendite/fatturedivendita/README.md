@@ -31,7 +31,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di vendita:
 * Tipo documento
 * Sezionale
 
-![](<../../../../.gitbook/assets/immagine (67).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (88).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -40,6 +40,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Numero fattura
 * Data emissione
 * Data competenza
+* Stato FE
 * Stato
 * Cliente
 * Agente di riferimento
@@ -53,16 +54,26 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Abilitare fattura per conto terzi
 * Sconto in fattura ([Decreto Rilancio 2020](../../../../guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md))
 * Ritenuta previdenziale
-* Dischiarazione d'intento
-* Abilitare marca da bollo automatica([https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L%27imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b](https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L'imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b))
+* Dichiarazione d'intento
+* Abilitare marca da bollo automatica ([https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L%27imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b](https://www.agenziaentrate.gov.it/portale/documents/20143/3394067/L'imposta\_di\_Bollo\_sulle\_fatture\_elettronche.pdf/234d3993-fb09-2fd2-dbb9-7cc1dc0e799b))
 * Note
+* Note interne
 
 ![](<../../../../.gitbook/assets/immagine (246).png>)
 
-* Righe
+* Righe, che possono includere:
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
+  * Attività
+  * Preventivo
+  * Contratto
+  * DDT
+  * Ordine
 * Allegati
 
-![](<../../../../.gitbook/assets/immagine (65).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (287).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

@@ -16,7 +16,7 @@ Per creare un nuovo ordine cliente si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il cliente:
 
-![](<../../../../.gitbook/assets/image (556).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (294).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 
@@ -24,6 +24,7 @@ Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
+* Numero ordine
 * Data
 * Stato
 * Agente
@@ -34,13 +35,20 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Numero ordine cliente
 * Data ordine cliente
 * Sconto in fattura
+* Condizioni generali di fornitura
 * Note
-* Righe
+* Note interne
+* Righe, che possono includere:
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
+  * Preventivo
 * Allegati
 
-![](<../../../../.gitbook/assets/image (395).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (91).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../../.gitbook/assets/image (390).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (90).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

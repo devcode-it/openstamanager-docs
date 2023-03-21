@@ -19,7 +19,7 @@ Le righe devono riportare sotto la voce **quantità**, un numero pari al numero 
 
 Esempio:
 
-<figure><img src="../../../../../.gitbook/assets/immagine (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/immagine (79) (1).png" alt=""><figcaption></figcaption></figure>
 
 che a seguito della pianificazione fatturazione verranno convertite in:\
 
