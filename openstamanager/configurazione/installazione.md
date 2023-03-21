@@ -56,13 +56,13 @@ Viene quindi caricata la pagina per il controllo della configurazione del _web s
 * Estensioni PHP
 * Percorsi di servizio per il software
 
-<figure><img src="../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (178).png" alt=""><figcaption></figcaption></figure>
 
 ## ✍️ Licenza
 
 La schermata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
 
-<figure><img src="../../.gitbook/assets/immagine (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (332).png" alt=""><figcaption></figcaption></figure>
 
 OpenSTAManager viene reso disponibile tramite la licenza **GPL-3.0**, che ne permette l'uso commerciale e la personalizzazione a patto di mantenere un riferimento al progetto iniziale rimuovendo la responsabilità di eventuali problematiche agli sviluppatori originali.
 
@@ -78,7 +78,7 @@ Una volta accettata la licenza, cliccare su **Successivo**.
 
 Una volta corretti i requisiti e accettata la licenza, viene resa disponibile la pagina dedicata alla configurazione del software per l'accesso al database MySQL.
 
-<figure><img src="../../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (182).png" alt=""><figcaption></figcaption></figure>
 
 E' possibile, una volta completate le informazioni di configurazione, procedere ad un test automatico per controllare se il database presente è completamente compatibile con il gestionale. Questa funzione è disponibile attraverso il pulsante **Testa il database**.
 
@@ -88,7 +88,7 @@ In ogni caso, si possono verificare degli errori duranti il salvataggio della co
 
 * I dati di connessione sono errati
 
-<figure><img src="../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (183).png" alt=""><figcaption></figcaption></figure>
 
 * I permessi di creazione e scrittura sul file `config.inc.php` sono troppo restrittivi
 
@@ -100,10 +100,10 @@ Se le credenziali inserite sono corrette, dopo aver cliccato su **Installa** si 
 
 Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../../.gitbook/assets/Installa!.PNG) per avviare l'installazione del database di OpenSTAManager.
 
-<figure><img src="../../.gitbook/assets/immagine (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (335).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (346).png" alt=""><figcaption></figcaption></figure>
 
 Appena l'installazione sarà terminata, sarà possibile cliccare su Continua e procedere con l'inizializzazione del gestionale.
 
-<figure><img src="../../.gitbook/assets/immagine (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (340).png" alt=""><figcaption></figcaption></figure>

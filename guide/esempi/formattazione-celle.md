@@ -29,7 +29,7 @@ Si dovrà andare in Strumenti/Viste/Articoli e creare un nuovo campo, con Query 
 IF(`qta`<5, 'red', '')
 ```
 
-![](<../../.gitbook/assets/immagine (28) (1).png>)
+![](<../../.gitbook/assets/immagine (28).png>)
 
 {% hint style="warning" %}
 Per poter abilitare il campo è importante che il campo Gruppi con accesso sia compilato con i tipi di utenti che dovranno visualizzarlo.
@@ -37,7 +37,7 @@ Per poter abilitare il campo è importante che il campo Gruppi con accesso sia c
 
 In questo modo l'effetto generato sarà il seguente:
 
-![](<../../.gitbook/assets/immagine (335).png>)
+![](<../../.gitbook/assets/immagine (335) (1).png>)
 
 Nel caso in cui invece si voglia modificare una determinata colonna in base al suo valore, si dovrà utilizzare color\_Nome. Volendo quindi creare una cella che diventi rossa in caso di quantità inferiore a 5 o verde in caso la quantità sia maggiore, si dovrà utilizzare:
 
@@ -49,7 +49,7 @@ IF(`qta`<5, 'red', '#008000')
 
 Il risultato ottenuto sarà il seguente:
 
-![](<../../.gitbook/assets/immagine (347).png>)
+![](<../../.gitbook/assets/immagine (347) (1).png>)
 
 {% hint style="warning" %}
 Si consiglia di utilizzare i colori in formato esadecimale.

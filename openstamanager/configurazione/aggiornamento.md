@@ -17,13 +17,13 @@ In questo caso, ogni utente presente all'interno del gestionale verrà automatic
 
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
-<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (338).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ Errori di aggiornamento
 
 La procedura di aggiornamento, come ogni componente software, è soggetta a possibili errori.
 
-<figure><img src="../../.gitbook/assets/immagine (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (180).png" alt=""><figcaption></figcaption></figure>
 
 In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consultare il [forum ufficiale](https://www.openstamanager.com/forum/) per eventuali segnalazioni simili.
 

@@ -12,11 +12,11 @@ Apparirà questa schermata dove si dovranno spuntare tutte e 3 le caselle (Maps 
 
 Apparirà ora questa schermata in cui si deve selezionare Yes, e premere il tasto NEXT.
 
-![](<../.gitbook/assets/immagine (181).png>)
+![](<../.gitbook/assets/immagine (181) (1).png>)
 
 Si dovrà ora creare un account di fatturazione seguendo il tasto in basso.
 
-![](<../.gitbook/assets/immagine (186).png>)
+![](<../.gitbook/assets/immagine (186) (1).png>)
 
 Da qui, si dovranno accettare i termini di servizio, compilare i campi richiesti e cliccare su Avvia la mia prova gratuita.
 
@@ -34,4 +34,4 @@ Dalla schermata che si presenta ora, si dovrà cliccare su Crea credenziali e se
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, sarà ora possibile visualizzare le mappe nella sezione Geolocalizzazione.
 
-![](<../.gitbook/assets/immagine (1) (1) (1).png>)
+![](<../.gitbook/assets/immagine (1) (1).png>)

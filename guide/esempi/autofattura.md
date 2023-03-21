@@ -36,7 +36,7 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 Questa fattura andrà registrata come la si riceve, non si deve quindi aggiungere manualmente l'IVA.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (349) (1).png" alt=""><figcaption></figcaption></figure>
 
 In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 
@@ -48,9 +48,9 @@ In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 
 Una volta compilato il form si dovrà cliccare su Aggiungi, andare a selezionare la modalità di pagamento e procedere all'inserimento delle righe, per cui andrà selezionata una categoria IVA Non Imponibile.
 
-<figure><img src="../../.gitbook/assets/immagine (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (32).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (342) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️ Creazione autofattura di vendita
 

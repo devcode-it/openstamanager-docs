@@ -8,12 +8,13 @@ Per modificare un'anagrafica si dovrà cliccare sul record interessato per aprir
 
 In questa schermata sarà possibile distinguere 6 diverse sezioni:
 
-* [Dati anagrafici](modifica.md#dati-anagrafici)
-* [Sede legale](modifica.md#sede-legale)
-* [Geolocalizzazione](modifica.md#geolocalizzazione)
-* [Informazioni per tipo di anagrafica](modifica.md#informazioni-per-tipo-di-anagrafica)
-* [Informazione aggiuntive](modifica.md#informazioni-aggiuntive)
-* [Allegati](modifica.md#allegati)
+* Dati anagrafici
+* Sede legale
+* Geolocalizzazione
+* Informazioni per tipo di anagrafica
+* Informazione aggiuntive
+* Allegati
+* Documenti collegati
 
 ## 👦 Dati anagrafici
 
@@ -28,7 +29,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-![](<../../../.gitbook/assets/immagine (169).png>)
+<figure><img src="../../../.gitbook/assets/immagine (353).png" alt=""><figcaption></figcaption></figure>
 
 ## 🏭 Sede legale
 
@@ -57,7 +58,7 @@ In questa sezione è possibile visualizzare attraverso _Google Maps_ l'indirizzo
 
 Per fare ciò basta cliccare sopra il link mostrato all'interno del riquadro:
 
-![](<../../../.gitbook/assets/immagine (170).png>)
+<figure><img src="../../../.gitbook/assets/immagine (364).png" alt=""><figcaption></figcaption></figure>
 
 Successivamente si verrà indirizzati in _impostazioni_ per inserire un [_Google Maps API Key_ ](../../../configurazioni/configurazione-google-maps-api-key.md)valido.
 
@@ -73,18 +74,19 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 
 * Provenienza cliente
 * Pagamento predefinito
-* IVA predefinita
-* Piano di sconto/magg. su articoli
-* Agente principale
-* Piano dei conti cliente\*
-* Relazione con il cliente
 * Banca predefinita per accrediti
+* IVA predefinita
 * Ritenuta d'acconto predefinita
+* Piano di sconto/magg. su articoli
 * Indirizzo di fatturazione
+* Agente principale
 * Agenti secondari
+* Listino
 * Tipo attività predefinita
+* Dichiarazione d'intento
+* Piano dei conti cliente
 
-![](<../../../.gitbook/assets/immagine (120).png>)
+<figure><img src="../../../.gitbook/assets/immagine (371).png" alt=""><figcaption></figcaption></figure>
 
 ### 💁‍♂️ Fornitore
 
@@ -93,16 +95,17 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Piano di sconto/magg. su articoli
 * Banca predefinita per addebiti
 * Ritenuta d'acconto predefinita
-* Piano dei conti fornitore\*
+* Piano dei conti fornitore
 
-![](<../../../.gitbook/assets/immagine (168).png>)
+![](<../../../.gitbook/assets/immagine (168) (1).png>)
 
 ### 🧑‍💼 Cliente e Fornitore
 
 * Abilitare lo split payment
+* Relazione
 * Dicitura fissa in fattura
 
-![](<../../../.gitbook/assets/immagine (122).png>)
+<figure><img src="../../../.gitbook/assets/immagine (367).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑‍🔧 Tecnico
 
@@ -131,7 +134,7 @@ E' qui possibile trovare le informazioni relative a:
 * Tipo di anagrafica
 * Note
 
-![](<../../../.gitbook/assets/immagine (27) (1).png>)
+![](<../../../.gitbook/assets/immagine (27).png>)
 
 {% hint style="info" %}
 Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;
@@ -151,10 +154,12 @@ Questo permetterà di visualizzare in tutte le stampe cartacee il logo appena ca
 
 ![](<../../../.gitbook/assets/immagine (135).png>)
 
+{% content-ref url="../../../guide/esempi/impostare-logo-nelle-stampe.md" %}
+[impostare-logo-nelle-stampe.md](../../../guide/esempi/impostare-logo-nelle-stampe.md)
+{% endcontent-ref %}
+
 ## 🗳️ Altro
 
 Quando esiste un collegamento interno di un'anagrafica con altre componenti del gestionale, la sua eliminazione non è consentita.
 
 ![Screenshot documenti collegati](../../../.gitbook/assets/DocCollegati.PNG)
-
-\*Se l'anagrafica che si va a creare è del tipo cliente o fornitore, una volta completata la sua creazione, il gestionale provvederà a creare i relativi conti nel piano dei conti.

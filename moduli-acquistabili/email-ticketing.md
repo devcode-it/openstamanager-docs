@@ -16,7 +16,7 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 [Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (353).png>)
+![](<../.gitbook/assets/immagine (353) (1).png>)
 
 ## ➕ Creazione
 
@@ -38,11 +38,11 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-![](<../.gitbook/assets/immagine (338).png>)
+![](<../.gitbook/assets/immagine (338) (1).png>)
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-![](<../.gitbook/assets/immagine (340).png>)
+![](<../.gitbook/assets/immagine (340) (1).png>)
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 
@@ -56,7 +56,7 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
   * L'indirizzo email a cui mandare la notifica
   * Il template da utilizzare
 
-![](<../.gitbook/assets/immagine (25) (1).png>)
+![](<../.gitbook/assets/immagine (25).png>)
 
 ## 🎛️ Configurazione
 
@@ -76,7 +76,7 @@ Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verr
 In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (344).png>)
+![](<../.gitbook/assets/immagine (344) (1).png>)
 
 #### Esempio:
 
@@ -86,21 +86,21 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/immagine (343).png>)
+![](<../.gitbook/assets/immagine (343) (1).png>)
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-![](<../.gitbook/assets/immagine (20) (1).png>)
+![](<../.gitbook/assets/immagine (20).png>)
 
 Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (330).png>)
+![](<../.gitbook/assets/immagine (330) (1).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/immagine (19) (1).png>)
+![](<../.gitbook/assets/immagine (19).png>)
 
 {% hint style="warning" %}
 Vedi anche:

@@ -8,7 +8,7 @@ Per emettere una fattura elettronica nei confronti di una Pubblica Amministrazio
 
 Nello specifico essa deve riportare come Tipologia la voce "Ente pubblico" e deve essere stato specificato il corretto Codice destinatario.
 
-<figure><img src="../../../.gitbook/assets/immagine (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 I codici destinatario degli enti pubblici sono composti da 6 caratteri che indentificano ogni ente pubblico e sono censiti e consultabili nel sito [https://www.indicepa.gov.it/ipa-portale/](https://www.indicepa.gov.it/ipa-portale/)
@@ -18,7 +18,7 @@ Dopo aver registrato correttamente l'anagrafica si dovrà procedere ad emettere 
 
 Si dovrà qui selezionare l'Ente pubblico e cliccare su Aggiungi.
 
-<figure><img src="../../../.gitbook/assets/immagine (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (333) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si potrà ora procedere al completamento dei dati da riportare in fattura inserendo le righe e andando ad attivare l'impostazione "Split payment", un meccanismo secondo cui la PA acquirente non corrisponde l'IVA presente in fattura al fornitore ma la trattiene e la versa direttamente all'erario.
 
@@ -33,7 +33,7 @@ Devono seguire le regole dello Split Payment **tutti coloro che emettono fatture
 
 Si dovrà ora cliccare su Attributi avanzati.
 
-<figure><img src="../../../.gitbook/assets/immagine (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (341) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le fatture elettroniche emesse verso le PA infatti, dovranno riportare obbligatoriamente:
 

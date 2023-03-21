@@ -10,11 +10,11 @@ Di seguito le principali novità della versione 2.4.42, per maggiori dettagli vi
 
 ➡️ Aggiunta la possibilità di forzare la dimensione dei widget in Dashboard
 
-<figure><img src=".gitbook/assets/immagine (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (35) (2).png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Aggiunta la possibilità di inserire un seriale anche se la fattura di acquisto è in stato 'Emessa'
 
-<figure><img src=".gitbook/assets/immagine (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (34) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Correzioni:
 

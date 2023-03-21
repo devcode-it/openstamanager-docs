@@ -6,7 +6,7 @@ description: Guida ai widget di OpenSTAManager
 
 I widget sono componenti predefiniti che presentano una serie di funzioni aggiuntive a un modulo, che possono andare da filtri ad operazioni di gestione interna dei record. E' possibile visualizzarli nella parte alta della pagina.
 
-<figure><img src="../../.gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (174).png" alt=""><figcaption></figcaption></figure>
 
 ## 🎛️ **Gestione dei widget**
 
@@ -20,13 +20,13 @@ Per procedere a disabilitarlo invece, basterà cliccare sulla X nell'angolo in a
 
 La dimensione di default dei widget è configurabile da Strumenti/Impostazioni/Generali, alla voce **Dimensione widget predefinita:**
 
-<figure><img src="../../.gitbook/assets/immagine (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (184).png" alt=""><figcaption></figcaption></figure>
 
 Tuttavia è possibile forzare la dimensione dei vari widget da Strumenti/Stato dei servizi, per impostare dimensioni personalizzate:
 
-<figure><img src="../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (345).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (171).png" alt=""><figcaption></figcaption></figure>
 
 I valori corrispondenti alle impostazioni sono:
 

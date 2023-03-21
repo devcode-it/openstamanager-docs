@@ -8,8 +8,6 @@ description: Guida al modulo Anagrafiche di OpenSTAManager
 Il modulo **Anagrafiche** permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
 {% endhint %}
 
-![Screenshot Anagrafiche](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FL9jxnCVWCwJY2W1pjbm0%2Ffile.png?alt=media)
-
 Sono disponibili cinque principali tipologie di anagrafiche:
 
 * Agenti
@@ -24,7 +22,7 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Anagrafiche**.
 
-![](<../../../.gitbook/assets/image (20).png>)
+<figure><img src="../../../.gitbook/assets/immagine (349).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
@@ -42,14 +40,14 @@ Aprendo il menu a tendina è possibile trovare i moduli:
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 6 widget per il filtraggio automatico delle anagrafiche per tipo:
 
-* Agenti
 * Clienti
-* Fornitori
 * Tecnici
+* Fornitori
+* Agenti
 * Vettori
 * Tutti
 
-![](../../../.gitbook/assets/widgetanagrafiche.PNG)
+<figure><img src="../../../.gitbook/assets/immagine (366).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 

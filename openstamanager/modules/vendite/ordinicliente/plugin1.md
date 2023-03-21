@@ -88,7 +88,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a invia
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine cliente, dove sarà possibile inviare la mail cliccando su invia.
 
-![](<../../../../.gitbook/assets/immagine (350).png>)
+![](<../../../../.gitbook/assets/immagine (350) (1).png>)
 
 ### ➕ Crea...
 
@@ -103,7 +103,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere alla cr
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (351).png>)
+![](<../../../../.gitbook/assets/immagine (351) (1).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 

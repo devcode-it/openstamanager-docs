@@ -62,11 +62,11 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (16).png" alt=""><figcaption></figcaption></figure>
 
 Con la funzione **Inserimento massivo** è possibile pianificare massivamente il lavoro dei tecnici creando più sessioni contemporaneamente per uno o più tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
 
 Le attività verranno così visualizzate in Dashboard:
 

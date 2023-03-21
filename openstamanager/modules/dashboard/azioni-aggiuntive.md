@@ -21,22 +21,22 @@ Il calendario dispone di quattro tipi di visualizzazione diverse:
 
 * Mese
 
-<figure><img src="../../../.gitbook/assets/immagine (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (370).png" alt=""><figcaption></figcaption></figure>
 
 * Settimana
 
-<figure><img src="../../../.gitbook/assets/immagine (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (374).png" alt=""><figcaption></figcaption></figure>
 
 * Giorno
 
-<figure><img src="../../../.gitbook/assets/immagine (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (347).png" alt=""><figcaption></figcaption></figure>
 
 * Agenda
 
-<figure><img src="../../../.gitbook/assets/immagine (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (354).png" alt=""><figcaption></figcaption></figure>
 
 ### Promemoria da pianificare
 
 Nella sezione destra della pagina, sono presenti i promemoria da pianificare, suddivisi per mese. E' possibile da qui procedere a trascinarli nel calendario per programmare gli eventi:
 
-<figure><img src="../../../.gitbook/assets/immagine (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (369).png" alt=""><figcaption></figcaption></figure>
