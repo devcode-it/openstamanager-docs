@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Mittente
 * Causale di trasporto
 
-![](<../../../../.gitbook/assets/image (638).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (29).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -42,10 +42,22 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Vettore
 * Data e ora trasporto
 * Note
-* Righe
-* Allegati
+* Note aggiuntive
 
-![](<../../../../.gitbook/assets/image (207).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (27).png" alt=""><figcaption></figcaption></figure>
+
+E' inoltre possibile modificare le righe e gli allegati.
+
+Le righe possono includere:
+
+* Articolo
+* Riga generica
+* Descrizione
+* Sconto/maggiorazione
+* DDT
+* Ordine
+
+<figure><img src="../../../../.gitbook/assets/immagine (24).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

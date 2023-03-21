@@ -56,7 +56,7 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
   * L'indirizzo email a cui mandare la notifica
   * Il template da utilizzare
 
-![](<../.gitbook/assets/immagine (25).png>)
+![](<../.gitbook/assets/immagine (25) (1).png>)
 
 ## 🎛️ Configurazione
 
@@ -90,7 +90,7 @@ Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-![](<../.gitbook/assets/immagine (20).png>)
+![](<../.gitbook/assets/immagine (20) (1).png>)
 
 Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
@@ -100,7 +100,7 @@ Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/immagine (19).png>)
+![](<../.gitbook/assets/immagine (19) (1).png>)
 
 {% hint style="warning" %}
 Vedi anche:

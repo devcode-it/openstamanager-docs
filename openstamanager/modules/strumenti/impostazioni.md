@@ -4,42 +4,21 @@ description: Come modificare le Impostazioni in OpenSTAManager
 
 # 🎚 Impostazioni
 
-Il modulo **impostazioni** permette di apportare delle modifiche ai seguenti moduli:
+Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale, suddivise per moduli:
 
-* Aggiornamenti
-* Anagrafiche
-* API
-* Applicazione
-* Attività
-* Backup
-* Contratti
-* Dashboard
-* DDT
-* Fatturazione
-* Fatturazione elettronica
-* Generali
-* Magazzino
-* Mail
-* Newsletter
-* Ordini
-* Piano dei conti
-* Preventivi
-
-![](<../../../.gitbook/assets/image (245).png>)
+<figure><img src="../../../.gitbook/assets/immagine (22).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Aggiornamenti
 
-In questa sezione è possibile attivare o disattivare gli aggiornamenti di OpenSTAManager.
+* Attivare o disattivare la notifica di aggiornamenti disponibili di OpenSTAManager.
 
 ### 🔨 Anagrafiche
 
-In questa sezione è possibile modificare il formato codice anagrafica.
+* Impostar il formato codice anagrafica.
 
 Ogni "#" in fase di aggiunta di una nuova anagrafica verrà valorizzato, si può quindi impostare il numero di cifre che verranno mostrate e valorizzate come codice anagrafica.
 
 ### 🔨 API
-
-In questa sezione è possibile modificare:
 
 * Lunghezza pagine per API (default)
 * Google Maps API key: API key di Google Maps per permettere una corretta visualizzazione delle mappe
@@ -47,42 +26,38 @@ In questa sezione è possibile modificare:
 
 ### 🔨 Applicazione
 
-In questa sezione è possibile modificare:
-
 * Google Maps API key per Tecnici: API key di Google dove confluiranno le richieste dei tecnici
-* Scegliere se mostrare i prezzi nell'APP
-* Scegliere se sincronizzare solo i Clienti per cui il Tecnico ha lavorato in passato
-* Impostare i mesi per lo storico delle Attività
-* Scegliere se abilitare la modifica di altri tecnici
+* Abilitare la visualizzazione dei prezzi nell'APP
+* Abilitare la sincronizzare solo dei Clienti per cui il Tecnico ha lavorato in passato
+* Impostare il numero di mesi per lo storico delle Attività
+* Abilitare la modifica delle attività di altri tecnici, opzione che permette l'inserimento di attività ad altri tecnici
+* Abilitare la visualizzazione dei promemoria
 
 ### 🔨 Attività
 
-In questa sezione è possibile modificare:
-
-* Formato codice attività
-* Scegliere se mostrare i prezzi al tecnico
-* Stampa per anteprima e firma
-* Scegliere se permettere l'inserimento di sessioni degli altri tecnici
+* Abilitare la visualizzazione dei prezzi al tecnico
+* Abilitare la stampa per anteprima e firma
+* Abilitare l'inserimento di sessioni agli altri tecnici
 * Inizio orario lavorativo
 * Fine orario lavorativo
 * Giorni lavorativi
 * Scegliere se notificare al tecnico:
   * l'aggiunta della sessione nell'attività
   * la rimozione della sessione dall'attività
-  * l'assegnazione attività
+  * l'assegnazione dell'attività
   * la rimozione dell'assegnazione dell'attività
 * Stato dell'attività alla chiusura
 * Stato dell'attività dopo la firma
-* Scegliere se mostrare promemoria attività ai soli tecnici assegnati
-* Scegliere se espandere automaticamente la sezione "Dettagli aggiuntivi"
-* Scegliere se inviare alert di occupazione tecnici
-* Scegliere se verificare numero intervento
+* Abilitare la visualizzazione dei promemoria attività ai soli tecnici assegnati
+* Abilitare l'espansione automatica della sezione "Dettagli aggiuntivi"
+* Abilitare l'invio di alert di occupazione tecnici
+* Abilitare la verifica del numero intervento
 * Formato ore in stampa
-* Descrizione personalizzata in fatturazione.
+* Descrizione personalizzata in fatturazione
+* Stato predefinito dell'attività creata da Dashboard
+* Stato predefinito dell'attività alla creazione
 
 ### 🔨 Backup
-
-In questa sezione è possibile modificare:
 
 * Numero di backup da mantenere
 * Scegliere se abilitare il backup automatico
@@ -90,34 +65,24 @@ In questa sezione è possibile modificare:
 
 ### 🔨 Contratti
 
-In questa sezione è possibile modificare:
-
-* Formato codice contratti
 * Condizioni generali di fornitura contratti
 
 ### 🔨 Dashboard
 
-In questa sezione è possibile modificare:
-
-* Scegliere se utilizzare i toolpit sul calendario
-* Scegliere se visualizzare la Domenica sul calendario
-* Vista dashboard
+* Abilitare i tooltip sul calendario
+* Abilitare la visualizzazione della Domenica sul calendario
+* Vista dashboard predefinita
 * Ora inizio sul calendario
 * Ora fine sul calendario
-* Scegliere se visualizzare informazioni aggiuntive sul calendario
+* Abilitare la visualizzazione delle informazioni aggiuntive sul calendario
 * Visualizzazione colori sessioni
 * Tempo predefinito di snap attività sul calendario
 
 ### 🔨 DDT
 
-In questa sezione è possibile modificare:
-
-* Formato numero secondario DDT
-* Scegliere se cambiare automaticamente stato DDT fatturati
+* Abilitare la modifica automatica dello stato DDT quando fatturati
 
 ### 🔨 Fatturazione
-
-In questa sezione è possibile modificare:
 
 * IVA predefinita
 * Tipo di pagamento predefinito
@@ -131,12 +96,12 @@ In questa sezione è possibile modificare:
 * Dicitura fissa fattura
 * Metodologia calcolo ritenuta d'acconto predefinito
 * Ritenuta previdenziale predefinita
-* Scegliere se addebitare marca da bollo al cliente
+* Abilitare l'addebito della marca da bollo al cliente
 * IVA da applicare su marca da bollo
 * Descrizione addebito bollo
 * Conto predefinito per la marca da bollo
 * IVA per lettere d'intento
-* Scegliere se utilizzare prezzi di vendita comprensivi di IVA
+* Abilitare l'utilizzo di prezzi di vendita comprensivi di IVA
 * Liquidazione IVA
 * Conto anticipo clienti
 * Conto anticipo fornitori
@@ -144,12 +109,13 @@ In questa sezione è possibile modificare:
 * Aggiorna info di acquisto
 * Sezionale per autofatture di vendita
 * Sezionale per autofatture di acquisto
+* Abilitare il blocco ai prezzi inferiori al minimo di vendita
+* Abilitare la fatturazione delle attività collegate a contratti, ordini e preventivi
+* Abilitare la data di emissione fattura automatica
 
 ### 🔨 Fatturazione elettronica
 
-In questa sezione è possibile modificare:
-
-* Scegliere se allegare stampa:
+* Abilitare l'allegato di stampa:
   * per fattura verso Privati
   * per fattura verso Aziende
   * per fattura verso PA
@@ -159,69 +125,66 @@ In questa sezione è possibile modificare:
 * ID di autorizzazione indice PA
 * OSMCloud Services API Token
 * Terzo intermediario
-* Scegliere se porre il riferimento dei documenti in Fattura elettronica
+* Abilitare il riferimento dei documenti in Fattura elettronica
 * OSMCloud Services API URL
 * OSMCloud Services API Version
 * Data inizio controlli su stati FE
+* Abilitare la movimentazione del magazzino da fatture di acquisto
 
 ### 🔨 Generali
 
-In questa sezione è possibile modificare:
-
 * Azienda predefinita
-* Scegliere se nascondere la barra sinistra di default
+* Nascondere la barra sinistra di default
 * Cifre decimali per importi
 * CSS Personalizzato
-* Scegliere se attivare la notifica di presenza utenti sul record
+* Abilitare la notifica di presenza utenti sul record
 * Timeout notifica di presenza (minuti)
 * Prima pagina
 * Cifre decimali per quantità
 * Tempo di attesa ricerche in secondi
 * Logo stampe
-* Scegliere se abilitare esportazione Excel e PDF
+* Abilitare esportazione Excel e PDF
 * Valuta
-* Scegliere se porre riferimento dei documenti nelle stampe
+* Abilitare il riferimento dei documenti nelle stampe
 * Lunghezza in pagine del buffer Datatables
 * Autocompletamento form
 * Filigrana stampe
-* Scegliere se abilitare scorciatoie da tastiera
-* Scegliere se abilitare modifica viste di Default
-* Scegliere se abilitare canale pre-release per aggiornamenti
-* Scegliere se abilitare totali delle tabelle ristretti alla selezione
-* Scegliere se nascondere la barra dei plugin di default
+* Abilitare scorciatoie da tastiera
+* Abilitare modifica viste di Default
+* Abilitare canale pre-release per aggiornamenti
+* Abilitare totali delle tabelle ristretti alla selezione
+* Nascondere la barra dei plugin di default
 * Soft quota
-* Scegliere se permettere selezione articoli con quantità minore o uguale a zero in Documenti di Vendita
+* Abilitare la selezione di articoli con quantità minore o uguale a zero in Documenti di Vendita
 * Inizio periodo calendario
 * Fine periodo calendario
-* Scegliere se permettere il superamento della soglia quantità dei documenti di origine
-* Scegliere se aggiungere riferimento tra documenti
-* Scegliere se mantenere riferimenti tra tutti i documenti collegati
+* Abilitare il superamento della soglia quantità dei documenti di origine
+* Abilitare l'aggiunta di riferimento tra documenti
+* Mantenere riferimenti tra tutti i documenti collegati
+* Abilitare l'aggiunta di note delle righe tra documenti
+* Dimensione widget predefinita
+* Posizione del simbolo valuta
 
 ### 🔨 Magazzino
 
-In questa sezione è possibile scegliere se movimentare il magazzino durante l'inserimento o l'eliminazione dei lotti/serial number.
+* Abilitare la movimentazione del magazzino durante l'inserimento o eliminazione dei lotti/serial number
 
 ### 🔨 Mail
 
-In questa sezione è possibile modificare il numero di giorni mantenimento coda di invio
+* Numero di giorni di mantenimento della coda di invio
 
 ### 🔨 Newsletter
 
-In questa sezione è possibile modificare il numero massimo di tentativi di invio e il numero di email da inviare in contemporanea per account
+* Numero massimo di tentativi di invio
+* Numero email da inviare in contemporanea per account
 
 ### 🔨 Ordini
 
-In questa sezione è possibile modificare:
-
-* Formato numero secondario ordine
-* Scegliere se cambiare automaticamente stato ordini fatturati
-* Scegliere se confermare automaticamente le quantità negli
-  * ordini cliente
-  * ordini fornitore
+* Abilitare la modifica automatica dello stato ordini fatturati
+* Abilitare la conferma automatica delle quantità negli ordini cliente
+* Abilitare la conferma automatica delle quantità negli ordini fornitore
 
 ### 🔨 Piano dei conti
-
-In questa sezione è possibile modificare:
 
 * Conto per Riepilogo
   * fornitori
@@ -244,9 +207,5 @@ In questa sezione è possibile modificare:
 
 ### 🔨 Preventivi
 
-In questa sezione è possibile modificare:
-
-* Formato codice preventivi
 * Condizioni generali di fornitura preventivi
-* Scegliere se confermare automaticamente le quantità nei preventivi
-
+* Abilitare la conferma automatica delle quantità nei preventivi

@@ -8,7 +8,7 @@ description: Come gestire i moduli in OpenSTAManager
 Nel modulo **Stato dei servizi** è possibile abilitare e disabilitare i moduli e i plugin di OpenSTAManager.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (21).png>)
+<figure><img src="../../../.gitbook/assets/immagine (28).png" alt=""><figcaption></figcaption></figure>
 
 Si possono trovare tre sezioni:
 
@@ -211,6 +211,10 @@ Per abilitare un widget si dovrà cliccare sul tasto ![](<../../../.gitbook/asse
 
 Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (161).png>).
 {% endhint %}
+
+{% content-ref url="../../interfaccia/widget.md" %}
+[widget.md](../../interfaccia/widget.md)
+{% endcontent-ref %}
 
 ### 🧭 Spazio utilizzato
 

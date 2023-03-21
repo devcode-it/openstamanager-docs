@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di acquisto:
 * Tipo documento
 * Sezionale
 
-
+<figure><img src="../../../../.gitbook/assets/immagine (20).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
