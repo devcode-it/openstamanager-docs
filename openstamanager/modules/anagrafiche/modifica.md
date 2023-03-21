@@ -131,7 +131,7 @@ E' qui possibile trovare le informazioni relative a:
 * Tipo di anagrafica
 * Note
 
-![](<../../../.gitbook/assets/immagine (27).png>)
+![](<../../../.gitbook/assets/immagine (27) (1).png>)
 
 {% hint style="info" %}
 Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;

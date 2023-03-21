@@ -73,12 +73,4 @@ Per gli amministratori, è presente un plugin denominato **Info** che permette d
 
 ## 📍 Gestione dei moduli
 
-Le operazioni di gestione dei moduli, quali abilitazione e disabilitazione, sono disponibili attraverso il modulo [Stato dei servizi](stato-dei-servizi.md). Da qui inoltre, abilitando il modulo _Viste,_ è possibile creare delle query personalizzate per cambiare la visualizzazione dei vari moduli.
-
-## 🔍 LOG
-
-Nel menu superiore di OpenSTAManager è possibile accedere ai LOG degli accessi cliccando sul pulsante:
-
-<figure><img src="../../.gitbook/assets/immagine (288).png" alt=""><figcaption></figcaption></figure>
-
-Qui sarà possibile visualizzare che utente si è connesso, in che data e ora, lo stato del login e il suo indirizzo IP.
+Le operazioni di gestione dei moduli, quali abilitazione e disabilitazione, sono disponibili attraverso il modulo [Stato dei servizi](broken-reference). Da qui inoltre, abilitando il modulo _Viste,_ è possibile creare delle query personalizzate per cambiare la visualizzazione dei vari moduli.

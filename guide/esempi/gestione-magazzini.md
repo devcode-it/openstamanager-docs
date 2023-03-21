@@ -62,7 +62,7 @@ Verrà così generato un DDT in uscita con stato Evaso con gli stessi estremi di
 
 Andando ad analizzare i movimenti sarà ora possibile vedere lo spostamento dei prodotti dalla sede legale al punto vendita selezionato.
 
-![](<../../.gitbook/assets/immagine (7).png>)
+![](<../../.gitbook/assets/immagine (7) (1).png>)
 
 ### 📦 Visualizzare le giacenze per articolo
 

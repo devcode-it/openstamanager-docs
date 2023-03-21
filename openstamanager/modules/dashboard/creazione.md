@@ -10,16 +10,17 @@ Utilizzando il calendario presente nella **Dashboard** è possibile aggiungere u
 
 Creando un intervento in questo modo si hanno a disposizione una serie di campi obbligatori da compilare, quali:
 
-* Cliente (anagrafica)
-* Tipo (attività)
-* Stato (Completato - Da programmare - Fatturato - Programmato)
-* Richiesta (Descrizione intervento)
-* Inizio attività
-* Fine attività
+* Cliente
+* Sezionale
+* Tipo
+* Stato
+* Richiesta
 * Tecnici
 
-![](../../../.gitbook/assets/Senzanome.png)
+<figure><img src="../../../.gitbook/assets/immagine (53).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/immagine (50).png" alt=""><figcaption></figcaption></figure>
 
 Gli interventi creati in questo modo saranno poi visualizzati a calendario e verranno automaticamente registrati tra le attività:
 
-![](<../../../.gitbook/assets/immagine (144).png>)
+<figure><img src="../../../.gitbook/assets/immagine (49).png" alt=""><figcaption></figcaption></figure>

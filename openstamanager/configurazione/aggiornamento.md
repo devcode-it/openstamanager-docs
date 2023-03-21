@@ -17,17 +17,13 @@ In questo caso, ogni utente presente all'interno del gestionale verrà automatic
 
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
-![Aggiornamento del database completato](../../.gitbook/assets/updated.png)
+<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ Errori di aggiornamento
 
 La procedura di aggiornamento, come ogni componente software, è soggetta a possibili errori.
 
-![Errore aggiornamento](../../.gitbook/assets/error.png)
-
-Nel caso questi si verifichino, l'utente dovrebbe riuscire a visualizzare il seguente messaggio informativo:
-
-![Errore aggiornamento](../../.gitbook/assets/already-updating.png)
+<figure><img src="../../.gitbook/assets/immagine (24).png" alt=""><figcaption></figcaption></figure>
 
 In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consultare il [forum ufficiale](https://www.openstamanager.com/forum/) per eventuali segnalazioni simili.
 

@@ -12,7 +12,7 @@ La navigazione attraverso le diverse sezioni del gestionale viene resa possibile
 
 Nella parte più alta di questa componente è inoltre presente una barra di ricerca generalizzata all'interno del gestionale, che permette di effettuare ricerche tra i moduli che supportano questa funzione.
 
-![](<../../.gitbook/assets/immagine (133).png>)
+![](<../../.gitbook/assets/immagine (19).png>)
 
 La sezione aperta a gestionale si può distinguere da un colore di sfondo più scuro nel menu.
 
@@ -36,22 +36,21 @@ Sono presenti diversi valori preimpostati:
 * Anno scorso
 * Personalizzato
 
-Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard** e **Articoli**).
+Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard**).
 
-![](<../../.gitbook/assets/immagine (132).png>)
+<figure><img src="../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Opzioni di controllo
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-![](<../../.gitbook/assets/immagine (128).png>)
+<figure><img src="../../.gitbook/assets/immagine (39).png" alt=""><figcaption></figcaption></figure>
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
 * Visualizzare le notifiche
 * Stampare la schermata attuale attraverso il browser
-* Visitare la pagina per la segnalazione dei bug
-* Visitare l'elenco dei propri tentativi di accesso
+* Visitare l'elenco dei tentativi di accesso
 * Visitare la pagina di informazioni sul software
 * Effettuare il logout
 
@@ -78,8 +77,8 @@ E' possibile procedere alla personalizzazione di questi contenuti attraverso i s
 [widget.md](widget.md)
 {% endcontent-ref %}
 
-{% content-ref url="stato-dei-servizi.md" %}
-[stato-dei-servizi.md](stato-dei-servizi.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="gestione-upload.md" %}

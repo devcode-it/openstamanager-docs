@@ -48,7 +48,7 @@ In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 
 Una volta compilato il form si dovrà cliccare su Aggiungi, andare a selezionare la modalità di pagamento e procedere all'inserimento delle righe, per cui andrà selezionata una categoria IVA Non Imponibile.
 
-<figure><img src="../../.gitbook/assets/immagine (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/immagine (342).png" alt=""><figcaption></figcaption></figure>
 

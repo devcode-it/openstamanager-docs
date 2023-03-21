@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-![](<../../.gitbook/assets/immagine (89).png>)
+<figure><img src="../../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Formato dei backup
 
@@ -43,7 +43,7 @@ Per migliorare la sicurezza del server, il file `config.inc.php`, che contiene i
 
 Esiste una procedura semplificata di ripristino dei backup, che cerca di risolvere il problema tecnico per utenti con meno esperienza tecnica. Si dovrà cliccare Ripristina nel backup interessato, dalla sezione Backup compressi.
 
-![](<../../.gitbook/assets/immagine (300).png>)
+<figure><img src="../../.gitbook/assets/immagine (43).png" alt=""><figcaption></figcaption></figure>
 
 La procedura manuale è comunque sempre disponibile, e prevede di:
 
@@ -56,9 +56,9 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 
 ## 📙 Backup automatico
 
-E' disponibile una impostazione nativa per l'esecuzione del backup al primo accesso giornaliero: nel modulo **Impostazioni**, sotto la categoria **Backup** è sufficiente selezionare _Backup automatico_.
+E' disponibile un'impostazione per l'esecuzione del backup al primo accesso giornaliero: nel modulo **Impostazioni**, sotto la categoria **Backup** è sufficiente selezionare _Backup automatico_.
 
-![Opzioni disponibili per i backup](<../../.gitbook/assets/image (496).png>)
+<figure><img src="../../.gitbook/assets/immagine (18).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 E' presente un _hook_ indipendente che effettua il backup in background.

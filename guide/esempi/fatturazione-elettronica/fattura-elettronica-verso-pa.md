@@ -8,7 +8,7 @@ Per emettere una fattura elettronica nei confronti di una Pubblica Amministrazio
 
 Nello specifico essa deve riportare come Tipologia la voce "Ente pubblico" e deve essere stato specificato il corretto Codice destinatario.
 
-<figure><img src="../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 I codici destinatario degli enti pubblici sono composti da 6 caratteri che indentificano ogni ente pubblico e sono censiti e consultabili nel sito [https://www.indicepa.gov.it/ipa-portale/](https://www.indicepa.gov.it/ipa-portale/)

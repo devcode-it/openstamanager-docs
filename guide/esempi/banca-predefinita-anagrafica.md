@@ -21,7 +21,7 @@ Aprendo ora l'anagrafica interessata dal modulo Anagrafiche e scorrendo fino all
 * La banca predefinita per l'anagrafica
 * Le banche disponibili per l'anagrafica.
 
-![](<../../.gitbook/assets/immagine (54).png>)
+![](<../../.gitbook/assets/immagine (54) (1).png>)
 
 Cliccando su Visualizza la banca predefinita per l'Anagrafica si aprirà la schermata di modifica della banca predefinita appena selezionata, mentre cliccando su Visualizza le banche disponibili per l'Anagrafica sarà possibile visualizzare tutte le banche collegate all'anagrafica scelta.
 
