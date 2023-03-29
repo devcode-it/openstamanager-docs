@@ -12,13 +12,13 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️ Aggiunta esportazione dello scadenzario in XML
 
-<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Modificato l'ordinamento dello scalare in piano dei conti
 
 <figure><img src=".gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-➡️  Gli eventi ricorrenti e le festività sono ora gestiti in Dashboard:
+➡️  Gli [eventi ricorrenti e le festività](openstamanager/modules/strumenti/tabelle/eventi.md) sono ora gestiti in Dashboard:
 
 Festività ricorrenti
 
@@ -26,7 +26,7 @@ Festività ricorrenti
 
 Festività:
 
-<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 Eventi ricorrenti:
 
@@ -34,9 +34,9 @@ Eventi ricorrenti:
 
 ➡️ E' ora possibile definire da impostazioni i giorni lavorativi e visualizzare sul calendario i giorni non lavorativi con sfondo rosso:
 
-<figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ### Correzioni:
 
