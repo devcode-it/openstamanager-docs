@@ -33,7 +33,7 @@ Devono seguire le regole dello Split Payment **tutti coloro che emettono fatture
 
 Si dovrà ora cliccare su Attributi avanzati.
 
-<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le fatture elettroniche emesse verso le PA infatti, dovranno riportare obbligatoriamente:
 

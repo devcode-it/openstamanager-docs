@@ -12,7 +12,11 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️ Aggiunta esportazione dello scadenzario in XML
 
+<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+
 ➡️  Modificato l'ordinamento dello scalare in piano dei conti
+
+<figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Correzioni:
 
