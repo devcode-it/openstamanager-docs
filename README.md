@@ -12,5 +12,16 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️ Aggiunta esportazione dello scadenzario in XML
 
+➡️  Modificato l'ordinamento dello scalare in piano dei conti
+
 ### Correzioni:
 
+➡️  Corretta la sede di partenza articoli in Attività
+
+➡️  Corretto l'inserimento e modifica di nuove checklist
+
+➡️  Corrette le stampe bilancio, liquidazione IVA e registro IVA
+
+➡️ **** Corretto il calcolo dell'IVA su rivalsa INPS
+
+➡️ Corretto inserimento di articoli con quantità negativa in ordini e contratti
