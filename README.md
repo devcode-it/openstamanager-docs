@@ -6,7 +6,7 @@ description: Elenco delle principali novità introdotte con la release 2.4.43.
 
 Di seguito le principali novità della versione 2.4.43, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-➡️ Aggiunta funzionalità per invio automatico di solleciti
+➡️ Aggiunta funzionalità per invio automatico di solleciti: Attivando l'invio automatico, alle ore 8.00 di ogni mattina verrà effettuato un controllo e se ci sono scadenze da sollecitare partirà un'email di notifica automatica all'indirizzo specificato in anagrafica cliente
 
 <figure><img src=".gitbook/assets/immagine (132).png" alt=""><figcaption></figcaption></figure>
 
