@@ -16,7 +16,27 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️  Modificato l'ordinamento dello scalare in piano dei conti
 
+<figure><img src=".gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+➡️  Gli eventi ricorrenti e le festività sono ora gestiti in Dashboard:
+
+Festività ricorrenti
+
 <figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+
+Festività:
+
+<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+
+Eventi ricorrenti:
+
+<figure><img src=".gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+
+➡️ E' ora possibile definire da impostazioni i giorni lavorativi e visualizzare sul calendario i giorni non lavorativi con sfondo rosso:
+
+<figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Correzioni:
 
