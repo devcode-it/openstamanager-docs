@@ -12,11 +12,15 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️ Aggiunta esportazione dello scadenzario in XML
 
-<figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Modificato l'ordinamento dello scalare in piano dei conti
 
 <figure><img src=".gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+➡️ Aggiunte le azioni di gruppo per gli allegati
+
+<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Gli [eventi ricorrenti e le festività](openstamanager/modules/strumenti/tabelle/eventi.md) sono ora gestiti in Dashboard:
 
@@ -36,7 +40,7 @@ Eventi ricorrenti:
 
 <figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Correzioni:
 
