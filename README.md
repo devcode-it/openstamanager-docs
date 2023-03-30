@@ -18,7 +18,7 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 <figure><img src=".gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-➡️ Aggiunte le azioni di gruppo per gli allegati
+➡️ Aggiunte le azioni di gruppo per la modifica categoria ed esportazione in formato ZIP degli allegati.
 
 <figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
