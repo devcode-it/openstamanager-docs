@@ -10,7 +10,7 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 <figure><img src=".gitbook/assets/immagine (132).png" alt=""><figcaption></figcaption></figure>
 
-➡️ Aggiunta esportazione dello scadenzario in XML
+➡️ Aggiunta esportazione dei bonifici da scadenzario in XML, per semplificare i pagamenti tramite banca.
 
 <figure><img src=".gitbook/assets/immagine (4) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,13 +20,19 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️ Aggiunte le azioni di gruppo per la modifica categoria ed esportazione in formato ZIP degli allegati.
 
-<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+
+➡️ Aggiunta la possibilità di firmare più rapportini di intervento contemporaneamente
+
+<figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/immagine (104).png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Gli [eventi ricorrenti e le festività](openstamanager/modules/strumenti/tabelle/eventi.md) sono ora gestiti in Dashboard:
 
 Festività ricorrenti
 
-<figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Festività:
 
@@ -38,7 +44,7 @@ Eventi ricorrenti:
 
 ➡️ E' ora possibile definire da impostazioni i giorni lavorativi e visualizzare sul calendario i giorni non lavorativi con sfondo rosso:
 
-<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
