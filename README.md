@@ -30,15 +30,15 @@ Di seguito le principali novità della versione 2.4.43, per maggiori dettagli vi
 
 ➡️  Gli [eventi ricorrenti e le festività](openstamanager/modules/strumenti/tabelle/eventi.md) sono ora gestiti in Dashboard:
 
-Festività ricorrenti
+### Festività ricorrenti
 
 <figure><img src=".gitbook/assets/immagine (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-Festività:
+### Festività:
 
 <figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
-Eventi ricorrenti:
+### Eventi ricorrenti:
 
 <figure><img src=".gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,6 +56,6 @@ Eventi ricorrenti:
 
 ➡️  Corrette le stampe bilancio, liquidazione IVA e registro IVA
 
-➡️ **** Corretto il calcolo dell'IVA su rivalsa INPS
+➡️  Corretto il calcolo dell'IVA su rivalsa INPS
 
 ➡️ Corretto inserimento di articoli con quantità negativa in ordini e contratti
