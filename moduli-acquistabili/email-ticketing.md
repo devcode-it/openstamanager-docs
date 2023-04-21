@@ -16,13 +16,13 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 [Clicca qui](https://shop.openstamanager.com/prodotto/email-ticketing/) per acquistare **Email ticketing**.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (143).png>)
+![](<../.gitbook/assets/immagine (18).png>)
 
 ## ➕ Creazione
 
 La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su Gestione email/Email ticketing
 
-![](<../.gitbook/assets/image (383).png>)
+![](<../.gitbook/assets/image (659).png>)
 
 Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato (oppure configurare l'account predefinito), composto da diverse sezioni.
 
@@ -38,11 +38,11 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-![](<../.gitbook/assets/immagine (153).png>)
+![](<../.gitbook/assets/immagine (5) (1).png>)
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-![](<../.gitbook/assets/immagine (151).png>)
+![](<../.gitbook/assets/immagine (16).png>)
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 
@@ -56,7 +56,7 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
   * L'indirizzo email a cui mandare la notifica
   * Il template da utilizzare
 
-![](<../.gitbook/assets/immagine (474).png>)
+![](<../.gitbook/assets/immagine (235).png>)
 
 ## 🎛️ Configurazione
 
@@ -76,7 +76,7 @@ Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verr
 In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (141).png>)
+![](<../.gitbook/assets/immagine (12).png>)
 
 #### Esempio:
 
@@ -86,21 +86,21 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/immagine (140).png>)
+![](<../.gitbook/assets/immagine (23).png>)
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-![](<../.gitbook/assets/immagine (477).png>)
+![](<../.gitbook/assets/immagine (239).png>)
 
 Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (129).png>)
+![](<../.gitbook/assets/immagine (13).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-![](<../.gitbook/assets/immagine (475).png>)
+![](<../.gitbook/assets/immagine (247).png>)
 
 {% hint style="warning" %}
 Vedi anche:
@@ -126,6 +126,6 @@ Da qui è quindi possibile verificare se la configurazione IMAP è corretta, o s
 
 La schermata che si presenterà sarà la seguente:
 
-<figure><img src="../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
 
 Una volta terminato il test di importazione occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.

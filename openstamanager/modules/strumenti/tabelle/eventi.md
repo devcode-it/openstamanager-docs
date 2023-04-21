@@ -8,7 +8,7 @@ description: Come gestire gli eventi in OpenSTAManager
 Il modulo **Eventi** permette di creare e modificare gli eventi presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (535).png>)
+![](<../../../../.gitbook/assets/image (352).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo evento da creare:
 * Data
 * Nazione
 
-![](<../../../../.gitbook/assets/image (132).png>)
+![](<../../../../.gitbook/assets/image (508).png>)
 
 ## 🖌️ Modifica
 
@@ -33,7 +33,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Scegliere se ricorrente
 * Scegliere se festività
 
-![](<../../../../.gitbook/assets/image (500).png>)
+![](<../../../../.gitbook/assets/image (379).png>)
 
 {% hint style="info" %}
 Per visualizzare gli eventi sulla Dashboard è necessario andare in Strumenti/Impostazioni /Dashboard e abilitare Visualizza informazioni aggiuntive sulla Dashboard.

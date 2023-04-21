@@ -6,22 +6,22 @@ description: Come gestire le dichiarazione d'intento in OpenSTAManager
 
 Per registrare una Dichiarazione d'intento si deve [creare un'**Anagrafica**](../../openstamanager/modules/anagrafiche/creazione.md) cliente o aprire quella del cliente interessato, e selezionare [**Dichiarazioni d'Intento**](https://docs.openstamanager.com/modules/anagrafiche/plugin/dichiarazioni-dintento) tra i Plugin.
 
-![](<../../.gitbook/assets/image (331).png>)
+![](<../../.gitbook/assets/image (680).png>)
 
 Cliccando sul tasto **(+)**, si avrà quindi accesso al form dove inserire i dati relativi alla **Dichiarazione d'intento** da aggiungere.
 
-![](<../../.gitbook/assets/image (578).png>)
+![](<../../.gitbook/assets/image (407).png>)
 
-![](<../../.gitbook/assets/image (252).png>)
+![](<../../.gitbook/assets/image (576).png>)
 
 Andando ora a [creare una **Fattura di vendita**](broken-reference) per quello specifico cliente, si riscontreranno i dati relativi alla **Dichiarazione d'intento** registrata e la disponibilità residua.
 
-![](<../../.gitbook/assets/image (269).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 Andando ad emettere e generare la fattura elettronica sarà possibile trovarvi riportati i campi richiesti ai fini fiscali dall'Agenzia delle Entrate.
 
-![](<../../.gitbook/assets/image (363).png>)
+![](<../../.gitbook/assets/image (87).png>)
 
 E' possibile inoltre verificare il **Totale utilizzato** aprendo una specifica **Dichiarazione d'intento** da Anagrafiche/Dichiarazioni d'Intento.
 
-![](<../../.gitbook/assets/image (572).png>)
+![](<../../.gitbook/assets/image (394).png>)

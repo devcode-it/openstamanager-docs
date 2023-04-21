@@ -8,7 +8,7 @@ description: Come gestire le Checklists in OpenSTAManager
 Il modulo **Checklists** permette di aggiungere e modificare le checklists da utilizzare nel plugin Checklist.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (321).png>)
+![](<../../../.gitbook/assets/image (665).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova checklist:
 * Modulo del template
 * Plugin del template
 
-![](<../../../.gitbook/assets/image (501).png>)
+![](<../../../.gitbook/assets/image (453).png>)
 
 ## 🖌️ Modifica
 
@@ -31,4 +31,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Contenuto
 * Genitore
 
-![](<../../../.gitbook/assets/image (328).png>)
+![](<../../../.gitbook/assets/image (674).png>)

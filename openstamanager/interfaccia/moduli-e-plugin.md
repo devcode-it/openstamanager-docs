@@ -29,7 +29,7 @@ La schermata principale che si apre entrando in un modulo è formata da una tabe
   * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
   * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 
-![](<../../.gitbook/assets/immagine (16).png>)
+![](<../../.gitbook/assets/immagine (277).png>)
 
 ### ✏️ Contenuti personalizzati
 
@@ -59,13 +59,13 @@ Cliccando su un singolo record è possibile accede alla schermata di dettaglio d
 
 Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
 
-![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (102).png>)
+![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (306).png>)
 
 ### 🔧 Plugin
 
 I plugin sono dei moduli che dipendono da altri moduli, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, che è possibile visualizzare nella sezione destra della pagina entrando in un record.
 
-![](<../../.gitbook/assets/immagine (411).png>)
+![](<../../.gitbook/assets/immagine (184).png>)
 
 {% hint style="info" %}
 Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia del record

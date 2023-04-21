@@ -8,9 +8,9 @@ description: Come inizializzare OpenSTAManager
 Una volta completata l'installazione del gestionale, ed in alcuni casi a seguito di un aggiornamento, verrà caricata la schermata di inizializzazione del software.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (448).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (310).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (427).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (331).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui immesse le informazioni base dell'azienda per effettuare il primo accesso, suddivise in:
 
@@ -54,4 +54,4 @@ Una volta completate correttamente le informazioni richieste dalle sezioni prece
 
 Si aprirà quindi ora il gestionale sul modulo Dashboard:
 
-<figure><img src="../../.gitbook/assets/immagine (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (335).png" alt=""><figcaption></figcaption></figure>

@@ -8,7 +8,7 @@ description: Come gestire le ritenute previdenziali in OpenSTAManager
 Il modulo **Ritenute previdenziali** permette di creare e modificare le ritenute previdenziali presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (277).png>)
+![](<../../../../.gitbook/assets/image (447).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova ritenuta da creare:
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../../.gitbook/assets/image (370).png>)
+![](<../../../../.gitbook/assets/image (530).png>)
 
 ## 🖌️ Modifica
 
@@ -30,4 +30,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Percentuale
 * Percentuale imponibile
 
-![](<../../../../.gitbook/assets/image (185).png>)
+![](<../../../../.gitbook/assets/image (510).png>)

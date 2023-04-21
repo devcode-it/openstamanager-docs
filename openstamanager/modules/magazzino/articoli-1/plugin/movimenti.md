@@ -12,6 +12,6 @@ Visualizza i **movimenti** degli articoli specificando:
 * Sede
 * Data
 
-![](<../../../../../.gitbook/assets/image (216).png>)
+![](<../../../../../.gitbook/assets/image (299).png>)
 
 Questo plugin permette l'eliminazione dei movimenti effettuati manualmente dal modulo **Movimenti** ma non permette l'eliminazione dei movimenti generati dai documenti di acquisto/vendita.

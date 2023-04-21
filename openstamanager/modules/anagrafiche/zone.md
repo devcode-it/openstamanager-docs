@@ -10,4 +10,4 @@ Questo modulo è dedicato alla gestione delle eventuali suddivisioni, da parte d
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/immagine (391).png>)
+![](<../../../.gitbook/assets/immagine (181).png>)

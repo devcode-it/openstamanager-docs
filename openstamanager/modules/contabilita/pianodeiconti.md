@@ -14,24 +14,24 @@ Da questo modulo è possibile visualizzare il piano dei conti, diviso in Conto e
 E' possibile visualizzare nel dettaglio gli elementi che lo compongono espandendo il menu a lato delle singole voci.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (240).png>)
+![](<../../../.gitbook/assets/image (296).png>)
 
 ## ➕ Creazione
 
 Per creare un nuovo conto si dovrà cliccare sul tasto (+) corrispondente alla voce sotto la quale si vorrà inserire:
 
-<figure><img src="../../../.gitbook/assets/immagine (478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (114).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui inserite le informazioni relative al nuovo conto:
 
 * Numero (è consigliato inserire un numero progressivo a quelli esistenti)
 * Descrizione
 
-![](<../../../.gitbook/assets/image (456).png>)
+![](<../../../.gitbook/assets/image (614).png>)
 
 ## 🖌️ Modifica
 
-Per modificare un conto si deve cliccare sul tasto <img src="../../../.gitbook/assets/image (212).png" alt="" data-size="original">.
+Per modificare un conto si deve cliccare sul tasto <img src="../../../.gitbook/assets/image (303).png" alt="" data-size="original">.
 
 Da qui sarà possibile modificare:
 
@@ -39,7 +39,7 @@ Da qui sarà possibile modificare:
 * Descrizione
 * Utilizza come (Costo, Ricavo, Ricavo e Costo)
 
-![](<../../../.gitbook/assets/image (458).png>)
+![](<../../../.gitbook/assets/image (644).png>)
 
 ## 📅 Apertura e chiusura bilancio
 
@@ -60,9 +60,9 @@ Con l'Apertura contabile:
 
 I tasti "Apertura bilancio" e "Chiusura bilancio" presenteranno colore azzurro se durante l'anno corrente questi movimenti non sono ancora stati effettuati, mentre presenteranno colore bianco nel caso in cui le scritture relative all'apertura o chiusura siano già presenti a gestionale.
 
-<figure><img src="../../../.gitbook/assets/immagine (442).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (309).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (487).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (111).png" alt=""><figcaption></figcaption></figure>
 
 Per procedere ai movimenti di chiusura bilancio si dovrà quindi:
 

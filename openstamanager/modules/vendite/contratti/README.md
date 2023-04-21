@@ -8,7 +8,7 @@ description: Come gestire i Contratti in OpenSTAManager
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (232).png>)
+![](<../../../../.gitbook/assets/image (651).png>)
 
 ## ➕ Creazione
 
@@ -23,7 +23,7 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
 * Data conclusione
 * Validità contratto
 
-<figure><img src="../../../../.gitbook/assets/immagine (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (452).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -61,7 +61,7 @@ Nelle sezioni successive è invece possibile modificare:
   * Sconto/maggiorazione
 * gli allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (409).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

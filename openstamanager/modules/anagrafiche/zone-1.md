@@ -10,4 +10,4 @@ Questo modulo è dedicato alla gestione della provenienza dei clienti, registrab
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (611).png>)
+![](<../../../.gitbook/assets/image (535).png>)

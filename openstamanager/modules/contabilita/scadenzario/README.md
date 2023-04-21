@@ -8,7 +8,7 @@ description: Come gestire lo scadenzario in OpenSTAManager
 Il modulo **Scadenzario** presenta l'elenco dei pagamenti in entrata e in uscita che non sono ancora stati evasi. Evidenziando in rosso i pagamenti oltre la data di scadenza.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (419).png>)
+![](<../../../../.gitbook/assets/image (142).png>)
 
 ## ➕ Creazione
 
@@ -21,7 +21,7 @@ Andranno qui inserite le informazioni relative alla nuova scadenza:
 * Importo
 * Descrizione
 
-![](<../../../../.gitbook/assets/image (560).png>)
+![](<../../../../.gitbook/assets/image (387).png>)
 
 ## 🖌️ Modifica
 
@@ -35,7 +35,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Info distinta
 * Allegati
 
-![](<../../../../.gitbook/assets/immagine (148).png>)
+![](<../../../../.gitbook/assets/immagine (8).png>)
 
 {% hint style="info" %}
 E' possibile inserire il pdf della fattura di vendita come allegato alla scadenza, così da poter inviare il sollecito di pagamento e scegliere tra gli allegati anche la fattura originale.

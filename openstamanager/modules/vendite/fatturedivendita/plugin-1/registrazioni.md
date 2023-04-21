@@ -8,4 +8,4 @@ description: Guida al plugin Registrazioni in OpenSTAManager
 Dal plugin registrazioni è possibile visualizzare e modificare i conti che vengono movimentati dalle righe presenti in fattura.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (337).png>)
+![](<../../../../../.gitbook/assets/image (84).png>)

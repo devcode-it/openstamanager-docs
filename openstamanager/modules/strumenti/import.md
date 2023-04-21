@@ -8,7 +8,7 @@ description: Come gestire l'importazione massiva di dati in OpenSTAManager
 Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Articoli, Anagrafiche o Piano dei conti._
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (315).png>)
+![](<../../../.gitbook/assets/image (670).png>)
 
 ## ➕ Creazione
 

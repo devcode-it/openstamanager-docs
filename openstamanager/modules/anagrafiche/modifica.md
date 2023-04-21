@@ -29,7 +29,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-<figure><img src="../../../.gitbook/assets/immagine (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (413).png" alt=""><figcaption></figcaption></figure>
 
 ## 🏭 Sede legale
 
@@ -48,7 +48,7 @@ Nella seconda sezione è possibile trovare:
 * Distanza
 * Opt-out per newsletter (attivando questa opzione l'anagrafica verrà esclusa dai destinatari di eventuali Newsletter)
 
-![](<../../../.gitbook/assets/immagine (404).png>)
+![](<../../../.gitbook/assets/immagine (190).png>)
 
 ## 🗺️ Geolocalizzazione
 
@@ -58,13 +58,13 @@ In questa sezione è possibile visualizzare attraverso _Google Maps_ l'indirizzo
 
 Per fare ciò basta cliccare sopra il link mostrato all'interno del riquadro:
 
-<figure><img src="../../../.gitbook/assets/immagine (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (425).png" alt=""><figcaption></figcaption></figure>
 
 Successivamente si verrà indirizzati in _impostazioni_ per inserire un [_Google Maps API Key_ ](../../../configurazioni/configurazione-google-maps-api-key.md)valido.
 
 Andando a inserire questa chiave in Strumenti/Impostazioni/API/Google Maps API key, dall'anagrafica cliente sarà ora possibile visualizzare la sua locazione in Geolocalizzazione.
 
-![](<../../../.gitbook/assets/image (103).png>)
+![](<../../../.gitbook/assets/image (194).png>)
 
 ## ℹ️ Informazioni per tipo di anagrafica
 
@@ -86,7 +86,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Dichiarazione d'intento
 * Piano dei conti cliente
 
-<figure><img src="../../../.gitbook/assets/immagine (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (422).png" alt=""><figcaption></figcaption></figure>
 
 ### 💁‍♂️ Fornitore
 
@@ -97,7 +97,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Ritenuta d'acconto predefinita
 * Piano dei conti fornitore
 
-![](<../../../.gitbook/assets/immagine (43).png>)
+![](<../../../.gitbook/assets/immagine (36).png>)
 
 ### 🧑‍💼 Cliente e Fornitore
 
@@ -105,7 +105,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Relazione
 * Dicitura fissa in fattura
 
-<figure><img src="../../../.gitbook/assets/immagine (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (428).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑‍🔧 Tecnico
 
@@ -134,7 +134,7 @@ E' qui possibile trovare le informazioni relative a:
 * Tipo di anagrafica
 * Note
 
-![](<../../../.gitbook/assets/immagine (462).png>)
+![](<../../../.gitbook/assets/immagine (248).png>)
 
 {% hint style="info" %}
 Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;
@@ -152,7 +152,7 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 Questo permetterà di visualizzare in tutte le stampe cartacee il logo appena caricato.
 {% endhint %}
 
-![](<../../../.gitbook/assets/immagine (398).png>)
+![](<../../../.gitbook/assets/immagine (180).png>)
 
 {% content-ref url="../../../guide/esempi/impostare-logo-nelle-stampe.md" %}
 [impostare-logo-nelle-stampe.md](../../../guide/esempi/impostare-logo-nelle-stampe.md)

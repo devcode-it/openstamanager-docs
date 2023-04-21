@@ -6,7 +6,7 @@ description: Come modificare le Impostazioni in OpenSTAManager
 
 Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale, suddivise per moduli:
 
-<figure><img src="../../../.gitbook/assets/immagine (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (406).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Aggiornamenti
 

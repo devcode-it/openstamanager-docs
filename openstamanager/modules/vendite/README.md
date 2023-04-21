@@ -12,13 +12,13 @@ Il modulo Vendite permette di gestire i documenti in uscita (Preventivi, Ordini 
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Vendite**.
 
-![](<../../../.gitbook/assets/image (594).png>)
+![](<../../../.gitbook/assets/image (593).png>)
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare i moduli Contratti, Preventivi, Ordini cliente e Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (683).png>)
+![](<../../../.gitbook/assets/image (214).png>)
 
 ### 🔧 Plugin
 

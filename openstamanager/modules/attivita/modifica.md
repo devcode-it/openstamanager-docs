@@ -33,13 +33,13 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
 
 Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/preventivi.md) e [**Contratti**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/contratti.md), visitare le sezioni relative.
 
-![](<../../../.gitbook/assets/image (117).png>)
+![](<../../../.gitbook/assets/image (190).png>)
 
 ### 🗺️ Geolocalizzazione
 
 È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
 
-![](<../../../.gitbook/assets/image (59).png>)
+![](<../../../.gitbook/assets/image (40).png>)
 
 ### 📖 Dati intervento
 
@@ -57,9 +57,9 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Note interne
 * Partenza merce
 
-<figure><img src="../../../.gitbook/assets/immagine (280).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (431).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (445).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -67,15 +67,15 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (487).png" alt=""><figcaption></figcaption></figure>
 
 Con la funzione **Inserimento massivo** è possibile pianificare massivamente il lavoro dei tecnici creando più sessioni contemporaneamente per uno o più tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (484).png" alt=""><figcaption></figcaption></figure>
 
 Le attività verranno così visualizzate in Dashboard:
 
-<figure><img src="../../../.gitbook/assets/immagine (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (474).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗒️ Righe
 
@@ -88,13 +88,13 @@ Questa sezione permette di inserire le righe descrittive dell'attività, che pos
 * Contratto
 * DDT
 
-<figure><img src="../../../.gitbook/assets/immagine (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (457).png" alt=""><figcaption></figcaption></figure>
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../../.gitbook/assets/image (115).png>)
+![](<../../../.gitbook/assets/image (176).png>)
 
 ### 🛅 Allegati
 

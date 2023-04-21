@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Destinatario
 * Causale di trasporto
 
-<figure><img src="../../../../.gitbook/assets/immagine (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (407).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -50,7 +50,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 * Note aggiuntive
 
-![](<../../../../.gitbook/assets/image (139).png>)
+![](<../../../../.gitbook/assets/image (531).png>)
 
 E' inoltre possibile modificare le righe e gli allegati.
 
@@ -63,7 +63,7 @@ Nelle righe è possibile inserire:
 * DDT
 * Ordine
 
-<figure><img src="../../../../.gitbook/assets/immagine (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (412).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

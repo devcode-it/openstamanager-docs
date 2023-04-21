@@ -25,7 +25,7 @@ Andranno qui inserite le informazioni relative al nuovo stato di attività da cr
 * Descrizione
 * Colore
 
-![](<../../../.gitbook/assets/image (72).png>)
+![](<../../../.gitbook/assets/image (169).png>)
 
 ## 🖌️ Modifica
 
@@ -43,7 +43,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Impostare se l'attività dev'essere considerata Completata
 * Impostare se l'attività dev'essere considerata Fatturabile
 
-![](<../../../.gitbook/assets/image (107).png>)
+![](<../../../.gitbook/assets/image (152).png>)
 
 \*Attivando abilita notifiche ogni volta che dalle attività verrà impostato questo stato, il gestionale invierà una notifica ai destinatari designati, i quali possono essere:
 

@@ -10,4 +10,4 @@ Il plugin **Storico attività** è una componente del modulo **Anagrafiche** ded
 
 Grazie a questo plugin è possibile visualizzare tutte le attività collegate all'anagrafica
 
-![](<../../../../.gitbook/assets/image (547).png>)
+![](<../../../../.gitbook/assets/image (336).png>)

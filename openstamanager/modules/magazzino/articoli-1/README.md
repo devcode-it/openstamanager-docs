@@ -8,7 +8,7 @@ description: Come gestire gli Articoli in OpenSTAManager
 Il modulo **Articoli** permette all’azienda di gestire le informazioni riguardanti gli articoli a magazzino, con la relativa giacenza e la gestione automatizzata dei diversi movimenti previsti all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (563).png>)
+![](<../../../../.gitbook/assets/image (404).png>)
 
 ### 👾 Widget
 
@@ -16,7 +16,7 @@ Il modulo **Articoli** permette all’azienda di gestire le informazioni riguard
 * Valore Magazzino
 * Articoli in Magazzino
 
-![](<../../../../.gitbook/assets/image (680).png>)
+![](<../../../../.gitbook/assets/image (240).png>)
 
 ## ➕ Creazione
 
@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo articolo:
 * Categoria (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
 * Sottocategoria
 
-![](<../../../../.gitbook/assets/image (398).png>)
+![](<../../../../.gitbook/assets/image (140).png>)
 
 Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 
@@ -44,7 +44,7 @@ Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 * Conto predefinito di vendita
 * Abilitare serial number
 
-![](<../../../../.gitbook/assets/image (650).png>)
+![](<../../../../.gitbook/assets/image (219).png>)
 
 ## 🖌️ Modifica
 
@@ -64,7 +64,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Unità di misura
 * Note
 
-![](<../../../../.gitbook/assets/image (487).png>)
+![](<../../../../.gitbook/assets/image (628).png>)
 
 ### Giacenza totale
 
@@ -73,7 +73,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
   * Descrizione movimento
   * Data movimento
 
-![](<../../../../.gitbook/assets/image (638).png>)
+![](<../../../../.gitbook/assets/image (246).png>)
 
 ### Acquisto
 
@@ -86,7 +86,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Fattore moltiplicativo
 * Quantità multipla
 
-![](<../../../../.gitbook/assets/image (412).png>)
+![](<../../../../.gitbook/assets/image (136).png>)
 
 #### Fattore moltiplicativo:
 
@@ -98,7 +98,7 @@ E' possibile aggiungere nuove unità di misura oltre a quelle previste dal gesti
 
 Esempio: Nel caso di attività che acquistano al kg e rivendono al grammo, si dovrà impostare come unità di misura primaria il g e secondaria il kg, con relativo fattore moltiplicativo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (366).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Per poter impostare fattori moltiplicativi con più di 2 decimali, si deve andare in **Strumenti/Impostazioni/Generali** e alla voce **Cifre decimali per quantità**, impostare il numero di decimali necessario.
@@ -108,13 +108,13 @@ In questo modo, inserendo tale articolo in un ordine fornitore con quantità par
 
 Esempio 2: Nel caso di acquisto di licenze mensili e rivendita annualmente, si dovrà impostare come unità di misura primaria il mese e secondaria l'anno, con relativo fattore moltiplicativo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (385).png" alt=""><figcaption></figcaption></figure>
 
 In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 12 mesi, sulla stampa del documento la quantità risulterà invece pari a 1 anno, avendo effettuato la conversione.
 
 Esempio 3: Nel caso di acquisto di licenze annuali da rivendere mensilmente, si dovrà impostare come unità di misura primaria l'anno e secondaria il mese, con relativo fattore moltiplicativo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (88).png" alt=""><figcaption></figcaption></figure>
 
 In questo modo, inserendo tale articolo in un ordine fornitore con quantità pari a 1 anno, sulla stampa del documento la quantità risulterà invece pari a 12 mesi, avendo effettuato la conversione.
 
@@ -128,7 +128,7 @@ In questo modo, inserendo tale articolo in un ordine fornitore con quantità par
 * Volume
 * Conto predefinito di vendita
 
-![](<../../../../.gitbook/assets/image (642).png>)
+![](<../../../../.gitbook/assets/image (225).png>)
 
 E' inoltre possibile visualizzare nella schermata sottostante gli ultimi 20 prezzi di acquisto e di vendita dell'articolo, e caricare eventuali allegati.
 

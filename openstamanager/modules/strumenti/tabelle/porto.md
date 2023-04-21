@@ -8,7 +8,7 @@ description: Come gestire il porto in OpenSTAManager
 Il modulo **Porto** permette di creare e modificare i porto utilizzabili nei DDT.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (178).png>)
+![](<../../../../.gitbook/assets/image (474).png>)
 
 ## ➕ Creazione
 
@@ -16,7 +16,7 @@ Per creare un nuovo porto si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la descrizione del nuovo tipo di porto da creare.
 
-![](<../../../../.gitbook/assets/image (131).png>)
+![](<../../../../.gitbook/assets/image (529).png>)
 
 ## 🖌️ Modifica
 
@@ -25,4 +25,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Descrizione
 * Se predefinito
 
-![](<../../../../.gitbook/assets/image (503).png>)
+![](<../../../../.gitbook/assets/image (423).png>)

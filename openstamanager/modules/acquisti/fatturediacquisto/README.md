@@ -8,7 +8,7 @@ description: Come gestire le Fatture di acquisto in OpenSTAManager
 Il modulo **Fatture di acquisto** permette di gestire la fatturazione in entrata dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (214).png>)
+![](<../../../../.gitbook/assets/image (287).png>)
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di acquisto:
 * Tipo documento
 * Sezionale
 
-<figure><img src="../../../../.gitbook/assets/immagine (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (466).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -43,7 +43,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se la ritenuta è a carico del fornitore
 * Note
 
-![](<../../../../.gitbook/assets/image (632).png>)
+![](<../../../../.gitbook/assets/image (245).png>)
 
 * Righe
   * Articolo
@@ -54,7 +54,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
   * Ordine
 * Allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (417).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 
