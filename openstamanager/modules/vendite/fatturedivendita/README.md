@@ -59,7 +59,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 * Note interne
 
-![](<../../../../.gitbook/assets/immagine (49).png>)
+![](<../../../../.gitbook/assets/immagine (49) (1).png>)
 
 * Righe, che possono includere:
   * Articolo

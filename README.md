@@ -8,15 +8,15 @@ Di seguito le principali novità della versione 2.4.44, per maggiori dettagli vi
 
 ➡️ Aggiunto il cambio di stato di preventivi e contratti da azioni di gruppo
 
-<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (48).png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Aggiunta visualizzazione deducibilità conto nel conto economico
 
-
+<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Aggiunto il filtro Tutti sui promemoria in Dashboard
 
-
+<figure><img src=".gitbook/assets/immagine (50).png" alt=""><figcaption></figcaption></figure>
 
 Correzioni:
 

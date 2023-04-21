@@ -51,7 +51,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                                  <img src="../../../../.gitbook/assets/immagine (50).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../../.gitbook/assets/immagine (50) (2).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -84,7 +84,7 @@ Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del d
 
 Dalla schermata di dettaglio di un ordine cliente è possibile procedere a inviarlo via mail al cliente.
 
-![](<../../../../.gitbook/assets/immagine (47).png>)
+![](<../../../../.gitbook/assets/immagine (47) (1).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine cliente, dove sarà possibile inviare la mail cliccando su invia.
 

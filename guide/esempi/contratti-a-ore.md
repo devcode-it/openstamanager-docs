@@ -8,7 +8,7 @@ Per gestire il **Consuntivo** di un contratto a ore è necessario [creare un Con
 
 Per poter far ciò, il **Contratto** interessato deve essere impostato in uno stato pianificabile (di default: In lavorazione, Fatturato, Pagato e Parzialmente fatturato).
 
-![](<../../.gitbook/assets/immagine (46).png>)
+![](<../../.gitbook/assets/immagine (46) (1).png>)
 
 Lo stato dei contratti è verificabile in Strumenti/Tabelle/Stati dei contratti.
 
