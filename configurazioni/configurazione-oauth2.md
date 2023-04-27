@@ -82,9 +82,9 @@ Una volta completata l'informazione di cui sopra, è necessario procedere alla r
 
 Al momento della compilazione delle informazioni, è fondamentale impostare correttamente il campo **URI di reindirizzamento**.
 
-Nell'esempio, considerando OpenSTAManager disponibile in `https://osmcloud.it/miainstallazione/,`si dovrà inserire:
+Nell'esempio, considerando OpenSTAManager disponibile in `https://miainstallazione/,`si dovrà inserire:
 
-&#x20;`https://osmcloud.it/miainstallazione/oauth2.php`.
+&#x20;`https://miainstallazione/oauth2.php`.
 
 <figure><img src="../.gitbook/assets/spaces_udbmyQrl0FL3lcDlHZWD_uploads_MVHHqiAe9HFUPmpML3DJ_dati (1).png" alt=""><figcaption></figcaption></figure>
 
