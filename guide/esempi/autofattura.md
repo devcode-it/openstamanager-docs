@@ -36,7 +36,7 @@ Come primo passo si dovrà procede alla registrazione della fattura di acquisto 
 Questa fattura andrà registrata come la si riceve, non si deve quindi aggiungere manualmente l'IVA.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In Tipo documento si dovrà scegliere la tipologia del documento corretta tra:
 

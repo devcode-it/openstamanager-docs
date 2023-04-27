@@ -38,7 +38,7 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-![](<../.gitbook/assets/immagine (5) (1).png>)
+![](<../.gitbook/assets/immagine (5) (1) (1).png>)
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 

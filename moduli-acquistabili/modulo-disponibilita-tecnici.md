@@ -16,21 +16,23 @@ Le attività segnate a calendario infatti, vengono suddivise per operatore, perm
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/1 (2).jpeg>)
+<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 Attraverso l'applicazione dei filtri questo modulo offre una visione degli **Interventi** in base al tecnico e al tipo di vista selezionati.
 
-![](../.gitbook/assets/3.jpeg)
+<figure><img src="../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (383).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 Da qui, cliccando direttamente sul calendario, è possibile andare a programmare una nuova attività.
 
-<figure><img src="../.gitbook/assets/Senzanome (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
-L'attività appena creata sarà ora visualizzabile in calendario e sarà possibile vederne i dettagli passandoci sopra il mouse.
+<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (73).png" alt=""><figcaption></figcaption></figure>
+L'attività appena creata sarà ora visualizzabile in calendario e sarà possibile vederne i dettagli passandoci sopra il mouse se in Strumenti/Impostazioni/Dashboard l'opzione **Utilizzare i tooltip sul calendario** è abilitata.
+
+<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su un intervento nel calendario è possibile accedere alla sua schermata di dettaglio, da dove è possibile apportare modifiche, stamparne le specifiche, inviare il rapportino e la notifica di presa in carico, e accedere al pannello di anteprima e firma.
 

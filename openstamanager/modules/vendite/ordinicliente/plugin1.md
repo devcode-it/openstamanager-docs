@@ -88,7 +88,7 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a invia
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine cliente, dove sarà possibile inviare la mail cliccando su invia.
 
-![](<../../../../.gitbook/assets/immagine (3) (1).png>)
+![](<../../../../.gitbook/assets/immagine (3) (1) (1).png>)
 
 ### ➕ Crea...
 

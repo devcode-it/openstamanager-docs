@@ -12,7 +12,7 @@ Di seguito le principali novità della versione 2.4.44, per maggiori dettagli vi
 
 ➡️ Aggiunta visualizzazione deducibilità conto nel conto economico
 
-<figure><img src=".gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Aggiunto il filtro Tutti sui promemoria in Dashboard
 

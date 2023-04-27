@@ -37,7 +37,7 @@ Per poter abilitare il campo è importante che il campo Gruppi con accesso sia c
 
 In questo modo l'effetto generato sarà il seguente:
 
-![](<../../.gitbook/assets/immagine (2) (1).png>)
+![](<../../.gitbook/assets/immagine (2) (1) (1).png>)
 
 Nel caso in cui invece si voglia modificare una determinata colonna in base al suo valore, si dovrà utilizzare color\_Nome. Volendo quindi creare una cella che diventi rossa in caso di quantità inferiore a 5 o verde in caso la quantità sia maggiore, si dovrà utilizzare:
 
