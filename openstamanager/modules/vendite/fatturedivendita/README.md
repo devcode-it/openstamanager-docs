@@ -87,7 +87,9 @@ E' possibile intervenire massivamente sulle righe dei documenti selezionandole e
 
 ### Confronta prezzi
 
-Tramite questa funzione è possibile visualizzare il prezzo utilizzato per gli articoli selezionati nell'ultimo documento e preventivo di vendita. Da qui è possibile modificare il prezzo di vendita massivamente cliccando su **Modifica**.
+Tramite questa funzione è possibile visualizzare il prezzo utilizzato per gli articoli selezionati nell'ultimo documento e nell'ultimo preventivo.&#x20;
+
+Da qui è possibile modificare il prezzo di vendita massivamente apportando le dovute correzioni e cliccando su **Modifica**.
 
 <figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
 
