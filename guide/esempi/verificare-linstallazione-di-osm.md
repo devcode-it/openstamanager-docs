@@ -42,7 +42,7 @@ Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti,
 
 Il controllo dei file si può effettuare da Strumenti/Aggiornamenti cliccando su Controlla file.
 
-<figure><img src="../../.gitbook/assets/immagine (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (95).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli registrati nella versione ufficiale.
 
@@ -50,13 +50,13 @@ Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli re
 Questa funzionalità potrebbe presentare dei risultati falsamente positivi, sulla base del contenuto del file checksum.json
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (357).png" alt=""><figcaption></figcaption></figure>
 
 #### Controllo sul database
 
 Il controllo del database può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla database.
 
-<figure><img src="../../.gitbook/assets/immagine (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (358).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencate le tabelle del database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale.
 
@@ -64,13 +64,13 @@ Qui verranno elencate le tabelle del database che presentano una struttura diver
 Questa funzionalità può presentare dei risultati falsamente positivi, sulla base del contenuto del file database.json o nel caso di aggiornamento del database alla versione 8.0.30 di MySQL.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/immagine (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (97).png" alt=""><figcaption></figcaption></figure>
 
 #### Controllo sul gestionale
 
 Il controllo sul gestionale può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla gestionale, e a seguito su Avvia controlli.
 
-<figure><img src="../../.gitbook/assets/immagine (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (127).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno effettuati 3 controlli:
 
@@ -78,13 +78,13 @@ Qui verranno effettuati 3 controlli:
 2. Se gli importi degli XML delle fatture elettroniche hanno corrispondenza con gli importi delle fatture di vendita
 3. Se sono presenti colonne duplicate per le Viste
 
-<figure><img src="../../.gitbook/assets/immagine (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (365).png" alt=""><figcaption></figcaption></figure>
 
 ### 3️Verificare la presenza di personalizzazioni
 
 Nel caso siano presenti personalizzazioni, esse verranno elencate nella parte superione della pagina in Strumenti/Aggiornamenti.
 
-<figure><img src="../../.gitbook/assets/immagine (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (379).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Le personalizzazioni possono essere effettuate sul modulo o sul database, e in caso siano presenti l'aggiornamento del gestionale senza il supporto dell'assistenza ufficiale è altamente sconsigliato.
@@ -92,7 +92,7 @@ Le personalizzazioni possono essere effettuate sul modulo o sul database, e in c
 
 Sotto la tabella contenente le personalizzazioni è possibile trovare l'elenco dei moduli modificati:
 
-<figure><img src="../../.gitbook/assets/immagine (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (374).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Nel caso in cui queste verifiche vengano superate e non si sia riusciti a risalire alla causa del problema, vi invitiamo a contattare l'assistenza.

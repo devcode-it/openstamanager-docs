@@ -12,7 +12,7 @@ La navigazione attraverso le diverse sezioni del gestionale viene resa possibile
 
 Nella parte più alta di questa componente è inoltre presente una barra di ricerca generalizzata all'interno del gestionale, che permette di effettuare ricerche tra i moduli che supportano questa funzione.
 
-![](<../../.gitbook/assets/immagine (221).png>)
+![](<../../.gitbook/assets/immagine (352).png>)
 
 La sezione aperta a gestionale si può distinguere da un colore di sfondo più scuro nel menu.
 
@@ -38,13 +38,13 @@ Sono presenti diversi valori preimpostati:
 
 Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard**).
 
-<figure><img src="../../.gitbook/assets/immagine (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (336).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Opzioni di controllo
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-<figure><img src="../../.gitbook/assets/immagine (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (334).png" alt=""><figcaption></figcaption></figure>
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 

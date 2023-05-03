@@ -8,7 +8,7 @@ description: Come gestire gli Ordini fornitore in OpenSTAManager
 Il modulo **Ordini fornitore** permette all'utente di creare un documento per richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (137).png>)
+![](<../../../../.gitbook/assets/image (112).png>)
 
 ## ➕ Creazione
 
@@ -18,7 +18,7 @@ Andrà qui selezionato il fornitore.
 
 Cliccando su Aggiungi si procede alla creazione di un ordine fornitore.
 
-<figure><img src="../../../../.gitbook/assets/immagine (323).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (420).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -36,7 +36,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 * Note interne
 
-<figure><img src="../../../../.gitbook/assets/immagine (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (454).png" alt=""><figcaption></figcaption></figure>
 
 * Righe, che possono includere:
   * Articolo
@@ -45,7 +45,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
   * Sconto/maggiorazione
 * Allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (427).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

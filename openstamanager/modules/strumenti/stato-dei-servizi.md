@@ -8,7 +8,7 @@ description: Come gestire i moduli in OpenSTAManager
 Nel modulo **Stato dei servizi** è possibile abilitare e disabilitare i moduli e i plugin di OpenSTAManager.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (459).png" alt=""><figcaption></figcaption></figure>
 
 Si possono trovare tre sezioni:
 
@@ -141,11 +141,11 @@ Per ogni modulo sarà possibile visualizzare:
 * Eliminazione
 
 {% hint style="info" %}
-Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (198).png>)della riga corrispondente.
+Per abilitare un modulo si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (647).png>)della riga corrispondente.
 
-Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (557).png>).
+Per disabilitare un modulo invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (438).png>).
 
-Con il tasto <img src="../../../.gitbook/assets/image (413).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
+Con il tasto <img src="../../../.gitbook/assets/image (512).png" alt="" data-size="original">infine, è possibile abilitare tutti i sottomoduli.
 {% endhint %}
 
 ### 👾 Widget disponibili
@@ -207,9 +207,9 @@ Per ogni widget sarà possibile visualizzare:
 * Posizione (schermo)
 
 {% hint style="info" %}
-Per abilitare un widget si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (198).png>)della riga corrispondente.
+Per abilitare un widget si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (647).png>)della riga corrispondente.
 
-Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (557).png>).
+Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gitbook/assets/image (438).png>).
 {% endhint %}
 
 {% content-ref url="../../interfaccia/widget.md" %}
@@ -220,4 +220,4 @@ Per disabilitare un widget invece si dovrà cliccare sul tasto ![](<../../../.gi
 
 In questo widget è possibile visualizzare lo spazio occupato da Backup, Allegati e Logs.
 
-![](<../../../.gitbook/assets/image (553).png>)
+![](<../../../.gitbook/assets/image (432).png>)

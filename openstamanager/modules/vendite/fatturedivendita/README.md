@@ -8,17 +8,17 @@ description: Come gestire le Fatture di vendita in OpenSTAManager
 Il modulo **Fatture di vendita** permette di gestire la fatturazione in uscita dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (430).png>)
+![](<../../../../.gitbook/assets/immagine (55).png>)
 
 ## ⚠️ Avvisi
 
 Nel caso siano presenti delle fatture di vendita **generate** ma non ancora inviate (entro i 12 giorni dalla scadenza per inviare le fatture allo SDI), verranno segnalate dal gestionale con un avviso nella sezione fatture di vendita.
 
-![](<../../../../.gitbook/assets/immagine (9).png>)
+![](<../../../../.gitbook/assets/immagine (288).png>)
 
 Verranno notificare anche le fatture che invece risulteranno **scartate** dallo SDI e andranno quindi corrette e riemesse.
 
-![](<../../../../.gitbook/assets/immagine (251).png>)
+![](<../../../../.gitbook/assets/immagine (206).png>)
 
 ## ➕ Creazione
 
@@ -31,7 +31,7 @@ Andranno qui inserite le informazioni relative alla nuova fattura di vendita:
 * Tipo documento
 * Sezionale
 
-<figure><img src="../../../../.gitbook/assets/immagine (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (394).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -59,7 +59,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 * Note interne
 
-![](<../../../../.gitbook/assets/immagine (421).png>)
+![](<../../../../.gitbook/assets/immagine (49) (1).png>)
 
 * Righe, che possono includere:
   * Articolo
@@ -73,7 +73,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
   * Ordine
 * Allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (424).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 
@@ -84,6 +84,10 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 * Registrazioni
 * Note interne
 * Info
+
+Dalla schermata del modulo è invece possibile accedere al plugin [RicevuteFE](ricevutefe.md).
+
+
 
 ## 🔽 Informazioni aggiuntive
 

@@ -8,7 +8,7 @@ description: Come gestire le causali in OpenSTAManager
 Il modulo **Causali** permette di aggiungere e modificare le causali presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (148).png>)
+![](<../../../../.gitbook/assets/image (666).png>)
 
 ## ➕ Creazione
 
@@ -16,7 +16,7 @@ Per creare una nuova causale si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la descrizione della nuova causale da inserire.
 
-![](<../../../../.gitbook/assets/image (552).png>)
+![](<../../../../.gitbook/assets/image (419).png>)
 
 ## 🖌️ Modifica
 
@@ -27,4 +27,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se importabile
 * Se abilitare lo storno
 
-![](<../../../../.gitbook/assets/image (536).png>)
+![](<../../../../.gitbook/assets/image (440).png>)

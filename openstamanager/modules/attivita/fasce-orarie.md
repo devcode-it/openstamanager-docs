@@ -8,7 +8,7 @@ description: Come gestire le fasce orarie con OpenSTAManager
 Il modulo **Fasce orarie** permette di impostare delle specifiche fasce orarie da collegare alle attività.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (267).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 ## ➕ Creazione
 
@@ -20,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova fascia oraria:
 * Ora inizio
 * Ora fine
 
-![](<../../../.gitbook/assets/image (216).png>)
+![](<../../../.gitbook/assets/image (165).png>)
 
 ## 🖌️ Modifica
 
@@ -33,4 +33,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Abilitare se includere le festività
 * Impostare la fascia oraria come predefinita
 
-![](<../../../.gitbook/assets/image (568).png>)
+![](<../../../.gitbook/assets/image (50).png>)

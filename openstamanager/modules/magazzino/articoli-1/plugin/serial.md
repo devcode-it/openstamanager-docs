@@ -14,7 +14,7 @@ Permette l'inserimento di nuovi prodotti numerati grazie alla possibilità di an
 
 Così facendo verrà creata una lista di articoli indicizzati e di conseguenza verrà effettuato un movimento di carico di magazzino per i serial appena inseriti.
 
-![](<../../../../../.gitbook/assets/image (469).png>)
+![](<../../../../../.gitbook/assets/image (650).png>)
 
 Cliccando su **Aggiungi** appariranno nella tabella i serial appena inseriti con le seguenti informazioni:
 
@@ -22,4 +22,4 @@ Cliccando su **Aggiungi** appariranno nella tabella i serial appena inseriti con
 * Data di creazione
 * Documento di vendita
 * Totale
-* \#(per cancellare un articolo premi sul tasto ![](../../../../../.gitbook/assets/elimina.PNG) )
+* \#(per cancellare un articolo premi sul tasto ![](<../../../../../.gitbook/assets/elimina (1).PNG>) )

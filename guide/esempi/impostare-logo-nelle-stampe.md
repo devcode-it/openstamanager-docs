@@ -18,5 +18,5 @@ Una volta che il logo è stato ridimensionato correttamente sarà sufficiente tr
 
 Cliccando ora sul tasto modifica in corrispondenza alla riga del logo, sarà possibile cambiare il nome del file in _**Logo stampe**_.
 
-<figure><img src="../../.gitbook/assets/immagine (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (84).png" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ description: Guida al plugin Consuntivo in OpenSTAManager
 La creazione di righe con unità di misura _ore_ viene sfruttata dal plugin **Consuntivo** per monitorare l'utilizzo delle stesse all'interno delle attività collegate.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (280).png>)
+![](<../../../../../.gitbook/assets/image (594).png>)
 
 È possibile inoltre effettuare una Stampa del consuntivo direttamente dal plugin con il pulsante **Stampa consuntivo.**
 

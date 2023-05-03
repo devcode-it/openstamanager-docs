@@ -12,25 +12,25 @@ Il modulo Impianti permette l'Esportazione e l'Eliminazione massiva tramite le A
 
 Una volta selezionati i record interessati è possibile esportarli massivamente cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (370).png>)
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV degli impianti selezionati.
 
 Cliccando su Procedi si confermerà l'operazione.
 
-&#x20;                                             <img src="../../../.gitbook/assets/image (664).png" alt="" data-size="original">
+&#x20;                                             <img src="../../../.gitbook/assets/image (380).png" alt="" data-size="original">
 
 ### 🗑️ Eliminazione massiva
 
 Una volta selezionati i record interessati è possibile eliminarli massivamente cliccando su Azioni di gruppo/Elimina selezionati.
 
-![](<../../../.gitbook/assets/image (351).png>)
+![](<../../../.gitbook/assets/image (533).png>)
 
 Il gestionale chiederà quindi la conferma per procedere all'eliminazione.
 
 Cliccare su Procedi per proseguire.
 
-&#x20;                                                         <img src="../../../.gitbook/assets/image (364).png" alt="" data-size="original">
+&#x20;                                                         <img src="../../../.gitbook/assets/image (496).png" alt="" data-size="original">
 
 ## 👤 Dal dettaglio Impianti
 
@@ -42,4 +42,4 @@ Da qui, nella sezione superiore della pagina, è possibile trovare la funzione D
 
 Dalla schermata di dettaglio di un impianto è possibile procedere alla sua duplicazione cliccando su Duplica impianto.
 
-![](<../../../.gitbook/assets/image (356).png>)
+![](<../../../.gitbook/assets/image (486).png>)

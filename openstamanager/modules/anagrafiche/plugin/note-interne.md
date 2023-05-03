@@ -10,4 +10,4 @@ Il plugin **Note interne** è una componente in cui è possibile salvare delle n
 
 La schermata che si presenta è questa:
 
-![](<../../../../.gitbook/assets/image (395).png>)
+![](<../../../../.gitbook/assets/image (571).png>)

@@ -10,4 +10,4 @@ In questo modulo si possono trovare i tipi di relazioni che si possono assegnare
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../.gitbook/assets/immagine (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (451).png" alt=""><figcaption></figcaption></figure>

@@ -24,5 +24,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Occupante
 * Allegati
 
-![](<../../../.gitbook/assets/image (408).png>)
+![](<../../../.gitbook/assets/image (501).png>)
 

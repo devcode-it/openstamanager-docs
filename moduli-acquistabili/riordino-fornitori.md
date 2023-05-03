@@ -13,7 +13,7 @@ Questo modulo presenta due sezioni:
 * **Articoli da ordinare**: Elenco degli articoli o di componenti facenti parte una distinta base di un articolo impegnati in ordini clienti ma non disponibili a magazzino;
 * **Articoli sottoscorta**: Elenco degli articoli presenti in quantità inferiore alla soglia minima impostata impegnati nei documenti di vendita o facenti parte della distinta di un articolo impegnato in un documento di vendita.
 
-<figure><img src="../.gitbook/assets/immagine (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (154).png" alt=""><figcaption></figcaption></figure>
 
 E' possibile filtrare questi articoli in base al fornitore e ordinarli in base al prezzo più economico, prezzo più alto e tempi di consegna più rapidi.
 
@@ -21,20 +21,20 @@ E' possibile filtrare questi articoli in base al fornitore e ordinarli in base a
 Per visualizzare correttamente valorizzato il campo Fornitore, devono essere specificati i tempi di consegna dal plugin Listino fornitori dell'articolo interessato.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/immagine (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (157).png" alt=""><figcaption></figcaption></figure>
 
 Per procedere a creare un nuovo ordine fornitore si dovranno selezionare gli articoli interessati e cliccare su Crea ordine fornitore.
 
-<figure><img src="../.gitbook/assets/immagine (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (158).png" alt=""><figcaption></figcaption></figure>
 
 Si dovrà ora cliccare su Procedi:
 
-<figure><img src="../.gitbook/assets/immagine (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (161).png" alt=""><figcaption></figcaption></figure>
 
 Gli articoli appena ordinati non compariranno più tra gli articoli da ordinare, e sarà possibile visualizzare l'ordine fornitore in Acquisti/ordini fornitori:
 
-<figure><img src="../.gitbook/assets/immagine (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (162).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (152).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (164).png" alt=""><figcaption></figcaption></figure>

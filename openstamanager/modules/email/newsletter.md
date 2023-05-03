@@ -13,7 +13,7 @@ Questo modulo è complementare ai moduli [Liste](liste.md) e [Template email](te
 
 La schermata principale del modulo si presenta così:
 
-![](<../../../.gitbook/assets/image (599).png>)
+![](<../../../.gitbook/assets/image (41).png>)
 
 ## ➕ Creazione
 
@@ -36,19 +36,19 @@ Da qui è possibile impostare:
 * Oggetto
 * Contenuto
 
-![](<../../../.gitbook/assets/image (623).png>)
+![](<../../../.gitbook/assets/image (73).png>)
 
 ### 👥 Aggiunta destinatari
 
 Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o selezionare una o più liste.
 
-![](<../../../.gitbook/assets/image (644).png>)
+![](<../../../.gitbook/assets/image (350).png>)
 
 ### 🛅 Allegati
 
 Da qui è possibile caricare degli allegati alla Newsletter.
 
-![](<../../../.gitbook/assets/image (680).png>)
+![](<../../../.gitbook/assets/image (341).png>)
 
 ## 📨 Invio
 

@@ -8,7 +8,7 @@ description: Come gestire i segmenti in OpenSTAManager
 Il modulo **Segmenti** permette di aggiungere delle opzioni selezionabili nei campi di creazione di un record di un determinato modulo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (516).png>)
+![](<../../../.gitbook/assets/image (487).png>)
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative al nuovo segmento:
 * Se predefinito
 * Note
 
-![](<../../../.gitbook/assets/image (546).png>)
+![](<../../../.gitbook/assets/image (443).png>)
 
 ## 🖌️ Modifica
 
@@ -34,7 +34,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Filtro
 * Posizione
 
-![](<../../../.gitbook/assets/image (163).png>)
+![](<../../../.gitbook/assets/image (642).png>)
 
 Nella sezione Sezionale sarà possibile creare un nuovo sezionale, impostando:
 
@@ -42,7 +42,7 @@ Nella sezione Sezionale sarà possibile creare un nuovo sezionale, impostando:
 * Se sezionale fiscale
 * Se predefinito
 
-![](<../../../.gitbook/assets/image (50).png>)
+![](<../../../.gitbook/assets/image (215).png>)
 
 #### Come impostare il campo Maschera:
 

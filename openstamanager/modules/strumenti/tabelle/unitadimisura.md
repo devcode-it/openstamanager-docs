@@ -8,7 +8,7 @@ description: Come gestire le unità di misura in OpenSTAManager
 Il modulo **Unità di misura** permette di aggiungere e modificare le unità di misura presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (396).png>)
+![](<../../../../.gitbook/assets/image (522).png>)
 
 ## ➕ Creazione
 
@@ -16,10 +16,10 @@ Per inserire una nuova unità di misura si dovrà cliccare sul tasto (+).
 
 Andrà qui inserito il valore della nuova unità di misura da inserire.
 
-![](<../../../../.gitbook/assets/image (556).png>)
+![](<../../../../.gitbook/assets/image (430).png>)
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare il valore.
 
-![](<../../../../.gitbook/assets/image (560).png>)
+![](<../../../../.gitbook/assets/image (441).png>)

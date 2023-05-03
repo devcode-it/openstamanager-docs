@@ -12,4 +12,4 @@ Il plugin **Statistiche** permette di visualizzare l'andamento del prezzo dell'a
 
 Una volta aggiunti correttamente i periodi verranno create delle nuove riga all'interno delle tabelle Prezzo medio acquisto e Prezzo medio vendita in base al numero dei periodi, contenenti le informazioni di acquisto e di vendita dell'articolo durante i periodi selezionati.
 
-![](<../../../../../.gitbook/assets/image (401).png>)
+![](<../../../../../.gitbook/assets/image (500).png>)

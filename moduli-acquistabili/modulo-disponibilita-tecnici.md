@@ -16,24 +16,24 @@ Le attività segnate a calendario infatti, vengono suddivise per operatore, perm
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-<figure><img src="../.gitbook/assets/immagine (452).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 Attraverso l'applicazione dei filtri questo modulo offre una visione degli **Interventi** in base al tecnico e al tipo di vista selezionati.
 
-<figure><img src="../.gitbook/assets/immagine (454).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Da qui, cliccando direttamente sul calendario, è possibile andare a programmare una nuova attività.
 
-<figure><img src="../.gitbook/assets/immagine (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 L'attività appena creata sarà ora visualizzabile in calendario e sarà possibile vederne i dettagli passandoci sopra il mouse se in Strumenti/Impostazioni/Dashboard l'opzione **Utilizzare i tooltip sul calendario** è abilitata.
 
-<figure><img src="../.gitbook/assets/immagine (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su un intervento nel calendario è possibile accedere alla sua schermata di dettaglio, da dove è possibile apportare modifiche, stamparne le specifiche, inviare il rapportino e la notifica di presa in carico, e accedere al pannello di anteprima e firma.
 
-<figure><img src="../.gitbook/assets/immagine (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (364).png" alt=""><figcaption></figcaption></figure>

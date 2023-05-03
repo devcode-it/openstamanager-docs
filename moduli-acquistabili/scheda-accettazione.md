@@ -26,7 +26,7 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Telefono
 * Cellulare
 
-![](<../.gitbook/assets/image (479).png>)
+![](<../.gitbook/assets/image (658).png>)
 
 * Modello
 * Seriale
@@ -38,19 +38,19 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Giorni di deposito
 * Tecnici
 
-![](<../.gitbook/assets/image (305).png>)
+![](<../.gitbook/assets/image (599).png>)
 
 Per procedere cliccare su Crea attività.
 
 Il gestionale permetterà ora di generare la scheda accettazione da far firmare al cliente e l'attività di presa in carico del dispositivo, per gestire poi eventuali valutazioni o attività di laboratorio.
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (212).png>)
 
-<figure><img src="../.gitbook/assets/immagine (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (378).png" alt=""><figcaption></figcaption></figure>
 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (234).png>)
 
 Sulla scheda di accettazione vengono quindi riportati i dati anagrafici del cliente, il codice di intervento, le specifiche del prodotto al momento del ritiro, la descrizione del problema a cura del cliente e le condizioni di assistenza tecnica. Tutto questo viene firmato direttamente a video dal cliente che ne accetta le clausole, avviando quindi la presa in carico dell'attività.
 

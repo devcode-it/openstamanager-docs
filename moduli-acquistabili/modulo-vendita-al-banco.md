@@ -31,7 +31,7 @@ Compatibile con stampanti fiscali che supportano il protocollo xon-xoff e lavora
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
 
-![](<../.gitbook/assets/image (303).png>)
+![](<../.gitbook/assets/image (596).png>)
 
 ### ➕ Creazione
 
@@ -48,34 +48,34 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Articolo da selezione articoli
 * Righe
 
-![](<../.gitbook/assets/image (296).png>)
+![](<../.gitbook/assets/image (586).png>)
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
-![](<../.gitbook/assets/image (473).png>)
+![](<../.gitbook/assets/image (662).png>)
 
 ### 🖌️ Modifica
 
 Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella vendita interessata e cliccare su Riapri vendita. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (220).png>)
+![](<../.gitbook/assets/image (177).png>)
 
 ## 💳 Easy vendita
 
 Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cassa, da cui sarà possibile movimentare i prodotti mediante scansione del codice a barre o selezionandoli dalle categorie presenti in magazzino.
 
-![](<../.gitbook/assets/image (69).png>)
+![](<../.gitbook/assets/image (264).png>)
 
 I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.
 
-![](<../.gitbook/assets/image (282).png>)
+![](<../.gitbook/assets/image (600).png>)
 
 Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
 
-![](<../.gitbook/assets/image (589).png>)
+![](<../.gitbook/assets/image (70).png>)
 
 Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e da qui sarà possibile chiudere il documento, procedere al pagamento e stamparne lo scontrino.
 
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
-![](<../.gitbook/assets/image (478).png>)
+![](<../.gitbook/assets/image (655).png>)

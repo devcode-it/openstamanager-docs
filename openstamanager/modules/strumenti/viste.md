@@ -31,7 +31,7 @@ Nelle query è possibile utilizzare dei segnaposto che verranno sostituiti come 
 
 * **|select|**: viene sostituito con la lista dei campi da visualizzare definiti sotto
 * **|date\_period(co\_documenti.data)|**: viene sostituito con "AND WHERE co\_documenti.data BETWEEN "data\_inizio" AND "data\_fine". "data\_inizio" e "data\_fine" vengono valorizzati in base al filtro di date selezionabile dal menu in alto a sinistra\
-  \_\_![](<../../../.gitbook/assets/image (12).png>)\\
+  \_\_![](<../../../.gitbook/assets/image (570).png>)\\
 * **1=1**: è necessario specificarlo subito dopo il WHERE per far sì che venga sostituito automaticamente con i filtri che l'utente digita nel modulo. In questo modo il sistema sa dove innestare i vari filtri tramite WHERE
 * **2=2**: è come 1=1 ma funzione sulla clausola HAVING, utile per le ricerche tramite HAVING
 
@@ -52,7 +52,7 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 * Formattabile (se formattare automaticamente il campo, ad esempio visualizzare la data nel formato italiano, inserire i separatori di decimali o migliaia, ecc...)
 * Abilitare o disabilitare l'utilizzo dell'HTML nel campo
 
-![](<../../../.gitbook/assets/immagine (196).png>)
+![](<../../../.gitbook/assets/immagine (7).png>)
 
 ### 🔨 Ordine di visualizzazione
 

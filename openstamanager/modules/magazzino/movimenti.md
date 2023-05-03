@@ -8,7 +8,7 @@ description: Come gestire i Movimenti in OpenSTAManager
 Il modulo **Movimenti** mostra tutte le operazioni di carico e scarico del magazzino, per ogni articolo.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (675).png>)
+![](<../../../.gitbook/assets/image (342).png>)
 
 ## ➕ Creazione
 
@@ -25,11 +25,11 @@ Andranno qui inserite le informazioni relative al nuovo movimento:
 * Partenza merce
 * Destinazione merce
 
-![](<../../../.gitbook/assets/image (653).png>)
+![](<../../../.gitbook/assets/image (368).png>)
 
 Cliccando su Movimenta sarà possibile confermare l'operazione.
 
-![](<../../../.gitbook/assets/image (554).png>)
+![](<../../../.gitbook/assets/image (417).png>)
 
 ####
 

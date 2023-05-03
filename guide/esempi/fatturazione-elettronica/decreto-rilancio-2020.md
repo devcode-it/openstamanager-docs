@@ -17,7 +17,7 @@ Per aggiungere il relativo sconto nella fattura elettronica la prima cosa da far
 
 Da qui bisogna inserire nel campo **Riferimento Testo** la seguente dicitura: "Sconto praticato in base all'art. 121 del DL n.34 del 2020".
 
-![](<../../../.gitbook/assets/immagine (171).png>)
+![](<../../../.gitbook/assets/immagine (108).png>)
 
 Infine per inserire lo sconto effettivo basta inserire la percentuale o l'importo dello **sconto finale** sul campo corrispondente.
 

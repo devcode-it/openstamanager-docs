@@ -20,7 +20,7 @@ Per inviare una fattura elettronica è necessario creare la fattura dal modulo *
 
 Con l'emissione della fattura il gestionale genererà in modo automatico il suo XML, si dovrà ora accedere al plugin Fatturazione Elettronica e cliccare Invia.
 
-![](<../../../.gitbook/assets/image (376).png>)
+![](<../../../.gitbook/assets/image (477).png>)
 
 Dopo aver inviato la fattura, accedendo al modulo Fatture di vendita, sarà possibile vedere che lo stato FE della fattura appena inviata è cambiato in "In elaborazione".&#x20;
 
@@ -32,11 +32,11 @@ La fattura è ora in attesa di essere verificata dallo SDI, che provvederà entr
 
 Per verificare la presenza di ricevute da parte dello SDI si deve andare nell'apposita sezione Ricevute FE, presente in Fatture di vendita.
 
-![](<../../../.gitbook/assets/image (505).png>)
+![](<../../../.gitbook/assets/image (83).png>)
 
 Da qui sarà possibili cliccare su Ricerca ricevute per verificare la presenza di ricevute da importare, e su Importa tutte le ricevute per importarle massivamente.
 
-![](<../../../.gitbook/assets/image (274).png>)
+![](<../../../.gitbook/assets/image (2).png>)
 
 ### 🏷️ **Stati**
 
@@ -66,11 +66,11 @@ Questo caso è **frequente** nel caso di invio **fatture elettroniche** a person
 
 Per scaricare le fatture passive dai fornitori è necessario cliccare su Fatturazione elettronica dal modulo Fatture di acquisto.
 
-![](<../../../.gitbook/assets/image (501).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 Sarà possibile ora visualizzare una lista delle fatture di acquisto da importare dallo SDI, che sarà possibile importare massivamente cliccando su Importa in sequenza.
 
-![](<../../../.gitbook/assets/image (118).png>)
+![](<../../../.gitbook/assets/image (124).png>)
 
 Per completare l'importazione, gli unici dati obbligatori sono quelli contrassegnati con un asterisco, quindi:
 

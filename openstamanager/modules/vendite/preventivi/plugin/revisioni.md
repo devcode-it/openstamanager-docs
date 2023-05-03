@@ -10,7 +10,7 @@ Il plugin **Revisioni** permette di avere uno storico dei **preventivi.**
 
 Da qui è possibile selezionare ed aprire una determinata revisione selezionandola dall'opzione a inizio riga e cliccando su Cambia revisione.
 
-![](<../../../../../.gitbook/assets/image (112).png>)
+![](<../../../../../.gitbook/assets/image (122).png>)
 
 Per aggiungere una revisione è necessario cliccare il pulsante **Crea nuova revisione** dalla schermata di modifica del preventivo.
 

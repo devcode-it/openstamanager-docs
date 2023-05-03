@@ -12,7 +12,7 @@ Il modulo Mappa permette di localizzare le attività sulla mappa, in base agli i
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Mappa.
 
-<figure><img src="../../.gitbook/assets/immagine (458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (213).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Configurazione
 
@@ -30,11 +30,11 @@ Per poter definire la posizione di una determinata anagrafica si deve aprire l'a
 
 Qui, dalla sezione Geolocalizzazione si dovrà cliccare su Definisci posizione.
 
-&#x20;                                                            <img src="../../.gitbook/assets/immagine (45).png" alt="" data-size="original">
+&#x20;                                                            <img src="../../.gitbook/assets/immagine (110).png" alt="" data-size="original">
 
 La schermata che si visualizzerà ora sarà la seguente:
 
-<figure><img src="../../.gitbook/assets/immagine (442).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (229).png" alt=""><figcaption></figcaption></figure>
 
 Da qui si dovrà inserire l'indirizzo nel campo Indirizzo Google, così le due coordinate potranno venir correttamente calcolate. Una volta terminato si dovrà cliccare su Salva.
 
@@ -42,11 +42,11 @@ Da qui si dovrà inserire l'indirizzo nel campo Indirizzo Google, così le due c
 
 Accedendo ora al modulo mappa e sarà possibile vedere le posizioni delle diverse attività sulla mappa.
 
-<figure><img src="../../.gitbook/assets/immagine (434).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (220).png" alt=""><figcaption></figcaption></figure>
 
 E' possibile inserire diversi filtri:
 
 * in base all'anagrafica
 * in base allo stato delle attività
 
-<figure><img src="../../.gitbook/assets/immagine (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (370).png" alt=""><figcaption></figcaption></figure>
