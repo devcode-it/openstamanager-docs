@@ -47,5 +47,5 @@ Nel caso in cui nella scheda articolo sia impostata un'unità di misura secondar
 
 <figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/immagine (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (28) (1).png" alt=""><figcaption></figcaption></figure>
 

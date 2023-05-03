@@ -12,6 +12,10 @@ Di seguito le principali novità della versione 2.4.45, per maggiori dettagli vi
 
 <figure><img src=".gitbook/assets/immagine (5) (4).png" alt=""><figcaption></figcaption></figure>
 
+&#x20;➡️ Aggiunta la possibilità di importare i **Preventivi**
+
+<figure><img src=".gitbook/assets/immagine (28).png" alt=""><figcaption></figcaption></figure>
+
 ➡️  Migliorati i filtri uguale e diverso nelle tabelle
 
 La ricerca con l'operatore **=** (uguale) e **!=** (diverso) ora restituisce come risultato tutti i record che contengono le parole ricercate.

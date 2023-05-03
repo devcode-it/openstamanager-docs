@@ -5,7 +5,7 @@ description: Come importare articoli in OpenSTAManager
 # 📲 Import articoli
 
 {% hint style="info" %}
-È possibile importare i gli articoli in maniera massiva tramite il caricamento di un file CSV.
+È possibile importare gli articoli in maniera massiva tramite il caricamento di un file CSV.
 {% endhint %}
 
 Accedere dal menù di OpenSTAManager al modulo Strumenti/[Import](../../openstamanager/modules/strumenti/import.md) e impostare **Articoli** nel menù a tendina, dopo aver selezionato il modulo sarà visibile un nuovo pulsante nella schermata "Scarica esempio CSV".

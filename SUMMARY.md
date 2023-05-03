@@ -199,6 +199,7 @@
   * [🗳 Gestione magazzini](guide/esempi/gestione-magazzini.md)
   * [📇 Import anagrafiche](guide/esempi/import-anagrafiche.md)
   * [📲 Import articoli](guide/esempi/import-articoli.md)
+  * [📃 Import Preventivi](guide/esempi/import-preventivi.md)
   * [🔰 Impostare logo nelle stampe](guide/esempi/impostare-logo-nelle-stampe.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)
   * [🔜 Incassi e pagamenti anticipati](guide/esempi/incassi-e-pagamenti-anticipati.md)

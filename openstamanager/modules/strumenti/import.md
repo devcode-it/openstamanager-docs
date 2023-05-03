@@ -5,7 +5,7 @@ description: Come gestire l'importazione massiva di dati in OpenSTAManager
 # 📥 Import
 
 {% hint style="info" %}
-Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Articoli, Anagrafiche o Piano dei conti._
+Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Articoli, Anagrafiche, Piano dei conti e Preventivi._
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (670).png>)
@@ -21,6 +21,7 @@ Cliccando sul tasto <img src="../../../.gitbook/assets/imp.png" alt="" data-size
 * Anagrafiche (informazioni sulla creazione del file CSV su [Import anagrafiche](../../../guide/esempi/import-anagrafiche.md))
 * Articoli (informazioni sulla creazione del file CSV su [Import articoli](../../../guide/esempi/import-articoli.md))
 * Piano dei conti
+* Preventivi (informazioni sulla creazione del file CSV su[ Import Preventivi](../../../guide/esempi/import-preventivi.md))
 
 Una volta creato il file CSV si dovrà cliccare su Sfogliia nel campo **File,** e andare a selezionarlo per il caricamento.
 
@@ -48,6 +49,10 @@ Cliccando su ![](../../../.gitbook/assets/AvviaImportazione.PNG) il file viene i
 
 {% content-ref url="../../../guide/esempi/import-articoli.md" %}
 [import-articoli.md](../../../guide/esempi/import-articoli.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../guide/esempi/import-preventivi.md" %}
+[import-preventivi.md](../../../guide/esempi/import-preventivi.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../moduli-acquistabili/registrazione-movimenti-bancari.md" %}
