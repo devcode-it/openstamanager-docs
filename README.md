@@ -26,7 +26,7 @@ Al contrario, volendo selezionare tutti gli articoli che non contengono esattame
 
 <figure><img src=".gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
 
-➡️ Aggiunta la funzione **Confronta prezzi** nei documenti
+➡️ Aggiunta la funzione [**Confronta prezzi**](https://docs.openstamanager.com/v/2.4.45/openstamanager/modules/vendite/fatturedivendita#confronta-prezzi) nei documenti
 
 E' ora possibile selezionare le righe corrispondenti agli articoli nei documenti e confrontarne e modificarne massivamente il prezzo di vendita e di acquisto.
 
