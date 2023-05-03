@@ -16,11 +16,11 @@ Le attività segnate a calendario infatti, vengono suddivise per operatore, perm
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 Attraverso l'applicazione dei filtri questo modulo offre una visione degli **Interventi** in base al tecnico e al tipo di vista selezionati.
 
-<figure><img src="../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/immagine (4) (3).png" alt=""><figcaption></figcaption></figure>
 
