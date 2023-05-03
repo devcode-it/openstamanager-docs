@@ -28,7 +28,7 @@ Al contrario, volendo selezionare tutti gli articoli che non contengono esattame
 
 ➡️ Aggiunta la funzione **Confronta prezzi** nei documenti
 
-E' ora possibile selezionare le righe corrispondenti agli articoli nei documenti e confrontarne e modificarne massivamente il prezzo di vendita.
+E' ora possibile selezionare le righe corrispondenti agli articoli nei documenti e confrontarne e modificarne massivamente il prezzo di vendita e di acquisto.
 
 <figure><img src=".gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
 
