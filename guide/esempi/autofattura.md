@@ -50,7 +50,7 @@ Una volta compilato il form si dovrà cliccare su Aggiungi, andare a selezionare
 
 <figure><img src="../../.gitbook/assets/immagine (233).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (10).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️ Creazione autofattura di vendita
 

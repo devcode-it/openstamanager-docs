@@ -8,13 +8,13 @@ Acquistando uno dei pacchetti OpenSTAManager con incluso l'invio e la ricezione 
 
 Con questo plugin è possibile importare nel gestionale le fatture elettroniche di acquisto scaricandole dal proprio cassetto fiscale. Le fatture da importare vengono visualizzate nella sezione inferiore della pagina, e tramite **Importa in sequenza** è possibile importarle massivamente.
 
-<figure><img src="../../../../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
 
 E' inoltre possibile caricare l'XML di una fattura di acquisto dalla sezione **Carica un XML**.
 
 Dopo aver cliccato su **Importa** verrà caricata la seguente schermata:
 
-<figure><img src="../../../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui definite le specifiche della fattura da importare:
 
@@ -37,7 +37,9 @@ Cliccando su Altro è inoltre possibile stabilire:
 * Se collegare un documento di vendita
 * Se Aggiornare il prezzo di acquisto presente a magazzino e il relativo listino fornitore o se non apportare modifiche alla scheda articolo.
 
-<figure><img src="../../../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
+
+### Gestione dell'unità di misura secondaria
 
 {% hint style="info" %}
 Nel caso in cui nella scheda articolo sia impostata un'unità di misura secondaria con il corrispondente [fattore moltiplicativo](https://docs.openstamanager.com/v/2.4.44/openstamanager/modules/magazzino/articoli-1#fattore-moltiplicativo), in questa schermata verrà visualizzata l'unità di misura secondaria. L'articolo verrà invece caricato a magazzino per la corretta quantità e unità di misura primaria stabilite nella scheda articolo.
@@ -45,5 +47,5 @@ Nel caso in cui nella scheda articolo sia impostata un'unità di misura secondar
 
 <figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (28).png" alt=""><figcaption></figcaption></figure>
 

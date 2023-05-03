@@ -52,7 +52,7 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 * Formattabile (se formattare automaticamente il campo, ad esempio visualizzare la data nel formato italiano, inserire i separatori di decimali o migliaia, ecc...)
 * Abilitare o disabilitare l'utilizzo dell'HTML nel campo
 
-![](<../../../.gitbook/assets/immagine (7) (1).png>)
+![](<../../../.gitbook/assets/immagine (7).png>)
 
 ### 🔨 Ordine di visualizzazione
 
