@@ -75,6 +75,24 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 
 <figure><img src="../../../../.gitbook/assets/immagine (424).png" alt=""><figcaption></figcaption></figure>
 
+### ✅ Operazioni massive sulle righe
+
+E' possibile intervenire massivamente sulle righe dei documenti selezionandole e ricorrendo alle azioni di gruppo:
+
+<figure><img src="../../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+
+* Duplica
+* Elimina
+* Confronta prezzi
+
+#### Confronta prezzi
+
+Tramite questa funzione è possibile visualizzare il prezzo utilizzato per gli articoli selezionati nell'ultimo documento e preventivo di vendita. Da qui è possibile modificare il prezzo di vendita massivamente cliccando su **Modifica**.
+
+<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ## 🔧 Plugin
 
 Selezionando uno specifico record si può accedere a diversi plugin nella barra laterale della pagina:

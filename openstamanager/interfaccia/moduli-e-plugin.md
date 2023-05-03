@@ -24,8 +24,8 @@ La schermata principale che si apre entrando in un modulo è formata da una tabe
 * Selezionare diversi record attraverso le relative righe per esportarli (in formato CSV), stamparli o copiarli
 * Selezionare dei record per effettuare delle azioni generali specifiche del modulo
 * Filtrare i record in base a un determinato campo utilizzando i seguenti operatori:
-  * != in caso si voglia ricercare un record diverso da un dato valore;
-  * \= in caso si voglia ricercare uno specifico valore;
+  * != in caso si voglia ricercare un record diverso da un dato valore specifico;
+  * \= in caso si voglia ricercare uno specifico valore all'interno dei record;
   * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
   * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
 

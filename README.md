@@ -8,9 +8,9 @@ Di seguito le principali novità della versione 2.4.45, per maggiori dettagli vi
 
 ➡️  Aggiunta la gestione dell'unità di misura secondaria in fase di [importazione di una fattura elettronica](openstamanager/modules/acquisti/fatturediacquisto/fatturazione-elettronica.md):
 
-<figure><img src=".gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (25) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Migliorati i filtri uguale e diverso nelle tabelle
 
@@ -27,6 +27,10 @@ Al contrario, volendo selezionare tutti gli articoli che non contengono esattame
 <figure><img src=".gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
 
 ➡️ Aggiunta la funzione **Confronta prezzi** nei documenti
+
+E' ora possibile selezionare le righe corrispondenti agli articoli nei documenti e confrontarne e modificarne massivamente il prezzo di vendita.
+
+<figure><img src=".gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
 
 Correzioni:
 

@@ -8,13 +8,13 @@ Acquistando uno dei pacchetti OpenSTAManager con incluso l'invio e la ricezione 
 
 Con questo plugin è possibile importare nel gestionale le fatture elettroniche di acquisto scaricandole dal proprio cassetto fiscale. Le fatture da importare vengono visualizzate nella sezione inferiore della pagina, e tramite **Importa in sequenza** è possibile importarle massivamente.
 
-<figure><img src="../../../../.gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 E' inoltre possibile caricare l'XML di una fattura di acquisto dalla sezione **Carica un XML**.
 
 Dopo aver cliccato su **Importa** verrà caricata la seguente schermata:
 
-<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui definite le specifiche della fattura da importare:
 
