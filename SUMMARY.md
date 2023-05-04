@@ -83,7 +83,7 @@
         * [🪙 Consuntivo](openstamanager/modules/vendite/ordinicliente/plugin/consuntivo.md)
     * [📃 Fatture di vendita](openstamanager/modules/vendite/fatturedivendita/README.md)
       * [❗ Azioni aggiuntive](openstamanager/modules/vendite/fatturedivendita/plugin.md)
-      * [📩 Ricevute FE](openstamanager/modules/vendite/fatturedivendita/ricevute-fe.md)
+      * [📩 Ricevute FE](guide/esempi/fatturazione-elettronica/inviare-ricevere-fatture-elettroniche.md)
       * [🔧 Plugin](openstamanager/modules/vendite/fatturedivendita/plugin-1/README.md)
         * [📃 Fatturazione elettronica](openstamanager/modules/vendite/fatturedivendita/plugin-1/fatturazione-elettronica.md)
         * [🖋 Movimenti contabili](openstamanager/modules/vendite/fatturedivendita/plugin-1/movimenti-contabili.md)

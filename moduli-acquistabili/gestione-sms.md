@@ -51,7 +51,7 @@ Accedendo al modulo **Sviluppatori**
 
 Cliccando su API REST, HTTP e SOAP
 
-<figure><img src="../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 I dati da inserire nella configurazione sono evidenziati nel riquadro azzurro.
 
