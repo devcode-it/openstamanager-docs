@@ -2,7 +2,7 @@
 description: Come inviare fatture elettroniche allo SDI e come scaricarne le ricevute.
 ---
 
-# 📩 Inviare/ricevere fatture elettroniche
+# 📩 Ricevute FE
 
 Acquistando uno dei pacchetti OpenSTAManager con incluso l'invio e la ricezione delle fatture elettroniche si potrà gestire la propria fatturazione dal gestionale, dopo aver configurato la propria API key in Strumenti/Impostazioni/Fatturazione elettronica/OSMCloud Services API Token.
 
@@ -14,15 +14,15 @@ Accedendo al plugin Fatturazione Elettronica, sarà possibile: rigenerare il doc
 
 Si dovrà quindi ora procedere a cliccare su Invia per mandare la fattura appena emessa allo SDI, che prenderà quindi lo stato _Inviata_.
 
-<figure><img src="../../../.gitbook/assets/immagine (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (245).png" alt=""><figcaption></figcaption></figure>
 
 ### ✉️ Importazione delle ricevute dallo SDI
 
 Dopo qualche giorno dall'invio delle fatture elettroniche, si dovrà provvedere a scaricare le ricevute dallo SDI.
 
-Si dovrà quindi dal modulo Vendite/Fatture di vendita cliccare su Ricevute FE/Ricerca ricevute, e in seguito procedere a importarle facendo clic sul tasto Importa tutte le ricevute.
+Si dovrà quindi dal modulo Vendite/Fatture di vendita cliccare sul plugin **Ricevute FE/Ricerca ricevute** e in seguito procedere a importarle facendo clic sul tasto Importa tutte le ricevute.
 
-<figure><img src="../../../.gitbook/assets/immagine (470).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (470).png" alt=""><figcaption></figcaption></figure>
 
 Il campo stato ora potrà riportare uno dei seguenti valori:
 

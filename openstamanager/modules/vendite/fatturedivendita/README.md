@@ -105,7 +105,7 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 * Note interne
 * Info
 
-Dalla schermata del modulo è invece possibile accedere al plugin [RicevuteFE](ricevutefe.md).
+Dalla schermata del modulo è invece possibile accedere al plugin [RicevuteFE](broken-reference).
 
 
 
