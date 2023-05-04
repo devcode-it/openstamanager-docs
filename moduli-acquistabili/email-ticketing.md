@@ -42,7 +42,7 @@ Nella prima, si dovranno compilare:
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-![](<../.gitbook/assets/immagine (16).png>)
+![](<../.gitbook/assets/immagine (16) (1).png>)
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 
@@ -76,7 +76,7 @@ Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verr
 In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
 {% endhint %}
 
-![](<../.gitbook/assets/immagine (12).png>)
+![](<../.gitbook/assets/immagine (12) (1).png>)
 
 #### Esempio:
 
@@ -96,7 +96,7 @@ Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
-![](<../.gitbook/assets/immagine (13).png>)
+![](<../.gitbook/assets/immagine (13) (1).png>)
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 

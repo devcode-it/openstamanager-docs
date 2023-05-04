@@ -231,6 +231,7 @@
 * [📗 Distinta base](moduli-acquistabili/distinta-base.md)
 * [📗 E-commerce](moduli-acquistabili/modulo-sincronizzazione.md)
 * [📗 Email ticketing](moduli-acquistabili/email-ticketing.md)
+* [📗 Gestione SMS](moduli-acquistabili/gestione-sms.md)
 * [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [📗 Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
 * [📗 Riordino fornitori](moduli-acquistabili/riordino-fornitori.md)

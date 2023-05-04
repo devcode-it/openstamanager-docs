@@ -10,11 +10,11 @@ Di seguito le principali novità della versione 2.4.45, per maggiori dettagli vi
 
 <figure><img src=".gitbook/assets/immagine (25) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/immagine (5) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;➡️ Aggiunta la possibilità di [importare i **Preventivi**](guide/esempi/import-preventivi.md)
 
-<figure><img src=".gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/immagine (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ➡️  Migliorati i filtri uguale e diverso nelle [tabelle](https://docs.openstamanager.com/v/2.4.45/openstamanager/interfaccia/moduli-e-plugin#tabella-generale)
 
