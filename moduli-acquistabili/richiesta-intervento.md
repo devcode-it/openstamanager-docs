@@ -39,3 +39,7 @@ Dal modulo **Calendario prenotazioni** è invece possibile tramite il tasto (+),
 <figure><img src="../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/immagine (16).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Il cliente potrà tenere traccia dei propri ticket aperti accedendo al gestionale e quindi alla propria area cliente.
+{% endhint %}
