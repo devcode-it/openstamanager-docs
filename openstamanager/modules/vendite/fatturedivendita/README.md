@@ -91,7 +91,7 @@ Tramite questa funzione è possibile visualizzare il prezzo utilizzato per gli a
 
 Da qui è possibile modificare il prezzo di vendita massivamente apportando le dovute correzioni e cliccando su **Modifica**.
 
-<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

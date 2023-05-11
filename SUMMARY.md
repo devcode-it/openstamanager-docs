@@ -233,6 +233,7 @@
 * [📗 Gestione SMS](moduli-acquistabili/gestione-sms.md)
 * [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [📗 Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
+* [📗 Richiesta intervento](moduli-acquistabili/richiesta-intervento.md)
 * [📗 Riordino fornitori](moduli-acquistabili/riordino-fornitori.md)
 * [📗 Scheda accettazione](moduli-acquistabili/scheda-accettazione.md)
 * [📗 Vendita al banco](moduli-acquistabili/modulo-vendita-al-banco.md)
