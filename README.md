@@ -6,13 +6,13 @@ description: Elenco delle principali novità introdotte con la release 2.4.45.
 
 Di seguito le principali novità della versione 2.4.45, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-➡️  Aggiunta la gestione dell'unità di misura secondaria in fase di [importazione di una fattura elettronica](openstamanager/modules/acquisti/fatturediacquisto/fatturazione-elettronica.md):
+➡️  In fase di [importazione di una fattura elettronica](openstamanager/modules/acquisti/fatturediacquisto/fatturazione-elettronica.md) è ora possibile convertire le quantità di un articolo da un unità di misura ad un'altra, ad esempio registrando una fattura di un fornitore che vende 100kg di materiale è possibile caricare in magazzino l'equivalente in metri piuttosto che litri, effettuando quindi la conversione automatica.
 
 <figure><img src=".gitbook/assets/immagine (25) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/immagine (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;➡️ Aggiunta la possibilità di [importare i **Preventivi**](guide/esempi/import-preventivi.md)
+&#x20;➡️ Aggiunta la possibilità di [importare i **Preventivi**](guide/esempi/import-preventivi.md) da un file CSV
 
 <figure><img src=".gitbook/assets/immagine (8) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,11 +35,3 @@ Al contrario, volendo selezionare tutti gli articoli che non contengono esattame
 E' ora possibile selezionare le righe corrispondenti agli articoli nei documenti e confrontarne e modificarne massivamente il prezzo di vendita e di acquisto.
 
 <figure><img src=".gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
-
-Correzioni:
-
-➡️  Corretta l'impostazione del prezzo articolo da listino in contratti e preventivi
-
-➡️  Corretta l'impostazione agente in creazione documento
-
-➡️  Corrette le query nelle viste Attività, Ordini clienti, Ordini fornitori e Preventivi.
