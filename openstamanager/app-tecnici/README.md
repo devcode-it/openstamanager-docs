@@ -10,7 +10,7 @@ L'app Tecnici è disponibile per dispositivi:
 * iOS (vers. 11 o superiore): [https://testflight.apple.com/join/rRwOjTKK](https://testflight.apple.com/join/rRwOjTKK)
 
 {% hint style="info" %}
-Richiede almeno [OSM Business](https://shop.openstamanager.com/prodotto/business300/)
+Richiede almeno [OSM Business](https://shop.openstamanager.com/prodotto/business300/), ed è utilizzabile unicamente da utenti appartenenti al gruppo **Tecnico**.
 {% endhint %}
 
 {% hint style="success" %}
