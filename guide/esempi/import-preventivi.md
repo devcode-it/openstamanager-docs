@@ -16,6 +16,10 @@ Cliccando su questo pulsante si aprirà un file di esempio di come importare i p
 
 A questo punto si può iniziare a creare il file CSV per l'importazione dei preventivi, seguendo la base del file d'esempio.
 
+{% hint style="info" %}
+Per importare più righe dello stesso Preventivo sarà sufficiente inserire lo stesso numero preventivo nel campo Numero, che andrà utilizzato come chiave primaria.
+{% endhint %}
+
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
 
 <figure><img src="../../.gitbook/assets/immagine (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
