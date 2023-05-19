@@ -14,7 +14,7 @@ Cliccando su questo pulsante si aprirà un file di esempio di come importare i p
 
 <figure><img src="../../.gitbook/assets/immagine (5) (4).png" alt=""><figcaption></figcaption></figure>
 
-A questo punto si può iniziare a creare il file CSV per l'importazione degli articoli, seguendo la base del file d'esempio.
+A questo punto si può iniziare a creare il file CSV per l'importazione dei preventivi, seguendo la base del file d'esempio.
 
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
 
