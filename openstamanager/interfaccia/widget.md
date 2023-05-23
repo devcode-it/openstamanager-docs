@@ -22,6 +22,10 @@ La dimensione di default dei widget è configurabile da Strumenti/Impostazioni/G
 
 <figure><img src="../../.gitbook/assets/immagine (308).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, volendo ad esempio impostare il numero di widget per riga pari a 6, sarà sufficiente impostare come dimensione predefinita "col-md-2".
+{% endhint %}
+
 Tuttavia è possibile forzare la dimensione dei vari widget da Strumenti/Stato dei servizi, per impostare dimensioni personalizzate:
 
 <figure><img src="../../.gitbook/assets/immagine (317).png" alt=""><figcaption></figcaption></figure>
