@@ -54,6 +54,12 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 
 ![](<../../../.gitbook/assets/immagine (7) (1) (1).png>)
 
+Per aggiungere delle colonne alle viste, quindi dei campi non presenti tra quelli elencati, si deve copiare la query presente nel campo **Query di default** nel campo **Query personalizzata**, andando ad apportare le dovute modifiche.
+
+{% hint style="danger" %}
+Nel caso in cui la query non sia scritta correttamente, la vista non riporterà piu alcun risultato.
+{% endhint %}
+
 ### 🔨 Ordine di visualizzazione
 
 Nella sezione **Ordine di visualizzazione** si può cambiare l'ordine dei campi trascinandoli:
