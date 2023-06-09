@@ -30,7 +30,7 @@ Andranno qui inserite le informazioni relative al nuovo articolo:
 * Categoria (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
 * Sottocategoria
 
-![](<../../../../.gitbook/assets/image (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 Espandendo Informazioni aggiuntive è inoltre possibile inserire:
 
@@ -86,7 +86,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, in cui 
 * Fattore moltiplicativo
 * Quantità multipla
 
-![](<../../../../.gitbook/assets/image (10).png>)
+![](<../../../../.gitbook/assets/image (10) (1).png>)
 
 #### Fattore moltiplicativo:
 

@@ -18,7 +18,7 @@ All'atto dell'emissione di una fattura infatti si potrà notare che il gestional
 
 Cliccando sul tasto indicato si potrà procedere a registrare il pagamento della fattura tramite un movimento di prima nota.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (1).png>)
 
 Si aprirà ora il collegamento allo scadenzario, dove andare a inserire in Pagato l'importo della fattura e cliccare su Registra contabile pagamento.
 

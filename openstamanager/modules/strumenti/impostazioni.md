@@ -10,73 +10,132 @@ Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale,
 
 ### 🔨 Aggiornamenti
 
-* Attivare o disattivare la notifica di aggiornamenti disponibili di OpenSTAManager.
+**Attiva aggiornamenti:** Attivare o disattivare la notifica di nuove release del gestionale, questa impostazione non è editabile di default. L'avviso viene visualizzato tra le notifiche:
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Anagrafiche
 
-* Impostar il formato codice anagrafica.
+**Formato codice anagrafica:** Viene qui impostata la maschera applicata alla numerazione delle anagrafiche. Ogni "#" in fase di aggiunta di una nuova anagrafica verrà valorizzato, si può quindi impostare il numero di cifre che verranno mostrate e valorizzate come codice anagrafica.&#x20;
 
-Ogni "#" in fase di aggiunta di una nuova anagrafica verrà valorizzato, si può quindi impostare il numero di cifre che verranno mostrate e valorizzate come codice anagrafica.
+esempio: #### verrà valorizzato con 0001 alla creazione della prima anagrafica.
 
 ### 🔨 API
 
-* Lunghezza pagine per API (default)
-* Google Maps API key: API key di Google Maps per permettere una corretta visualizzazione delle mappe
-* apilayer API key for VAT number: API key verso servizi che permettono di verificare la Partita IVA e inserire automaticamente i dati anagrafici registrati.
+**Lunghezza pagine per API:** definisce il numero di pagine di risposta quando si interroga l'api di OSM.
+
+esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, verranno visualizzati suddivisi in 5 pagine.
+
+**Google Maps API key:** E' qui possibile inserire l'API key di Google Maps, per poter visualizzare le mappe nei moduli Mappe, Anagrafiche e Attività.
+
+**apilayer API key for VAT number:** API key verso servizi che permettono di verificare la Partita IVA e inserire automaticamente i dati anagrafici registrati.
 
 ### 🔨 Applicazione
 
-* Google Maps API key per Tecnici: API key di Google dove confluiranno le richieste dei tecnici
-* Abilitare la visualizzazione dei prezzi nell'APP
-* Abilitare la sincronizzare solo dei Clienti per cui il Tecnico ha lavorato in passato
-* Impostare il numero di mesi per lo storico delle Attività
-* Abilitare la modifica delle attività di altri tecnici, opzione che permette l'inserimento di attività ad altri tecnici
-* Abilitare la visualizzazione dei promemoria
+**Google Maps API key per Tecnici:** API key di Google dove confluiranno le richieste effettuate da utenti appartenenti al gruppo Tecnici, effettuate tramite l'app tecnici.
+
+**Mostra prezzi:** Abilitare la visualizzazione dei prezzi ai tecnici nell'app.
+
+**Sincronizza solo i Clienti per cui il Tecnico ha lavorato in passato:** Abilita la sincronizzazione nell'app delle sole anagrafiche cliente per le quali il tecnico ha delle sessioni nelle attività di cui queste anagrafiche sono impostate come cliente.&#x20;
+
+**Mesi per lo storico attività:** Numero di mesi precedenti alla data odierna di cui conservare le attività sincronizzate nell'app.
+
+**Abilita la modifica di altri tecnici:**&#x20;
+
+**Visualizza promemoria:**
+
+**Visualizza solo promemoria assegnati:**&#x20;
+
+{% hint style="info" %}
+Per rendere effettiva la modifica di queste impostazioni è necessario effettuare il reset dell'applicazione ed effettuare nuovamente la sincronizzazione.
+{% endhint %}
 
 ### 🔨 Attività
 
-* Abilitare la visualizzazione dei prezzi al tecnico
-* Abilitare la stampa per anteprima e firma
-* Abilitare l'inserimento di sessioni agli altri tecnici
-* Inizio orario lavorativo
-* Fine orario lavorativo
-* Giorni lavorativi
-* Scegliere se notificare al tecnico:
-  * l'aggiunta della sessione nell'attività
-  * la rimozione della sessione dall'attività
-  * l'assegnazione dell'attività
-  * la rimozione dell'assegnazione dell'attività
-* Stato dell'attività alla chiusura
-* Stato dell'attività dopo la firma
-* Abilitare la visualizzazione dei promemoria attività ai soli tecnici assegnati
-* Abilitare l'espansione automatica della sezione "Dettagli aggiuntivi"
-* Abilitare l'invio di alert di occupazione tecnici
-* Abilitare la verifica del numero intervento
-* Formato ore in stampa
-* Descrizione personalizzata in fatturazione
-* Stato predefinito dell'attività creata da Dashboard
-* Stato predefinito dell'attività alla creazione
+**Mostra i prezzi al tecnico:** Disabilitare per non permettere al tecnico di visualizzare i prezzi degli articoli e delle righe all'interno dei documenti.
+
+**Stampa per anteprima e firma:** Selezionare il template di stampa intervento da utilizzare nella sezione anteprima e firma.
+
+**Permetti inserimento sessioni degli altri tecnici:** Permette la modifica delle attività degli altri tecnici, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
+
+**Inizio orario lavorativo:**
+
+**Fine orario lavorativo:**
+
+**Giorni lavorativi:** Selezionare i giorni di apertura dell'attività, che saranno visualizzati con sfondo bianco in dashboard. I giorni non selezionati verranno invece visualizzati con sfondo rosso e considerati festivi. Il giorno con sfondo giallo invece corrisponde alla data corrente.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**Notifica al tecnico l'aggiunta della sessione nell'attività:** Invia automaticamente un'email al tecnico per notificare l'inserimento di nuove sessioni di lavoro che gli sono state assegnate (nell'anagrafica del tecnico deve essere stata specificata un email)
+
+**Notifica al tecnico la rimozione della sessione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione di sessioni di lavoro che erano assegnate a lui e sono successivamente state rimosse (nell'anagrafica del tecnico deve essere stata specificata un email)
+
+**Stato dell'attività alla chiusura:** Stato da impostare all'attività al momento della sua chiusura.
+
+**Stato dell'attività dopo la firma:** Stato da impostare all'attività a seguito della firma del cliente.
+
+**Mostra promemoria attività ai soli Tecnici assegnati:** permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
+
+**Espandi automaticamente la sezione "Dettagli aggiuntivi":** all'aggiunta di nuove attività viene espansa automaticamente la sezione Dettagli aggiuntivi, permettendo di inserire Data/ora scadenza e l'eventuale Referente.
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+**Alert occupazione tecnici:** Effettua i controlli sulle sessioni inserite per i tecnici, notificando sessioni che presentano conflitti di orario.
+
+**Verifica numero intervento:** Effettua un controllo sulla progressività della numerazione delle attività, mostrando un avviso in caso la numerazione non sia progressiva.
+
+{% hint style="info" %}
+Per non visualizzare falsi avvisi è consigliato impostare una maschera nell'apposita sezione in segmenti che includa anche l'anno. Quindi ad esempio ####/yyyy.
+{% endhint %}
+
+**Formato ore in stampa:** Selezionare se le ore delle sessioni visualizzate in stampa debbano essere espresse secondo sistema decimale o in sessantesimi.
+
+**Notifica al tecnico l'assegnazione all'attività:** Invia automaticamente un'email al tecnico per notificare l'assegnazione di una nuova attività (nell'anagrafica del tecnico deve essere stata specificata un email)
+
+**Notifica al tecnico la rimozione dell'assegnazione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione dell'assegnazione di un'attività (nell'anagrafica del tecnico deve essere stata specificata un email)
+
+**Descrizione personalizzata in fatturazione:** E' qui possibile definire la descrizione che l'attività assumerà nelle righe di una fattura di vendita una volta aggiunta al documento o procedendo alla fatturazione delle attività da azioni di gruppo.
+
+**Stato predefinito dell'attività da Dashboard:** Definisce lo stato che l'attività assumerà al momento della sua creazione cliccando direttamente in dashboard.
+
+**Stato predefinito dell'attività:** Definisce lo stato che l'attività assumerà al momento della sua creazione dal modulo Attività.
 
 ### 🔨 Backup
 
-* Numero di backup da mantenere
-* Scegliere se abilitare il backup automatico
-* Scegliere se permettere il ripristino di backup da file esterni
+**Numero di backup da mantenere:** E' qui possibile definire il numero di backup da salvare, verrà eliminato il backup più vecchio alla creazione di ogni nuovo backup.
+
+{% hint style="warning" %}
+E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazione di un nuovo backup, nel caso in cui non sia sufficiente, l'operazione verrà interrotta e non verranno effettuati nuovi backup.
+{% endhint %}
+
+**Backup automatico:** Se abilitato viene effettuato un backup completo del gestionale secondo le impostazioni definite in zz\_tasks (di default ogni giorno all'1)
+
+**Permetti il ripristino di backup da file esterni:** E' qui possibile disattivare il ripristino di backup da archivi esterni al gestionale.
 
 ### 🔨 Contratti
 
-* Condizioni generali di fornitura contratti
+**Condizioni generali di fornitura contratti:** Le condizioni qui inserite verranno riportate in tutti i nuovi contratti creati dal momento della modifica di questa impostazione. Non verranno perciò modificati i contratti precedenti.\
+
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Dashboard
 
-* Abilitare i tooltip sul calendario
-* Abilitare la visualizzazione della Domenica sul calendario
-* Vista dashboard predefinita
-* Ora inizio sul calendario
-* Ora fine sul calendario
-* Abilitare la visualizzazione delle informazioni aggiuntive sul calendario
-* Visualizzazione colori sessioni
-* Tempo predefinito di snap attività sul calendario
+**Utilizzare i tooltip sul calendario:**
+
+**Visualizzare la domenica sul calendario:**
+
+**Vista dashboard:**
+
+**Ora inizio sul calendario:**
+
+**Ora fine sul calendario:**
+
+**VIsualizza informazioni aggiuntive sul calendario:**
+
+**Visualizzazione colori sessioni:**
+
+**Tempo predefinito di snap attività sul calendario:**
 
 ### 🔨 DDT
 

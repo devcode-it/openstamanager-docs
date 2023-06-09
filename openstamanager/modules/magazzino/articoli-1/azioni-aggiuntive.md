@@ -130,7 +130,7 @@ Fare clic su Procedi per effettuare le modifiche.
 
 Una volta selezionati i record interessati è possibile modificarne massivamente l'aliquota IVA predefinita cliccando su Azioni di gruppo/Aggiorna aliquota IVA.
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 Il gestionale chiederà ora l'aliquota IVA da applicare agli articoli selezionati.
 
@@ -146,7 +146,7 @@ Una volta selezionati i record interessati è possibile impostare massivamente i
 Questa azione può essere effettuata solo per articoli che non hanno già un prezzo di acquisto registrato. Verrà loro applicato il prezzo di acquisto della fattura più recente.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (5).png>)
+![](<../../../../.gitbook/assets/image (5) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere all'aggiornamento dei prezzi di acquisto.
 

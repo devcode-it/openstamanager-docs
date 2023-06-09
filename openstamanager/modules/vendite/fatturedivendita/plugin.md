@@ -152,7 +152,7 @@ Una volta selezionati i record interessati  è possibile modificarne massivament
 
 Il gestionale chiederà quindi la conferma di procedere alla modifica nei record selezionati.
 
-&#x20;                                                   ![](<../../../../.gitbook/assets/image (4).png>)
+&#x20;                                                   ![](<../../../../.gitbook/assets/image (4) (2).png>)
 
 Cliccando su Procedi si confermerà l'operazione.
 
