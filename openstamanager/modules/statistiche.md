@@ -32,7 +32,7 @@ Il modulo è diviso nelle seguenti sezioni:
 
 #### Ore interventi per tipologia
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 #### Ore di lavoro per tecnico
 

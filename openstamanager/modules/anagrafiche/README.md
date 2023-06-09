@@ -34,7 +34,7 @@ Aprendo il menu a tendina è possibile trovare i moduli:
 * Provenienze clienti
 * Settori merceologici
 
-&#x20;                                                      <img src="../../../.gitbook/assets/image (120).png" alt="" data-size="original">
+&#x20;                                                      <img src="../../../.gitbook/assets/image (120) (1).png" alt="" data-size="original">
 
 ### 👾 Widget
 

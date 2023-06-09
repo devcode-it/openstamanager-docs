@@ -6,21 +6,21 @@ In OpenSTAManager è possibile stampare l'elenco delle provvigioni da liquidare 
 
 Si dovrà innanzitutto creare un'anagrafica del tipo agente, con indicata una provvigione predefinita nell'apposito campo:
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Nell'anagrafica cliente si dovrà poi impostare l'agente come agente principale
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 Andando ora a creare una nuova fattura di vendita per il cliente appena modificato, sarà possibile visualizzare il campo agente valorizzato e, all'inserimento di righe, verrà automaticamente inserita la percentuale di provvigione e verranno calcolati le provvigioni e il netto da provvigioni.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 Tornando ora all'anagrafica dell'agente sarà possibile cliccare su liquida provvigioni:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 Sarà qui possibile selezionare il periodo di cui liquidare le provvigioni, il formato e orientamento della pagina e lo stato delle fatture da includere nel calcolo.
 
@@ -28,6 +28,6 @@ Sarà qui possibile selezionare il periodo di cui liquidare le provvigioni, il f
 Di default vengono selezionate solo le fatture in stato **Pagato**, è possibile scegliere di includere anche le fatture in stato **Emessa** e **Parzialmente pagato**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>

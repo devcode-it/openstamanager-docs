@@ -50,7 +50,7 @@ Dalla schermata di dettaglio di un ordine fornitore è possibile procedere a div
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-&#x20;                                                  ![](<../../../../.gitbook/assets/image (8) (1) (1).png>)
+&#x20;                                                  ![](<../../../../.gitbook/assets/image (8) (1).png>)
 
 ### ✉️ Invia
 

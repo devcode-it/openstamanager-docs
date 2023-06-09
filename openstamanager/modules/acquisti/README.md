@@ -18,7 +18,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Acqui
 
 Nel menu a tendina è possibile trovare i moduli Ordini fornitore e Fatture di acquisto.
 
-&#x20;                                                     ![](<../../../.gitbook/assets/image (118).png>)
+&#x20;                                                     ![](<../../../.gitbook/assets/image (118) (1).png>)
 
 ## 🔽 Informazioni aggiuntive
 
