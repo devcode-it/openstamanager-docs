@@ -40,15 +40,13 @@ esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, ve
 
 **Mesi per lo storico attività:** Numero di mesi precedenti alla data odierna di cui conservare le attività sincronizzate nell'app.
 
-**Abilita la modifica di altri tecnici:**&#x20;
-
-**Visualizza promemoria:**
-
-**Visualizza solo promemoria assegnati:**&#x20;
-
 {% hint style="info" %}
 Per rendere effettiva la modifica di queste impostazioni è necessario effettuare il reset dell'applicazione ed effettuare nuovamente la sincronizzazione.
 {% endhint %}
+
+{% content-ref url="../../app-tecnici/v3.0.30.md" %}
+[v3.0.30.md](../../app-tecnici/v3.0.30.md)
+{% endcontent-ref %}
 
 ### 🔨 Attività
 
@@ -57,10 +55,6 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 **Stampa per anteprima e firma:** Selezionare il template di stampa intervento da utilizzare nella sezione anteprima e firma.
 
 **Permetti inserimento sessioni degli altri tecnici:** Permette la modifica delle attività degli altri tecnici, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
-
-**Inizio orario lavorativo:**
-
-**Fine orario lavorativo:**
 
 **Giorni lavorativi:** Selezionare i giorni di apertura dell'attività, che saranno visualizzati con sfondo bianco in dashboard. I giorni non selezionati verranno invece visualizzati con sfondo rosso e considerati festivi. Il giorno con sfondo giallo invece corrisponde alla data corrente.
 
