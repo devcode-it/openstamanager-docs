@@ -343,52 +343,68 @@ Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, v
 
 ### 🔨 Magazzino
 
-* Abilitare la movimentazione del magazzino durante l'inserimento o eliminazione dei lotti/serial number
+**Movimenta il magazzino durante l'inserimento o eliminazione dei lotti/serial number:** Se abilitato, all'inserimento di seriali in una scheda articolo, viene aggiunto il corrispondente numero di articoli alla giacenza.
+
+**Serial number abilitato di default:** Se abilitato ogni nuovo articolo creato in Magazzino e da importazione di fattura di acquisto avrà il serial number abilitato.
 
 ### 🔨 Mail
 
-* Numero di giorni di mantenimento della coda di invio
+**Numero di giorni di mantenimento della coda di invio:** Vengono specificati il numero di giorni dopo i quali eliminare un'email dalla coda di invio.
 
 ### 🔨 Newsletter
 
-* Numero massimo di tentativi di invio
-* Numero email da inviare in contemporanea per account
+**Numero massimo di tentativi:** Numero di tentativi da effettuare per l'invio di una mail.&#x20;
+
+**Numero email da inviare in contemporanea per account:** Numero di email presenti in coda di invio da inviare contemporaneamente per ogni account.
 
 ### 🔨 Ordini
 
-* Abilitare la modifica automatica dello stato ordini fatturati
-* Abilitare la conferma automatica delle quantità negli ordini cliente
-* Abilitare la conferma automatica delle quantità negli ordini fornitore
+**Cambia automaticamente stato ordini fatturati:** Se questa impostazione è abilitata, blocca la possibilità di modificare manualmente lo stato degli ordini. Al momento della fatturazione di un ordine gli cambia automaticamente lo stato in fatturato.
+
+**Conferma automaticamente le quantità negli ordini cliente:** Le quantità degli articoli presenti nelle righe degli ordini cliente vengono confermate automaticamente.
+
+**Conferma automaticamente le quantità negli ordini fornitore:** Le quantità degli articoli presenti nelle righe degli ordini fornitore vengono confermate automaticamente.
 
 ### 🔨 Piano dei conti
 
-* Conto per Riepilogo
-  * fornitori
-  * clienti
-* Conto per IVA
-  * indetraibile
-  * su vendite
-  * su acquisti
-* Conto per Erario
-  * c/ritenute d'acconto
-  * c/INPS
-  * c/enasarco
-* Conto per
-  * Apertura conti patrimoniali
-  * Chiusura conti patrimoniali
-* Conto per autofattura
-* Conto di secondo livello per i
-  * crediti clienti
-  * debiti fornitori
+**Conto per Riepilogativo fornitori:** Di default 000010 - Riepilogativo fornitori
+
+**Conto per Riepilogativo clienti:** Di default 000010 - Riepilogativo clienti
+
+**Conto per Iva indetraibile:** Di default 000030 - Iva indetraibile
+
+**Conto per Iva su vendite:** Di default 000010 - Iva su vendite
+
+**Conto per Iva su acquisti:** Di default 000020 - Iva su acquisti
+
+**Conto per Erario c/ritenute d'acconto:** Di default 000060 - Erario c/ritenute d'acconto
+
+**Conto per Erario c/INPS:** Di default 000010 - Erario c/INPS
+
+**Conto per Erario c/enasarco:** Di default 000070 - Erario c/enasarco
+
+**Conto per Apertura conti patrimoniali:** Di default 000010 - Apertura conti patrimoniali
+
+**Conto per Chiusura conti patrimoniali:** Di default 000010 - Chiusura conti patrimoniali
+
+**Conto per autofattura:** Di default 000010 - Compensazione per autofattura
+
+**Conto di secondo livello per i crediti clienti:** Di default 110 - Crediti clienti e crediti diversi
+
+**Conto di secondo livello per i debiti fornitori:** Di default 110 - Debiti fornitori e debiti diversi
 
 ### 🔨 Preventivi
 
-* Condizioni generali di fornitura preventivi
-* Abilitare la conferma automatica delle quantità nei preventivi
+**Condizioni generali di fornitura preventivi:** Le condizioni qui inserite verranno riportate in tutti i nuovi preventivi creati dal momento della modifica di questa impostazione. Non verranno perciò modificati i preventivi precedenti.
+
+**Conferma automaticamente le quantità nei preventivi:**  Le quantità degli articoli presenti nelle righe dei preventivi vengono confermate automaticamente.
 
 ### 🔨 Scadenzario
 
-* Abilitare l'invio automatico di solleciti
-* Template email invio sollecito
-* Ritardo in giorni della scadenza della fattura per invio sollecito di pagamento
-* Ritardo in giorni dall'ultima email per invio sollecito di pagamento
+**Invio solleciti in automatico:** Invia automaticamente delle email di sollecito secondo le tempistiche definite nelle impostazioni
+
+**Template email invio sollecito:** Template dell'email di sollecito da inviare ai clienti.
+
+**Ritardo in giorni della scadenza della fattura per invio sollecito pagamento:** Numero di giorni superat i i quali inviare un email di sollecito per il pagamento delle fatture.
+
+**Ritardo in giorni dall'ultima email per invio sollecito pagamento:** Intervallo di tempo tra un'email di sollecito inviata e la successiva.
