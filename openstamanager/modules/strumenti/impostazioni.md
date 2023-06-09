@@ -22,7 +22,7 @@ esempio: #### verrà valorizzato con 0001 alla creazione della prima anagrafica.
 
 ### 🔨 API
 
-**Lunghezza pagine per API:** definisce il numero di pagine di risposta quando si interroga l'api di OSM.
+**Lunghezza pagine per API:** Definisce il numero di pagine di risposta quando si interroga l'api di OSM.
 
 esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, verranno visualizzati suddivisi in 5 pagine.
 
@@ -66,17 +66,17 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**Notifica al tecnico l'aggiunta della sessione nell'attività:** Invia automaticamente un'email al tecnico per notificare l'inserimento di nuove sessioni di lavoro che gli sono state assegnate (nell'anagrafica del tecnico deve essere stata specificata un email)
+**Notifica al tecnico l'aggiunta della sessione nell'attività:** Invia automaticamente un'email al tecnico per notificare l'inserimento di nuove sessioni di lavoro che gli sono state assegnate (nell'anagrafica del tecnico deve essere stata specificata un email).
 
-**Notifica al tecnico la rimozione della sessione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione di sessioni di lavoro che erano assegnate a lui e sono successivamente state rimosse (nell'anagrafica del tecnico deve essere stata specificata un email)
+**Notifica al tecnico la rimozione della sessione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione di sessioni di lavoro che erano assegnate a lui e sono successivamente state rimosse (nell'anagrafica del tecnico deve essere stata specificata un email).
 
 **Stato dell'attività alla chiusura:** Stato da impostare all'attività al momento della sua chiusura.
 
 **Stato dell'attività dopo la firma:** Stato da impostare all'attività a seguito della firma del cliente.
 
-**Mostra promemoria attività ai soli Tecnici assegnati:** permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
+**Mostra promemoria attività ai soli Tecnici assegnati:** Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
 
-**Espandi automaticamente la sezione "Dettagli aggiuntivi":** all'aggiunta di nuove attività viene espansa automaticamente la sezione Dettagli aggiuntivi, permettendo di inserire Data/ora scadenza e l'eventuale Referente.
+**Espandi automaticamente la sezione "Dettagli aggiuntivi":** All'aggiunta di nuove attività viene espansa automaticamente la sezione Dettagli aggiuntivi, permettendo di inserire Data/ora scadenza e l'eventuale Referente.
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,9 +90,9 @@ Per non visualizzare falsi avvisi è consigliato impostare una maschera nell'app
 
 **Formato ore in stampa:** Selezionare se le ore delle sessioni visualizzate in stampa debbano essere espresse secondo sistema decimale o in sessantesimi.
 
-**Notifica al tecnico l'assegnazione all'attività:** Invia automaticamente un'email al tecnico per notificare l'assegnazione di una nuova attività (nell'anagrafica del tecnico deve essere stata specificata un email)
+**Notifica al tecnico l'assegnazione all'attività:** Invia automaticamente un'email al tecnico per notificare l'assegnazione di una nuova attività (nell'anagrafica del tecnico deve essere stata specificata un email).
 
-**Notifica al tecnico la rimozione dell'assegnazione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione dell'assegnazione di un'attività (nell'anagrafica del tecnico deve essere stata specificata un email)
+**Notifica al tecnico la rimozione dell'assegnazione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione dell'assegnazione di un'attività (nell'anagrafica del tecnico deve essere stata specificata un email).
 
 **Descrizione personalizzata in fatturazione:** E' qui possibile definire la descrizione che l'attività assumerà nelle righe di una fattura di vendita una volta aggiunta al documento o procedendo alla fatturazione delle attività da azioni di gruppo.
 
@@ -108,7 +108,7 @@ Per non visualizzare falsi avvisi è consigliato impostare una maschera nell'app
 E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazione di un nuovo backup, nel caso in cui non sia sufficiente, l'operazione verrà interrotta e non verranno effettuati nuovi backup.
 {% endhint %}
 
-**Backup automatico:** Se abilitato viene effettuato un backup completo del gestionale secondo le impostazioni definite in zz\_tasks (di default ogni giorno all'1)
+**Backup automatico:** Se abilitato viene effettuato un backup completo del gestionale secondo le impostazioni definite in zz\_tasks (di default ogni giorno all'1).
 
 **Permetti il ripristino di backup da file esterni:** E' qui possibile disattivare il ripristino di backup da archivi esterni al gestionale.
 
@@ -127,9 +127,9 @@ E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazion
 
 **Vista dashboard:** Scegliere il tipo di vista predefinita della dashboard tra settimana - mese - giorno - agenda. Questa impostazione verrà applicata a tutti gli utenti.
 
-**Ora inizio sul calendario:** orario di inizio giornata a calendario.
+**Ora inizio sul calendario:** Orario di inizio giornata a calendario.
 
-**Ora fine sul calendario:** orario di fine giornata a calendario.
+**Ora fine sul calendario:** Orario di fine giornata a calendario.
 
 {% hint style="warning" %}
 Queste due impostazioni non influenzano gli orari in cui è possibile inserire attività e sessioni, quindi nel caso in cui venga inserita un'attività fuori dagli orari qui indicati, non verrà visualizzata in dashboard.
@@ -145,59 +145,63 @@ Queste due impostazioni non influenzano gli orari in cui è possibile inserire a
 
 ### 🔨 DDT
 
-**Cambia automaticamente stato ddt fatturati**: se questa impostazione è abilitata, blocca la possibilità di modificare manualmente lo stato dei ddt. Al momento della fatturazione di un ddt gli cambia automaticamente lo stato in fatturato.
+**Cambia automaticamente stato ddt fatturati**: Se questa impostazione è abilitata, blocca la possibilità di modificare manualmente lo stato dei ddt. Al momento della fatturazione di un ddt gli cambia automaticamente lo stato in fatturato.
 
 ### 🔨 Fatturazione
 
-**Iva predefinita:**
+**Iva predefinita:** E' qui possibile definire l'aliquota iva predefinita che verrà utilizzata nell'inserimento righe nei documenti se nella scheda anagrafica o articolo non ne è definita una diversa.
 
-**Tipo di pagamento predefinito:**
+**Tipo di pagamento predefinito:** Viene qui definita la modalità di pagamento predefinita, che verrà selezionata nei documenti dove non è presente un'anagrafica con associata una modalità di pagamento predefinito.
 
-**Ritenuta d'acconto predefinita:**
+**Ritenuta d'acconto predefinita:** E' qui possibile selezionare la ritenuta d'acconto da utilizzare nei documenti di default, verrà così inserita in tutti i nuovi documenti in uscita.
 
-**Cassa previdenziale predefinita:**
+**Cassa previdenziale predefinita:** E' qui possibile definire la cassa previdenziale da utilizzare nei documenti di default, verrà così inserita in tutti i nuovi documenti in uscita.
 
-**Importo marca da bollo:**
+**Importo marca da bollo:** Va qui specificato l'importo della marca da bollo.
 
-**Soglia minima per l'applicazione della marca da bollo:**
+**Soglia minima per l'applicazione della marca da bollo:** Va  quispecificato l'importo superato il quale va aggiunta la marca da bollo nei documenti.
 
-**Conto aziendale predefinito:**
+**Conto aziendale predefinito:** Va qui definito il conto predefinito da utilizzare nei pagamenti, nel caso non ne sia specificato uno diverso associato al tipo di pagamento selezionato.
 
-**Conto predefinito fatture di vendita:**
+**Conto predefinito fatture di vendita:** Conto utilizzato di default per movimentare le fatture di vendita.
 
-**Conto predefinito fatture di acquisto:**
+**Conto predefinito fatture di acquisto:** Conto utilizzato di default per movimentare le fatture di acquisto.
 
-**Dicitura fissa fattura:**
+**Dicitura fissa fattura:** Viene qui definita la dicitura fissa che verrà mostrata a piè di pagina della fattura di vendita.
 
-**Metodologia calcolo ritenuta d'acconto predefinito:**
+**Metodologia calcolo ritenuta d'acconto predefinito:** Viene qui deciso se calcolare la ritenuta d'acconto sull'imponibile o sull'imponibile + IVA di default.
 
-**Ritenuta previdenziale predefinita:**
+**Ritenuta previdenziale predefinita:** Viene qui definita la ritenuta previdenziale predefinita.
 
-**Addebita marca da bollo al cliente:**
+**Addebita marca da bollo al cliente:** Se abilitato, l'importo della marca da bollo verrà sommato in fattura, al contrario, non graverà sul cliente.
 
-**Iva da applicare su marca da bollo:**
+**Iva da applicare su marca da bollo:** Specificare qui l'aliquota iva da utilizzare sulla marca da bollo.
 
-**Descrizione addebito bollo:**
+**Descrizione addebito bollo:** Nome del bollo da applicare al documento.
 
-**Conto predefinito per la marca da bollo:**
+**Conto predefinito per la marca da bollo:** Conto predefinito selezionato per risolvere la marca da bollo in fase di registrazione in prima nota del pagamento del documento.
 
-**Iva per lettere d'intenti:**
+**Iva per lettere d'intenti:** Iva utilizzata di default per i documenti collegati a lettere d'intento.
 
-**Utilizza prezzi di vendita comprensivi di IVA:**
+**Utilizza prezzi di vendita comprensivi di IVA:** Si può da qui abilitare la gestione degli importi ivati per i prezzi di vendita.
 
-**Liquidazione iva:**
+**Liquidazione iva:** Viene qui impostato se la liquidazione iva viene effettuata mensilmente o trimestralmente.&#x20;
 
-**Conto anticipi clienti:**
+{% hint style="info" %}
+Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stampa liquidazione IVA.
+{% endhint %}
 
-**Conto anticipo fornitori:**
+**Conto anticipi clienti:** Conto utilizzato di default per la gestione di anticipi da clienti.
 
-**Descrizione fattura pianificata:**
+**Conto anticipo fornitori:** Conto utilizzato di default per la gestione di anticipi a fornitori.
 
-**Aggiorna info di acquisto:**
+**Descrizione fattura pianificata:** E' qui possibile definire la dicitura delle rate di fatturazione utilizzata nel plugin fatturazione pianificata in contratti.
 
-**Sezionale per autofatture di vendita:**
+**Aggiorna info di acquisto:**&#x20;
 
-**Sezionale per autofatture di acquisto:**
+**Sezionale per autofatture di vendita:** Sezionale impostato di default per la registrazione delle autofattura tra i documenti in uscita.
+
+**Sezionale per autofatture di acquisto:** Sezionale impostato di default per la registrazione delle autofattura tra i documenti in entrata.
 
 **Bloccare i prezzi inferiori al minimo di vendita:**
 
