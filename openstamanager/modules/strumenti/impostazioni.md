@@ -12,7 +12,7 @@ Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale,
 
 **Attiva aggiornamenti:** Attivare o disattivare la notifica di nuove release del gestionale, questa impostazione non è editabile di default. L'avviso viene visualizzato tra le notifiche:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Anagrafiche
 
@@ -64,7 +64,7 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 **Giorni lavorativi:** Selezionare i giorni di apertura dell'attività, che saranno visualizzati con sfondo bianco in dashboard. I giorni non selezionati verranno invece visualizzati con sfondo rosso e considerati festivi. Il giorno con sfondo giallo invece corrisponde alla data corrente.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Notifica al tecnico l'aggiunta della sessione nell'attività:** Invia automaticamente un'email al tecnico per notificare l'inserimento di nuove sessioni di lavoro che gli sono state assegnate (nell'anagrafica del tecnico deve essere stata specificata un email).
 
@@ -78,7 +78,7 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 **Espandi automaticamente la sezione "Dettagli aggiuntivi":** All'aggiunta di nuove attività viene espansa automaticamente la sezione Dettagli aggiuntivi, permettendo di inserire Data/ora scadenza e l'eventuale Referente.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Alert occupazione tecnici:** Effettua i controlli sulle sessioni inserite per i tecnici, notificando sessioni che presentano conflitti di orario.
 
@@ -137,7 +137,7 @@ Queste due impostazioni non influenzano gli orari in cui è possibile inserire a
 
 **VIsualizza informazioni aggiuntive sul calendario:** Viene abilitata la sezione _Tutto il giorno_ che permette di visualizzare informazioni aggiuntive sui documenti, come ad esempio l'accettazione e conclusione dei preventivi.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Visualizzazione colori sessioni:** E' possibile scegliere come visualizzare le sessioni in dashboard, decidendo se visualizzare lo sfondo e il bordo dell'attività del colore assegnato al tecnico o allo stato dell'attività.
 
