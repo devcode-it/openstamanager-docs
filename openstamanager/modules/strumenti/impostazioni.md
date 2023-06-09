@@ -117,60 +117,97 @@ E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazion
 **Condizioni generali di fornitura contratti:** Le condizioni qui inserite verranno riportate in tutti i nuovi contratti creati dal momento della modifica di questa impostazione. Non verranno perciò modificati i contratti precedenti.\
 
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔨 Dashboard
 
-**Utilizzare i tooltip sul calendario:**
+**Utilizzare i tooltip sul calendario:**&#x20;
 
-**Visualizzare la domenica sul calendario:**
+**Visualizzare la domenica sul calendario:** Permette di scegliere se visualizzare o meno la domenica in dashboard.
 
-**Vista dashboard:**
+**Vista dashboard:** Scegliere il tipo di vista predefinita della dashboard tra settimana - mese - giorno - agenda. Questa impostazione verrà applicata a tutti gli utenti.
 
-**Ora inizio sul calendario:**
+**Ora inizio sul calendario:** orario di inizio giornata a calendario.
 
-**Ora fine sul calendario:**
+**Ora fine sul calendario:** orario di fine giornata a calendario.
 
-**VIsualizza informazioni aggiuntive sul calendario:**
+{% hint style="warning" %}
+Queste due impostazioni non influenzano gli orari in cui è possibile inserire attività e sessioni, quindi nel caso in cui venga inserita un'attività fuori dagli orari qui indicati, non verrà visualizzata in dashboard.
+{% endhint %}
 
-**Visualizzazione colori sessioni:**
+**VIsualizza informazioni aggiuntive sul calendario:** Viene abilitata la sezione _Tutto il giorno_ che permette di visualizzare informazioni aggiuntive sui documenti, come ad esempio l'accettazione e conclusione dei preventivi.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+**Visualizzazione colori sessioni:** E' possibile scegliere come visualizzare le sessioni in dashboard, decidendo se visualizzare lo sfondo e il bordo dell'attività del colore assegnato al tecnico o allo stato dell'attività.
 
 **Tempo predefinito di snap attività sul calendario:**
 
 ### 🔨 DDT
 
-* Abilitare la modifica automatica dello stato DDT quando fatturati
+**Cambia automaticamente stato ddt fatturati**: se questa impostazione è abilitata, blocca la possibilità di modificare manualmente lo stato dei ddt. Al momento della fatturazione di un ddt gli cambia automaticamente lo stato in fatturato.
 
 ### 🔨 Fatturazione
 
-* IVA predefinita
-* Tipo di pagamento predefinito
-* Ritenuta d'acconto predefinita
-* Cassa previdenziale predefinita
-* Importo marca da bollo
-* Soglia minima per l'applicazione della marca da bollo
-* Conto aziendale predefinito
-* Conto predefinito fatture di vendita
-* Conto predefinito fatture di acquisto
-* Dicitura fissa fattura
-* Metodologia calcolo ritenuta d'acconto predefinito
-* Ritenuta previdenziale predefinita
-* Abilitare l'addebito della marca da bollo al cliente
-* IVA da applicare su marca da bollo
-* Descrizione addebito bollo
-* Conto predefinito per la marca da bollo
-* IVA per lettere d'intento
-* Abilitare l'utilizzo di prezzi di vendita comprensivi di IVA
-* Liquidazione IVA
-* Conto anticipo clienti
-* Conto anticipo fornitori
-* Descrizione fattura pianificata
-* Aggiorna info di acquisto
-* Sezionale per autofatture di vendita
-* Sezionale per autofatture di acquisto
-* Abilitare il blocco ai prezzi inferiori al minimo di vendita
-* Abilitare la fatturazione delle attività collegate a contratti, ordini e preventivi
-* Abilitare la data di emissione fattura automatica
+**Iva predefinita:**
+
+**Tipo di pagamento predefinito:**
+
+**Ritenuta d'acconto predefinita:**
+
+**Cassa previdenziale predefinita:**
+
+**Importo marca da bollo:**
+
+**Soglia minima per l'applicazione della marca da bollo:**
+
+**Conto aziendale predefinito:**
+
+**Conto predefinito fatture di vendita:**
+
+**Conto predefinito fatture di acquisto:**
+
+**Dicitura fissa fattura:**
+
+**Metodologia calcolo ritenuta d'acconto predefinito:**
+
+**Ritenuta previdenziale predefinita:**
+
+**Addebita marca da bollo al cliente:**
+
+**Iva da applicare su marca da bollo:**
+
+**Descrizione addebito bollo:**
+
+**Conto predefinito per la marca da bollo:**
+
+**Iva per lettere d'intenti:**
+
+**Utilizza prezzi di vendita comprensivi di IVA:**
+
+**Liquidazione iva:**
+
+**Conto anticipi clienti:**
+
+**Conto anticipo fornitori:**
+
+**Descrizione fattura pianificata:**
+
+**Aggiorna info di acquisto:**
+
+**Sezionale per autofatture di vendita:**
+
+**Sezionale per autofatture di acquisto:**
+
+**Bloccare i prezzi inferiori al minimo di vendita:**
+
+**Permetti fatturazione delle attività collegate a contratti:**
+
+**Data emissione fattura automatica:**
+
+**Permetti fatturazione delle attività collegate a ordini:**
+
+**Permetti fatturazione delle attività collegate a preventivi:**
 
 ### 🔨 Fatturazione elettronica
 
