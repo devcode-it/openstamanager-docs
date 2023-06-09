@@ -196,6 +196,7 @@
   * [🌈 Formattazione celle](guide/esempi/formattazione-celle.md)
   * [💵 Gestione acconto](guide/esempi/gestione-acconto.md)
   * [🗳 Gestione magazzini](guide/esempi/gestione-magazzini.md)
+  * [💡 Gestione provvigioni agenti](guide/esempi/gestione-provvigioni-agenti.md)
   * [📇 Import anagrafiche](guide/esempi/import-anagrafiche.md)
   * [📲 Import articoli](guide/esempi/import-articoli.md)
   * [📃 Import Preventivi](guide/esempi/import-preventivi.md)

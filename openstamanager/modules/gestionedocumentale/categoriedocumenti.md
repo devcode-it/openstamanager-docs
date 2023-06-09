@@ -22,4 +22,4 @@ Si dovrà ora procedere con l'immissione della descrizione della categoria.
 
 E' possibile modificare le categorie di documenti cliccando su un determinato record ed entrando nella schermata di dettaglio.
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)

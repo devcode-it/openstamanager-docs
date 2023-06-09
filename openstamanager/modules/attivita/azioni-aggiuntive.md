@@ -85,7 +85,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica attività.
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (3).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -106,7 +106,7 @@ Si potranno ora vedere tra le attività i record appena creati.
 
 Una volta selezionati i record interessati è possibile stamparli massivamente cliccando su Azioni di gruppo/Stampa riepilogo.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, permettendo di scegliere tra:
 
