@@ -44,7 +44,7 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 **Abilita la modifica di altri tecnici:** Permette la modifica delle attività degli altri tecnici da app, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
 
-**Visualizza promemoria:**
+**Visualizza promemoria:** Se disabilitato non permette la sincronizzazione dei promemoria in app.
 
 **Visualizza solo promemoria assegnati:**  Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
 
@@ -269,7 +269,7 @@ Tutti i valori totali hanno un numero di decimali fissato a 2.
 
 **Cifre decimali per quantità:** Numero di cifre decimali da visualizzare per numeri corrispondenti a quantità.&#x20;
 
-**Tempo di attesa ricerche in secondi:**&#x20;
+**Tempo di attesa ricerche in secondi:** Limite di tempo superato il quale, in fase di digitazione caratteri in un filtro di una tabella, viene avviata la ricerca.
 
 **Logo stampe:** Percorso del file impostato come logo nelle stampe, definibile in fase di configurazione dell'installazione o tramite scheda anagrafica azienda.
 
