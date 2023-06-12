@@ -28,8 +28,6 @@ esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, ve
 
 **Google Maps API key:** E' qui possibile inserire l'API key di Google Maps, per poter visualizzare le mappe nei moduli Mappe, Anagrafiche e Attività.
 
-**apilayer API key for VAT number:** API key verso servizi che permettono di verificare la Partita IVA e inserire automaticamente i dati anagrafici registrati.
-
 ### 🔨 Applicazione
 
 **Google Maps API key per Tecnici:** API key di Google dove confluiranno le richieste effettuate da utenti appartenenti al gruppo Tecnici, effettuate tramite l'app tecnici.
@@ -44,6 +42,12 @@ esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, ve
 Per rendere effettiva la modifica di queste impostazioni è necessario effettuare il reset dell'applicazione ed effettuare nuovamente la sincronizzazione.
 {% endhint %}
 
+**Abilita la modifica di altri tecnici:** Permette la modifica delle attività degli altri tecnici da app, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
+
+**Visualizza promemoria:**
+
+**Visualizza solo promemoria assegnati:**  Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
+
 {% content-ref url="../../app-tecnici/v3.0.30.md" %}
 [v3.0.30.md](../../app-tecnici/v3.0.30.md)
 {% endcontent-ref %}
@@ -54,7 +58,7 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 **Stampa per anteprima e firma:** Selezionare il template di stampa intervento da utilizzare nella sezione anteprima e firma.
 
-**Permetti inserimento sessioni degli altri tecnici:** Permette la modifica delle attività degli altri tecnici, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
+**Permetti inserimento sessioni degli altri tecnici:** Permette la modifica delle attività degli altri tecnici da gestionale, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
 
 **Giorni lavorativi:** Selezionare i giorni di apertura dell'attività, che saranno visualizzati con sfondo bianco in dashboard. I giorni non selezionati verranno invece visualizzati con sfondo rosso e considerati festivi. Il giorno con sfondo giallo invece corrisponde alla data corrente.
 
@@ -67,8 +71,6 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 **Stato dell'attività alla chiusura:** Stato da impostare all'attività al momento della sua chiusura.
 
 **Stato dell'attività dopo la firma:** Stato da impostare all'attività a seguito della firma del cliente.
-
-**Mostra promemoria attività ai soli Tecnici assegnati:** Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
 
 **Espandi automaticamente la sezione "Dettagli aggiuntivi":** All'aggiunta di nuove attività viene espansa automaticamente la sezione Dettagli aggiuntivi, permettendo di inserire Data/ora scadenza e l'eventuale Referente.
 
@@ -115,7 +117,7 @@ E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazion
 
 ### 🔨 Dashboard
 
-**Utilizzare i tooltip sul calendario:**&#x20;
+**Utilizzare i tooltip sul calendario:**  Abilita la visualizzazione di tooltip sul calendario.
 
 **Visualizzare la domenica sul calendario:** Permette di scegliere se visualizzare o meno la domenica in dashboard.
 
@@ -135,7 +137,7 @@ Queste due impostazioni non influenzano gli orari in cui è possibile inserire a
 
 **Visualizzazione colori sessioni:** E' possibile scegliere come visualizzare le sessioni in dashboard, decidendo se visualizzare lo sfondo e il bordo dell'attività del colore assegnato al tecnico o allo stato dell'attività.
 
-**Tempo predefinito di snap attività sul calendario:**
+**Tempo predefinito di snap attività sul calendario:** Intervallo di tempo utilizzato per lo spostamento di un'attività in dashboard, non può superare il tempo totale dell'intervallo impostato di default a 15 minuti.
 
 ### 🔨 DDT
 
@@ -191,7 +193,7 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 
 **Descrizione fattura pianificata:** E' qui possibile definire la dicitura delle rate di fatturazione utilizzata nel plugin fatturazione pianificata in contratti.
 
-**Aggiorna info di acquisto:**&#x20;
+**Aggiorna info di acquisto:** Viene selezionata l'impostazione di default che verrà preselezionata in fase di importazione fattura elettronica
 
 **Sezionale per autofatture di vendita:** Sezionale impostato di default per la registrazione delle autofattura tra i documenti in uscita.
 
@@ -223,7 +225,7 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-**Authorization ID Indice PA:**
+**Authorization ID Indice PA:** Token necessario per la verifica dei codici fiscali delle pubbliche amministrazioni
 
 **OSMCloud Services API Token:** Se si è sottoscritto al servizio di invio/ricezione fatture elettroniche con OSM, viene qui riportato il token univoco per inviare e scaricare fatture da CompEd.
 
@@ -293,15 +295,15 @@ Questa impostazione non influenza nessuna funzionalità delle azioni di gruppo.
 [esportare-e-stampare-tabelle-con-molti-record.md](../../../guide/esempi/esportare-e-stampare-tabelle-con-molti-record.md)
 {% endcontent-ref %}
 
-**Autocompletamento form:**&#x20;
+**Autocompletamento form:** Se abilitato permette l'autoinserimento di valori al momento dell'inserimento da tastiera
 
 **Filigrana stampe:** Percorso del file impostato come filigrana nelle stampe, definibile in fase di configurazione dell'installazione o tramite scheda anagrafica azienda.
 
-**Attiva scorciatoie da tastiera:**&#x20;
+**Attiva scorciatoie da tastiera:** E' possibile abilitare o disabilitare le scorciatoie da tastiera visualizzate nell'help.
 
 **Modifica Viste di default:** Se abilitato permette la modifica delle viste di default nel modulo Viste.
 
-**Abilita canale pre-release per aggiornamenti:**&#x20;
+**Abilita canale pre-release per aggiornamenti:** Consente di recuperare dal canale di pre-release gli aggiornamenti NON stabili del gestionale.
 
 **Totali delle tabelle ristretti alla selezione:** Nei vari moduli, i totali a fondo pagina delle tabelle assumono il valore dei record selezionati, in caso ci sia almeno una riga selezionata.
 
@@ -309,7 +311,7 @@ Questa impostazione non influenza nessuna funzionalità delle azioni di gruppo.
 
 **Nascondere la barra dei plugin di default:** Se abilitato, la barra dei plugin rimane chiusa fino alla sua apertura.
 
-**Soft quota:**&#x20;
+**Soft quota:** Valore espresso in Giga superato il quale viene visualizzato un avviso di spazio in esaurimento.
 
 **Permetti selezione articoli con quantità minore o uguale a zero in Documenti di Vendita:** Se abilitata, permette di inserire come righe delle fatture di vendita e ddt in uscita degli articoli non disponibili a magazzino, quindi con quantità negativa.
 
