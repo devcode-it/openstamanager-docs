@@ -28,8 +28,8 @@ Si potrà quindi ora procedere alla registrazione contabile.
 
 Si dovrà aprire la scadenza interessata, compilare il campo Pagato con l'importo della fattura e cliccare su Registra contabile pagamento.
 
-<figure><img src="../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si dovrà ora a inserire in Dare il conto appena creato e cliccare su Aggiungi, chiudendo così il conto del cliente, ma registrando la perdita a bilancio.
 
-<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
