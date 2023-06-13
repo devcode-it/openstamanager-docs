@@ -17,3 +17,9 @@ Di seguito le principali novità della versione 2.4.47, per maggiori dettagli vi
 ➡️  Aggiunta la possibilità di duplicare gli ordini cliente e fornitore
 
 <figure><img src=".gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+
+➡️  Aggiornate le impostazioni presenti a gestionale e la relativa guida, scopri le novità:
+
+{% content-ref url="openstamanager/modules/strumenti/impostazioni.md" %}
+[impostazioni.md](openstamanager/modules/strumenti/impostazioni.md)
+{% endcontent-ref %}

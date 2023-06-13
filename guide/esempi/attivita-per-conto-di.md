@@ -8,7 +8,7 @@ description: Guida alla gestione delle attività 'Per conto di'
 La funzionalità 'Per conto di' è stata sviluppata per gestire quelle situazioni in cui il committente non coincide con il risolutore delle fatture relative agli interventi che verranno svolti.
 {% endhint %}
 
-Ad esempio, nel caso di interventi di manutenzione eseguiti in un condominio dove il committente è il condomino ma a saltare la parcella sarà l'amministratore condominiale, si dovrà creare un'attività con il condomino come cliente, e valorizzare il campo 'Per conto di' con i dati dell'amministratore.
+Ad esempio, nel caso di interventi di manutenzione eseguiti in un condominio dove il committente è il condomino ma a saldare la parcella sarà l'amministratore condominiale, si dovrà creare un'attività con il condomino come cliente, e valorizzare il campo 'Per conto di' con i dati dell'amministratore.
 
 <figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
