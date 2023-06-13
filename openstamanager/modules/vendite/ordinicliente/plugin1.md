@@ -26,7 +26,7 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (8).png" alt="" data-size="original">
+&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (8) (1).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 

@@ -10,18 +10,18 @@ La funzionalità 'Per conto di' è stata sviluppata per gestire quelle situazion
 
 Ad esempio, nel caso di interventi di manutenzione eseguiti in un condominio dove il committente è il condomino ma a saltare la parcella sarà l'amministratore condominiale, si dovrà creare un'attività con il condomino come cliente, e valorizzare il campo 'Per conto di' con i dati dell'amministratore.
 
-<figure><img src="../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 Si andranno poi a inserire le sessioni di lavoro dei tecnici finchè l'attività non sarà completata:
 
-<figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
 
 Andando ora a selezionare le attività interessate sarà possibile procedere alla loro fatturazione tramite azioni di gruppo cliccando su Fattura interventi.
 
-<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 Verrà quindi creata una fattura con i dati dell'anagrafica inserita nel campo 'Per conto di', che sarà l'intestatario della fattura, incaricato al suo pagamento.
 
 <figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
