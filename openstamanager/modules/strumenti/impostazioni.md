@@ -225,7 +225,7 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-**Authorization ID Indice PA:** Token necessario per la verifica dei codici fiscali delle pubbliche amministrazioni
+**Authorization ID Indice PA:** Token necessario per la verifica dei codici fiscali delle pubbliche amministrazioni, ottenibile da: [https://www.indicepa.gov.it/ipa-portale/dati-statistiche/web-service/richiedi-authorization-id](https://www.indicepa.gov.it/ipa-portale/dati-statistiche/web-service/richiedi-authorization-id)
 
 **OSMCloud Services API Token:** Se si è sottoscritto al servizio di invio/ricezione fatture elettroniche con OSM, viene qui riportato il token univoco per inviare e scaricare fatture da CompEd.
 
