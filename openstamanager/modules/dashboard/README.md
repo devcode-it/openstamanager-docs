@@ -88,7 +88,7 @@ Il widget elenca i contratti in scadenza in base alla data di notifica impostata
 
 <figure><img src="../../../.gitbook/assets/immagine (481).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (531).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (531) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Rate contrattuali
 

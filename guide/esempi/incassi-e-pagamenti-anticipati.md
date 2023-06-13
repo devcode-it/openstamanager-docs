@@ -51,3 +51,10 @@ Da qui si potrà visualizzare l'ammontare dell'importo già versato dalla notifi
 Utilizzando nuovamente il conto predefinito per l'anticipo clienti, esso verrà chiuso e l'anticipo sarà correttamente contabilizzato.
 
 ![](<../../.gitbook/assets/immagine (145).png>)
+
+Nel caso in cui l'importo anticipato non corrisponda al totale del documento, la registrazione contabile da effettuare dovrà prevedere anche il versamento diretto della differenza.
+
+Ad esempio: viene versato un anticipo di 200 e il totale fattura è 244, le registrazioni del pagamento dovranno essere le seguenti:
+
+<figure><img src="../../.gitbook/assets/immagine (531).png" alt=""><figcaption></figcaption></figure>
+
