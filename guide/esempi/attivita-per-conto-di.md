@@ -22,6 +22,6 @@ Andando ora a selezionare le attività interessate sarà possibile procedere all
 
 Verrà quindi creata una fattura con i dati dell'anagrafica inserita nel campo 'Per conto di', che sarà l'intestatario della fattura, incaricato al suo pagamento.
 
-<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
