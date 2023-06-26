@@ -11,7 +11,7 @@ Uno degli strumenti più utilizzati è [**Awesome Screenshot**](https://www.awes
 * [Installa per Chrome](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
 * [Installa per Firefox](https://addons.mozilla.org/it/firefox/addon/screenshot-capture-annotate/)
 
-Si potrà ora quindi trovarlo tra i componenti aggiuntivi: ![](<../../.gitbook/assets/immagine (34).png>)
+Si potrà ora quindi trovarlo tra i componenti aggiuntivi: ![](<../../.gitbook/assets/immagine (34) (1).png>)
 
 Al clic si aprirà un menu che permetterà di:
 

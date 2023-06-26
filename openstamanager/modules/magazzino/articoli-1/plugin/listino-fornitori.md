@@ -29,4 +29,4 @@ Può essere utilizzato per la ricerca nei documenti di acquisto appartenenti all
 
 
 
-<figure><img src="../../../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/immagine (554).png" alt=""><figcaption></figcaption></figure>
