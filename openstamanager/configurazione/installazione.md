@@ -4,6 +4,94 @@ description: Come installare OpenSTAManager.
 
 # 🎯 Installazione
 
+### ⛺ Preparazione:
+
+Aggiornare i pacchetti:
+
+```
+sudo apt update && sudo apt upgrade
+```
+
+Installare Apache:
+
+```
+sudo apt install apache2
+```
+
+Abilitare il modulo Rewrite di Apache:
+
+```
+sudo a2enmod rewrite
+```
+
+Riavviare Apache:
+
+```
+sudo systemctl restart apache2
+```
+
+Installare MySQL Server:
+
+```
+sudo apt install mysql-server
+```
+
+Installare PHP, insieme a moduli PHP aggiuntivi per Apache e MySQL con il comando:
+
+```
+sudo apt install -y php php-cli php-mysql php-common php-zip php-mbstring php-xmlrpc php-curl php-soap php-gd php-xml php-intl php-ldap
+```
+
+Installare i seguenti moduli PHP di uso comune. Questi pacchetti aggiungono il supporto PHP per cURL, JavaScript Object Notation (JSON) e Common Gateway Interface (CGI) con il comando:
+
+```
+sudo apt install php-curl php-json php-cgi
+```
+
+Accedere alla shell MySQL:
+
+```
+sudo mysql -u root -p
+```
+
+Creare un database e un utente per OpenSTAManager con il comando:
+
+```
+CREATE USER 'utente_osm'@'localhost' IDENTIFIED BY 'PASSWORD';
+CREATE DATABASE openstamanager;
+GRANT ALL PRIVILEGES ON openstamanager.* TO 'utente_osm'@'localhost';
+FLUSH PRIVILEGES;
+QUIT
+```
+
+{% hint style="info" %}
+Sostituire 'PASSWORD' con la password di accesso al database
+{% endhint %}
+
+Editare il file php.ini:
+
+```
+udo nano /etc/php/*/apache2/php.ini
+```
+
+{% hint style="info" %}
+Sostituire \* con la versione di php in uso
+{% endhint %}
+
+Configurare i parametri come segue:
+
+```
+display_errors = Off
+max_execution_time = 180
+max_input_time = 180
+max_input_vars = 5000
+memory_limit = 512M
+post_max_size = 32M
+session.gc_maxlifetime = 1440
+upload_max_filesize = 32M
+zlib.output_compression = On
+```
+
 ### 🐱 Da GitHub
 
 Per procedere all'installazione di OpenSTAManager è necessario seguire i seguenti punti:
