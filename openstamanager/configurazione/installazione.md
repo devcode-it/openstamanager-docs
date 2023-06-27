@@ -64,17 +64,17 @@ FLUSH PRIVILEGES;
 QUIT
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Sostituire 'PASSWORD' con la password di accesso al database
 {% endhint %}
 
 Editare il file php.ini:
 
 ```
-udo nano /etc/php/*/apache2/php.ini
+sudo nano /etc/php/*/apache2/php.ini
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Sostituire \* con la versione di php in uso
 {% endhint %}
 
