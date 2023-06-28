@@ -34,11 +34,11 @@ In questa sezione sono disponibili tre opzioni:                                 
 
 ![](<../../../.gitbook/assets/image (80).png>)
 
-* Controlla file: Mostra l'elenco dei campi a database che presentano checksum diverso da quello registrato nella versione ufficiale.
+* Controlla file: Mostra l'elenco dei file che presentano checksum diverso da quello registrato nella versione ufficiale.
 
 ![](<../../../.gitbook/assets/image (428).png>)
 
-* Controlla database: Mostra l'elenco dei file che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
+* Controlla database: Mostra l'elenco dei campi a database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
 
 ![](<../../../.gitbook/assets/image (66).png>)
 
