@@ -6,10 +6,6 @@ description: Elenco delle principali novità introdotte con la release 2.4.47.
 
 Di seguito le principali novità della versione 2.4.47, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-➡️ Introdotta la configurazione di firma tramite tavoletta grafica dei rapportini d'intervento.
-
-Maggiori informazioni: [https://openstamanager.com/blog/tavoletta-grafica/](https://openstamanager.com/blog/tavoletta-grafica/)
-
 [➡️ ](https://openstamanager.com/blog/tavoletta-grafica/)Aggiunta la gestione delle mappe con OpenStreetMap, non è più necessario impostare un API key per poter utilizzare le mappe:
 
 <figure><img src=".gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
