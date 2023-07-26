@@ -58,7 +58,7 @@ In questa sezione è possibile visualizzare attraverso _Google Maps_ l'indirizzo
 
 Per fare ciò basta cliccare sopra il link mostrato all'interno del riquadro:
 
-<figure><img src="../../../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Successivamente si verrà indirizzati in _impostazioni_ per inserire un [_Google Maps API Key_ ](../../../configurazioni/configurazione-google-maps-api-key.md)valido.
 

@@ -18,7 +18,7 @@ Nel caso siano presenti delle fatture di vendita **generate** ma non ancora invi
 
 Verranno notificare anche le fatture che invece risulteranno **scartate** dallo SDI e andranno quindi corrette e riemesse.
 
-![](<../../../../.gitbook/assets/immagine (12).png>)
+![](<../../../../.gitbook/assets/immagine (12) (1).png>)
 
 ## ➕ Creazione
 

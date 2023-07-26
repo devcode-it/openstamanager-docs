@@ -44,7 +44,7 @@ Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di 
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-<figure><img src="../../.gitbook/assets/immagine (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
