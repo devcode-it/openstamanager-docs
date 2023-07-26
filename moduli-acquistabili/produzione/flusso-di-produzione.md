@@ -12,35 +12,61 @@ E' possibile gestire la relazione tra articoli e materie prime tramite l'apposit
 [distinta-base.md](../distinta-base.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (584).png" alt=""><figcaption></figcaption></figure>
+
+### Creazione dell'ordine cliente
+
+{% content-ref url="../../openstamanager/modules/vendite/ordinicliente/" %}
+[ordinicliente](../../openstamanager/modules/vendite/ordinicliente/)
+{% endcontent-ref %}
 
 ### Generazione ODL
 
-Si potrà quindi ora registrare un ordine cliente e inserirvi l'articolo padre di una distinta per avviare il ciclo di produzione dell'articolo.
+Registrando un ordine cliente, sarà possibile inserire tra le righe l'articolo padre della distinta base appena creata.
 
-<figure><img src="../../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
+Quando l'articolo verrà confermato si dovrà modificare la riga corrispondente, specificando la data prevista di evasione e confermando l'articolo.
 
-Dal modulo **Genera ODL** si potrà infatti visualizzare la riga corrispondente agli articoli da produrre per completare gli ordini, e tramite **Azioni di gruppo/Genera ODL** è possibile procedere alla fase successiva della produzione.
+<figure><img src="../../.gitbook/assets/immagine (587).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (588).png" alt=""><figcaption></figcaption></figure>
+
+Dal modulo **Produzione/Genera ODL** si potrà ora visualizzare la riga corrispondente agli articoli da produrre per completare gli ordini, e tramite **Azioni di gruppo/Genera ODL** è possibile creare l'Odine di lavoro.
+
+<figure><img src="../../.gitbook/assets/immagine (589).png" alt=""><figcaption></figcaption></figure>
 
 ### Materiale da acquistare
 
 Da **Acquisti/Materiale da acquistare** è possibile visualizzare gli articoli da ordinare necessari alla produzione degli articoli padre di una distinta, gli articoli sottoscorta e le richieste di acquisto interne.
 
-<figure><img src="../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (590).png" alt=""><figcaption></figcaption></figure>
 
 ### Modulo produzione
 
 Dal modulo ODL sarà ora possibile visualizzare l'ODL:
 
-<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (591).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+Entrando nell'ODL, sarà possibile visualizzare il dettaglio dell'Ordine di lavoro e delle rispettive fasi:
 
-Tramite il pulsante **Avanzamento** sarà possibile avviare la lavorazione della corrispondente fase della produzione.
+<figure><img src="../../.gitbook/assets/immagine (592).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (593).png" alt=""><figcaption></figcaption></figure>
+
+In **Produzione** sarà ora possibile selezionare il reparto interessato e visualizzare la distribuzione del lavoro delle diverse settimane.
+
+<figure><img src="../../.gitbook/assets/immagine (594).png" alt=""><figcaption></figcaption></figure>
+
+Quando tutte le materie prime saranno disponibili a magazzino, a seguito quindi della registrazione di un ddt in entrata con il materiale mancante, la riga corrispondente alla fase da eseguire diventerà verde, e sarà possibile procedere all'esecuzione dell'ODL cliccando su Avanzamento:
+
+<figure><img src="../../.gitbook/assets/immagine (596).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/immagine (597).png" alt=""><figcaption></figcaption></figure>
+
+Al termine della lavorazione si dovrà cliccare su **Stop lavorazione,** e registrare la quantità prodotta.
+
+<figure><img src="../../.gitbook/assets/immagine (598).png" alt=""><figcaption></figcaption></figure>
+
+Dopo aver completato tutte le fasi della produzione dell'articolo, è possibile procedere all'invio della merce al cliente e alla sua fatturazione.
 
 ### Spedizione ordini
 

@@ -236,6 +236,7 @@
 * [📗 Gestione SMS](moduli-acquistabili/gestione-sms.md)
 * [📗 Import FE](moduli-acquistabili/modulo-import-fe.md)
 * [📗 Produzione](moduli-acquistabili/produzione/README.md)
+  * [🪵 Configurazione](moduli-acquistabili/produzione/configurazione.md)
   * [🥽 Flusso di produzione](moduli-acquistabili/produzione/flusso-di-produzione.md)
   * [📦 Evasione ordine](moduli-acquistabili/produzione/evasione-ordine.md)
 * [📗 Registrazione movimenti bancari](moduli-acquistabili/registrazione-movimenti-bancari.md)
