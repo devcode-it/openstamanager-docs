@@ -21,7 +21,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Stato
 * Richiesta
 
-<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/immagine (136).png" alt=""><figcaption></figcaption></figure>
 

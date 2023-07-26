@@ -30,7 +30,7 @@ Il modulo stampe contabili permette di stampare:
 
 #### Stampa fatturato
 
-<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Stampa acquisti
 

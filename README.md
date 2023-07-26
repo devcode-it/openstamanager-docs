@@ -15,5 +15,3 @@ Di seguito le principali novità della versione 2.4.48, per maggiori dettagli vi
 ➡️ &#x20;
 
 ➡️ &#x20;
-
-➡️ &#x20;

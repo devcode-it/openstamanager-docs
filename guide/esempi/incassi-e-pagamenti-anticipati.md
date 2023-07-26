@@ -14,7 +14,7 @@ Per registrare un pagamento anticipato si dovrà innanzitutto procedere a verifi
 
 Si dovrà ora accedere al modulo Anagrafiche, entrare nella schermata di dettaglio del fornitore interessato e cliccare su Crea.../Nuova registrazione contabile (fornitore).
 
-![](../../.gitbook/assets/immagine.png)
+![](<../../.gitbook/assets/immagine (9).png>)
 
 Da qui si dovrà registrare il versamento dell'anticipo, utilizzando il conto impostato come predefinito per l'anticipo fornitori.
 
