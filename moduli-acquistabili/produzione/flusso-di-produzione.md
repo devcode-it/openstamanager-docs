@@ -34,12 +34,6 @@ Dal modulo **Produzione/Genera ODL** si potrà ora visualizzare la riga corrispo
 
 <figure><img src="../../.gitbook/assets/immagine (589).png" alt=""><figcaption></figcaption></figure>
 
-### Materiale da acquistare
-
-Da **Acquisti/Materiale da acquistare** è possibile visualizzare gli articoli da ordinare necessari alla produzione degli articoli padre di una distinta, gli articoli sottoscorta e le richieste di acquisto interne.
-
-<figure><img src="../../.gitbook/assets/immagine (590).png" alt=""><figcaption></figcaption></figure>
-
 ### Modulo produzione
 
 Dal modulo ODL sarà ora possibile visualizzare l'ODL:
@@ -51,6 +45,16 @@ Entrando nell'ODL, sarà possibile visualizzare il dettaglio dell'Ordine di lavo
 <figure><img src="../../.gitbook/assets/immagine (592).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/immagine (593).png" alt=""><figcaption></figcaption></figure>
+
+### Materiale da acquistare
+
+Da **Acquisti/Materiale da acquistare** è possibile visualizzare gli articoli da ordinare necessari alla produzione degli articoli padre di una distinta, gli articoli sottoscorta e le richieste di acquisto interne.
+
+<figure><img src="../../.gitbook/assets/immagine (599).png" alt=""><figcaption></figcaption></figure>
+
+Nell'ODL verrà ora visualizzata la quantità aggiornata
+
+<figure><img src="../../.gitbook/assets/immagine (600).png" alt=""><figcaption></figcaption></figure>
 
 In **Produzione** sarà ora possibile selezionare il reparto interessato e visualizzare la distribuzione del lavoro delle diverse settimane.
 
