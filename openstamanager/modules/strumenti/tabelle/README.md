@@ -59,8 +59,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [tipi-scadenze.md](tipi-scadenze.md)
 {% endcontent-ref %}
 
-{% content-ref url="stati-dei-contratti-1.md" %}
-[stati-dei-contratti-1.md](stati-dei-contratti-1.md)
+{% content-ref url="stati-dei-contratti.md" %}
+[stati-dei-contratti.md](stati-dei-contratti.md)
 {% endcontent-ref %}
 
 {% content-ref url="stati-dei-preventivi.md" %}
