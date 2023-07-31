@@ -1,28 +1,28 @@
 ---
-description: Come gestire gli stati dei contratti in OpenSTAManager
+description: Come gestire gli stati degli ordini in OpenSTAManager
 ---
 
-# 📑 Stati dei contratti
+# 📑 Stati degli ordini
 
 {% hint style="info" %}
-Il modulo **Stati dei contratti** permette di creare e modificare gli stati dei contratti presenti nel gestionale.
+Il modulo **Stati degli ordini** permette di creare e modificare gli stati degli ordini presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (177).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (604).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
-Per creare un nuovo evento si dovrà cliccare sul tasto (+).
+Per creare un nuovo stato si dovrà cliccare sul tasto (+).
 
-Andranno qui inserite le informazioni relative al nuovo evento da creare:
+Andranno qui inserite le informazioni relative al nuovo stato da creare:
 
 * Descrizione
 * Se Completato
-* Se Pianificabile
+* Se Impegnato
 * Se Fatturabile
 * Icona
 
-![](<../../../../.gitbook/assets/image (161).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (605).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -31,7 +31,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Descrizione
 * Icona
 * Se completato
-* Se pianificabile
-* Se Fatturabile
+* Se impegnato
+* Se fatturabile
 
-![](<../../../../.gitbook/assets/image (339).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (606).png" alt=""><figcaption></figcaption></figure>

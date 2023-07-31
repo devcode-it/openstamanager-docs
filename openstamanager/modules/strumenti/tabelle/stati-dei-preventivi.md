@@ -12,7 +12,7 @@ Il modulo **Stati dei preventivi** permette di creare e modificare gli stati dei
 
 ## ➕ Creazione
 
-Per creare un nuovo evento si dovrà cliccare sul tasto (+).
+Per creare un nuovo stato si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo stato dei preventivi da creare:
 
