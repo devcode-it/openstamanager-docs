@@ -86,7 +86,7 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da pianificare.
 
-![](<../.gitbook/assets/immagine (53).png>)
+![](<../.gitbook/assets/immagine (53) (1).png>)
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
