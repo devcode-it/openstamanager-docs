@@ -59,3 +59,19 @@ Permette di verificare la presenza di aggiornamenti e in caso siano disponibili,
 Questa sezione mostra che requisiti per il corretto funzionamento di OpenSTAManager vengono soddisfatti e quali no.
 
 ![](<../../../.gitbook/assets/image (234).png>)
+
+### Aggiornare da una versione 2.x a una versione successiva
+
+La procedura di aggiornamentonstallazione è la seguente:
+
+* scaricare l’[ultima versione](https://github.com/devcode-it/openstamanager/releases)
+* decomprimere lo zip nella cartella dove si trova OSM 2.x
+* accedere alla schermata del software via web
+* cliccare su “Aggiorna”.
+
+Questi sono gli step per un corretto aggiornamento a una versione > 2.0 del gestionale. In caso di problemi durante l'aggiornamento è consigliato richiedere un nostro intervento scrivendoci tramite apposito contact form [https://openstamanager.com/contattaci/](https://openstamanager.com/contattaci/) e specificando:
+
+* sistema operativo in uso
+* software utilizzato per far funzionare OSM (wamp, xampp, singoli software installati manualmente ecc)
+* screenshot dell’eventuale errore
+* file setup.log generato in fase di installazione, contenente le operazioni eseguite durante l’installazione.
