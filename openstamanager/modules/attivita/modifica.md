@@ -73,6 +73,8 @@ Con la funzione **Inserimento massivo** è possibile pianificare massivamente il
 
 <figure><img src="../../../.gitbook/assets/immagine (457).png" alt=""><figcaption></figcaption></figure>
 
+Selezionando gli orari, le date di inizio e di fine, i giorni in cui creare le sessioni e i tecnici per cui crearle, al click su **Aggiungi** verranno create le sessioni impostate.
+
 Le attività verranno così visualizzate in Dashboard:
 
 <figure><img src="../../../.gitbook/assets/immagine (448).png" alt=""><figcaption></figcaption></figure>
