@@ -33,6 +33,10 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
+{% hint style="info" %}
+Con questa operazione i dati presenti a gestionale non subiranno modifiche.
+{% endhint %}
+
 ![](<../../../.gitbook/assets/image (480).png>)
 
 Cliccando su procedi si confermerà l'operazione.
