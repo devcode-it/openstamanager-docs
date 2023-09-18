@@ -32,4 +32,12 @@ Sono qui disponibili i seguenti attributi:
   _Esempio_: "SELECT idanagrafica AS id, 'Modules\Anagrafiche\Anagrafica' AS tipo FROM an\_anagrafiche WHERE deleted\_at IS NULL**"** aggiungerà tutte le anagrafiche nella tabella Destinatari.
 * **Destinatari:** In alternativa, lasciando vuoto il campo _Query dinamica_ è possibile aggiungere i vari destinatari tramite il menù a tendina, cliccando su aggiungi infatti, verranno inseriti i destinatari sulla tabella corrispondente.
 
+{% hint style="warning" %}
+Questo è uno strumento avanzato, è infatti necessario sapere come formulare le query.
+{% endhint %}
+
 ![](<../../../.gitbook/assets/image (429).png>)
+
+Ad esempio, volendo creare una lista contenente tutti i clienti che non fanno ordini da più di 6 mesi, si dovrà compilare il campo **Query dinamica** in questo modo:
+
+<figure><img src="../../../.gitbook/assets/immagine (607).png" alt=""><figcaption></figcaption></figure>
