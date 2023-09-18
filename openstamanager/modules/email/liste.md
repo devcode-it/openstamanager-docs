@@ -38,6 +38,6 @@ Questo è uno strumento avanzato, è infatti necessario sapere come formulare le
 
 ![](<../../../.gitbook/assets/image (429).png>)
 
-Ad esempio, volendo creare una lista contenente tutti i clienti che non fanno ordini da più di 6 mesi, si dovrà compilare il campo **Query dinamica** in questo modo:
+Ad esempio, volendo creare una lista contenente tutti i clienti che non hanno fatto ordini negli ultimi 6 mesi si dovrà compilare il campo **Query dinamica** in questo modo:
 
 <figure><img src="../../../.gitbook/assets/immagine (607).png" alt=""><figcaption></figcaption></figure>
