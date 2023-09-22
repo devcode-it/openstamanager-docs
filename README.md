@@ -4,7 +4,8 @@
 Per un corretto utilizzo delle guide assicurati di aver selezionato la versione di OpenSTAManager corretta dal menu a sinistra o cliccando sui link sottostanti.
 {% endhint %}
 
-* [Versione 2.4.48](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/BZsjjMPIXBBaW8bd80O7/) (In release)
+* [Versione 2.4.49](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/HkarRUNnQs3BlPGtGaAI/) (In release)
+* [Versione 2.4.48](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/BZsjjMPIXBBaW8bd80O7/)&#x20;
 * [Versione 2.4.47](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/byQg2JLTruCde0Juihkz/)
 * [Versione 2.4.46](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/Ms43C8LF4F3KAbHQYYNk/)
 * [Versione 2.4.45](http://127.0.0.1:5000/o/-LZJeLfzoGzXuWwoEM9l/s/i5uyFSGMDlB9w3LquWiH/)
