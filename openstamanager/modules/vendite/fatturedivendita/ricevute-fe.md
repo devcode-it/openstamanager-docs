@@ -43,5 +43,13 @@ Il campo stato ora potrà riportare uno dei seguenti valori:
 Nel caso in cui ci sia necessità di modificare una fattura elettronica già depositata allo SDI, si dovrà procedere ad emettere una nota di credito per annullare la fattura in questione e a inviare una nuova fattura riportando i dati corretti.
 {% endhint %}
 
+### ✉️ Verifica notifiche
 
+Con la funzione Verifica notifiche è possibile forzare la ricerca delle ricevute e la relativa importazione, nel caso in cui queste risultino già importante in precedenza ma nel gestionale non ve ne sia traccia.
+
+<figure><img src="../../../../.gitbook/assets/immagine (647).png" alt=""><figcaption></figcaption></figure>
+
+Da qui sarà possibile selezionare e scaricare la notifica da associare al documento.
+
+<figure><img src="../../../../.gitbook/assets/immagine (648).png" alt=""><figcaption></figcaption></figure>
 
