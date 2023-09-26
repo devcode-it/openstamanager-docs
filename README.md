@@ -14,7 +14,7 @@ Di seguito le principali novità della versione 2.4.49, per maggiori dettagli vi
 
 ➡️ Aggiunta la gestione della rivalsa INPS sulla marca da bollo per il regime forfettario
 
-➡️ Aggiunto il widget **Preventivi da fatturare**, attivabile da Strumenti/Stato dei servizi/Widget disponibili
+➡️ Aggiunto il widget **Preventivi da fatturare**, attivabile da Strumenti/Stato dei servizi/Widget disponibili, da attivare in **Stato dei servizi**
 
 <figure><img src=".gitbook/assets/immagine (642).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,3 +53,12 @@ Il filtro non evidenzia le quantità disponibili o meno, ma quelle inferiori all
 {% content-ref url="configurazioni/introduzione/" %}
 [introduzione](configurazioni/introduzione/)
 {% endcontent-ref %}
+
+➡️ Aggiunta la funzione di raggruppamento nelle righe dei preventivi:
+
+Impostando una riga descrittiva come titolo è possibile calcolare dei subtotali:\
+
+
+<figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>

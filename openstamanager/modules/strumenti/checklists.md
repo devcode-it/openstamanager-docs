@@ -32,7 +32,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Genitore
 * Decidere se utilizzare l'elemento padre come titolo
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Utilizzo delle checklist nei moduli
 
