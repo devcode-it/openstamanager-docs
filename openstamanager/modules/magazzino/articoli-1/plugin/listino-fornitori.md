@@ -30,3 +30,5 @@ Può essere utilizzato per la ricerca nei documenti di acquisto appartenenti all
 
 
 <figure><img src="../../../../../.gitbook/assets/immagine (99).png" alt=""><figcaption></figcaption></figure>
+
+Dopo aver definito le specifiche per almeno un fornitore, è possibile impostarlo come **fornitore predefinito** nella scheda articolo.
