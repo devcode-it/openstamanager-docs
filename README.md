@@ -56,9 +56,12 @@ Il filtro non evidenzia le quantità disponibili o meno, ma quelle inferiori all
 
 ➡️ Aggiunta la funzione di raggruppamento nelle righe dei preventivi:
 
-Impostando una riga descrittiva come titolo è possibile calcolare dei subtotali:\
-
+Impostando una riga descrittiva come titolo è possibile calcolare dei subtotali
 
 <figure><img src=".gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+
+➡️ Aggiunto link all'anteprima del documento e degli allegati in fase di invio email:
+
+<figure><img src=".gitbook/assets/immagine (649).png" alt=""><figcaption></figcaption></figure>
