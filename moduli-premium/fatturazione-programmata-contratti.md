@@ -32,6 +32,16 @@ Cliccando su Crea fatture si procede alla fatturazione delle rate selezionate:
 
 <figure><img src="../.gitbook/assets/immagine (65).png" alt=""><figcaption></figcaption></figure>
 
+### Configurazione
+
+All'installazione del modulo in Strumenti/Impostazioni nella sezione Contratti sarà possibile trovare le seguenti impostazioni:
+
+<figure><img src="../.gitbook/assets/immagine (673).png" alt=""><figcaption></figcaption></figure>
+
+* **Descrizione righe nella fatturazione dei contratti:** E' qui possibile definire il formato che avranno le righe della fattura generata tramite automatismo.
+* **Cron fatturazione:** E' qui possibile scegliere gli automatismi da eseguire, scegliendo tra: emissione della fattura, emissione della fattura e invio di copia di cortesia via email, ed emissione della fattura, invio di copia di cortesia via email e invio dell'xml allo SDI.
+* **Elaborazione invio automatico XML:** In questa impostazione è possibile definire i giorni di ritardo dall'emissione dell'XML al suo invio allo SDI, per permettere la sua eventuale modifica. Se al documento venisse variato lo stato entro i giorni stabiliti, l'automatismo viene interrotto e occorrerà inviare il file manualmente.
+
 ### In cosa differisce dal plugin Pianifica fatturazione?
 
 Con questo modulo non è necessario che le righe del contratto siano già suddivise in rate, è infatti possibile impostare **liberamente** **la ricorrenza** di fatturazione, la data di inizio e l'importo di ogni rata.
