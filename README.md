@@ -28,6 +28,10 @@ Per l'utilizzo di questo modulo sono richieste competenze avanzate, la modifica 
 
 <figure><img src=".gitbook/assets/immagine (680).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Il widget Notifiche interne è stato rinominato in Note interne.
+{% endhint %}
+
 ➡️ Aggiunta la verifica dei movimenti contabili nel piano dei conti
 
 <figure><img src=".gitbook/assets/immagine (681).png" alt=""><figcaption></figcaption></figure>
