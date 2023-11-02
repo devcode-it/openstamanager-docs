@@ -211,6 +211,7 @@
   * [👨🏫 Prezzo di vendita automatico](guide/esempi/prezzo-di-vendita-automatico.md)
   * [🏢 Quantità di magazzino](guide/esempi/magazzino.md)
   * [💸 Registrazione di crediti inesigibili](guide/esempi/registrazione-di-crediti-inesigibili.md)
+  * [📃 Stampa inventario](guide/esempi/stampa-inventario.md)
   * [🗓 Tasks programmati](guide/esempi/tasks-programmati.md)
   * [🔨 Verificare l'installazione di OSM](guide/esempi/verificare-linstallazione-di-osm.md)
 * [🪂 Strumenti esterni](guide/strumenti-esterni/README.md)
