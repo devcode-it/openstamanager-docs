@@ -30,3 +30,17 @@ Verrà così creata in bozza una copia della **Fattura di vendita** originale do
 ![Bozza della fattura Duplicata](<../../.gitbook/assets/image (443).png>)
 
 ![Fattura modificata ed emessa](<../../.gitbook/assets/image (553).png>)
+
+### Come chiudere correttamente la scadenza relativa a una nota di credito
+
+Per non visualizzare nello Scadenzario la scadenza relativa alla nota di credito e alla relativa fattura stornata/annullata, sarà sufficiente:
+
+1. Selezionare le due scadenze interessate
+
+<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+
+1. Da azioni di gruppo cliccare su **Registra contabile**
+
+<figure><img src="../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+
+1.
