@@ -2,6 +2,43 @@
 description: Come installare OpenSTAManager.
 ---
 
+## 🔖 Requisiti
+
+{% hint style="info" %}
+Il software permette in automatico di controllare se l'ambiente di utilizzo presenta una configurazione adeguata per il suo corretto funzionamento.
+{% endhint %}
+
+In particolare, viene richiesta la presenza di un _web server_ [Apache](https://httpd.apache.org) con il linguaggio di programmazione [PHP](http://php.net) e il [DBMS MySQL](https://www.mysql.com), richiedendo le seguenti versioni minime:
+
+* PHP >= 7.4 <= 8.0
+* MySQL >= 5.7
+
+Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo.
+
+Successivamente, se il controllo precedente viene soddisfatto, il software verrà effettivamente avviato e sarà possibile procedere nella configurazione.
+
+Viene quindi caricata la pagina per il controllo della configurazione del _web server_, di cui vengono controllati vari componenti:
+
+* Moduli Apache
+* Estensioni PHP
+* Percorsi di servizio per il software
+
+<figure><img src="../../.gitbook/assets/immagine (162).png" alt=""><figcaption></figcaption></figure>
+
+### Requisiti hardware
+
+Requisiti minimi:
+
+* 1 CPU&#x20;
+* 2GB di ram&#x20;
+* 200MB di spazio per il gestionale
+
+Requisiti consigliati:
+
+* 2 CPU&#x20;
+* 4GB di ram&#x20;
+* 2GB di spazio per il gestionale
+
 # 🎯 Installazione
 
 ### ⛺ Preparazione:
@@ -122,43 +159,6 @@ php -r "unlink('composer-setup.php');"
 
 yarn develop-OSM
 ```
-
-## 🔖 Requisiti
-
-{% hint style="info" %}
-Il software permette in automatico di controllare se l'ambiente di utilizzo presenta una configurazione adeguata per il suo corretto funzionamento.
-{% endhint %}
-
-In particolare, viene richiesta la presenza di un _web server_ [Apache](https://httpd.apache.org) con il linguaggio di programmazione [PHP](http://php.net) e il [DBMS MySQL](https://www.mysql.com), richiedendo le seguenti versioni minime:
-
-* PHP >= 7.4 <= 8.0
-* MySQL >= 5.7
-
-Nel caso la versione PHP non sia compatibile, viene mostrato immediatamente un messaggio informativo a riguardo.
-
-Successivamente, se il controllo precedente viene soddisfatto, il software verrà effettivamente avviato e sarà possibile procedere nella configurazione.
-
-Viene quindi caricata la pagina per il controllo della configurazione del _web server_, di cui vengono controllati vari componenti:
-
-* Moduli Apache
-* Estensioni PHP
-* Percorsi di servizio per il software
-
-<figure><img src="../../.gitbook/assets/immagine (162).png" alt=""><figcaption></figcaption></figure>
-
-### Requisiti hardware
-
-Requisiti minimi:
-
-* 1 CPU&#x20;
-* 2GB di ram&#x20;
-* 200MB di spazio per il gestionale
-
-Requisiti consigliati:
-
-* 2 CPU&#x20;
-* 4GB di ram&#x20;
-* 2GB di spazio per il gestionale
 
 ## ✍️ Licenza
 
