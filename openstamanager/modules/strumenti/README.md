@@ -59,8 +59,8 @@ Nel menu a tendina è possibile trovare i seguenti moduli:
 [segmenti.md](segmenti.md)
 {% endcontent-ref %}
 
-{% content-ref url="import.md" %}
-[import.md](import.md)
+{% content-ref url="import/" %}
+[import](import/)
 {% endcontent-ref %}
 
 {% content-ref url="stampe.md" %}

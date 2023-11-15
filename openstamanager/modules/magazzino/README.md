@@ -48,8 +48,8 @@ Ogni modulo della sezione Magazzino presenta plugin specifici legati alle sue fu
 [piani-di-sconto-rincaro.md](piani-di-sconto-rincaro.md)
 {% endcontent-ref %}
 
-{% content-ref url="listini/" %}
-[listini](listini/)
+{% content-ref url="listini.md" %}
+[listini.md](listini.md)
 {% endcontent-ref %}
 
 {% content-ref url="ddtinuscita/" %}

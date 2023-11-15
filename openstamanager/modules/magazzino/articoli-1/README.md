@@ -158,8 +158,8 @@ Selezionando uno specifico record si può accedere a diversi plugin nella barra 
 [plugin](plugin/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../guide/esempi/import-articoli.md" %}
-[import-articoli.md](../../../../guide/esempi/import-articoli.md)
+{% content-ref url="../../strumenti/import/import-articoli.md" %}
+[import-articoli.md](../../strumenti/import/import-articoli.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../../guide/esempi/prezzo-di-vendita-automatico.md" %}

@@ -52,12 +52,12 @@ description: Esempi pratici alle principali funzioni di OpenSTAManager
 [gestione-magazzini.md](gestione-magazzini.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-anagrafiche.md" %}
-[import-anagrafiche.md](import-anagrafiche.md)
+{% content-ref url="../../openstamanager/modules/strumenti/import/import-anagrafiche.md" %}
+[import-anagrafiche.md](../../openstamanager/modules/strumenti/import/import-anagrafiche.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-articoli.md" %}
-[import-articoli.md](import-articoli.md)
+{% content-ref url="../../openstamanager/modules/strumenti/import/import-articoli.md" %}
+[import-articoli.md](../../openstamanager/modules/strumenti/import/import-articoli.md)
 {% endcontent-ref %}
 
 {% content-ref url="contabilita.md" %}

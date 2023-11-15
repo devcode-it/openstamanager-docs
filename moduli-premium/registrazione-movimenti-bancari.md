@@ -16,7 +16,7 @@ Cliccando su Scarica esempio CSV sarà possibile scaricare un file di esempio da
 
 Una volta importato il file CSV si visualizzerà l'elenco di tutti i movimenti, dal menu a tendina sarà selezionabile la relativa scadenza se trovata corrispondenza con la relativa fattura di vendita o di acquisto, e sarà possibile registrarli cliccando su Registra.
 
-
+***
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fe5Xm7m4stXvh6joWAPKK%2Ffile.png?alt=media)
 
