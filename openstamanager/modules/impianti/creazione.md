@@ -16,5 +16,5 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Categoria
 * Sottocategoria
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 

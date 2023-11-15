@@ -10,7 +10,7 @@ description: Come gestire le Categorie di impianti in OpenSTAManager
 Il modulo **Categorie impianti** permette di raggruppare impianti per _categoria_.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
