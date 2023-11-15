@@ -130,11 +130,17 @@ Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere a
 
 ### 📕 Registra insoluto
 
-Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla sua registrazione come insoluto cliccando su Registra insoluto.
+Dalla schermata di dettaglio di una fattura di acquisto è possibile procedere alla registrazione di un credito insoluto tramite l'apposita funzionalità **Registra insoluto**
+
+{% hint style="info" %}
+Con **insoluto** si intende un pagamento scaduto che il cliente non ha ancora effettuato e rimane quindi in sospeso.&#x20;
+{% endhint %}
+
+Potrebbe infatti esserci la necessità di registrare il mancato pagamento di una rata, e di registrare invece il pagamento della rata successiva. Si dovrà quindi procedere a registrare la prima rata come insoluta, e registrare successivamente la contabile della data successiva.
 
 ![](<../../../../.gitbook/assets/image (208).png>)
 
-Si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare.
+Cliccando su **Registra insoluto** si presenterà la seguente schermata dove cliccare su Aggiungi per confermare le scritture da registrare, dopo aver selezionato i conti corretti del piano dei conti.
 
 ![](<../../../../.gitbook/assets/image (411).png>)
 
