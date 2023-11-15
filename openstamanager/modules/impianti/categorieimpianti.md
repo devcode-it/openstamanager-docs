@@ -10,7 +10,7 @@ description: Come gestire le Categorie di impianti in OpenSTAManager
 Il modulo **Categorie impianti** permette di raggruppare impianti per _categoria_.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FVn7XM0PjOBsGf238k8XT%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -30,7 +30,15 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 
 * Nome
 * Colore
-* Note
+* Nota
+* Impostare delle sottocategorie
 
-![](<../../../.gitbook/assets/image (467).png>)
+<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
+### Sottocategorie impianti
+
+All'interno di ogni categoria impianto è possibile definire delle sottocategorie, cliccando su **(+) Sottocategoria**
+
+Si aprirà ora un form di aggiunta sottocategoria, cliccando su **Aggiungi** la sottocategoria sarà disponibile nei menu sottocategorie in Impianti, una volta selezionata la categoria corrente.
+
+<figure><img src="../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>

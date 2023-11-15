@@ -10,12 +10,13 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Matricola
 * Nome
 * Cliente
+* Tecnico predefinito
 * Categoria
-* Tecnico assegnato
+* Sottocategoria
 * Data di installazione
 * Sede
-* Descrizione
 * Proprietario
+* Descrizione
 * Ubicazione
 * Palazzo
 * Scala
@@ -24,5 +25,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Occupante
 * Allegati
 
-![](<../../../.gitbook/assets/image (669).png>)
+<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 

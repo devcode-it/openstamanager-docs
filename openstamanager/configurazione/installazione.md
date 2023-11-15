@@ -2,7 +2,9 @@
 description: Come installare OpenSTAManager.
 ---
 
-## 🔖 Requisiti
+# 🎯 Installazione
+
+### 🔖 Requisiti
 
 {% hint style="info" %}
 Il software permette in automatico di controllare se l'ambiente di utilizzo presenta una configurazione adeguata per il suo corretto funzionamento.
@@ -25,23 +27,23 @@ Viene quindi caricata la pagina per il controllo della configurazione del _web s
 
 <figure><img src="../../.gitbook/assets/immagine (162).png" alt=""><figcaption></figcaption></figure>
 
-### Requisiti hardware
+#### Requisiti hardware
 
 Requisiti minimi:
 
-* 1 CPU&#x20;
-* 2GB di ram&#x20;
+* 1 CPU
+* 2GB di ram
 * 200MB di spazio per il gestionale
 
 Requisiti consigliati:
 
-* 2 CPU&#x20;
-* 4GB di ram&#x20;
+* 2 CPU
+* 4GB di ram
 * 2GB di spazio per il gestionale
 
-# 🎯 Installazione
+## 🎯 Installazione
 
-### ⛺ Preparazione:
+#### ⛺ Preparazione:
 
 Aggiornare i pacchetti:
 
@@ -129,7 +131,7 @@ upload_max_filesize = 32M
 zlib.output_compression = On
 ```
 
-### 🐱 Da GitHub
+#### 🐱 Da GitHub
 
 Per procedere all'installazione di OpenSTAManager è necessario seguire i seguenti punti:
 
@@ -140,7 +142,7 @@ Per procedere all'installazione di OpenSTAManager è necessario seguire i seguen
 
 Una volta completate le istruzioni per l'installazione del software, è necessario procedere alla sua configurazione per permetterne il funzionamento nell'ambiente di utilizzo.
 
-### 🖥️ Da Terminale
+#### 🖥️ Da Terminale
 
 Nel caso si stia utilizzando la versione direttamente ottenuta dalla repository di GitHub, è necessario eseguire i seguenti comandi da linea di comando per completare le dipendenze PHP (tramite [Composer](https://getcomposer.org)) e gli assets (tramite [Yarn](https://yarnpkg.com)) del progetto.
 
@@ -160,7 +162,7 @@ php -r "unlink('composer-setup.php');"
 yarn develop-OSM
 ```
 
-## ✍️ Licenza
+### ✍️ Licenza
 
 La schermata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
 
@@ -176,7 +178,7 @@ Una volta accettata la licenza, cliccare su **Successivo**.
 
 ![Errore di licenza](../../.gitbook/assets/license-error.png)
 
-## ⛵ Database
+### ⛵ Database
 
 Una volta corretti i requisiti e accettata la licenza, viene resa disponibile la pagina dedicata alla configurazione del software per l'accesso al database MySQL.
 
@@ -198,7 +200,7 @@ In ogni caso, si possono verificare degli errori duranti il salvataggio della co
 
 Se le credenziali inserite sono corrette, dopo aver cliccato su **Installa** si verrà reindirizzati alla procedura automatica di installazione del database.
 
-### 🛰️ Installazione del database
+#### 🛰️ Installazione del database
 
 Una volta inseriti correttamente i parametri di configurazione, è sufficiente cliccare sul pulsante ![](../../.gitbook/assets/Installa!.PNG) per avviare l'installazione del database di OpenSTAManager.
 

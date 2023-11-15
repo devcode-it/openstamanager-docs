@@ -22,15 +22,15 @@ Le attività segnate a calendario infatti, vengono suddivise per operatore, perm
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-<figure><img src="../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visualizzazione Settimana
 
-<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visualizzazione Giorno
 
-<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Da qui, cliccando direttamente sul calendario, è possibile andare a programmare una nuova attività.
 
