@@ -41,6 +41,6 @@ Per non visualizzare nello Scadenzario la scadenza relativa alla nota di credito
 
 1. Da azioni di gruppo cliccare su **Registra contabile**
 
-<figure><img src="../../.gitbook/assets/immagine (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1.
