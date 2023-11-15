@@ -5,14 +5,12 @@ description: Come gestire le operazioni con OpenSTAManager
 # 🗓 Tasks programmati
 
 {% hint style="info" %}
-E' possibile gestire le operazioni programmate in OpenSTAManager accedendo al database, dalla tabella zz\_tasks.
+In OpenSTAManager è stato introdotto il modulo **Gestione Task** per modificare le azioni programmate definite a database in zz\_tasks
 {% endhint %}
 
-Le operazioni programmate di default sono:
-
-* Backup: ogni giorno all'1.
-* Importazione automatica ricevute FE: ogni 24 ore.
-* Eliminazione automatica della coda d'invio: ogni 4 ore.
+{% content-ref url="../../openstamanager/modules/strumenti/gestione-task.md" %}
+[gestione-task.md](../../openstamanager/modules/strumenti/gestione-task.md)
+{% endcontent-ref %}
 
 ![](<../../.gitbook/assets/immagine (624).png>)
 
