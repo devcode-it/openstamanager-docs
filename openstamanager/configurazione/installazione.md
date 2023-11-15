@@ -146,6 +146,20 @@ Viene quindi caricata la pagina per il controllo della configurazione del _web s
 
 <figure><img src="../../.gitbook/assets/immagine (162).png" alt=""><figcaption></figcaption></figure>
 
+### Requisiti hardware
+
+Requisiti minimi:
+
+* 1 CPU&#x20;
+* 2GB di ram&#x20;
+* 200MB di spazio per il gestionale
+
+Requisiti consigliati:
+
+* 2 CPU&#x20;
+* 4GB di ram&#x20;
+* 2GB di spazio per il gestionale
+
 ## ✍️ Licenza
 
 La schermata successiva a quella dei requisiti consiste nella gestione della licenza di utilizzo del software.
