@@ -57,3 +57,6 @@ E' presente in fase di importazione un automatismo che genera automaticamente i 
 In caso di anagrafica esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non importare.
 {% endhint %}
 
+{% hint style="info" %}
+E' possibile importare le anagrafiche in base alla ragione sociale o ai campi separati  cognome e nome. Se valorizzato verrà considerato il campo ragione sociale, se non valorizzato esso assumerà il valore di 'cognome nome'.
+{% endhint %}
