@@ -24,7 +24,7 @@ Entrando in una di queste operazioni è possibile reimpostare il cron di esecuzi
 Esempi di configurazione cron: [https://crontab-generator.com/it/](https://crontab-generator.com/it/)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vedi anche:
 

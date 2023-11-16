@@ -8,7 +8,7 @@ In Strumenti/[Import](./) è possibile scaricare un esempio di CSV impostando An
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FKAYcjU46Mt551Js0WFWg%2Ffile.png?alt=media)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fd2zONN3MJ2hKZcXEia83%2Ffile.png?alt=media)
+<figure><img src="../../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 A questo punto si può iniziare a creare il file CSV per l'importazione delle anagrafiche, seguendo la base del file d'esempio.
 
@@ -27,25 +27,24 @@ I campi mappabili a database sono:
 * Città
 * Telefono
 * Indirizzo
-* Civico
 * CAP
 * Cellulare
 * Fax
 * Email
-* Pec
+* PEC
 * Sito web
 * Codice fiscale
-* Data di nascita
-* Luogo di nascita
-* Sesso
+* Data di nascita (solo per anagrafiche con Tipologia privato)
+* Luogo di nascita (solo per anagrafiche con Tipologia privato)
+* Sesso (solo per anagrafiche con Tipologia privato)
 * Partita IVA
-* Codice IBAN
+* IBAN
 * Note
 * Nazione
-* Agente
-* Pagamento predefinito
-* Tipo di anagrafica (cliente/fornitore)
-* Tipologia (Privato, Ente pubblico, Azienda)
+* ID agente
+* ID pagamento
+* Tipo (Cliente/Fornitore)
+* Tipologia (Azienda, Privato, Ente pubblico)
 * Split payment
 * Settore merceologico
 
@@ -53,4 +52,8 @@ E' presente in fase di importazione un automatismo che genera automaticamente i 
 
 * Tipo anagrafica
 * Settore merceologico
+
+{% hint style="warning" %}
+In caso di anagrafica esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non importare.
+{% endhint %}
 
