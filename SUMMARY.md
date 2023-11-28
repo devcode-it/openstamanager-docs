@@ -164,7 +164,7 @@
     * [📥 Import](openstamanager/modules/strumenti/import/README.md)
       * [📥 Import Anagrafiche](openstamanager/modules/strumenti/import/import-anagrafiche.md)
       * [📥 Import Articoli](openstamanager/modules/strumenti/import/import-articoli.md)
-      * [📥 Import Attività](openstamanager/modules/strumenti/import/import-articoli-1.md)
+      * [📥 Import Attività](openstamanager/modules/strumenti/import/import-attivita.md)
       * [📥 Import Impianti](openstamanager/modules/strumenti/import/import-impianti.md)
       * [📥 Import Listini](openstamanager/modules/strumenti/import/import-listini.md)
       * [📥 Import Piano dei conti](openstamanager/modules/strumenti/import/import-piano-dei-conti.md)
