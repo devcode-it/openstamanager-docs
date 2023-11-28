@@ -33,6 +33,7 @@ I campi mappabili a database sono:
 
 * codice
 * immagine
+* import immagine \*
 * descrizione
 * quantità
 * data inventario
@@ -59,6 +60,18 @@ I campi mappabili a database sono:
 * sconto di listino
 * direzione listino (Cliente o Fornitore)
 * sede&#x20;
+
+{% hint style="info" %}
+**Come valorizzare Import immagine:**
+
+1 -> permette di importare l'immagine come principale dell'articolo mantenendo gli altri allegati già presenti,
+
+2 -> permette di importare l'immagine come principale dell'articolo rimuovendo tutti gli allegati presenti,
+
+3 -> permette di importare l'immagine come allegato dell'articolo mantenendo gli altri allegati già presenti,
+
+4 -> permette di importare l'immagine come allegato dell'articolo rimuovendo tutti gli allegati presenti.
+{% endhint %}
 
 E' presente in fase di importazione un automatismo che genera automaticamente i valori dei seguenti campi se mappati:
 
