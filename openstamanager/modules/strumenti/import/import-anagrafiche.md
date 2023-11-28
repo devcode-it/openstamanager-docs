@@ -1,4 +1,8 @@
-# 📥 Import anagrafiche
+---
+description: Come importare anagrafiche in OpenSTAManager
+---
+
+# 📥 Import Anagrafiche
 
 {% hint style="info" %}
 È possibile importare le anagrafiche in maniera massiva tramite il caricamento di un file CSV.

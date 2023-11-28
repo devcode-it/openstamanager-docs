@@ -23,7 +23,7 @@ Cliccando sul tasto <img src="../../../../.gitbook/assets/imp.png" alt="" data-s
 * Piano dei conti (informazioni sulla creazione del file CSV su [Import piano dei conti](import-piano-dei-conti.md))
 * Preventivi (informazioni sulla creazione del file CSV su [Import preventivi](import-preventivi.md))
 * Impianti (informazioni sulla creazione del file CSV su [Import Impianti](import-impianti.md))
-* Attività (informazioni sulla creazione del file CSV su [Import Attività](import-attivita.md))
+* Attività (informazioni sulla creazione del file CSV su [Import Attività](broken-reference))
 
 Una volta creato il file CSV si dovrà cliccare su Sfogliia nel campo **File,** e andare a selezionarlo per il caricamento.
 
@@ -65,8 +65,8 @@ Cliccando su ![](../../../../.gitbook/assets/AvviaImportazione.PNG) il file vien
 [import-impianti.md](import-impianti.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-attivita.md" %}
-[import-attivita.md](import-attivita.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../../../../moduli-premium/registrazione-movimenti-bancari.md" %}
