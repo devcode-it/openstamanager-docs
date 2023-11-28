@@ -38,7 +38,10 @@ I campi mappabili a database sono:
 * descrizione
 * stato
 
-E' presente in fase di importazione un automatismo che genera automaticamente la sessione del tecnico se mappato l'orario di inizio attività.
+E' presente in fase di importazione un automatismo che genera automaticamente i valori dei seguenti campi se mappati:
+
+* la sessione del tecnico se mappato l'orario di inizio attività
+* lo stato attività, se non è già presente a gestionale
 
 {% hint style="warning" %}
 In caso di attività esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non sovrascrivere
