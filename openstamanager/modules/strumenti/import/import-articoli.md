@@ -29,6 +29,49 @@ Una volta completato il file si può procedere al suo caricamento, andando a sel
 
 Da questa schermata sarà ora possibile procedere a mappare i campi del CSV con quelli del gestionale, impostare la chiave primaria e cliccare su Avvia importazione.
 
+I campi mappabili a database sono:
+
+* codice
+* immagine
+* descrizione
+* quantità
+* data inventario
+* unità di misura
+* prezzo di acquisto
+* prezzo di vendita
+* peso lordo
+* volume
+* categoria
+* sottocategoria
+* barcode
+* fornitore predefinito
+* partita iva
+* codice iva di vendita
+* ubicazione
+* note
+* anagrafica listino
+* codice fornitore
+* barcode fornitore
+* descrizione fornitore
+* quantità massima
+* quantità minima
+* prezzo di listino
+* sconto di listino
+* direzione listino (Cliente o Fornitore)
+* sede&#x20;
+
+E' presente in fase di importazione un automatismo che genera automaticamente i valori dei seguenti campi se mappati:
+
+* categoria
+* sottocategoria
+* anagrafica listino
+* listino
+* dettaglio fornitore
+
+{% hint style="warning" %}
+In caso di articolo esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non sovrascrivere.
+{% endhint %}
+
 #### Vedi anche:&#x20;
 
 {% content-ref url="../../../../guide/videoguide/importazione-articoli.md" %}

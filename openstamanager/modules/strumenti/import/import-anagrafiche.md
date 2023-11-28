@@ -54,7 +54,7 @@ E' presente in fase di importazione un automatismo che genera automaticamente i 
 * Settore merceologico
 
 {% hint style="warning" %}
-In caso di anagrafica esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non importare.
+In caso di anagrafica esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non sovrascrivere.
 {% endhint %}
 
 {% hint style="info" %}
