@@ -8,7 +8,7 @@ description: Come gestire l'importazione massiva di dati in OpenSTAManager
 Il modulo **Import** permette di caricare dei file CSV per aggiungere dei record nei moduli _Anagrafiche, Articoli, Piano dei conti, Preventivi, Impianti e Attività._
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Cliccando sul tasto <img src="../../../../.gitbook/assets/imp.png" alt="" data-s
 * Articoli (informazioni sulla creazione del file CSV su [Import articoli](import-articoli.md))
 * Piano dei conti (informazioni sulla creazione del file CSV su [Import piano dei conti](import-piano-dei-conti.md))
 * Preventivi (informazioni sulla creazione del file CSV su [Import preventivi](import-preventivi.md))
-* Impianti (informazioni sulla creazione del file CSV su [Import Impianti](import-impianti.md))
+* Impianti (informazioni sulla creazione del file CSV su [Import Impianti](broken-reference))
 * Attività (informazioni sulla creazione del file CSV su [Import Attività](broken-reference))
 
 Una volta creato il file CSV si dovrà cliccare su Sfogliia nel campo **File,** e andare a selezionarlo per il caricamento.
@@ -61,8 +61,8 @@ Cliccando su ![](../../../../.gitbook/assets/AvviaImportazione.PNG) il file vien
 [import-preventivi.md](import-preventivi.md)
 {% endcontent-ref %}
 
-{% content-ref url="import-impianti.md" %}
-[import-impianti.md](import-impianti.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

@@ -12,7 +12,7 @@ In Strumenti/[Import](./) è possibile scaricare un esempio di CSV impostando An
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FKAYcjU46Mt551Js0WFWg%2Ffile.png?alt=media)
 
-<figure><img src="../../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 A questo punto si può iniziare a creare il file CSV per l'importazione delle anagrafiche, seguendo la base del file d'esempio.
 
