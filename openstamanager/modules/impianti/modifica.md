@@ -25,5 +25,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Occupante
 * Allegati
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
