@@ -167,7 +167,7 @@
       * [📥 Import Attività](openstamanager/modules/strumenti/import/import-attivita.md)
       * [📥 Import Impianti](openstamanager/modules/strumenti/import/import-impianti.md)
       * [📥 Import Listini](openstamanager/modules/strumenti/import/import-listini.md)
-      * [📥 Import Piano dei conti](openstamanager/modules/strumenti/import/import-articoli-1.md)
+      * [📥 Import Piano dei conti](openstamanager/modules/strumenti/import/import-partitario.md)
       * [📥 Import Preventivi](openstamanager/modules/strumenti/import/import-preventivi.md)
     * [👀 Viste](openstamanager/modules/strumenti/viste.md)
     * [🗣 Utenti e permessi](openstamanager/modules/strumenti/utentiepermessi.md)
