@@ -27,8 +27,12 @@ A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** appar
 * **Disabilita articoli con quantità nulla:** se questa impostazione è attiva, in fase di esportazione articoli viene disattiva la visualizzazione sul sito di E-commerce se la quantità è a 0 e quindi non disponibile a magazzino.
 * **Sincronizza solo articoli con foto impostata:** questa impostazione esporta solo gli articoli che hanno una foto impostata nella scheda articolo di OSM
 * **Gestione locale delle immagini articolo**: se attivata, in fase di importazione articoli aggiorna l'immagine dell'articolo su OSM
-* **importazione in OpenSTAManager**: definisce quali dati importare in OpenSTAManager dal provider (disponibili: articoli, anagrafiche, ordini)
-* **esportazione da OpenSTAManager**: definisce quali dati inviare da OpenSTAManager al provider (disponibili: articoli, anagrafiche, ordini)
+* **importazione in OpenSTAManager**: permette l'importazione degli articoli dal provider a OpenSTAmanager
+* **esportazione da OpenSTAManager**: permette l'esportazione degli articoli da OpenSTAManager al provider
+
+{% hint style="warning" %}
+La sincronizzazione di ordini e anagrafiche è ancora in Beta.
+{% endhint %}
 
 {% hint style="info" %}
 Ogni modifica effettuata nella sezione **Impostazioni** viene aggiornata premendo il pulsante **Salva** presente in alto a destra nella schermata.
