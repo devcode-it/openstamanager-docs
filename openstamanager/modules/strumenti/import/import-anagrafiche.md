@@ -16,6 +16,10 @@ In Strumenti/[Import](./) è possibile scaricare un esempio di CSV impostando An
 
 A questo punto si può iniziare a creare il file CSV per l'importazione delle anagrafiche, seguendo la base del file d'esempio.
 
+{% hint style="warning" %}
+Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
+{% endhint %}
+
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
 
 Da questa schermata sarà ora possibile procedere a mappare i campi del CSV con quelli del gestionale, impostare la chiave primaria e cliccare su Avvia importazione.

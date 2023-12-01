@@ -16,6 +16,10 @@ Cliccando su questo pulsante si aprirà un file di esempio di come importare gli
 
 A questo punto si può iniziare a creare il file CSV per l'importazione degli impianti, seguendo la base del file d'esempio.
 
+{% hint style="warning" %}
+Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
+{% endhint %}
+
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
 
 <figure><img src="../../../../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>

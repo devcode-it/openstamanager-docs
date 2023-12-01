@@ -2,7 +2,7 @@
 description: Come importare articoli in OpenSTAManager
 ---
 
-# 📥 Import articoli
+# 📥 Import Articoli
 
 {% hint style="info" %}
 È possibile importare gli articoli in maniera massiva tramite il caricamento di un file CSV.
@@ -21,6 +21,14 @@ Gli importi inseriti devono avere come separatore il punto, e presentare due dec
 ad esempio per inserire come valore 2,50 si dovrà inserire **2.50**\
 per inserire come valore 3 si dovrà inserire **3.00**\
 per inserire come valore 54356,983 si dovrà inserire **54356.98**
+{% endhint %}
+
+{% hint style="info" %}
+Se l'impostazione **Utilizza prezzi di vendita comprensivi di IVA** è abilitata, il campo mappato come prezzo di vendita corrisponderà al prezzo di vendita **ivato**.
+{% endhint %}
+
+{% hint style="warning" %}
+Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
 {% endhint %}
 
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.

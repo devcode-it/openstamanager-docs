@@ -2,7 +2,7 @@
 description: Come importare listini in OpenSTAManager
 ---
 
-# 📥 Import listini
+# 📥 Import Listini
 
 {% hint style="info" %}
 È possibile importare i listini degli articoli in maniera massiva tramite il caricamento di un file CSV.
@@ -16,6 +16,10 @@ Dopo aver selezionato il modulo sarà visibile un nuovo pulsante nella schermata
 
 {% hint style="info" %}
 L'importazione dei listini avviene tramite la procedura di importazione degli articoli, le specifiche da seguire sono quindi le stesse.
+{% endhint %}
+
+{% hint style="warning" %}
+Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
 {% endhint %}
 
 {% content-ref url="import-articoli.md" %}
