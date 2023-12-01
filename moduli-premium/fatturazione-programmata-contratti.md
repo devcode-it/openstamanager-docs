@@ -12,17 +12,23 @@ Il modulo **Fatturazione programmata contratti** permette di pianificare la rate
 
 Dopo aver installato il modulo è possibile andare a definire la pianificazione della fatturazione dei contratti esistenti, oppure [creare un nuovo contratto](../openstamanager/modules/vendite/contratti/#creazione).
 
-Per pianificare la fatturazione è sufficiente accedere al plugin Ricorrenza fatturazione, dal contratto scelto.
+Il nuovo contratto deve riportare una data di accettazione e di conclusione, ed essere in stato **In lavorazione**.
 
-<figure><img src="../.gitbook/assets/immagine (77).png" alt=""><figcaption></figcaption></figure>
+Per pianificare la fatturazione è sufficiente accedere al plugin **Ricorrenza fatturazione:**
+
+<figure><img src="../.gitbook/assets/immagine (693).png" alt=""><figcaption></figcaption></figure>
 
 Da qui sarà possibile definire la ricorrenza di fatturazione, la data di inizio e l'importo che dovrà avere ogni rata.
 
-<figure><img src="../.gitbook/assets/immagine (534).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (694).png" alt=""><figcaption></figcaption></figure>
 
-Ora, se lo stato del contratto è "In lavorazione", sarà possibile visualizzare le rate da fatturare dal modulo **Fatturazione contratti**.
+Al salvataggio delle impostazioni verrà visualizzata una tabella con tutte le scadenze generate da questa impostazione:
 
-<figure><img src="../.gitbook/assets/immagine (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (695).png" alt=""><figcaption></figcaption></figure>
+
+Sarà ora possibile visualizzare le rate da fatturare dal modulo **Fatturazione contratti**.
+
+<figure><img src="../.gitbook/assets/immagine (696).png" alt=""><figcaption></figcaption></figure>
 
 Volendo fatturare le rate manualmente, sarà sufficiente selezionare le rate interessate e cliccare su Crea fattura. Da qui sarà possibile selezionare se accodare le rate selezionate a fatture della stessa anagrafica in stato Bozza, e modificare la data, il sezionale e il tipo di fattura.
 
