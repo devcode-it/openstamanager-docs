@@ -8,7 +8,7 @@ description: Guida al modulo Gestione task in OpenSTAManager
 Il modulo **Gestione task** permette di modificare le operazioni programmate in OpenSTAManager
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le operazioni programmate di default sono:
 
@@ -24,7 +24,7 @@ Entrando in una di queste operazioni è possibile reimpostare il cron di esecuzi
 Esempi di configurazione cron: [https://crontab-generator.com/it/](https://crontab-generator.com/it/)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vedi anche:
 

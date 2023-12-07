@@ -22,15 +22,15 @@ Le attività segnate a calendario infatti, vengono suddivise per operatore, perm
 
 A seguito dell'installazione del modulo, cliccando su **Disponibilità tecnici** apparirà la seguente schermata:
 
-<figure><img src="../.gitbook/assets/immagine (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visualizzazione Settimana
 
-<figure><img src="../.gitbook/assets/immagine (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Visualizzazione Giorno
 
-<figure><img src="../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Da qui, cliccando direttamente sul calendario, è possibile andare a programmare una nuova attività.
 
@@ -44,7 +44,7 @@ Cliccando su una casella del calendario è possibile andare a creare una nuova A
 
 L'attività appena creata sarà ora visualizzabile in calendario e sarà possibile vederne i dettagli passandoci sopra il mouse se in Strumenti/Impostazioni/Dashboard l'opzione **Utilizzare i tooltip sul calendario** è abilitata.
 
-<figure><img src="../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su un intervento nel calendario è possibile accedere alla sua schermata di dettaglio, da dove è possibile apportare modifiche, stamparne le specifiche, inviare il rapportino e la notifica di presa in carico, e accedere al pannello di anteprima e firma.
 
