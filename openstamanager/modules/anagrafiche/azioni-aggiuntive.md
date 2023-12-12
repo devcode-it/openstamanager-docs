@@ -8,7 +8,7 @@ description: Guida alle azioni aggiuntive del modulo Anagrafiche in OpenSTAManag
 
 Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezionandone le checkbox a inizio riga e cliccando su Azioni di gruppo.
 
-### 📤 Esportazione Anagrafica
+### 👥 Esportazione Anagrafica
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
@@ -17,6 +17,32 @@ Una volta selezionati i record interessati è possibile esportare massivamente l
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
 ![](<../../../.gitbook/assets/image (592).png>)
+
+### 👥 Elimina selezionati
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+### 👥 Ricerca coordinate
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+Questa funzionalità permette la ricerca massiva delle coordinate in base all'indirizzo impostato in anagrafica (con OpenStreetMaps).
+
+### 👥 Ricerca coordinate (google)
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+Questa funzionalità permette la ricerca massiva delle coordinate in base all'indirizzo impostato in anagrafica (con Google Maps).
+
+### 👥 Cambia relazione
+
+Questa funzionalità permette di cambiare la relazione massivamente delle anagrafiche selezionate.
 
 ## 👤 Dal dettaglio Anagrafica
 
@@ -27,12 +53,13 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 * Invia email da template
 * Crea...
 
-### 🖨️ Stampa dettaglio Anagrafica
+### 🖨️ Stampa&#x20;
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa di:
 
 * Dettaglio anagrafica
 * Dati aziendali
+* Provvigioni
 
 ![](<../../../.gitbook/assets/image (587).png>)
 

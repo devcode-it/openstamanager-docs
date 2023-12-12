@@ -14,7 +14,7 @@ Questa sezione si contraddistingue, in particolare, per la possibilità di fissa
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Attività**.
 
-![](<../../../.gitbook/assets/image (524).png>)
+<figure><img src="../../../.gitbook/assets/immagine (703).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 

@@ -14,4 +14,4 @@ Per creare un nuovo documento si deve premere il tasto (+), e inserire:
 * Categoria
 * Data
 
-![Screenshot creazione gestione documentale](../../../.gitbook/assets/GestioneDocumentaleCampi.PNG)
+<figure><img src="../../../.gitbook/assets/immagine (701).png" alt=""><figcaption></figcaption></figure>

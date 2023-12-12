@@ -8,7 +8,7 @@ description: Come gestire i Contratti in OpenSTAManager
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (187).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (718).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -19,11 +19,17 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
 * Nome
 * Cliente
 * Stato
+* Sezionale
 * Data accettazione
 * Data conclusione
 * Validità contratto
+* Informazioni per rinnovo
+  * Rinnovabile
+  * Rinnovo automatico
+  * Preavviso per rinnovo
+  * Ore rimanenti rinnovo
 
-<figure><img src="../../../../.gitbook/assets/immagine (501).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (720).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 

@@ -23,23 +23,20 @@ Il primo raggruppamento di informazioni consiste nell'insieme dei dati relativi 
 Attraverso questa sezione, è possibile procedere alla modifica di alcune informazioni di base:
 
 * Cliente
-* Sede destinazione
-* Cliente per conto di cui viene eseguita l'attività
-* Referente di contatto
+* Per conto di
+* Referente
 * Preventivo
 * Contratto
 * Ordine
 * Agente
 
-Per maggiori informazioni sulla relazione dell'attività con [**Preventivi**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/preventivi.md) e [**Contratti**](https://github.com/devcode-it/devcode-it.github.io/tree/c372246fd4462ad0101f4f643f1719d85d3d3249/\_openstamanager/guide/contratti.md), visitare le sezioni relative.
-
-![](<../../../.gitbook/assets/image (201).png>)
+<figure><img src="../../../.gitbook/assets/immagine (713).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗺️ Geolocalizzazione
 
-È possibile visualizzare la sede dell'intervento tramite la geolocalizzazione se in Strumenti/Impostazioni è stato inserito un 📖 valido.
+È possibile visualizzare la sede dell'intervento cliccando su **Carica mappa**
 
-![](<../../../.gitbook/assets/image (125).png>)
+<figure><img src="../../../.gitbook/assets/immagine (714).png" alt=""><figcaption></figcaption></figure>
 
 ### 📖 Dati intervento
 
@@ -57,11 +54,7 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Note interne
 * Partenza merce
 
-<figure><img src="../../../.gitbook/assets/immagine (232).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/immagine (99).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/immagine (715).png" alt=""><figcaption></figcaption></figure>
 
 ### ⏰ Ore di lavoro
 
@@ -90,13 +83,13 @@ Questa sezione permette di inserire le righe descrittive dell'attività, che pos
 * Contratto
 * DDT
 
-<figure><img src="../../../.gitbook/assets/immagine (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (716).png" alt=""><figcaption></figcaption></figure>
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-![](<../../../.gitbook/assets/image (614).png>)
+<figure><img src="../../../.gitbook/assets/immagine (717).png" alt=""><figcaption></figcaption></figure>
 
 ### 🛅 Allegati
 
