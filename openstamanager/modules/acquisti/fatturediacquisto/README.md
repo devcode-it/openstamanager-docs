@@ -8,7 +8,7 @@ description: Come gestire le Fatture di acquisto in OpenSTAManager
 Il modulo **Fatture di acquisto** permette di gestire la fatturazione in entrata dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (47).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (733).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 

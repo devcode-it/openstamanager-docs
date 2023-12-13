@@ -8,17 +8,21 @@ description: Guida alle azioni aggiuntive del modulo Fatture di vendita in OpenS
 
 Il modulo fatture di vendita permette di effettuare diverse azioni massive dalle Azioni di gruppo:
 
-* Esporta selezionati
-* Duplica selezionati
-* Registrazione contabile
-* Esporta stampe FE
-* Genera fatture elettroniche
-* Esporta stampe
-* Controlla fatture elettroniche
-* Esporta XML
-* Esporta ricevute
-* Aggiorna banca
-* Emetti fatture
+* [Aggiorna banca](plugin.md#aggiorna-banca)
+* [Cambia sezionale](plugin.md#cambia-sezionale)
+* [Coda di invio FE](plugin.md#coda-invio-fe) (solo con servizio FE)
+* [Controlla fatture elettroniche](plugin.md#controllo-fatture-elettroniche)
+* [Duplica selezionati](plugin.md#duplicazione)
+* [Elimina selezionati](plugin.md#elimina-selezionati) (beta)
+* [Emetti fatture](plugin.md#emissione-fatture)
+* [Esporta selezionati](plugin.md#esportazione)
+* [Esporta stampe](plugin.md#esportazione-stampe)
+* [Esporta stampe FE](plugin.md#esportazione-stampe-fe)
+* [Esporta ricevute](plugin.md#esportazione-ricevute)
+* [Esporta XML](plugin.md#esportazione-xml)
+* [Genera fatture elettroniche](plugin.md#genera-fatture-elettroniche)
+* [Registrazione contabile](plugin.md#registrazione-contabile)
+* [Verifica notifiche](plugin.md#verifica-notifiche) (solo con servizio FE)
 
 ### 📤 Esportazione
 
@@ -173,6 +177,44 @@ Le fatture selezionate devono essere in stato Bozza.
 Cliccando su Procedi si confermerà l'operazione.
 
 ![](<../../../../.gitbook/assets/image (395).png>)
+
+### ✳️ Cambia sezionale
+
+Una volta selezionati i record interessati è possibile cambiare il sezionale dei documenti cliccando su **Cambia sezionale**.
+
+Il cambio di sezionale sarà permesso solo tra sezionali fiscali o tra sezionali non fiscali, per i documenti che si trovano in stato Bozza.
+
+<figure><img src="../../../../.gitbook/assets/immagine (726).png" alt=""><figcaption></figcaption></figure>
+
+Selezionando il sezionale interessato e cliccando su Procedi le fatture verranno quindi spostate nel sezionale selezionato.
+
+### ❌ Elimina selezionati
+
+Dopo aver selezionato i record interessati con questa funzionalità è possibile procedere alla loro eliminazione.
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+### 🧾 Coda invio FE
+
+Con questa funzionalità è possibile aggiungere i record selezionati alla coda di invio allo SDI.
+
+<figure><img src="../../../../.gitbook/assets/immagine (730).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Questa funzionalità è disponibile solo se il servizio fatturazione elettronica è attivo
+{% endhint %}
+
+### 🧾 Verifica notifiche
+
+Con questa funzionalità è possibile verificare e reimportare le ricevute relative ai record selezionati
+
+<figure><img src="../../../../.gitbook/assets/immagine (731).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Questa funzionalità è disponibile solo se il servizio fatturazione elettronica è attivo
+{% endhint %}
 
 ## 👤 Dal dettaglio Fatture di vendita
 

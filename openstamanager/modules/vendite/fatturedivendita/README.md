@@ -49,7 +49,8 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Destinazione merce
 * Tipo documento
 * Pagamento
-* Banca azienda
+* Banca accredito
+* Banca addebito
 * Abilitare split payment
 * Abilitare fattura per conto terzi
 * Sconto in fattura ([Decreto Rilancio 2020](../../../../guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md))
@@ -73,7 +74,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
   * Ordine
 * Allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (725).png" alt=""><figcaption></figcaption></figure>
 
 ## ✅ Operazioni massive sulle righe
 
@@ -133,8 +134,4 @@ Dalla schermata del modulo è invece possibile accedere al plugin [RicevuteFE](b
 
 {% content-ref url="../../../../guide/esempi/prezzo-di-vendita-automatico.md" %}
 [prezzo-di-vendita-automatico.md](../../../../guide/esempi/prezzo-di-vendita-automatico.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -10,11 +10,14 @@ Il modulo Attività presenta le seguenti funzioni:
 
 * Vedere le attività create direttamente a calendario dal modulo [Dashboard](../dashboard/);
 * Selezionare dalla checkbox a inizio riga le attività interessate e cliccando su Azioni di gruppo
-  * Esportarne le stampe
-  * Fatturarle massivamente
-  * Cambiare loro massivamente lo stato
-  * Duplicarle
-  * Stamparne il riepilogo
+  * [Esportarne le stampe](azioni-aggiuntive.md#esportazione-stampe)
+  * [Fatturarle massivamente](azioni-aggiuntive.md#fatturazione-massiva)
+  * [Cambiare loro massivamente lo stato](azioni-aggiuntive.md#modifica-dello-stato-massivo)
+  * [Duplicarle](azioni-aggiuntive.md#duplicazione-massiva)
+  * [Stamparne il riepilogo](azioni-aggiuntive.md#stampa-massiva)
+  * [Inviare via mail](azioni-aggiuntive.md#invia-mail)
+  * [Firmare gli interventi](azioni-aggiuntive.md#firma-interventi)
+  * [Eliminare i selezionati](azioni-aggiuntive.md#elimina-selezionati) (beta)
 * [Sincronizzare](../../../guide/esempi/calendario-su-telefono.md) gli interventi dei tecnici con calendari esterni attraverso il sistema API ufficiale.
 
 ### 📅 Vedere le attività da Dashboard
@@ -124,6 +127,28 @@ Cliccando su Stampa si confermerà l'operazione.
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
 ![](<../../../.gitbook/assets/image (503).png>)
+
+### &#x20;📧 Invia mail
+
+Con questa funzionalità è possibile inviare massivamente il tipo di documento selezionato:
+
+<figure><img src="../../../.gitbook/assets/immagine (727).png" alt=""><figcaption></figcaption></figure>
+
+### 🖊️ Firma interventi
+
+Con questa funzionalità è possibile firmare massivamente gli interventi
+
+<figure><img src="../../../.gitbook/assets/immagine (728).png" alt=""><figcaption></figcaption></figure>
+
+### ❌ Elimina selezionati
+
+Con questa funzionalità è possibile eliminare massivamente gli interventi
+
+<figure><img src="../../../.gitbook/assets/immagine (729).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
 
 ### 📱 Sincronizzazione degli interventi APP tecnici
 

@@ -8,7 +8,7 @@ description: Come gestire gli Ordini fornitore in OpenSTAManager
 Il modulo **Ordini fornitore** permette all'utente di creare un documento per richiedere ad un fornitore prodotti e servizi stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (451).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (732).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
