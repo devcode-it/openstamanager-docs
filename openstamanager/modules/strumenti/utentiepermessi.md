@@ -43,3 +43,7 @@ Cliccare su Aggiungi per creare l'utente.
 ![](<../../../.gitbook/assets/image (272).png>)
 
 Successivamente, dal modulo viste, sarà possibile impostare la visualizzazione di determinati campi nei vari moduli, ristretta a una determinata categoria di utenti.
+
+{% hint style="info" %}
+Una volta associata la sede ad un utente, questo potrà vedere e movimentare unicamente le quantità degli articoli caricati nel magazzino della sede di sua competenza.
+{% endhint %}
