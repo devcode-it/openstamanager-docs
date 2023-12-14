@@ -107,11 +107,7 @@ Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova c
 DEPRECATA dal 30/05/22: [https://support.google.com/accounts/answer/6010255?hl=it](https://support.google.com/accounts/answer/6010255?hl=it)
 {% endhint %}
 
-Nel caso **non** sia abilitata l'autenticazione a due fattori, è necessario procedere ad abilitare l'accesso da applicazioni meno sicure attraverso le impostazioni dell'account Google: [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
-
-![](<../../../.gitbook/assets/image (83).png>)
-
-E' quindi necessario inserire nel campo _Password SMTP_ dell'account del gestionale la password originale dell'account Gmail.
+Per account Gmail che non abbiano abilitato questa impostazione prima che venisse dismessa, è necessraio abilitare l'autenticazione a due fattori per la configurazione dell'account nel gestionale.
 
 ## 📨Invio
 
