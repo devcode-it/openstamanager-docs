@@ -158,7 +158,7 @@
       * [⚱ Porto](openstamanager/modules/strumenti/tabelle/porto.md)
       * [📏 Unità di misura](openstamanager/modules/strumenti/tabelle/unitadimisura.md)
       * [🪞 Aspetto beni](openstamanager/modules/strumenti/tabelle/aspettobeni.md)
-      * [❔ Causali](openstamanager/modules/strumenti/tabelle/causali.md)
+      * [🚚 Causali trasporto](openstamanager/modules/strumenti/tabelle/causali.md)
       * [👨🏭 Mansioni referenti](openstamanager/modules/strumenti/tabelle/mansioni-referenti.md)
     * [💡 Campi personalizzati](openstamanager/modules/strumenti/campi-personalizzati.md)
     * [📥 Import](openstamanager/modules/strumenti/import/README.md)

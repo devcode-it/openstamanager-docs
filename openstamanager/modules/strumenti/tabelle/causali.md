@@ -1,11 +1,11 @@
 ---
-description: Come gestire le causali in OpenSTAManager
+description: Come gestire le causali trasporto in OpenSTAManager
 ---
 
-# ❔ Causali
+# 🚚 Causali trasporto
 
 {% hint style="info" %}
-Il modulo **Causali** permette di aggiungere e modificare le causali presenti nel gestionale.
+Il modulo **Causali trasporto** permette di aggiungere e modificare le causali presenti nel gestionale.
 {% endhint %}
 
 ![](<../../../../.gitbook/assets/image (632).png>)
