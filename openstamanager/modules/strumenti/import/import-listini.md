@@ -34,13 +34,17 @@ Pertanto nel caricamento di un CSV con i dati listino, consigliamo di compilare 
 
 Questi campi sono:
 
-* Codice
-* Anagrafica listino
-* Codice fornitore
+* Codice\*
+* Anagrafica listino\*
+* Codice fornitore\*
 * Barcode fornitore
-* Descrizione fornitore
+* Descrizione fornitore\*
 * Qta minima
 * Qta massima
-* Prezzo listino
+* Prezzo listino\*
 * Sconto listino
-* Cliente/Fornitore listino
+* Cliente/Fornitore listino\*
+
+{% hint style="info" %}
+I campi contrassegnati dall'asterisco \* sono obbligatori.
+{% endhint %}
