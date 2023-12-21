@@ -48,8 +48,8 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 
 **Visualizza solo promemoria assegnati:**  Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
 
-{% content-ref url="../../app-tecnici/v3.0.30-1.md" %}
-[v3.0.30-1.md](../../app-tecnici/v3.0.30-1.md)
+{% content-ref url="../../app-tecnici/v3.0.30.md" %}
+[v3.0.30.md](../../app-tecnici/v3.0.30.md)
 {% endcontent-ref %}
 
 ### 🔨 Attività

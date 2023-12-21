@@ -19,7 +19,13 @@ Provala accedendo alla nostra demo con username: _tecnico_ e password: _tecnicot
 
 Vai alla versione:
 
-{% content-ref url="v3.0.30-1.md" %}
-[v3.0.30-1.md](v3.0.30-1.md)
+
+
+{% content-ref url="v3.0.41.md" %}
+[v3.0.41.md](v3.0.41.md)
+{% endcontent-ref %}
+
+{% content-ref url="v3.0.30.md" %}
+[v3.0.30.md](v3.0.30.md)
 {% endcontent-ref %}
 
