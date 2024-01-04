@@ -12,7 +12,7 @@ Accedere dal menù di OpenSTAManager al modulo Strumenti/[Import](./) e impostar
 
 Cliccando su questo pulsante si aprirà un file di esempio di come importare il piano dei conti tramite il file CSV.
 
-<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 A questo punto si può iniziare a creare il file CSV per l'importazione del piano dei conti, seguendo la base del file d'esempio.
 
