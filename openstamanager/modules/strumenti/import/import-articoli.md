@@ -93,6 +93,10 @@ E' presente in fase di importazione un automatismo che genera automaticamente i 
 In caso di articolo esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non sovrascrivere.
 {% endhint %}
 
+{% hint style="danger" %}
+L'importazione dell'anagrafica collegata all'articolo avviene utilizzando come chiave primaria la **Partita IVA,** e in seguito la ragione sociale se non viene trovata corrispondenza. E' opportuno pertanto indicare nel file CSV di importazione la partita IVA dell'anagrafica per associare correttamente l'anagrafica cliente/fornitore del listino.&#x20;
+{% endhint %}
+
 #### Vedi anche:&#x20;
 
 {% content-ref url="../../../../guide/videoguide/importazione-articoli.md" %}

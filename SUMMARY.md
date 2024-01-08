@@ -98,7 +98,7 @@
       * [🔧 Plugin](openstamanager/modules/acquisti/fatturediacquisto/plugin.md)
   * [⚖ Contabilità](openstamanager/modules/contabilita/README.md)
     * [🖨 Stampe contabili](openstamanager/modules/contabilita/stampecontabili.md)
-    * [1⃣ 1⃣ Prima nota](openstamanager/modules/contabilita/primanota.md)
+    * [1⃣ Prima nota](openstamanager/modules/contabilita/primanota.md)
     * [📖 Piano dei conti](openstamanager/modules/contabilita/pianodeiconti.md)
     * [⏳ Scadenzario](openstamanager/modules/contabilita/scadenzario/README.md)
       * [💳 Presentazioni bancarie](openstamanager/modules/contabilita/scadenzario/presentazioni-bancarie.md)
