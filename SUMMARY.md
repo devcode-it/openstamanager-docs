@@ -219,6 +219,7 @@
   * [📃 Stampa inventario](guide/esempi/stampa-inventario.md)
   * [🗓 Tasks programmati](guide/esempi/tasks-programmati.md)
   * [🔨 Verificare l'installazione di OSM](guide/esempi/verificare-linstallazione-di-osm.md)
+  * [🗓 Contabilizzare una Ri.Ba.](guide/esempi/contabilizzare-una-ri.ba..md)
 * [🪂 Strumenti esterni](guide/strumenti-esterni/README.md)
   * [📸 Awesome screenshot](guide/strumenti-esterni/awesome-screenshot.md)
 * [📽 Videoguide](guide/videoguide/README.md)
