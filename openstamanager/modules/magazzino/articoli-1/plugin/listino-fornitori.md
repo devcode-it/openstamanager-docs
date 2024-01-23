@@ -31,4 +31,6 @@ Può essere utilizzato per la ricerca nei documenti di acquisto appartenenti all
 
 <figure><img src="../../../../../.gitbook/assets/immagine (142).png" alt=""><figcaption></figcaption></figure>
 
-Dopo aver definito le specifiche per almeno un fornitore, è possibile impostarlo come **fornitore predefinito** nella scheda articolo.
+{% hint style="info" %}
+Dopo aver aggiunto tramite il plugin almeno un fornitore, con specificato un determinato **Prezzo specifico,** sarà possibile aggiungere questo fornitore come **Fornitore predefinito** per l'articolo.
+{% endhint %}
