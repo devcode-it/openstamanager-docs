@@ -43,7 +43,12 @@ Da qui sarà possibili cliccare su Ricerca ricevute per verificare la presenza d
 Gli stati possono essere:
 
 * **In elaborazione:** la fattura è in transito dal gestionale allo SDI
-* **Consegnata:** la fattura è arrivata al cliente
+
+{% hint style="info" %}
+Significa che la fattura è stata inviata, ma lo SDI non ha ancora elaborato una ricevuta di ritorno, possono volerci fino a 5 giorni.
+{% endhint %}
+
+* **Consegnata:** la fattura è stata ritenuta idonea dallo SDI ed è stata depositata nel cassetto fiscale del cliente
 * **Scartata:** la fattura è stata scartata perché contiene degli errori. Aprendo la rispettiva fattura e cliccando sul plugin **Fatturazione elettronica**, è possibile leggere lo stato dell'errore.
 
 {% hint style="danger" %}
