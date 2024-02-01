@@ -22,7 +22,7 @@ Di seguito le principali novità della versione 2.4.54, per maggiori dettagli vi
 
 <figure><img src=".gitbook/assets/immagine (768).png" alt=""><figcaption></figcaption></figure>
 
-➡️  Aggiunta la gestione del login tramite Microsoft
+➡️  Aggiunta la gestione del login tramite Microsoft, vai alla guida completa:
 
 {% content-ref url="configurazioni/configurazione-oauth2.md" %}
 [configurazione-oauth2.md](configurazioni/configurazione-oauth2.md)
