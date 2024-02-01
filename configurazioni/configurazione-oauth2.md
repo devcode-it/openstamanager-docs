@@ -125,7 +125,7 @@ E' possibile configurare un account microsoft per l'accesso con OAuth2 da Strume
 
 <figure><img src="../.gitbook/assets/immagine (770).png" alt=""><figcaption></figcaption></figure>
 
-Sarà qui necessario inserire Cliend ID e Client Secret, per la loro creazione consulta:
+Sarà qui necessario inserire Client ID e Client Secret, per la loro creazione consulta:
 
 [#microsoft](configurazione-oauth2.md#microsoft "mention")
 
