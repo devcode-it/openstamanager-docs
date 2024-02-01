@@ -89,6 +89,10 @@ Nell'esempio, considerando OpenSTAManager disponibile in `https://miainstallazio
 
 &#x20;`https://miainstallazione/oauth2.php`.
 
+mentre, se si sta configurando OAuth per l'accesso al gestionale si dovrà inserire:
+
+&#x20;`https://miainstallazione/oauth2_login.php`.
+
 <figure><img src="../.gitbook/assets/spaces_udbmyQrl0FL3lcDlHZWD_uploads_MVHHqiAe9HFUPmpML3DJ_dati (1).png" alt=""><figcaption></figcaption></figure>
 
 Una volta completato questo passaggio, viene reso disponibile il **Client ID** sotto il nome di **ID applicazione (client)**. La generazione del Client Secret avviene attraverso il menu laterale **Certificati e segreti**, che propone la creazione del segreto tramite il pulsante **Nuovo segreto client**: il **Client Secret** è quindi disponibile sotto il nome **Valore** del nuovo segreto.
@@ -136,10 +140,8 @@ L'username associato all'accesso con OAuth2 deve corrispondere con la mail appen
 {% endhint %}
 
 {% hint style="warning" %}
-Consigliamo di verificare di aver abilitato i permessi User.Read per la corretta gestione del login tramite OAuth2.
+Consigliamo di verificare di aver abilitato i permessi User.Read, e di aver correttamente configurato l'URI di reindirizzamento in /oauth2\_login.php per la corretta gestione del login tramite OAuth2.
 {% endhint %}
-
-
 
 **⚙️ Gestione Account**
 
