@@ -29,7 +29,7 @@ Dopo aver selezionato gli articoli che vanno a formare la distinta, è possibile
 
 #### Produci articoli della distinta base in fase di vendita
 
-Questa impostazione, se abilitata, permette l'esecuzione automatica dei meccanismi di composizione e scomposizione dell'articolo padre inserito in fattura, mantenendo bloccata la sua giacenza, e andando a movimentare invece le giacenze degli articoli figli.
+Questa impostazione, se abilitata, permette l'esecuzione automatica dei meccanismi di composizione e scomposizione dell'articolo padre inserito nei documenti di vendita, mantenendo bloccata la sua giacenza, e andando a movimentare invece le giacenze degli articoli figli.
 
 Questa funzionalità è stata pensata per le attività che assemblano gli articoli padre al momento della vendita e non ne tengono delle quantitià fisse presenti a magazzino, come per esempio un negozio di informatica che vende un pc assemblato con dei specifici componenti. Al momento della vendita del pc assemblato non si andrà a ridurre la quantità dell'articolo padre _Computer_, ma andranno scalate a magazzino le quantità relative ai suoi componenti, mantenendo così allineate le giacenze.
 
