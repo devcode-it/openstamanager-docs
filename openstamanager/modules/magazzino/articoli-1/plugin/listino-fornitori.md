@@ -31,6 +31,7 @@ Può essere utilizzato per la ricerca nei documenti di acquisto appartenenti all
 
 <figure><img src="../../../../../.gitbook/assets/immagine (148).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Dopo aver aggiunto tramite il plugin almeno un fornitore, con specificato un determinato **Prezzo specifico,** sarà possibile aggiungere questo fornitore come **Fornitore predefinito** per l'articolo.
-{% endhint %}
+Per poter impostare un fornitore come fornitore predefinito dalla scheda articolo, è necessario abilitare la spunta **Imposta prezzo specifico per questa anagrafica**, inserire un prezzo specifico e salvare.
+
+Ora sarà possibile tornare alla scheda articolo e selezionare il fornitore appena inserito come **Fornitore predefinito**.
+
