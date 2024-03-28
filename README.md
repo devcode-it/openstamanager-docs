@@ -6,7 +6,7 @@ description: Elenco delle principali novità introdotte con la release 2.5.
 
 Di seguito le principali novità della versione 2.5, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-### Multi-lingua
+### 🇮🇹 🇬🇧 Multi-lingua
 
 A partire da questa versione è stato introdotto il supporto alle lingue.
 
