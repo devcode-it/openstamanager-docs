@@ -21,7 +21,7 @@ Per motivi di sicurezza si consiglia di modificare il percorso della cartella di
 
 Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni momento le informazioni relative alla configurazione dei backup e di gestire i backup presenti del gestionale.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (46).png>)
 
 L'esecuzione manuale del backup è estremamente semplice:
 
@@ -56,7 +56,7 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 
 E' disponibile una impostazione nativa per l'esecuzione del backup al primo accesso giornaliero: nel modulo **Impostazioni**, sotto la categoria **Backup** è sufficiente selezionare _Backup automatico_.
 
-![Opzioni disponibili per i backup](<../.gitbook/assets/image (70).png>)
+![Opzioni disponibili per i backup](<../.gitbook/assets/image (27).png>)
 
 Il backup automatico viene eseguito in modi diversi a seconda della versione del gestionale installata:
 

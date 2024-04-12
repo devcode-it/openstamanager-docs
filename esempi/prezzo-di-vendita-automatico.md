@@ -8,17 +8,17 @@ Per fare in modo che il prezzo di vendita di un articolo di magazzino venga calc
 
 Per poter attribuire un margine di ricavo fisso a un articolo, si deve accedere all'articolo interessato da Magazzino/Articoli e scorrere fino alle sezioni Acquisto e Vendita.
 
-![](<../.gitbook/assets/image (65).png>)
+![](<../.gitbook/assets/image (91).png>)
 
-![](<../.gitbook/assets/image (87).png>)
+![](<../.gitbook/assets/image (72).png>)
 
 Andando a impostare un **Coefficiente di vendita** potremo vedere ora che il campo **Prezzo di vendita** verrà calcolato in modo automatico in base alle variazioni del prezzo di acquisto.
 
-![](<../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (89).png>)
 
-![](<../.gitbook/assets/image (84).png>)
+![](<../.gitbook/assets/image (70).png>)
 
 Andando a inserire questo articolo in una nuova **Fattura di vendita** sarà possibile riscontrare il Prezzo unitario di vendita calcolato automaticamente dell'articolo, il **Guadagno unitario**, e il **Margine di guadagno**.
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (74).png>)
 

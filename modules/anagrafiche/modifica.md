@@ -97,7 +97,7 @@ In questa sezione è possibile caricare un file dal proprio computer specificand
 **Attenzione:** Selezionando l'anagrafica **Azienda** è possibile impostare il logo dell'azienda, caricando un file immagine (jpg,png,...) con risoluzione 302 x 111 , specificando sul campo **Nuovo allegato** il nome **Logo stampe**. Il logo caricato su questa anagrafica permetterà di visualizzare in tutte le stampe cartacee il logo precedentemente caricato( ad esempio sulla stampa di una attività, di una fattura di vendita, di un preventivo, etc...)
 {% endhint %}
 
-![](<../../.gitbook/assets/allegati (2) (2) (1).PNG>)
+![](<../../.gitbook/assets/allegati (2) (2).PNG>)
 
 ## Altro
 

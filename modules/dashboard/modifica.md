@@ -57,4 +57,4 @@ Il raggruppamento **costi totali** visualizza la lista completa delle spese effe
 
 L' ultimo raggruppamento è **allegati**, il quale permette di visualizzare eventuali **allegati** caricati.
 
-![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2) (2).PNG>)
+![Screenshot sezione allegati](<../../.gitbook/assets/allegati (2) (2) (1).PNG>)

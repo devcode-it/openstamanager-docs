@@ -4,4 +4,4 @@
 Nella sezione di modifica del modulo **Attività** è presente il plugin **Impianti** dedicato alla gestione della relazione dell'attività con l’impianto (gestito dal modulo [Impianti](../../impianti/)) in cui viene eseguita.
 {% endhint %}
 
-![](<../../../.gitbook/assets/immagine (27).png>)
+![](<../../../.gitbook/assets/immagine (8).png>)
