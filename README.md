@@ -4,7 +4,8 @@
 Per un corretto utilizzo delle guide assicurati di aver selezionato la versione di OpenSTAManager corretta dal menu a sinistra o cliccando sui link sottostanti.
 {% endhint %}
 
-* [Versione 2.5.1 ](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/Y1ozns1G0Rz146DRkxK5/) (ultima release)
+* [Versione 2.5.2](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/DawZU8MNXSPSskfvzbqs/)  (ultima release)
+* [Versione 2.5.1 ](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/Y1ozns1G0Rz146DRkxK5/)
 * [Versione 2.5](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/jybARPPzFupnpzunnIHp/)
 * [Versione 2.4.54](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/C4ulHuu2oCD4ZM3dN3S5/)
 * [Versione 2.4.53](https://app.gitbook.com/o/-LZJeLfzoGzXuWwoEM9l/s/uKNNL1aO3bAHUmeYxE4d/)
