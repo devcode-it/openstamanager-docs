@@ -107,7 +107,7 @@ Per maggiori informazioni questi file, consultare le sezioni [Framework ](../../
 
 ## 📒 Cartella api
 
-Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](../../../configurazioni/introduzione.md).
+Per maggiori informazioni riguardanti la cartella `api` e i suoi contenuti, rivolgersi alla sezione [API](../../../configurazioni/introduzione/).
 
 ## 📒 Cartella assets
 
