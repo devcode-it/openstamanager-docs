@@ -255,8 +255,7 @@
 
 ## Configurazioni
 
-* [📙 API](configurazioni/introduzione/README.md)
-  * [📙 Retrieve](configurazioni/introduzione/retrieve.md)
+* [📙 API](configurazioni/introduzione.md)
 * [📙 Google Maps API key](configurazioni/configurazione-google-maps-api-key.md)
 * [📙 OAuth2](configurazioni/configurazione-oauth2.md)
 

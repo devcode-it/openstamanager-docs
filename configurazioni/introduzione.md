@@ -20,11 +20,11 @@ Le informazioni qui descritte sono valida a partire dalla versione 2.4 del gesti
 
 L'accesso all'API viene garantito esclusivamente tramite il token personale di accesso dell'utente, individuabile nella sezione dedicata alle informazioni sull'account.
 
-![Area di informazioni dell'utente](../../.gitbook/assets/informazioni-utente.png)
+<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sulla sezione evidenziata in rosso, si apre una pagina dedicata alla visualizzazione delle informazioni personali dell'utente e che permette la modifica della password e della foto profilo, oltre che la visualizzazione del token per l'API.
 
-![Informazioni sull'utente](<../../.gitbook/assets/image (120).png>)
+<figure><img src="../.gitbook/assets/immagine (812).png" alt=""><figcaption></figcaption></figure>
 
 Nella sezione denominata **API** sono disponibili il token e l'URL per accedere al sistema API del gestionale.
 
@@ -55,7 +55,7 @@ Si ricordi che, come indicato in Modalità di utilizzo, il contenuto della richi
 
 ### 📙 Gestione degli accessi
 
-E' disponibile un sistema di gestione degli accessi basilare per l'amministratore del gestionale, che può abilitare l'accesso degli utenti attraverso il modulo [**Utenti e permessi**](../../openstamanager/modules/strumenti/utentiepermessi.md).
+E' disponibile un sistema di gestione degli accessi basilare per l'amministratore del gestionale, che può abilitare l'accesso degli utenti attraverso il modulo [**Utenti e permessi**](../openstamanager/modules/strumenti/utentiepermessi.md).
 
 {% hint style="warning" %}
 Non è al momento disponibile un sistema di permessi per il sistema API, e pertanto chiunque possegga un token può accedere a tutte le informazioni che l'API rende disponibile.
@@ -80,9 +80,15 @@ Ogni richiesta di comunicazione con l'API deve essere composta di una chiave di 
 
 In base al tipo di risorsa che si desidera richiedere, sono disponibili quattro metodi HTTP per la comunicazione:
 
-* `GET`, dedicato alle richieste di informazioni ([**Retrieve**](retrieve.md)).
+* `GET`, dedicato alle richieste di informazioni ([**Retrieve**](broken-reference)).
 * `POST`, dedicato alle richieste di creazione (**Create**).
 * `PUT`, dedicato alle richieste di modifica (**Update**).
 * `DELETE`, dedicato alle richieste di eliminazione (**Delete**).
 
 Maggiori informazioni sulle relative risorse disponibili sono presenti nelle prossime sezioni, oltre che all'interno della tabella `zz_api_resources` del gestionale.
+
+
+
+Vai alla documentazione completa alle API di OpenSTAManager:
+
+{% embed url="https://api.docs.openstamanager.com/" %}

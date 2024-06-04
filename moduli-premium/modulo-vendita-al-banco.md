@@ -31,7 +31,7 @@ Compatibile con stampanti fiscali che supportano il protocollo xon-xoff e lavora
 
 A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ➕ Creazione
 
@@ -49,7 +49,7 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 * Note
 * Righe
 
-<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
 
