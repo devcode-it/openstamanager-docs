@@ -16,27 +16,27 @@ Il nuovo contratto deve riportare una data di accettazione e di conclusione, ed 
 
 Per pianificare la fatturazione è sufficiente accedere al plugin **Ricorrenza fatturazione:**
 
-<figure><img src="../.gitbook/assets/immagine (744).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (805).png" alt=""><figcaption></figcaption></figure>
 
-Da qui sarà possibile definire la ricorrenza di fatturazione, la data di inizio e l'importo che dovrà avere ogni rata.
+Da qui sarà possibile definire la ricorrenza di fatturazione, la data di inizio e l'importo che dovrà avere ogni rata. Al salvataggio delle impostazioni verrà visualizzata una tabella con tutte le scadenze generate:
 
-<figure><img src="../.gitbook/assets/immagine (745).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (807).png" alt=""><figcaption></figcaption></figure>
 
-Al salvataggio delle impostazioni verrà visualizzata una tabella con tutte le scadenze generate da questa impostazione:
+Sarà ora possibile visualizzare le rate da fatturare dal modulo **Fatturazione contratti,** filtrate in base al mese in corso.
 
-<figure><img src="../.gitbook/assets/immagine (746).png" alt=""><figcaption></figcaption></figure>
-
-Sarà ora possibile visualizzare le rate da fatturare dal modulo **Fatturazione contratti**.
-
-<figure><img src="../.gitbook/assets/immagine (747).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (808).png" alt=""><figcaption></figcaption></figure>
 
 Volendo fatturare le rate manualmente, sarà sufficiente selezionare le rate interessate e cliccare su Crea fattura. Da qui sarà possibile selezionare se accodare le rate selezionate a fatture della stessa anagrafica in stato Bozza, e modificare la data, il sezionale e il tipo di fattura.
 
-<figure><img src="../.gitbook/assets/immagine (584).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (809).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su Crea fatture si procede alla fatturazione delle rate selezionate:
 
-<figure><img src="../.gitbook/assets/immagine (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (810).png" alt=""><figcaption></figcaption></figure>
+
+Tornando al contratto e navigando al plugin Ricorrenza fatturazione è ora possibile visualizzare la rata appena fatturata.
+
+<figure><img src="../.gitbook/assets/immagine (811).png" alt=""><figcaption></figcaption></figure>
 
 ### Configurazione
 
