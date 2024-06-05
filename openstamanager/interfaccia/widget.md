@@ -6,7 +6,7 @@ description: Guida ai widget di OpenSTAManager
 
 I widget sono componenti predefiniti che presentano una serie di funzioni aggiuntive a un modulo, che possono andare da filtri ad operazioni di gestione interna dei record. E' possibile visualizzarli nella parte alta della pagina.
 
-<figure><img src="../../.gitbook/assets/immagine (576).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (834).png" alt=""><figcaption></figcaption></figure>
 
 ## 🎛️ **Gestione dei widget**
 
@@ -14,13 +14,13 @@ E' possibile spostare un widget cliccando su di esso e trascinandolo attraverso 
 
 Per procedere a disabilitarlo invece, basterà cliccare sulla X nell'angolo in alto a destra dello stesso.
 
-![](<../../.gitbook/assets/immagine (423).png>)
+<figure><img src="../../.gitbook/assets/immagine (835).png" alt=""><figcaption></figcaption></figure>
 
 ### Dimensione widget
 
 La dimensione di default dei widget è configurabile da Strumenti/Impostazioni/Generali, alla voce **Dimensione widget predefinita:**
 
-<figure><img src="../../.gitbook/assets/immagine (568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (836).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, volendo ad esempio impostare il numero di widget per riga pari a 6, sarà sufficiente impostare come dimensione predefinita "col-md-2".
@@ -28,9 +28,9 @@ Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, v
 
 Tuttavia è possibile forzare la dimensione dei vari widget da Strumenti/Stato dei servizi, per impostare dimensioni personalizzate:
 
-<figure><img src="../../.gitbook/assets/immagine (569).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (839).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (574).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (840).png" alt=""><figcaption></figcaption></figure>
 
 I valori corrispondenti alle impostazioni sono:
 

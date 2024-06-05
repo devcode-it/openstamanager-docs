@@ -12,7 +12,7 @@ La navigazione attraverso le diverse sezioni del gestionale viene resa possibile
 
 Nella parte più alta di questa componente è inoltre presente una barra di ricerca generalizzata all'interno del gestionale, che permette di effettuare ricerche tra i moduli che supportano questa funzione.
 
-![](<../../.gitbook/assets/immagine (239).png>)
+<figure><img src="../../.gitbook/assets/immagine (824).png" alt=""><figcaption></figcaption></figure>
 
 La sezione aperta a gestionale si può distinguere da un colore di sfondo più scuro nel menu.
 
@@ -38,19 +38,20 @@ Sono presenti diversi valori preimpostati:
 
 Questa funzionalità è sfruttata in particolare da moduli in cui il periodo di tempo è rilevante (quali, per esempio, **Attività** e **Fatture**) mentre in altri non provoca alcun effetto (per esempio, **Dashboard**).
 
-<figure><img src="../../.gitbook/assets/immagine (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (826).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Opzioni di controllo
 
 Parallelamente alla possibilità di selezionare il periodo temporale, vengono rese disponibili alcune opzioni aggiuntive nella sezione in alto a destra del software.
 
-<figure><img src="../../.gitbook/assets/immagine (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (827).png" alt=""><figcaption></figcaption></figure>
 
 Viene qui permesso di procedere alle seguenti azioni, in ordine:
 
 * Visualizzare le notifiche
 * Stampare la schermata attuale attraverso il browser
 * Visitare l'elenco dei tentativi di accesso
+* Visitare le informazioni relative alle scorciatoie da tastiera
 * Visitare la pagina di informazioni sul software
 * Effettuare il logout
 

@@ -23,13 +23,14 @@ La schermata principale che si apre entrando in un modulo è formata da una tabe
 * Scorrere e visualizzare (attraverso un click) i diversi record
 * Selezionare diversi record attraverso le relative righe per esportarli (in formato CSV), stamparli o copiarli
 * Selezionare dei record per effettuare delle azioni generali specifiche del modulo
-* Filtrare i record in base a un determinato campo utilizzando i seguenti operatori:
-  * != in caso si voglia ricercare un record diverso da un dato valore specifico;
-  * \= in caso si voglia ricercare uno specifico valore all'interno dei record;
-  * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
-  * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
+*   Filtrare i record in base a un determinato campo utilizzando i seguenti operatori:
 
-![](<../../.gitbook/assets/immagine (453).png>)
+    * != in caso si voglia ricercare un record diverso da un dato valore specifico;
+    * \= in caso si voglia ricercare uno specifico valore all'interno dei record;
+    * \> in caso si vogliano ricercare tutti i record maggiori di un determinato valore;
+    * < in caso si vogliano ricercare tutti i record minori di un determinato valore.
+
+    <figure><img src="../../.gitbook/assets/immagine (828).png" alt=""><figcaption></figcaption></figure>
 
 ### ✏️ Contenuti personalizzati
 
@@ -45,7 +46,7 @@ Alcuni moduli presentano una componente generale per permettere l'inserimento di
 
 I moduli che permettono la creazione di nuovi elementi presentano un pulsante apposito ![](../../.gitbook/assets/Pulsante+.PNG) vicino all'intestazione della pagina.
 
-![Pulsante di creazione record (Anagrafiche)](../../.gitbook/assets/add-button.png)
+<figure><img src="../../.gitbook/assets/immagine (829).png" alt=""><figcaption></figcaption></figure>
 
 Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapposta al resto del gestionale che permettere di inserire le informazioni del nuovo elemento.
 
@@ -55,20 +56,24 @@ Una volta cliccato il pulsante in questione, verrà aperta una schermata sovrapp
 
 Cliccando su un singolo record è possibile accede alla schermata di dettaglio dello stesso, da cui è possibile andare ad apportarvi modifiche.
 
-![](../../.gitbook/assets/record.jpeg)
+<figure><img src="../../.gitbook/assets/immagine (830).png" alt=""><figcaption></figcaption></figure>
 
-Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione o eliminazione massive.
+Per modificare le righe di un documento è possibile selezionare tutte le righe interessate e svolgere azioni di duplicazione,  eliminazione massiva, confronto e aggiornamento dei prezzi.
 
-![operazioni massive sulle righe documento](<../../.gitbook/assets/immagine (271).png>)
+<figure><img src="../../.gitbook/assets/immagine (831).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 
 I plugin sono dei moduli che dipendono da altri moduli, e pertanto possono essere considerati dei sotto-moduli. Ogni modulo può possedere un numero variabile di plugin, che è possibile visualizzare nella sezione destra della pagina entrando in un record.
 
-![](<../../.gitbook/assets/immagine (419).png>)
+E' possibile aprire la barra dei plugin cliccando sull'apposito indicatore:
+
+<figure><img src="../../.gitbook/assets/immagine (832).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/immagine (833).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia del record
+Per gli amministratori, è presente un plugin denominato **Info** che permette di visualizzare la cronologia di operazioni sul record
 {% endhint %}
 
 ## 📍 Gestione dei moduli
