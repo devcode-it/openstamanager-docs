@@ -15,15 +15,17 @@ Dopo il caricamento dell'aggiornamento, potrebbe richiedere richiesto anche l'ag
 
 In questo caso, ogni utente presente all'interno del gestionale verrà automaticamente reindirizzato verso il logout e sarà possibile aggiornare il database come richiesto attraverso delle apposite schermate e il pulsante ![](../../.gitbook/assets/Aggiorna.PNG) .
 
+<figure><img src="../../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
+
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
-<figure><img src="../../.gitbook/assets/immagine (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ Errori di aggiornamento
 
 La procedura di aggiornamento, come ogni componente software, è soggetta a possibili errori.
 
-<figure><img src="../../.gitbook/assets/immagine (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
 
 In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consultare il [forum ufficiale](https://www.openstamanager.com/forum/) per eventuali segnalazioni simili.
 
