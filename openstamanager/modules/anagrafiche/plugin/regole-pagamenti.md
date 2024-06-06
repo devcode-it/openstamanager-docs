@@ -12,14 +12,14 @@ Questa funzione può essere utilizzata nel caso in cui dei clienti notifichino l
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../../.gitbook/assets/immagine (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per aggiungere una nuova regola, si dovrà cliccare sul tasto (+).
 
 Andranno qui inseriti quindi il mese di chiusura dell'attività e il giorno del mese successivo in cui andare a riprogrammare le scadenze.
 
-<figure><img src="../../../../.gitbook/assets/immagine (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 In questo modo, andando ad esempio a creare una fattura che avrebbe scadenza nel mese di Marzo, si potrà notare la scadenza programmata invece per il giorno 6 del mese successivo, quindi Aprile:
 
-<figure><img src="../../../../.gitbook/assets/immagine (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (20) (1).png" alt=""><figcaption></figcaption></figure>

@@ -20,9 +20,9 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 ## ⛵ Navigazione
 
-Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Anagrafiche**.
+Il modulo è raggiungibile dal menu laterale del gestionale, alla voce **Anagrafiche**.
 
-<figure><img src="../../../.gitbook/assets/immagine (682).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
@@ -34,7 +34,7 @@ Aprendo il menu a tendina è possibile trovare i moduli:
 * Provenienze clienti
 * Settori merceologici
 
-&#x20;                                                      <img src="../../../.gitbook/assets/image (551).png" alt="" data-size="original">
+&#x20;                                                      ![](<../../../.gitbook/assets/immagine (12).png>)
 
 ### 👾 Widget
 
@@ -47,7 +47,7 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 * Vettori
 * Tutti
 
-<figure><img src="../../../.gitbook/assets/immagine (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 
@@ -55,7 +55,7 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 
 * [Impianti del cliente](plugin/impianti-del-cliente.md)
 * [Referenti](plugin/referenti.md)
-* [Sedi](plugin/sedi.md)
+* [Sedi aggiuntive](plugin/sedi.md)
 * [Statistiche](plugin/statistiche.md)
 * [Ddt del cliente](plugin/ddtdelcliente.md)
 * [Dichiarazioni d'intento](plugin/dichiarazioni-dintento.md)
@@ -64,6 +64,7 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 * [Contratti del cliente](plugin/contratti-del-cliente.md)
 * [Movimenti contabili](plugin/movimenti-contabili.md)
 * [Regole pagamenti](plugin/regole-pagamenti.md)
+* Assicurazione crediti
 * [Note interne](plugin/note-interne.md)
 * [Info](plugin/info.md)
 
