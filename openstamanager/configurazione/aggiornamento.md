@@ -15,11 +15,11 @@ Dopo il caricamento dell'aggiornamento, potrebbe richiedere richiesto anche l'ag
 
 In questo caso, ogni utente presente all'interno del gestionale verrà automaticamente reindirizzato verso il logout e sarà possibile aggiornare il database come richiesto attraverso delle apposite schermate e il pulsante ![](../../.gitbook/assets/Aggiorna.PNG) .
 
-<figure><img src="../../.gitbook/assets/immagine (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
-<figure><img src="../../.gitbook/assets/immagine (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ Errori di aggiornamento
 
