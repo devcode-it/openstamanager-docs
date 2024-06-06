@@ -12,7 +12,7 @@ Questa funzione può essere utilizzata nel caso in cui dei clienti notifichino l
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../../.gitbook/assets/immagine (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per aggiungere una nuova regola, si dovrà cliccare sul tasto (+).
 

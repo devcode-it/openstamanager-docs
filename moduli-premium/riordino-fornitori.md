@@ -13,7 +13,7 @@ Questo modulo presenta due sezioni:
 * **Articoli da ordinare**: Elenco degli articoli o di componenti facenti parte una distinta base di un articolo impegnati in ordini clienti ma non disponibili a magazzino;
 * **Articoli sottoscorta**: Elenco degli articoli presenti in quantità inferiore alla soglia minima impostata impegnati nei documenti di vendita o facenti parte della distinta di un articolo impegnato in un documento di vendita.
 
-<figure><img src="../.gitbook/assets/immagine (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 E' possibile filtrare questi articoli in base al fornitore e ordinarli in base al prezzo più economico, prezzo più alto e tempi di consegna più rapidi.
 
@@ -21,15 +21,15 @@ E' possibile filtrare questi articoli in base al fornitore e ordinarli in base a
 Per visualizzare correttamente valorizzato il campo Fornitore, devono essere specificati i tempi di consegna dal plugin Listino fornitori dell'articolo interessato.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per procedere a creare un nuovo ordine fornitore si dovranno selezionare gli articoli interessati e cliccare su Crea ordine fornitore.
 
-<figure><img src="../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si dovrà ora cliccare su Procedi:
 
-<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gli articoli appena ordinati non compariranno più tra gli articoli da ordinare, e sarà possibile visualizzare l'ordine fornitore in Acquisti/ordini fornitori:
 
