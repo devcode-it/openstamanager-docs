@@ -101,6 +101,10 @@ Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova c
 
 ![](<../../../.gitbook/assets/image (202).png>)
 
+{% hint style="warning" %}
+A partire dal 30 settembre 2024, le app meno sicure, le app di terze parti o i dispositivi che richiedono l'accesso solo con nome utente e password non saranno più supportati per gli account Google Workspace. Per conoscere le date esatte, consulta la pagina degli Aggiornamenti di Google Workspace. Per continuare a utilizzare un'app specifica con il tuo Account Google, dovrai utilizzare un tipo di accesso più sicuro che non condivide i dati delle password. Scopri come utilizzare Accedi con Google.
+{% endhint %}
+
 ### 📂 App meno sicure
 
 {% hint style="danger" %}
