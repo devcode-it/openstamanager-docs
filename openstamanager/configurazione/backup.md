@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-<figure><img src="../../.gitbook/assets/immagine (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Formato dei backup
 
