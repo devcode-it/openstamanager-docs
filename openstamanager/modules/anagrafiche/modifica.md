@@ -34,7 +34,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-<figure><img src="../../../.gitbook/assets/immagine (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🏭 Sede legale
 
@@ -53,7 +53,7 @@ Nella seconda sezione è possibile trovare:
 * Distanza
 * Opt-out per newsletter (attivando questa opzione l'anagrafica verrà esclusa dai destinatari di eventuali Newsletter)
 
-<figure><img src="../../../.gitbook/assets/immagine (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🗺️ Geolocalizzazione
 
@@ -61,7 +61,7 @@ Nella seconda sezione è possibile trovare:
 In questa sezione è possibile definire una posizione da OpenStreetMap, calcolare il percorso verso l'indirizzo indicato ed eventualmente definire manualmente latitudine e longitudine.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ℹ️ Informazioni per tipo di anagrafica
 

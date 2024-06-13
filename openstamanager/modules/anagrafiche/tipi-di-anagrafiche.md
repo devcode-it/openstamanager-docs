@@ -10,4 +10,4 @@ Da questo modulo è possibile visualizzare e modificare i tipi di anagrafiche es
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../.gitbook/assets/immagine (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (14) (1) (1).png" alt=""><figcaption></figcaption></figure>

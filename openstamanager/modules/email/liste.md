@@ -54,4 +54,4 @@ WHERE
     AND an_tipianagrafiche.name = 'Cliente';
 ```
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
