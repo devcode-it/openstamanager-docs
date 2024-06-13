@@ -16,7 +16,7 @@ Il modulo è raggiungibile dal menu laterale del gestionale, cliccando su **Dash
 
 Grazie al calendario questo modulo offre una visione generale degli I**nterventi,** a cui è possibile applicare dei filtri.
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 👾 Widget
 
@@ -35,7 +35,7 @@ In questo modulo sono disponibili dei widget che permettono di visualizzare:
 * Attività nello stato da programmare
 * Attività confermate
 
-<figure><img src="../../../.gitbook/assets/immagine (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I [widget](../../interfaccia/widget.md) possono essere: spostati, abilitati, disabilitati e ridimensionati.
 
@@ -47,17 +47,17 @@ I [widget](../../interfaccia/widget.md) possono essere: spostati, abilitati, dis
 
 Il widget elenca i promemoria da pianificare disponibili all'interno dei contratti, suddivisi per mese:
 
-<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 E' possibile consultare il promemoria indicato dall'interno del contratto, nel plugin Pianificazione attività:
 
-<figure><img src="../../../.gitbook/assets/immagine (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Promemoria attività da pianificare
 
 Il widget elenca le attività che non presentano nessuna sessione di lavoro, disponibili quindi per la programmazione in dashboard:
 
-<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Notifiche interne
 

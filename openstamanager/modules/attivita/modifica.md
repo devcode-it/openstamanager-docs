@@ -31,7 +31,7 @@ Attraverso questa sezione, è possibile procedere alla modifica di alcune inform
 * Contratto
 * Ordine
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 📖 Dati intervento
 
@@ -49,17 +49,17 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Descrizione
 * Note interne
 
-<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ⏰ Sessioni di lavoro
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Con la funzione **Inserimento massivo** è possibile pianificare massivamente il lavoro dei tecnici creando più sessioni contemporaneamente per uno o più tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Selezionando gli orari, le date di inizio e di fine, i giorni in cui creare le sessioni e i tecnici per cui crearle, al click su **Aggiungi** verranno create le sessioni impostate.
 

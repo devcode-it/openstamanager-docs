@@ -17,10 +17,10 @@ Creando un intervento in questo modo si hanno a disposizione una serie di campi 
 * Richiesta
 * Tecnici
 
-<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gli interventi creati in questo modo saranno poi visualizzati a calendario e verranno automaticamente registrati tra le attività:
 
-<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

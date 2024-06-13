@@ -13,7 +13,7 @@ E' possibile applicare i seguenti filtri alla Dashboard per visualizzare solo gl
 * Tecnici
 * Zone
 
-<figure><img src="../../../.gitbook/assets/immagine (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Visualizzazione
 
@@ -21,7 +21,7 @@ Il calendario dispone di quattro tipi di visualizzazione diverse:
 
 * Mese
 
-<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Settimana
 

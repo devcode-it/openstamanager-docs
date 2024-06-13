@@ -38,11 +38,11 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-<figure><img src="../.gitbook/assets/immagine (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-<figure><img src="../.gitbook/assets/immagine (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 

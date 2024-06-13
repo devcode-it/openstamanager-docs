@@ -8,7 +8,7 @@ description: Come gestire i Contratti in OpenSTAManager
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/immagine (769).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -29,7 +29,7 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
   * Preavviso per rinnovo
   * Ore rimanenti rinnovo
 
-<figure><img src="../../../../.gitbook/assets/immagine (771).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -55,7 +55,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/1 (1).jpeg>)
+<figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 Nelle sezioni successive è invece possibile modificare:
 
@@ -67,7 +67,7 @@ Nelle sezioni successive è invece possibile modificare:
   * Sconto/maggiorazione
 * gli allegati
 
-<figure><img src="../../../../.gitbook/assets/immagine (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (861).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 
