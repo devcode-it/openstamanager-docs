@@ -14,13 +14,13 @@ Questa sezione si contraddistingue, in particolare, per la possibilità di fissa
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Attività**.
 
-<figure><img src="../../../.gitbook/assets/immagine (754).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (851).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare i moduli Tipi di attività, Fasce orarie, Stati di attività, Tecnici e tariffe, Voci di servizio.
 
-![](<../../../.gitbook/assets/image (260).png>)
+<figure><img src="../../../.gitbook/assets/immagine (852).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 
