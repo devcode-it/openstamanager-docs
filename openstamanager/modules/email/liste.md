@@ -12,13 +12,13 @@ Questo modulo è complementare a [Newsletter](newsletter.md), che si occupa dell
 
 Il modulo si presenta così:
 
-![](<../../../.gitbook/assets/image (234).png>)
+<figure><img src="../../../.gitbook/assets/immagine (36).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
 E' possibile creare una nuova lista premendo sul tasto (+):
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FQ8HXdaJR5cDoZg0fmwWr%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (37).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -36,8 +36,22 @@ Sono qui disponibili i seguenti attributi:
 Questo è uno strumento avanzato, è infatti necessario sapere come formulare le query.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (401).png>)
+<figure><img src="../../../.gitbook/assets/immagine (38).png" alt=""><figcaption></figcaption></figure>
 
 Ad esempio, volendo creare una lista contenente tutti i clienti che non hanno fatto ordini negli ultimi 6 mesi si dovrà compilare il campo **Query dinamica** in questo modo:
 
-<figure><img src="../../../.gitbook/assets/immagine (708).png" alt=""><figcaption></figcaption></figure>
+```bash
+SELECT
+    an_anagrafiche.idanagrafica as id,
+    'Modules\\Anagrafiche\\Anagrafica' as tipo
+FROM
+    an_anagrafiche
+    INNER JOIN an_tipianagrafiche_anagrafiche ON an_tipianagrafiche_anagrafiche.idanagrafica = an_anagrafiche.idanagrafica
+    INNER JOIN an_tipianagrafiche ON an_tipianagrafiche.id = an_tipianagrafiche_anagrafiche.idtipoanagrafica
+    LEFT JOIN or_ordini ON or_ordini.idanagrafica = an_anagrafiche.idanagrafica
+WHERE
+    deleted_at IS NULL AND (or_ordini.id NOT IN (SELECT or_ordini.id FROM or_ordini WHERE MONTH(or_ordini.data) > (MONTH(NOW()) - 6)) OR or_ordini.data IS NULL)
+    AND an_tipianagrafiche.name = 'Cliente';
+```
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>

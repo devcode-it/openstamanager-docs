@@ -10,4 +10,4 @@ Il plugin **Movimenti contabili** è una componente del modulo **Anagrafiche** d
 
 La schermata che si presenta è questa:
 
-![](<../../../../.gitbook/assets/image (511).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (20).png" alt=""><figcaption></figcaption></figure>

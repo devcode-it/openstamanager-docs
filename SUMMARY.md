@@ -31,7 +31,7 @@
     * [🔧 Plugin](openstamanager/modules/anagrafiche/plugin/README.md)
       * [🔨 Impianti del cliente](openstamanager/modules/anagrafiche/plugin/impianti-del-cliente.md)
       * [🧑 Referenti](openstamanager/modules/anagrafiche/plugin/referenti.md)
-      * [📍 Sedi](openstamanager/modules/anagrafiche/plugin/sedi.md)
+      * [📍 Sedi aggiuntive](openstamanager/modules/anagrafiche/plugin/sedi.md)
       * [📊 Statistiche](openstamanager/modules/anagrafiche/plugin/statistiche.md)
       * [📤 Ddt del cliente](openstamanager/modules/anagrafiche/plugin/ddtdelcliente.md)
       * [🤵 Dichiarazioni d'intento](openstamanager/modules/anagrafiche/plugin/dichiarazioni-dintento.md)

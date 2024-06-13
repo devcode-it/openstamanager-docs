@@ -22,7 +22,7 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 Il modulo è raggiungibile dal menu laterale del gestionale, alla voce **Anagrafiche**.
 
-<figure><img src="../../../.gitbook/assets/immagine (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
@@ -34,7 +34,7 @@ Aprendo il menu a tendina è possibile trovare i moduli:
 * Provenienze clienti
 * Settori merceologici
 
-&#x20;                                                      ![](<../../../.gitbook/assets/immagine (12) (1) (1).png>)
+&#x20;                                                      ![](<../../../.gitbook/assets/immagine (12) (1) (1) (1).png>)
 
 ### 👾 Widget
 
@@ -47,7 +47,7 @@ La schermata principale del modulo è strutturata secondo la tabella generale pr
 * Vettori
 * Tutti
 
-<figure><img src="../../../.gitbook/assets/immagine (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 

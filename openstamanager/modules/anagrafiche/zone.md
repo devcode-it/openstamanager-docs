@@ -10,4 +10,4 @@ Questo modulo è dedicato alla gestione delle eventuali suddivisioni, da parte d
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

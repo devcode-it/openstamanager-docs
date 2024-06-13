@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-<figure><img src="../../.gitbook/assets/immagine (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Formato dei backup
 
@@ -43,7 +43,7 @@ Per migliorare la sicurezza del server, il file `config.inc.php`, che contiene i
 
 Esiste una procedura semplificata di ripristino dei backup, che cerca di risolvere il problema tecnico per utenti con meno esperienza tecnica. Si dovrà cliccare Ripristina nel backup interessato, dalla sezione Backup compressi.
 
-<figure><img src="../../.gitbook/assets/immagine (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La procedura manuale è comunque sempre disponibile, e prevede di:
 
@@ -52,7 +52,7 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 * Rimuovere il file `database.sql` dalla cartella del ripristino
 * Procedere alla configurazione del database per il gestionale (tramite procedura semplificata o impostazione manuale del file `config.inc.php`)
 
-<figure><img src="../../.gitbook/assets/immagine (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 📙 Backup automatico
 

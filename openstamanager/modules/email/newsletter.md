@@ -13,7 +13,7 @@ Questo modulo è complementare ai moduli [Liste](liste.md) e [Template email](te
 
 La schermata principale del modulo si presenta così:
 
-![](<../../../.gitbook/assets/image (519).png>)
+<figure><img src="../../../.gitbook/assets/immagine (29).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Cliccando sul tasto (+) è possibile creare una nuova Newsletter, con la possibi
 * [Template email](template.md) da utilizzare
 * Nome
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FFRDZKQMId1VtLPrOgcpL%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -36,13 +36,13 @@ Da qui è possibile impostare:
 * Oggetto
 * Contenuto
 
-![](<../../../.gitbook/assets/image (676).png>)
+<figure><img src="../../../.gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
 
 ### 👥 Aggiunta destinatari
 
 Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o selezionare una o più liste.
 
-![](<../../../.gitbook/assets/image (375).png>)
+<figure><img src="../../../.gitbook/assets/immagine (34).png" alt=""><figcaption></figcaption></figure>
 
 ### 🛅 Allegati
 

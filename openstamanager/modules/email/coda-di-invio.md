@@ -10,4 +10,4 @@ Nel modulo **Coda di invio** è possibile visualizzare l'elenco delle email in u
 
 La schermata che si presenta è questa:
 
-![](<../../../.gitbook/assets/image (229).png>)
+<figure><img src="../../../.gitbook/assets/immagine (35).png" alt=""><figcaption></figcaption></figure>

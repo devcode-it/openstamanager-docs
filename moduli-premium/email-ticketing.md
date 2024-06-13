@@ -22,7 +22,7 @@ Dall'interno delle attività così create, sarà possibile avviare una vera e pr
 
 La prima cosa da fare è andare a configurare il proprio **IMAP**, cliccare su Gestione email/Email ticketing
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (40).png" alt=""><figcaption></figcaption></figure>
 
 Si dovrà ora cliccare sul tasto (+) e andare a creare un nuovo account email dedicato (oppure configurare l'account predefinito), composto da diverse sezioni.
 
@@ -38,11 +38,11 @@ Nella prima, si dovranno compilare:
 * Se disabilitare l'autenticazione
 * Se validare il certificato
 
-<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nella seconda troveremo le impostazioni predefinite della nuova attività che si andrà a creare:
 
-<figure><img src="../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 E infine nell'ultima troveremo le impostazioni relative al flusso email che seguiranno le conversazioni, qui andrà specificato:
 
@@ -56,7 +56,7 @@ E infine nell'ultima troveremo le impostazioni relative al flusso email che segu
   * L'indirizzo email a cui mandare la notifica
   * Il template da utilizzare
 
-<figure><img src="../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🎛️ Configurazione
 
@@ -76,7 +76,7 @@ Se l'email ricevuta proviene da un'account mail registrato in un'anagrafica verr
 In caso la mail ricevuta non sia registrata in nessuna anagrafica, l'attività verrà creata collegata all'anagrafica azienda.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Esempio:
 
@@ -84,29 +84,29 @@ Si riceve una mail di richiesta di assistenza da parte di un cliente:
 
 &#x20;                                                 &#x20;
 
-<figure><img src="../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Con l'esecuzione dello script in cron verrà creata una nuova attività dall'email:
 
-<figure><img src="../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nel modulo Attività si potrà ora vedere un intervento con stato Da programmare.
 
-<figure><img src="../.gitbook/assets/immagine (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dalla Dashboard è possibile visualizzare l'attività da programmare con la relativa richiesta del cliente. Da qui basterà trascinarla sul calendario per programmare un intervento.
 
-<figure><img src="../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sull'attività e accedendo al plugin Conversazioni sarà ora possibile visualizzare il messaggio ricevuto dal cliente, rispondervi e tener traccia delle conversazioni.
 
-<figure><img src="../.gitbook/assets/immagine (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Per rispondere al cliente sarà sufficiente cliccare sul tasto Rispondi.
 
 Si aprirà quindi il template di risposta precedentemente selezionato, e spuntando Notifica di lettura, dalle conversazioni sarà possibile visualizzare quando il cliente visualizza la mail.
 
-<figure><img src="../.gitbook/assets/immagine (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Vedi anche:
@@ -132,6 +132,6 @@ Da qui è quindi possibile verificare se la configurazione IMAP è corretta, o s
 
 La schermata che si presenterà sarà la seguente:
 
-<figure><img src="../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Una volta terminato il test di importazione occorre inserire in cron l'esecuzione di questo script ogni 5-10 minuti, così che la casella di posta venga scansionata periodicamente per avviare l'importazione automatica delle email.

@@ -10,4 +10,4 @@ Il plugin **Info** è una componente \*\*\*\* che permette la visualizzazione de
 
 La schermata che si presenta è questa:
 
-![](<../../../../.gitbook/assets/image (505).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>

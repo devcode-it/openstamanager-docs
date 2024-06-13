@@ -47,7 +47,7 @@ Si aprirà ora un form di aggiunta sottocategoria, cliccando su **Aggiungi** la 
 
 E' possibile definire una checklist predefinita per la categoria di impianti:
 
-<figure><img src="../../../.gitbook/assets/immagine (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 Negli impianti appartenenti a questa categoria sarà ora possibile importare la checklist predefinita cliccando sull'apposito tasto **Importa checklist categoria**:
 
