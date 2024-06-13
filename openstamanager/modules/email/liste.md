@@ -12,13 +12,13 @@ Questo modulo è complementare a [Newsletter](newsletter.md), che si occupa dell
 
 Il modulo si presenta così:
 
-<figure><img src="../../../.gitbook/assets/immagine (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
 E' possibile creare una nuova lista premendo sul tasto (+):
 
-<figure><img src="../../../.gitbook/assets/immagine (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -36,7 +36,7 @@ Sono qui disponibili i seguenti attributi:
 Questo è uno strumento avanzato, è infatti necessario sapere come formulare le query.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ad esempio, volendo creare una lista contenente tutti i clienti che non hanno fatto ordini negli ultimi 6 mesi si dovrà compilare il campo **Query dinamica** in questo modo:
 
@@ -54,4 +54,4 @@ WHERE
     AND an_tipianagrafiche.name = 'Cliente';
 ```
 
-<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (45).png" alt=""><figcaption></figcaption></figure>

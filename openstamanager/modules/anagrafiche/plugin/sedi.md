@@ -8,7 +8,7 @@ description: Guida al plugin Sedi in OpenSTAManager
 Questo plugin è dedicato alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/immagine (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
@@ -32,13 +32,13 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative all
 * Indirizzo email
 * Opt-out per newsletter
 
-<figure><img src="../../../../.gitbook/assets/immagine (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🖌️ Modifica
 
 La schermata di modifica, sebbene molto simile a quella di creazione, permette in particolare di impostare altre informazioni secondarie.
 
-<figure><img src="../../../../.gitbook/assets/immagine (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Il **Codice destinatario** inserito in una determinata sede, verrà impostato come codice destinatario del cliente nei documenti di vendita in cui quella sede verrà selezionata.

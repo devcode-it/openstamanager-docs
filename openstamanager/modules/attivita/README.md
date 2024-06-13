@@ -57,8 +57,8 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 [tecnicietariffe.md](tecnicietariffe.md)
 {% endcontent-ref %}
 
-{% content-ref url="voci-di-servizio.md" %}
-[voci-di-servizio.md](voci-di-servizio.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="azioni-aggiuntive.md" %}

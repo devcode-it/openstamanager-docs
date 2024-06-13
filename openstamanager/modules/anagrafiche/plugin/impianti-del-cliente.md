@@ -14,4 +14,4 @@ Il plugin **Impianti del cliente** è una componente del modulo **Anagrafiche** 
 
 È possibile creare e collegare un impianto ad un'anagrafica di tipo cliente dal modulo [Impianti](../../impianti/).
 
-<figure><img src="../../../../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

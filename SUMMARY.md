@@ -58,7 +58,6 @@
     * [⛽ Tipi di attività](openstamanager/modules/attivita/tipidiattivita.md)
     * [⏱️ Fasce orarie](openstamanager/modules/attivita/fasce-orarie.md)
     * [🚇 Stati di attività](openstamanager/modules/attivita/statidiattivita.md)
-    * [🔊 Voci di servizio](openstamanager/modules/attivita/voci-di-servizio.md)
     * [🧑‍🔧 Tecnici e tariffe](openstamanager/modules/attivita/tecnicietariffe.md)
     * [❗ Azioni aggiuntive](openstamanager/modules/attivita/azioni-aggiuntive.md)
     * [🔧 Plugin](openstamanager/modules/attivita/plugin/README.md)

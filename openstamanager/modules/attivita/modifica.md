@@ -9,9 +9,8 @@ Per modificare un'attività in OpenSTAManager si dovrà cliccare sul record da m
 Una volta aperta la schermata di dettaglio, sarà possibile completare l'attività in tutti i campi supportati. La sezione di modifica è suddivisa in 6 sezioni:
 
 * Dati cliente
-* Geolocalizzazione
 * Dati intervento
-* Ore di lavoro
+* Sessioni di lavoro
 * Righe
 * Costi totali
 * Allegati
@@ -23,20 +22,16 @@ Il primo raggruppamento di informazioni consiste nell'insieme dei dati relativi 
 Attraverso questa sezione, è possibile procedere alla modifica di alcune informazioni di base:
 
 * Cliente
-* Per conto di
+* Zona
+* Per conto di&#x20;
 * Referente
+* Agente
+* Pagamento
 * Preventivo
 * Contratto
 * Ordine
-* Agente
 
-<figure><img src="../../../.gitbook/assets/immagine (764).png" alt=""><figcaption></figcaption></figure>
-
-### 🗺️ Geolocalizzazione
-
-È possibile visualizzare la sede dell'intervento cliccando su **Carica mappa**
-
-<figure><img src="../../../.gitbook/assets/immagine (765).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ### 📖 Dati intervento
 
@@ -45,32 +40,32 @@ In questa sezione viene presentata una selezione di campi relativi alle informaz
 * Numero
 * Data/ora richiesta
 * Data/ora scadenza
-* Zona
 * Tipo di attività
-* Stato
+* Tags
 * Tecnici assegnati
+* Partenza merce
+* Sede destinazione
 * Richiesta
 * Descrizione
 * Note interne
-* Partenza merce
 
-<figure><img src="../../../.gitbook/assets/immagine (766).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
-### ⏰ Ore di lavoro
+### ⏰ Sessioni di lavoro
 
 In questa sezione è possibile aggiungere, duplicare, modificare ed eliminare le ore lavorative dei vari tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (663).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 Con la funzione **Inserimento massivo** è possibile pianificare massivamente il lavoro dei tecnici creando più sessioni contemporaneamente per uno o più tecnici.
 
-<figure><img src="../../../.gitbook/assets/immagine (368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 Selezionando gli orari, le date di inizio e di fine, i giorni in cui creare le sessioni e i tecnici per cui crearle, al click su **Aggiungi** verranno create le sessioni impostate.
 
 Le attività verranno così visualizzate in Dashboard:
 
-<figure><img src="../../../.gitbook/assets/immagine (614).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗒️ Righe
 
@@ -83,16 +78,16 @@ Questa sezione permette di inserire le righe descrittive dell'attività, che pos
 * Contratto
 * DDT
 
-<figure><img src="../../../.gitbook/assets/immagine (767).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 📃 Tabella dei costi totali
 
 In questa sezione viene viene visualizzata una tabella riassuntiva di tutti i costi inerenti all'attività.
 
-<figure><img src="../../../.gitbook/assets/immagine (768).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
 
 ### 🛅 Allegati
 
 Il modulo **allegati** permette l'importazione di un file caricandolo dal proprio computer, specificando la categoria.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FP3mbIKSZW5PaEvK157Xe%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (10).png" alt=""><figcaption></figcaption></figure>

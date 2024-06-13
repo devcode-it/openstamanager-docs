@@ -14,4 +14,4 @@ Per creare un nuovo documento si deve premere il tasto (+), e inserire:
 * Categoria
 * Data
 
-<figure><img src="../../../.gitbook/assets/immagine (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (14) (1).png" alt=""><figcaption></figcaption></figure>

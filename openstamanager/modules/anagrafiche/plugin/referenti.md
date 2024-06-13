@@ -12,7 +12,7 @@ Può essere sfruttato per creare una rubrica di contatti per l'anagrafica e indi
 
 La schermata si presenterà così:
 
-<figure><img src="../../../../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
@@ -31,10 +31,10 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative al 
 * Sede
 * Opt-out per newsletter
 
-<figure><img src="../../../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 La schermata di modifica risulta identica a quella di creazione, permettendo in aggiunta l'eventuale eliminazione del referente dal sistema.
 
-<figure><img src="../../../../.gitbook/assets/immagine (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

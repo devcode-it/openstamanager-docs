@@ -12,7 +12,7 @@ Questo modulo è complementare a [**Template email**](template.md), che si occup
 
 Il modulo si presenta con la seguente schermata:
 
-<figure><img src="../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -24,7 +24,7 @@ Viene quindi data la possibilità di completare le informazioni di base del nuov
 * Nome visualizzato nelle email
 * Indirizzo email
 
-<figure><img src="../../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -38,7 +38,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-<figure><img src="../../../.gitbook/assets/immagine (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 
@@ -68,7 +68,7 @@ Per configurare correttamente un account email Aruba all'interno di OpenSTAManag
 * **Username SMTP**: `Nome-utente-da-visualizzare`
 * **Password SMTP**: `password`
 
-<figure><img src="../../../.gitbook/assets/immagine (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Gmail
 
@@ -81,7 +81,7 @@ Per configurare correttamente un account email Gmail all'interno di OpenSTAManag
 * _Porta SMTP_: `587`
 * _Sicurezza SMTP_: `TLS`
 
-<figure><img src="../../../.gitbook/assets/immagine (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 L'account appena configurato può avere abilitata l'autenticazione a due fattori:
 
@@ -123,7 +123,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-<figure><img src="../../../.gitbook/assets/immagine (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 

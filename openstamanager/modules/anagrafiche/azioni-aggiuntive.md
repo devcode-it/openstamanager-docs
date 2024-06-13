@@ -12,23 +12,23 @@ Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezion
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
-<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
-<figure><img src="../../../.gitbook/assets/immagine (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 👥 Cambia relazione
 
 E' qui possibile cambiare la relazione delle anagrafiche selezionate:
 
-<figure><img src="../../../.gitbook/assets/immagine (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 👩‍🦰 Aggiorna listino cliente
 
 E' qui possibile associare o modificare il listino associato alle anagrafiche selezionate
 
-<figure><img src="../../../.gitbook/assets/immagine (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 👥 Elimina selezionati
 
@@ -61,7 +61,7 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa
 * Dati aziendali
 * Provvigioni
 
-<figure><img src="../../../.gitbook/assets/immagine (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
@@ -89,8 +89,8 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 * Nuova fattura di vendita
 * Nuova registrazione contabile (cliente)
 
-<figure><img src="../../../.gitbook/assets/immagine (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-<figure><img src="../../../.gitbook/assets/immagine (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

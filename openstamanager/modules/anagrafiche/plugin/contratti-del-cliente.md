@@ -14,4 +14,4 @@ Il plugin **Contratti del cliente** è una componente del modulo **Anagrafiche**
 
 La schermata che si presenta è questa:
 
-<figure><img src="../../../../.gitbook/assets/immagine (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (19) (1) (1).png" alt=""><figcaption></figcaption></figure>

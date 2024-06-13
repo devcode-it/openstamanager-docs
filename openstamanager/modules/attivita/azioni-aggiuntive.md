@@ -32,7 +32,7 @@ Le [attività create da calendario](../dashboard/creazione.md) si riscontreranno
 
 Una volta selezionati i record interessati è possibile esportare massivamente le stampe cliccando su Azioni di gruppo/Esporta stampe.
 
-![](<../../../.gitbook/assets/image (504).png>)
+<figure><img src="../../../.gitbook/assets/immagine (24).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato ZIP delle stampe delle attività selezionate.
 
@@ -40,7 +40,7 @@ Il gestionale chiederà quindi la conferma di procedere all'esportazione in form
 Con questa operazione i dati presenti a gestionale non subiranno modifiche.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (561).png>)
+<figure><img src="../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su procedi si confermerà l'operazione.
 
@@ -52,7 +52,7 @@ Cliccando su procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile fatturare massivamente le attività cliccando su Azioni di gruppo/Fattura interventi.
 
-![](<../../../.gitbook/assets/image (675).png>)
+<figure><img src="../../../.gitbook/assets/immagine (26).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -62,19 +62,17 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-![](<../../../.gitbook/assets/image (79).png>)
+<figure><img src="../../../.gitbook/assets/immagine (27).png" alt=""><figcaption></figcaption></figure>
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita, e analizzandola nel dettaglio si troveranno tra le righe le specifiche dei tre interventi svolti.
 
-![](<../../../.gitbook/assets/image (257).png>)
-
-![](<../../../.gitbook/assets/image (435).png>)
+<figure><img src="../../../.gitbook/assets/immagine (28).png" alt=""><figcaption></figcaption></figure>
 
 ### ⚙️ Modifica dello stato massivo
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../.gitbook/assets/image (67).png>)
+<figure><img src="../../../.gitbook/assets/immagine (29).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -92,7 +90,7 @@ Cliccando su Procedi si confermerà l'operazione.
 
 Una volta selezionati i record interessati è possibile duplicarli massivamente cliccando su Azioni di gruppo/Duplica attività.
 
-![](<../../../.gitbook/assets/image (35).png>)
+<figure><img src="../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma a procedere alla duplicazione dei record, permettendo di scegliere:
 
@@ -113,7 +111,7 @@ Si potranno ora vedere tra le attività i record appena creati.
 
 Una volta selezionati i record interessati è possibile stamparli massivamente cliccando su Azioni di gruppo/Stampa riepilogo.
 
-![](<../../../.gitbook/assets/image (580).png>)
+<figure><img src="../../../.gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma a procedere alla stampa dei record, permettendo di scegliere tra:
 
@@ -126,7 +124,7 @@ Cliccando su Stampa si confermerà l'operazione.
 
 Si aprirà quindi ora la stampa del riepilogo degli interventi selezionati.
 
-![](<../../../.gitbook/assets/image (503).png>)
+<figure><img src="../../../.gitbook/assets/immagine (32).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;📧 Invia mail
 
@@ -138,7 +136,9 @@ Con questa funzionalità è possibile inviare massivamente il tipo di documento 
 
 Con questa funzionalità è possibile firmare massivamente gli interventi
 
-<figure><img src="../../../.gitbook/assets/immagine (779).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/immagine (34).png" alt=""><figcaption></figcaption></figure>
 
 ### ❌ Elimina selezionati
 
@@ -177,11 +177,11 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a diversi ti
 * Stampa intervento (senza prezzi)
 * Stampa intervento
 
-![](<../../../.gitbook/assets/image (71).png>)
+
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-![](<../../../.gitbook/assets/image (65).png>)
+<figure><img src="../../../.gitbook/assets/immagine (35).png" alt=""><figcaption></figcaption></figure>
 
 ### ✉️ Invio del rapportino intervento
 
@@ -192,28 +192,28 @@ Dalla schermata di dettaglio di un'attività è possibile procedere a inviare di
 * Notifica rimozione intervento
 * Notifica stato intervento
 
-![](<../../../.gitbook/assets/image (312).png>)
+<figure><img src="../../../.gitbook/assets/immagine (37).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sul tipo di documento da inviare si verrà indirizzati al template email compilato con i dati dell'attività, dove sarà possibile inviare la mail cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (205).png>)
+<figure><img src="../../../.gitbook/assets/immagine (36).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧬 Duplica attività
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla sua duplicazione cliccando su duplica attività.
 
-![](<../../../.gitbook/assets/image (559).png>)
+<figure><img src="../../../.gitbook/assets/immagine (38).png" alt=""><figcaption></figcaption></figure>
 
 ### 🖊️ Anteprima e firma
 
 Dalla schermata di dettaglio di un'attività è possibile procedere alla visualizzazione della sua anteprima da far firmare al cliente per segnalare l'avvenuto completamente.
 
-![](<../../../.gitbook/assets/image (684).png>)
+<figure><img src="../../../.gitbook/assets/immagine (39).png" alt=""><figcaption></figcaption></figure>
 
 Una volta che il cliente avrà firmato e cliccato su Salva firma, verrà registrata e sarà impossibile modificarla.
 
-![](<../../../.gitbook/assets/image (101).png>)
+<figure><img src="../../../.gitbook/assets/immagine (40).png" alt=""><figcaption></figcaption></figure>
 
 La firma salvata è visualizzabile a fondo pagina dalla schermata di dettaglio del record.
 
-![](<../../../.gitbook/assets/image (225).png>)
+<figure><img src="../../../.gitbook/assets/immagine (41).png" alt=""><figcaption></figcaption></figure>

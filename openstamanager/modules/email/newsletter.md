@@ -13,7 +13,7 @@ Questo modulo è complementare ai moduli [Liste](liste.md) e [Template email](te
 
 La schermata principale del modulo si presenta così:
 
-<figure><img src="../../../.gitbook/assets/immagine (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Cliccando sul tasto (+) è possibile creare una nuova Newsletter, con la possibi
 * [Template email](template.md) da utilizzare
 * Nome
 
-<figure><img src="../../../.gitbook/assets/immagine (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -36,13 +36,13 @@ Da qui è possibile impostare:
 * Oggetto
 * Contenuto
 
-<figure><img src="../../../.gitbook/assets/immagine (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 👥 Aggiunta destinatari
 
 Da qui è possibile selezionare manualmente i destinatari dalle anagrafiche, o selezionare una o più liste.
 
-<figure><img src="../../../.gitbook/assets/immagine (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🛅 Allegati
 

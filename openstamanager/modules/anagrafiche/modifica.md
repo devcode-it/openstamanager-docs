@@ -34,7 +34,7 @@ Nella prima sezione è possibile procedere alla modifica delle informazioni di b
 * PEC
 * Sito web
 
-<figure><img src="../../../.gitbook/assets/immagine (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🏭 Sede legale
 
@@ -53,7 +53,7 @@ Nella seconda sezione è possibile trovare:
 * Distanza
 * Opt-out per newsletter (attivando questa opzione l'anagrafica verrà esclusa dai destinatari di eventuali Newsletter)
 
-<figure><img src="../../../.gitbook/assets/immagine (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🗺️ Geolocalizzazione
 
@@ -61,7 +61,7 @@ Nella seconda sezione è possibile trovare:
 In questa sezione è possibile definire una posizione da OpenStreetMap, calcolare il percorso verso l'indirizzo indicato ed eventualmente definire manualmente latitudine e longitudine.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/immagine (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ℹ️ Informazioni per tipo di anagrafica
 
@@ -82,7 +82,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Dichiarazione d'intento
 * Piano dei conti cliente
 
-<figure><img src="../../../.gitbook/assets/immagine (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 💁‍♂️ Fornitore
 
@@ -93,7 +93,7 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Piano di sconto/magg. su articoli
 * Piano dei conti fornitore
 
-<figure><img src="../../../.gitbook/assets/immagine (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑‍💼 Cliente e Fornitore
 
@@ -103,13 +103,13 @@ In questa sezione si possono impostare dei valori predefiniti in base al tipo di
 * Banca predefinita per l'anagrafica
 * Banche collegate all'anagrafica
 
-<figure><img src="../../../.gitbook/assets/immagine (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧑‍🔧 Tecnico
 
 * Colore
 
-<figure><img src="../../../.gitbook/assets/immagine (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ⌨️ Informazioni aggiuntive
 
@@ -132,7 +132,7 @@ E' qui possibile trovare le informazioni relative a:
 * Tipo di anagrafica
 * Note
 
-<figure><img src="../../../.gitbook/assets/immagine (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/immagine (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Impostando una provvigione predefinita per un agente, essa verrà proposta in percentuale nelle righe dei documenti creati legati all'agente selezionato.&#x20;
