@@ -26,7 +26,7 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Telefono
 * Cellulare
 
-![](<../.gitbook/assets/image (711).png>)
+<figure><img src="../.gitbook/assets/immagine (870).png" alt=""><figcaption></figcaption></figure>
 
 * Modello
 * Seriale
@@ -38,21 +38,23 @@ A seguito dell'installazione del modulo, cliccando su Accettazione apparirà la 
 * Giorni di deposito
 * Tecnici
 
-![](<../.gitbook/assets/image (532).png>)
+<figure><img src="../.gitbook/assets/immagine (871).png" alt=""><figcaption></figcaption></figure>
 
 Per procedere cliccare su Crea attività.
 
 Il gestionale permetterà ora di generare la scheda accettazione da far firmare al cliente e l'attività di presa in carico del dispositivo, per gestire poi eventuali valutazioni o attività di laboratorio.
 
-![](<../.gitbook/assets/image (174).png>)
+<figure><img src="../.gitbook/assets/immagine (872).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (873).png" alt=""><figcaption></figcaption></figure>
 
 Procedendo alla creazione dell'attività sarà ora possibile visualizzare un riepilogo della richiesta di intervento, stamparlo, o stampare un'etichetta da apporre sul prodotto.
 
-![](<../.gitbook/assets/image (173).png>)
+<figure><img src="../.gitbook/assets/immagine (874).png" alt=""><figcaption></figcaption></figure>
 
 Sulla scheda di accettazione vengono quindi riportati i dati anagrafici del cliente, il codice di intervento, le specifiche del prodotto al momento del ritiro, la descrizione del problema a cura del cliente e le condizioni di assistenza tecnica. Tutto questo viene firmato direttamente a video dal cliente che ne accetta le clausole, avviando quindi la presa in carico dell'attività.
+
+<figure><img src="../.gitbook/assets/immagine (875).png" alt=""><figcaption></figcaption></figure>
 
 Compreso nel modulo, al primo avvio, è **inclusa una configurazione delle informazioni da includere nella scheda accettazione**. Si avrà quindi la possibilità di variare, aggiungendo o togliendo, le informazioni presenti nella schermata "Intervento".
 
