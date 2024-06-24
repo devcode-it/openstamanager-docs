@@ -203,6 +203,7 @@
     * [🏫 Split payment e reverse charge](guide/esempi/fatturazione-elettronica/fattura-pa.md)
   * [📃 Fatture non elettroniche](guide/esempi/fatture-non-elettroniche.md)
   * [🌈 Formattazione celle](guide/esempi/formattazione-celle.md)
+  * [🖊️ Generazione di una chiave di licenza Wacom](guide/esempi/generazione-di-una-chiave-di-licenza-wacom.md)
   * [💵 Gestione acconto](guide/esempi/gestione-acconto.md)
   * [🗳️ Gestione magazzini](guide/esempi/gestione-magazzini.md)
   * [💡 Gestione provvigioni agenti](guide/esempi/gestione-provvigioni-agenti.md)
