@@ -20,14 +20,14 @@ Per creare una nuova licenza si dovrà quindi cliccare sull'apposito tasto:
 
 <figure><img src="../../.gitbook/assets/immagine (879).png" alt=""><figcaption></figcaption></figure>
 
-e successivamente su Generate Evaluation License nella sezione Wacom Ink SDK for signatures.
+e successivamente su Generate Evaluation License nella sezione Wacom Ink SDK for signatures for Javascript.
 
-<figure><img src="../../.gitbook/assets/immagine (880).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (884).png" alt=""><figcaption></figcaption></figure>
 
 Dopo l'avviso di conferma di avvenuta generazione, tornando in Licenses sarà possibile visualizzare la chiave appena generata:
 
-<figure><img src="../../.gitbook/assets/immagine (882).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (885).png" alt=""><figcaption></figcaption></figure>
 
-Questa chiave andrà quindi riportata in Strumenti/Impostazioni/Tavoletta Wacom/**Licenza Wacom SDK - Key**.
+Questa chiave andrà quindi riportata in Strumenti/Impostazioni/Tavoletta Wacom/**Licenza Wacom SDK - Key** e il rispettivo Secret in **Licenza Wacom SDK - Secret**.
 
 <figure><img src="../../.gitbook/assets/immagine (883).png" alt=""><figcaption></figcaption></figure>
