@@ -210,6 +210,7 @@
   * [🔰 Impostare logo nelle stampe](guide/esempi/impostare-logo-nelle-stampe.md)
   * [💶 Incassi e pagamenti](guide/esempi/contabilita.md)
   * [🔜 Incassi e pagamenti anticipati](guide/esempi/incassi-e-pagamenti-anticipati.md)
+  * [🫴 Invio automatico di solleciti di pagamento](guide/esempi/invio-automatico-di-solleciti-di-pagamento.md)
   * [💵 Liquidazione di salari e stipendi](guide/esempi/liquidazione-di-salari-e-stipendi.md)
   * [📄 Nota di credito](guide/esempi/nota-di-credito.md)
   * [🧑‍🔧 Permessi di visualizzazione degli utenti](guide/esempi/permessi-di-visualizzazione-degli-utenti.md)
