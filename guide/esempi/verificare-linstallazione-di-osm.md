@@ -12,16 +12,19 @@ L'installazione del gestionale richiede la presenza di un web server Apache con 
 
 | PHP | EOL        |                                                        Supportato                                                       |
 | --- | ---------- | :---------------------------------------------------------------------------------------------------------------------: |
-| 8.1 | 25/11/2024 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
-| 8.0 | 26/11/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 7.4 | 28/11/2022 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 7.3 | 06/12/2021 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 7.2 | 30/11/2020 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
+| 8.3 | 23/11/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.2 | 08/12/2025 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.1 | 25/11/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.0 | 26/11/2023 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
+| 7.4 | 28/11/2022 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
 
 
 
 | MYSQL | EOL        |                                                        Supportato                                                       |
 | ----- | ---------- | :---------------------------------------------------------------------------------------------------------------------: |
+| 8.3   | 30/04/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.2   | 31/01/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.1   | 25/10/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.0   | 01/04/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 5.7   | 21/10/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 5.6   | 05/02/2021 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
@@ -34,7 +37,7 @@ Il gestionale non è compatibile con MariaDB.
 
 Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti, nella sezione evidenziata.
 
-<figure><img src="../../.gitbook/assets/immagine (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (890).png" alt=""><figcaption></figcaption></figure>
 
 ### 2️Eseguire i controlli sull'integrità dell'installazione
 
@@ -42,7 +45,7 @@ Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti,
 
 Il controllo dei file si può effettuare da Strumenti/Aggiornamenti cliccando su Controlla file.
 
-<figure><img src="../../.gitbook/assets/immagine (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (891).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli registrati nella versione ufficiale.
 
@@ -56,7 +59,7 @@ Questa funzionalità potrebbe presentare dei risultati falsamente positivi, sull
 
 Il controllo del database può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla database.
 
-<figure><img src="../../.gitbook/assets/immagine (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (892).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno elencate le tabelle del database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale.
 
@@ -70,7 +73,7 @@ Questa funzionalità può presentare dei risultati falsamente positivi, sulla ba
 
 Il controllo sul gestionale può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla gestionale, e a seguito su Avvia controlli.
 
-<figure><img src="../../.gitbook/assets/immagine (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (893).png" alt=""><figcaption></figcaption></figure>
 
 Qui verranno effettuati 3 controlli:
 
@@ -78,7 +81,7 @@ Qui verranno effettuati 3 controlli:
 2. Se gli importi degli XML delle fatture elettroniche hanno corrispondenza con gli importi delle fatture di vendita
 3. Se sono presenti colonne duplicate per le Viste
 
-<figure><img src="../../.gitbook/assets/immagine (645).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (894).png" alt=""><figcaption></figcaption></figure>
 
 ### 3️Verificare la presenza di personalizzazioni
 
