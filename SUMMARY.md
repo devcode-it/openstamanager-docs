@@ -193,6 +193,7 @@
   * [🧑‍🔧 Contratti di manutenzione](guide/esempi/assistenza-tecnica.md)
   * [🙋‍♂️ Dichiarazioni d'Intento](guide/esempi/dichiarazioni-dintento.md)
   * [👍 Esportare e stampare tabelle con molti record](guide/esempi/esportare-e-stampare-tabelle-con-molti-record.md)
+  * [📃 Fattura pro-forma](guide/esempi/fattura-pro-forma.md)
   * [📘 Fatturazione Elettronica](guide/esempi/fatturazione-elettronica/README.md)
     * [🏷️ Codice identificativo documento e CIG](guide/esempi/fatturazione-elettronica/codice-identificativo-documento-e-cig.md)
     * [⌛ Decreto Rilancio 2020](guide/esempi/fatturazione-elettronica/decreto-rilancio-2020.md)
