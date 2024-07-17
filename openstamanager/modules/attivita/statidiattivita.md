@@ -1,5 +1,4 @@
 ---
-title: Stati di attività
 description: Come gestire gli stati delle attività in OpenSTAManager
 ---
 
@@ -14,7 +13,7 @@ Il modulo **Stati di attività** offre di base 4 stati, assegnabili ad un tecnic
 * OK(Completato)
 * WIP(Programmato)
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FMGsr3PCgNlXwYFz8Gq6k%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (24).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -26,7 +25,7 @@ Andranno qui inserite le informazioni relative al nuovo stato di attività da cr
 * Descrizione
 * Colore
 
-![](<../../../.gitbook/assets/image (60) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (25).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -44,7 +43,7 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Impostare se l'attività dev'essere considerata Completata
 * Impostare se l'attività dev'essere considerata Fatturabile
 
-![](<../../../.gitbook/assets/image (75) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (27).png" alt=""><figcaption></figcaption></figure>
 
 \*Attivando abilita notifiche ogni volta che dalle attività verrà impostato questo stato, il gestionale invierà una notifica ai destinatari designati, i quali possono essere:
 

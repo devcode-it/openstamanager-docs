@@ -2,13 +2,13 @@
 description: Guida al modulo Tabelle in OpenSTAManager
 ---
 
-# 🗃 Tabelle
+# 🗃️ Tabelle
 
 ## ⛵ Navigazione
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Strumenti/Tabelle.
 
-![](<../../../../.gitbook/assets/image (53) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (614).png>)
 
 ## 🖥️ Interfaccia
 
@@ -35,7 +35,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Causali
 * Mansioni referenti
 
-&#x20;                                                                  <img src="../../../../.gitbook/assets/image (29).png" alt="" data-size="original">
+&#x20;                                                                  <img src="../../../../.gitbook/assets/image (672).png" alt="" data-size="original">
 
 ## 🔽 Informazioni aggiuntive
 
@@ -59,8 +59,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [tipi-scadenze.md](tipi-scadenze.md)
 {% endcontent-ref %}
 
-{% content-ref url="stati-dei-contratti.md" %}
-[stati-dei-contratti.md](stati-dei-contratti.md)
+{% content-ref url="stati-dei-contratti-1.md" %}
+[stati-dei-contratti-1.md](stati-dei-contratti-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="stati-dei-preventivi.md" %}

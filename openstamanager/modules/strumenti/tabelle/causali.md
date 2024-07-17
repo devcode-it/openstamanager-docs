@@ -1,15 +1,14 @@
 ---
-title: Causali
-description: Come gestire le causali in OpenSTAManager
+description: Come gestire le causali trasporto in OpenSTAManager
 ---
 
-# ❔ Causali
+# 🚚 Causali trasporto
 
 {% hint style="info" %}
-Il modulo **Causali** permette di aggiungere e modificare le causali presenti nel gestionale.
+Il modulo **Causali trasporto** permette di aggiungere e modificare le causali presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (103).png>)
+![](<../../../../.gitbook/assets/image (633).png>)
 
 ## ➕ Creazione
 
@@ -17,7 +16,7 @@ Per creare una nuova causale si dovrà cliccare sul tasto (+).
 
 Andrà qui inserita la descrizione della nuova causale da inserire.
 
-![](<../../../../.gitbook/assets/image (53).png>)
+![](<../../../../.gitbook/assets/image (218).png>)
 
 ## 🖌️ Modifica
 
@@ -28,4 +27,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se importabile
 * Se abilitare lo storno
 
-![](<../../../../.gitbook/assets/image (75).png>)
+![](<../../../../.gitbook/assets/image (237).png>)

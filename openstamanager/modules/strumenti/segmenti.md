@@ -1,29 +1,37 @@
 ---
-title: Segmenti
 description: Come gestire i segmenti in OpenSTAManager
 ---
 
 # 🪢 Segmenti
 
 {% hint style="info" %}
-Il modulo **Segmenti** permette di aggiungere delle opzioni selezionabili nei campi di creazione di un record di un determinato modulo.
+Il modulo **Segmenti** permette di creare dei sezionali o dei filtri sui moduli in base ai criteri definiti in essi.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (82).png>)
+<figure><img src="../../../.gitbook/assets/immagine (952).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
-Per creare una nuova tipologia di segmento si dovrà cliccare sul tasto (+).
+Per creare un nuovo segmento si dovrà cliccare sul tasto (+).
 
-Andranno qui inserite le informazioni relative al nuovo segmento:
+Sarà qui possibile definire:
 
 * Nome
 * Maschera
+* Se sezionale
 * Modulo
 * Se predefinito
 * Note
 
-![](<../../../.gitbook/assets/image (23).png>)
+{% hint style="info" %}
+Se un segmento verrà impostato come sezionale verrà utilizzato il contatore, la numerazione dei documenti presenti in esso seguirà quindi una logica propria, e non seguirà la normale numerazione dei documenti del modulo.&#x20;
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/immagine (953).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Dopo aver cliccato su aggiungi non sarà più possibile modificare le opzioni Sezionale e predefinito (nel caso in cui il sezionale sia stato impostato come predefinito).
+{% endhint %}
 
 ## 🖌️ Modifica
 
@@ -31,19 +39,24 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 
 * Nome
 * Modulo
-* Se predefinito
+* Impostare come predefinito (nel caso non lo sia)
+* Maschera
 * Filtro
 * Posizione
+* Note
+* Dicitura fissa
+* Gruppi con accesso (è qui possibile definire gli utenti che avranno accesso a questo sezionale)
 
-![](<../../../.gitbook/assets/image (44) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (954).png" alt=""><figcaption></figcaption></figure>
 
-Nella sezione Sezionale sarà possibile creare un nuovo sezionale, impostando:
+E' inoltre possibile definire:
 
-* Maschera
-* Se sezionale fiscale
-* Se predefinito
+* Se il sezionale creato sia un sezionale fiscale (i documenti in esso facciano parte dei documenti fiscali)
+* Se predefinito per le note di credito
+* Se predefinito per le note di debito
+* Se i documenti in esso siano autofatture
 
-![](<../../../.gitbook/assets/image (59).png>)
+<figure><img src="../../../.gitbook/assets/immagine (955).png" alt=""><figcaption></figcaption></figure>
 
 #### Come impostare il campo Maschera:
 

@@ -1,5 +1,4 @@
 ---
-title: Template email
 description: Come creare un template email  OpenSTAManager
 ---
 
@@ -13,13 +12,13 @@ Questo modulo è complementare a [**Account email**](account.md), che si occupa 
 
 La schermata del modulo si presenterà così:
 
-![](<../../../.gitbook/assets/image (62) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (52).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
 Per creare un nuovo template email si dovrà cliccare sul tasto (+) e inserire il Nome, Modulo a cui applicarlo, Oggetto e indirizzo email da cui inviare la mail.
 
-![](<../../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (53).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -34,17 +33,17 @@ La schermata di modifica permette il completamento di tutte le informazioni rigu
 * Mansioni
 * Contenuto
 
-![](<../../../.gitbook/assets/image (76) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (54).png" alt=""><figcaption></figcaption></figure>
 
 Tra questi campi, _Contenuto_ e _Oggetto_ prevedono un sistema di autocompletamento per alcuni particolari valori definiti dal modulo. L'elenco completo di questi elementi viene reso disponibile nella sezione informativa **Variabili**.
 
-![](<../../../.gitbook/assets/image (68) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (55).png" alt=""><figcaption></figcaption></figure>
 
 La sostituzione di queste componenti dipende dai contenuti del _record_ da cui viene inviata l'email.
 
 È inoltre presente il pulsante **Duplica template** che permette di duplicare un template precedentemente creato.
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (56).png" alt=""><figcaption></figcaption></figure>
 
 ## 🪀 Particolarità
 

@@ -8,7 +8,21 @@ Aprendo il modulo **Scadenzario** è possibile vedere le **Fatture di acquisto**
 
 Indicate in rosso si potranno notare le fatture che hanno superato la data di scadenza.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (680).png>)
+
+#### Registrare il pagamento di una fattura
+
+Per registrare il pagamento di una fattura è sufficiente aprire la fattura e cliccare sul tasto **Registra contabile**
+
+<figure><img src="../../.gitbook/assets/immagine (924).png" alt=""><figcaption></figcaption></figure>
+
+Si aprirà quindi il modal precompilato da cui registrare il movimento in prima nota relativo al pagamento, cliccando su Aggiungi.
+
+<figure><img src="../../.gitbook/assets/immagine (925).png" alt=""><figcaption></figcaption></figure>
+
+Sarà ora possibile visualizzare anche la seconda rata come pagata.
+
+<figure><img src="../../.gitbook/assets/immagine (926).png" alt=""><figcaption></figcaption></figure>
 
 #### Esempio:&#x20;
 
@@ -16,7 +30,7 @@ Creando un **Fattura di vendita** e inserendo come pagamento **Bonifico 30/60/90
 
 Queste scadenze avranno la stessa data di emissione, riferimento fattura e importo, ma con data di scadenza diversa in base alla rata.
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (548).png>)
 
 ### 📮 Chiudere una fattura
 
@@ -37,7 +51,7 @@ Cosi' facendo sarà possibile vedere i pagamenti scaduti e da effettuare nel mes
 
 Il gestionale permette la stampa scadenzario dal tasto sotto alla tabella.
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (305).png>)
 
 {% hint style="info" %}
 Se si filtra la ricerca nello **Scadenzario** la stampa visualizzerà solo i record filtrati.

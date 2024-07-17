@@ -1,5 +1,4 @@
 ---
-title: Creazione impianto
 description: Come creare un impianto in OpenSTAManager
 ---
 
@@ -11,9 +10,11 @@ La schermata che si presenterà sarà questa, dove sarà possibile inserire:
 
 * Matricola
 * Nome
-* Cliente (con possibilità di [crearlo al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
+* Cliente
 * Sede
-* Tecnico assegnato (con possibilità di [crearlo al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
+* Tecnico assegnato
+* Categoria
+* Sottocategoria
 
-![](<../../../.gitbook/assets/image (102) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (250).png" alt=""><figcaption></figcaption></figure>
 

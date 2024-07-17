@@ -2,7 +2,7 @@
 description: Guida alle operazioni in split payment e reverse charge con OpenSTAManager
 ---
 
-# 🤓 Split payment e reverse charge
+# 🏫 Split payment e reverse charge
 
 {% hint style="info" %}
 La pubblica amministrazione richiede **Split payment** o **Reverse charge**. Come gestire questi due parametri in **OpenSTAManager**?
@@ -17,6 +17,12 @@ Creando una fattura di vendita è possibile abilitare lo **split payment** spunt
 Così facendo nella tabella **Righe** il **Totale** sarà comprensivo di **IVA,** mentre il **Netto a pagare** sarà **IVA esclusa** perché l'imposta relativa alla transizione sarà a carico della pubblica amministrazione.
 
 ![](../../../.gitbook/assets/RigheSplitPayment.png)
+
+Si dovrà inoltre cliccare su Attributi avanzati e andare a inserire l'IdDocumento e a valorizzare almeno uno dei due campi CodiceCUP e CodiceCIG.
+
+![](<../../../.gitbook/assets/immagine (548).png>)
+
+![](<../../../.gitbook/assets/immagine (390).png>)
 
 ## &#x20;🔋 Reverse charge
 

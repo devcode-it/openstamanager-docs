@@ -1,15 +1,14 @@
 ---
-title: Plugin Sedi
 description: Guida al plugin Sedi in OpenSTAManager
 ---
 
-# 📍 Sedi
+# 📍 Sedi aggiuntive
 
 {% hint style="info" %}
 Questo plugin è dedicato alla completa gestione di tutte le eventuali sedi delle anagrafiche registrate all'interno di OpenSTAManager.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (79).png" alt=""><figcaption></figcaption></figure>
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
@@ -33,13 +32,17 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative all
 * Indirizzo email
 * Opt-out per newsletter
 
-![](<../../../../.gitbook/assets/image (29) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (82).png" alt=""><figcaption></figcaption></figure>
 
 ### 🖌️ Modifica
 
 La schermata di modifica, sebbene molto simile a quella di creazione, permette in particolare di impostare altre informazioni secondarie.
 
-![](<../../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (83).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Il **Codice destinatario** inserito in una determinata sede, verrà impostato come codice destinatario del cliente nei documenti di vendita in cui quella sede verrà selezionata.
+{% endhint %}
 
 Se l'impostazione [**Google Maps API key**](https://docs.openstamanager.com/modules/anagrafiche/modifica#geolocalizzazione) viene impostata, sarà possibile visualizzare la geolocalizzazione dall'interno dell'anagrafica.
 

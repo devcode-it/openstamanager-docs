@@ -2,13 +2,13 @@
 description: Come gestire le Checklists in OpenSTAManager
 ---
 
-# ☑ Checklists
+# ☑️ Checklists
 
 {% hint style="info" %}
 Il modulo **Checklists** permette di aggiungere e modificare le checklists da utilizzare nel plugin Checklist.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (89) (1).png>)
+![](<../../../.gitbook/assets/image (628).png>)
 
 ## ➕ Creazione
 
@@ -20,15 +20,24 @@ Andranno qui inserite le informazioni relative alla nuova checklist:
 * Modulo del template
 * Plugin del template
 
-![](<../../../.gitbook/assets/image (83) (1).png>)
+![](<../../../.gitbook/assets/image (390).png>)
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
 * Nome
-* Modulo del template
+* Modulo/Plugin del template
 * Contenuto
 * Genitore
+* Decidere se utilizzare l'elemento padre come titolo
 
-![](<../../../.gitbook/assets/image (69) (2).png>)
+<figure><img src="../../../.gitbook/assets/immagine (274).png" alt=""><figcaption></figcaption></figure>
+
+### Utilizzo delle checklist nei moduli
+
+Per richiamare il template di una checklist in un determinato modulo sarà sufficiente accedere al plugin Checklist e richiamarla tramite l'apposito pulsante:
+
+{% content-ref url="../attivita/plugin/checklist.md" %}
+[checklist.md](../attivita/plugin/checklist.md)
+{% endcontent-ref %}

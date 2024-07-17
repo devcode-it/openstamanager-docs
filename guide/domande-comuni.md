@@ -16,7 +16,7 @@ I moduli per OpenSTAManager sono disponibili nella sezione **Moduli a pagamento*
 
 ## ❓ Posso vedere le attività di OpenSTAManager sul mio cellulare?
 
-E' possibile[ importare le attività in un nuovo calendario](../guide/esempi/calendario-su-telefono.md) di Android o iOs, oppure per chi acquista OSM Business tramite la nostra app dedicata.
+E' possibile[ importare le attività in un nuovo calendario](esempi/calendario-su-telefono.md) di Android o iOs, oppure per chi acquista OSM Business tramite la nostra app dedicata.
 
 ## ❓ Posso numerare i documenti secondo un mio formato, esempio 2022/0001, ecc.?
 

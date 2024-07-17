@@ -2,7 +2,7 @@
 description: Come effettuare un backup dei dati in OpenSTAManager
 ---
 
-# ⏸ Backup
+# ⏸️ Backup
 
 OpenSTAManager include un sistema integrato di backup, che permette di salvare le informazioni dell'installazione in un percorso predefinito secondo la configurazione indicata.
 
@@ -27,7 +27,7 @@ Esiste un modulo apposito, **Backup**, che permette di visualizzare in ogni mome
 
 Per creare un nuovo backup si dovrà cliccare su Crea backup.
 
-![](<../../.gitbook/assets/immagine (68) (1).png>)
+<figure><img src="../../.gitbook/assets/immagine (196).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Formato dei backup
 
@@ -43,7 +43,7 @@ Per migliorare la sicurezza del server, il file `config.inc.php`, che contiene i
 
 Esiste una procedura semplificata di ripristino dei backup, che cerca di risolvere il problema tecnico per utenti con meno esperienza tecnica. Si dovrà cliccare Ripristina nel backup interessato, dalla sezione Backup compressi.
 
-![](<../../.gitbook/assets/immagine (50) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/immagine (197).png" alt=""><figcaption></figcaption></figure>
 
 La procedura manuale è comunque sempre disponibile, e prevede di:
 
@@ -52,15 +52,14 @@ La procedura manuale è comunque sempre disponibile, e prevede di:
 * Rimuovere il file `database.sql` dalla cartella del ripristino
 * Procedere alla configurazione del database per il gestionale (tramite procedura semplificata o impostazione manuale del file `config.inc.php`)
 
-![](<../../.gitbook/assets/immagine (41) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/immagine (198).png" alt=""><figcaption></figcaption></figure>
 
 ## 📙 Backup automatico
 
-E' disponibile una impostazione nativa per l'esecuzione del backup al primo accesso giornaliero: nel modulo **Impostazioni**, sotto la categoria **Backup** è sufficiente selezionare _Backup automatico_.
+E' disponibile un'impostazione per l'esecuzione del backup al primo accesso giornaliero: nel modulo **Impostazioni**, sotto la categoria **Backup** è sufficiente selezionare _Backup automatico_.
 
-![Opzioni disponibili per i backup](<../../.gitbook/assets/image (5).png>)
+<figure><img src="../../.gitbook/assets/immagine (1027).png" alt=""><figcaption></figcaption></figure>
 
-Il backup automatico viene eseguito in modi diversi a seconda della versione del gestionale installata:
-
-* per versioni < 2.4.11 il backup viene eseguito durante la procedura di login del primo utente;
-* dalla versione 2.4.11 in poi, è presente un _hook_ indipendente che effettua il backup in background.
+{% hint style="info" %}
+E' presente un _hook_ indipendente che effettua il backup in background.
+{% endhint %}

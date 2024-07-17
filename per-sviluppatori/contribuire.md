@@ -1,7 +1,4 @@
 ---
-title: Contribuire
-sidebar:
-  nav: docs-sidebar
 description: Come contribuire allo sviluppo di OpenSTAManager
 ---
 

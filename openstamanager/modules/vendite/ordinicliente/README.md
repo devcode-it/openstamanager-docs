@@ -1,5 +1,4 @@
 ---
-title: Ordini cliente
 description: Come gestire gli Ordini cliente in OpenSTAManager
 ---
 
@@ -9,7 +8,7 @@ description: Come gestire gli Ordini cliente in OpenSTAManager
 Il modulo **Ordini cliente** permette all'utente di creare un documento per richiedere prodotti o servizi da parte di un cliente stabilendone tempistiche e tipo di pagamento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (49) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (978).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -17,7 +16,7 @@ Per creare un nuovo ordine cliente si dovrà cliccare sul tasto (+).
 
 Andrà qui selezionato il cliente:
 
-![](<../../../../.gitbook/assets/image (83) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (891).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 
@@ -25,23 +24,31 @@ Cliccando su Aggiungi si procede alla creazione di un ordine cliente.
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
+* Numero ordine
 * Data
 * Stato
 * Agente
 * Cliente
 * Referente
 * Sede
-* Pagamento
+* Metodo di pagamento
 * Numero ordine cliente
 * Data ordine cliente
 * Sconto in fattura
+* Condizioni generali di fornitura
 * Note
-* Righe
+* Note interne
+* Righe, che possono includere:
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
+  * Preventivo
 * Allegati
 
-![](<../../../../.gitbook/assets/image (24) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (497).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../../.gitbook/assets/image (76) (2) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (322).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

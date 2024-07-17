@@ -1,5 +1,4 @@
 ---
-title: Azioni aggiuntive Fatture di vendita
 description: Guida alle azioni aggiuntive del modulo Ordini cliente di OpenSTAManager
 ---
 
@@ -17,7 +16,7 @@ Una volta selezionati i record interessati è possibile fatturare massivamente i
 Lo stato dell'ordine cliente deve essere Accettato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (71) (1).png>)
+![](<../../../../.gitbook/assets/immagine (573).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permettendo di scegliere:
 
@@ -27,19 +26,19 @@ Il gestionale chiederà quindi la conferma a procedere alla fatturazione, permet
 
 Cliccando su procedi si confermerà la fatturazione.
 
-&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (40).png" alt="" data-size="original">
+&#x20;                                                 <img src="../../../../.gitbook/assets/immagine (283).png" alt="" data-size="original">
 
 Sarà ora possibile visualizzare la fattura di vendita appena creata nel modulo Vendite/Fatture di vendita.
 
-![](<../../../../.gitbook/assets/immagine (65).png>)
+![](<../../../../.gitbook/assets/immagine (532).png>)
 
-![](<../../../../.gitbook/assets/immagine (32).png>)
+![](<../../../../.gitbook/assets/immagine (439).png>)
 
 ### ⚙️ Modifica dello stato massivo
 
 Una volta selezionati i record interessati è possibile modificarne lo stato massivamente cliccando su Azioni di gruppo/Cambia stato.
 
-![](<../../../../.gitbook/assets/immagine (17).png>)
+![](<../../../../.gitbook/assets/immagine (517).png>)
 
 Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato, permettendo di scegliere tra gli stati presenti:
 
@@ -52,7 +51,7 @@ Il gestionale chiederà quindi la conferma a procedere alla modifica dello stato
 * Accettato
 * Annullato
 
-&#x20;                                                  <img src="../../../../.gitbook/assets/immagine (42) (2).png" alt="" data-size="original">
+&#x20;                                                  <img src="../../../../.gitbook/assets/immagine (703).png" alt="" data-size="original">
 
 Cliccando su Procedi si confermerà l'operazione.
 
@@ -75,21 +74,21 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere a diver
 * ordine cliente (senza codici)
 * ordine cliente (senza prezzi)
 
-![](<../../../../.gitbook/assets/immagine (14).png>)
+![](<../../../../.gitbook/assets/immagine (534).png>)
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento
 
-&#x20;                                           ![](<../../../../.gitbook/assets/immagine (12).png>)
+&#x20;                                           ![](<../../../../.gitbook/assets/immagine (437).png>)
 
 ### ✉️ Invia
 
 Dalla schermata di dettaglio di un ordine cliente è possibile procedere a inviarlo via mail al cliente.
 
-![](<../../../../.gitbook/assets/immagine (21) (1).png>)
+![](<../../../../.gitbook/assets/immagine (516).png>)
 
 Cliccando su Invia ordine si verrà indirizzati al template email compilato con i dati dell'ordine cliente, dove sarà possibile inviare la mail cliccando su invia.
 
-![](<../../../../.gitbook/assets/immagine (47).png>)
+![](<../../../../.gitbook/assets/immagine (678).png>)
 
 ### ➕ Crea...
 
@@ -104,8 +103,8 @@ Dalla schermata di dettaglio di un ordine cliente è possibile procedere alla cr
 Nel preventivo deve essere presente almeno una riga, e lo stato del preventivo deve essere impostato su: Accettato, Rifiutato, In lavorazione, Concluso, Pagato, Fatturato o Parzialmente fatturato.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/immagine (41) (2).png>)
+![](<../../../../.gitbook/assets/immagine (683).png>)
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../../.gitbook/assets/immagine (53) (1).png>)
+![](<../../../../.gitbook/assets/immagine (671).png>)

@@ -1,5 +1,4 @@
 ---
-title: Aggiornamenti
 description: Come gestire gli aggiornamenti di OpenSTAManager
 ---
 
@@ -14,7 +13,7 @@ Il modulo **Aggiornamenti** offre diverse possibilità, quali:
 * Verificare i requisiti
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (104).png>)
+![](<../../../.gitbook/assets/image (491).png>)
 
 In questo modulo si possono trovare quattro sezioni:
 
@@ -27,31 +26,31 @@ In questo modulo si possono trovare quattro sezioni:
 
 Per caricare un aggiornamento si deve cliccare su Sfoglia, selezionare la release in formato ZIP da caricare, e cliccare su Carica.
 
-&#x20;                                                      <img src="../../../.gitbook/assets/image (83).png" alt="" data-size="original">
+&#x20;                                                      <img src="../../../.gitbook/assets/image (541).png" alt="" data-size="original">
 
 ### ⤵️ Verifica l'integrità dell'installazione
 
 In questa sezione sono disponibili tre opzioni:                                                     &#x20;
 
-![](<../../../.gitbook/assets/image (67).png>)
+![](<../../../.gitbook/assets/image (279).png>)
 
 * Controlla file: Mostra l'elenco dei file che presentano checksum diverso da quello registrato nella versione ufficiale.
 
-![](<../../../.gitbook/assets/image (30).png>)
+![](<../../../.gitbook/assets/image (568).png>)
 
-* Controlla database: Mostra l'elenco dei file che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
+* Controlla database: Mostra l'elenco dei campi a database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale
 
-![](<../../../.gitbook/assets/image (47).png>)
+![](<../../../.gitbook/assets/image (265).png>)
 
 * Controlla gestionale: Verifica le voci del piano dei conti collegate alle anagrafiche, la corrispondenza tra XML FE e Documenti di vendita, e le colonne duplicate per le viste.
 
-![](<../../../.gitbook/assets/image (45) (1).png>)
+![](<../../../.gitbook/assets/image (338).png>)
 
 ### 🔍 Ricerca aggiornamenti
 
 Permette di verificare la presenza di aggiornamenti e in caso siano disponibili, scaricarli.
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (570).png>)
 
 
 
@@ -59,4 +58,20 @@ Permette di verificare la presenza di aggiornamenti e in caso siano disponibili,
 
 Questa sezione mostra che requisiti per il corretto funzionamento di OpenSTAManager vengono soddisfatti e quali no.
 
-![](<../../../.gitbook/assets/image (84).png>)
+![](<../../../.gitbook/assets/image (144).png>)
+
+### Aggiornare da una versione 2.x a una versione successiva
+
+La procedura di aggiornamentonstallazione è la seguente:
+
+* scaricare l’[ultima versione](https://github.com/devcode-it/openstamanager/releases)
+* decomprimere lo zip nella cartella dove si trova OSM 2.x
+* accedere alla schermata del software via web
+* cliccare su “Aggiorna”.
+
+Questi sono gli step per un corretto aggiornamento a una versione > 2.0 del gestionale. In caso di problemi durante l'aggiornamento è consigliato richiedere un nostro intervento scrivendoci tramite apposito contact form [https://openstamanager.com/contattaci/](https://openstamanager.com/contattaci/) e specificando:
+
+* sistema operativo in uso
+* software utilizzato per far funzionare OSM (wamp, xampp, singoli software installati manualmente ecc)
+* screenshot dell’eventuale errore
+* file setup.log generato in fase di installazione, contenente le operazioni eseguite durante l’installazione.

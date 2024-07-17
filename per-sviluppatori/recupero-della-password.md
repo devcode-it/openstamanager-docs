@@ -1,5 +1,7 @@
 ---
-description: Guida al recupero della password in OpenSTAManager per utenti senza indirizzo e-mail
+description: >-
+  Guida al recupero della password in OpenSTAManager per utenti senza indirizzo
+  e-mail
 ---
 
 # 📘 Recupero della password

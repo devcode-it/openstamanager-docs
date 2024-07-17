@@ -2,13 +2,13 @@
 description: Guida al modulo Contabilità in OpenSTAManager
 ---
 
-# ⚖ Contabilità
+# ⚖️ Contabilità
 
 ## ⛵ Navigazione
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Contabilità.
 
-![](<../../../.gitbook/assets/image (50) (1) (1).png>)
+![](<../../../.gitbook/assets/image (154).png>)
 
 ## 🖥️ Interfaccia
 
@@ -19,7 +19,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Piano dei conti
 * Scadenzario
 
-&#x20;                                                         ![](<../../../.gitbook/assets/image (90) (2) (1) (1) (1) (1) (1).png>)
+&#x20;                                                         ![](<../../../.gitbook/assets/image (176).png>)
 
 ## 🔽 Informazioni aggiuntive
 
@@ -35,8 +35,8 @@ Nel menu a tendina è possibile trovare i moduli:
 [pianodeiconti.md](pianodeiconti.md)
 {% endcontent-ref %}
 
-{% content-ref url="scadenzario.md" %}
-[scadenzario.md](scadenzario.md)
+{% content-ref url="scadenzario/" %}
+[scadenzario](scadenzario/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../guide/esempi/contabilita.md" %}

@@ -1,5 +1,4 @@
 ---
-title: Plugin Referenti
 description: Guida al plugin Referenti in OpenSTAManager
 ---
 
@@ -13,7 +12,7 @@ Può essere sfruttato per creare una rubrica di contatti per l'anagrafica e indi
 
 La schermata si presenterà così:
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2Fe8Wrkr5RkwE3h9GyTe2j%2Ffile.png?alt=media)
+<figure><img src="../../../../.gitbook/assets/immagine (76).png" alt=""><figcaption></figcaption></figure>
 
 La schermata principale del plugin è strutturata secondo la tabella generale predefinita, presentando inoltre la possibilità di creare e modificare gli elementi attraverso strutture grafiche che si sovrappongono agli altri contenuti (_modal_).
 
@@ -32,10 +31,10 @@ Viene quindi reso possibile compilare tutte le informazioni di base relative al 
 * Sede
 * Opt-out per newsletter
 
-![](<../../../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (77).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 La schermata di modifica risulta identica a quella di creazione, permettendo in aggiunta l'eventuale eliminazione del referente dal sistema.
 
-![](<../../../../.gitbook/assets/image (23) (1) (1) (1) (1) (2) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (78).png" alt=""><figcaption></figcaption></figure>

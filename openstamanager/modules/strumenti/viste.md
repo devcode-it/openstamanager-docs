@@ -31,7 +31,7 @@ Nelle query è possibile utilizzare dei segnaposto che verranno sostituiti come 
 
 * **|select|**: viene sostituito con la lista dei campi da visualizzare definiti sotto
 * **|date\_period(co\_documenti.data)|**: viene sostituito con "AND WHERE co\_documenti.data BETWEEN "data\_inizio" AND "data\_fine". "data\_inizio" e "data\_fine" vengono valorizzati in base al filtro di date selezionabile dal menu in alto a sinistra\
-  \_\_![](<../../../.gitbook/assets/image (68) (1) (1) (1) (1) (1).png>)\\
+  \_\_![](<../../../.gitbook/assets/image (295).png>)\\
 * **1=1**: è necessario specificarlo subito dopo il WHERE per far sì che venga sostituito automaticamente con i filtri che l'utente digita nel modulo. In questo modo il sistema sa dove innestare i vari filtri tramite WHERE
 * **2=2**: è come 1=1 ma funzione sulla clausola HAVING, utile per le ricerche tramite HAVING
 
@@ -50,11 +50,24 @@ Cliccando sopra un _record_ sono presenti 4 campi selezionabili:
 * Ricerca lenta (selezionabile per indicare se la ricerca di quel campo è lenta)
 * Sommabile (se il campo è da sommare a fine tabella)
 * Formattabile (se formattare automaticamente il campo, ad esempio visualizzare la data nel formato italiano, inserire i separatori di decimali o migliaia, ecc...)
+* Abilitare o disabilitare l'utilizzo dell'HTML nel campo
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2F79E49ifrbdzf3TGRNxCi%2Ffile.png?alt=media)
+![](<../../../.gitbook/assets/immagine (718).png>)
+
+Per aggiungere delle colonne alle viste, quindi dei campi non presenti tra quelli elencati, si deve copiare la query presente nel campo **Query di default** nel campo **Query personalizzata**, andando ad apportare le dovute modifiche.
+
+{% hint style="danger" %}
+Nel caso in cui la query non sia scritta correttamente, la vista non riporterà piu alcun risultato.
+{% endhint %}
 
 ### 🔨 Ordine di visualizzazione
 
 Nella sezione **Ordine di visualizzazione** si può cambiare l'ordine dei campi trascinandoli:
 
 ![Screenshot ordine di visualizzazione](../../../.gitbook/assets/OrdineDiVisualizzazione.PNG)
+
+### 🔽 Esempi di personalizzazione viste
+
+{% content-ref url="../../../guide/esempi/formattazione-celle.md" %}
+[formattazione-celle.md](../../../guide/esempi/formattazione-celle.md)
+{% endcontent-ref %}

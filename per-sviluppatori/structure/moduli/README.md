@@ -12,9 +12,9 @@ All'interno del progetto, i moduli vengono genericamente definiti quali sistemi 
 
 Ogni modulo è composto da diverse sezioni, generalmente suddivise in:
 
-* [Nucleo](../../../contribuire/structure/broken-reference/);
+* [Nucleo](https://github.com/devcode-it/openstamanager-docs/blob/master/contribuire/structure/broken-reference/README.md);
 * [Stampe](stampe.md);
-* [Widget](../../../contribuire/structure/broken-reference/);
+* [Widget](https://github.com/devcode-it/openstamanager-docs/blob/master/contribuire/structure/broken-reference/README.md);
 * [Plugin](plugin.md).
 
 OpenSTAManager presenta inoltre una struttura nativamente predisposta alla personalizzazione delle funzioni principali, il che rende il progetto ancora più complicato da comprendere a prima vista.
@@ -28,14 +28,30 @@ Il codice sorgente di ogni modulo di OpenSTAManager è all'interno di un percors
 ```
 .
 └── modules
-    └── modulo
+    └── {modulo}
+       └── ajax
+          ├── complete.php
+          ├── search.php
+          └── select.php
+       └── modals
+          └── {modal}.php
+       └── plugins
+          └── {plugin}.php
+       └── src
+          └── {object}.php
        ├── actions.php
        ├── add.php
+       ├── bulk.php
+       ├── buttons.php
        ├── controller_after.php
        ├── controller_before.php
        ├── edit.php
        ├── init.php
-       └── modutil.php
+       ├── modutil.php
+       ├── validation.php
+       └── variables.php
+       
+Il nome dei file contenenti le parentesi graffe {} possono assumere qualsiasi valore.
 ```
 
 Il gestionale supporta in modo nativo questa struttura, che può essere ampliata e personalizzata secondo le proprie necessità: si consiglia pertanto di analizzare i moduli **Iva**, **Dashboard** e **Contratti** per esempi di diversa complessità.
@@ -43,6 +59,36 @@ Il gestionale supporta in modo nativo questa struttura, che può essere ampliata
 {% hint style="warning" %}
 **Attenzione**: la presenza dei file sopra indicati è necessaria esclusivamente per i _moduli fisici_, cioè moduli che presentano la necessità di interagire con il codice sorgente e modificare i dati del gestionale. Per moduli presenti esclusivamente a livello di database (per sempio, **Movimenti**), si veda la sezione [Database](./#database).
 {% endhint %}
+
+### 📒 ajax/complete.php
+
+Il file `ajax/complete.php` contiene diversi template HTML che fanno riferimento al modulo e sono gestiti tramite  il parametro `op` che permette di identificare quale template viene richiesto.
+
+Questi template possono essere richiamati da qualsiasi file anche al di fuori del modulo corrispondente.
+
+### 📒 ajax/search.php
+
+Il file `ajax/search.php` si occupa di estrarre le informazioni necessarie per la ricerca globale del modulo di riferimento.
+
+Questo avviene tramite l'esecuzione di una query e la visualizzazione in HTML dei risultati ottenuti.
+
+### 📒 ajax/select.php
+
+l file `ajax/select.php` contiene le query che fanno riferimento al modulo per quanto riguarda la valorizzazione dei campi input select (menù a tendina), sono gestiti tramite  il parametro `ajax-source` che permette di identificare quale query viene richiesta.
+
+Queste query possono essere richiamate via ajax tramite valorizzando nel campo input l'attributo `ajax-source` da qualsiasi file anche al di fuori del modulo corrispondente.
+
+### 📒 modals/{modal}.php
+
+l file `modals/{modal}.php` contiene il template HTML dedicato alla visualizzazione di una specifica pop-up richiamata nel modulo.
+
+### 📒 plugins/{plugins}.php
+
+l file `plugins/{plugin}.php` contiene lo script per la gestione di un plugin del modulo di riferimento, in caso di un plugin articolato in più file è necessario utilizzare il percorso `plugins/` specifico.
+
+### 📒 src/{object}.php
+
+l file `src/{object}.php` permette la gestione e la creazione di oggetti Eloquent del modulo andando a definire le varie funzioni specifiche dell'oggetto.
 
 ### 📒 actions.php
 
@@ -59,6 +105,16 @@ Il file `add.php` contiene il template HTML dedicato all'inserimento di nuovi el
 In base alla configurazione del modulo nel database, il file `edit.php` può assumere il ruolo di gestore della sezione principale dell'interno modulo. Esempi di questa gestione si possono osservare nei moduli **Dashboard** e **Gestione componenti** (si veda la sezione zz\_modules).
 
 **Attenzione**: il progetto individua in automatico la presenza del file `add.php` e agisce di conseguenza per permettere o meno l'inserimento di nuovi _record_. {: .notice--danger}
+
+### 📒 bulk.php
+
+Il file `bulk.php` si occupa di gestire le **azioni di gruppo** accessibili nel modulo che vengono visualizzate sotto alla tabella principale.
+
+Il file è formato da due parti, la prima contiene le operazioni di gruppo che vengono effettuate, sempre gestite dal parametro `op`, mentre la seconda parte contiene il template per la visualizzazione all'interno del modulo.
+
+### 📒 buttons.php
+
+Il file `buttons.php` viene incluso nel file `edit.php` e viene utilizzato per mostrare nella parte superiore della schermata (in fase di modifica record) i pulsanti/avvisi definiti nel file.
 
 ### 📒 init.php
 
@@ -77,6 +133,16 @@ Similmente, il file `controller_after.php` contiene il template HTML da aggiunge
 Il file `modutil.php` viene utilizzato per definire le funzioni PHP specifiche del modulo, e permettere in questo modo una gestione semplificata delle operazioni più comuni.
 
 Si noti che un modulo non è necessariamente limitato all'utilizzo del proprio file `modutil.php`: come avviene per esempio in **Fatture** e **Interventi**, risulta possibile richiamare file di questa tipologia da altri moduli (in questo caso, da **Articoli** per la gestione delle movimentazioni di magazzino).
+
+### 📒 validation.php
+
+Il file `validation.php` viene utilizzato per effettuare controlli di validazione su un specifico campo input.
+
+Per richiamare la validazione è necessario inserire l'attributo `validation` nel campo input con il nome del controllo da effettuare.
+
+### 📒 variables.php
+
+Il file `variables.php` contiene le variabili che possono essere utilizzate nei template delle email per la sostituzione automatica in base al record del modulo.
 
 ## 📒 Database
 
@@ -165,7 +231,7 @@ L'installazione di un modulo è completabile in modo automatico seguendo la segu
 * Selezionare l'archivio scaricato nella selezione file della sezione "Carica un nuovo modulo";
 * Cliccare il pulsante "Carica".
 
-Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](http://php.net/manual/it/zip.installation.php)).
+Si ricorda che per effettuare l'installazione è necessaria la presenza dell'estensione `php_zip` (per ulteriori informazioni guardare [qui](https://www.php.net/manual/en/zip.installation.php)).
 
 {% hint style="warning" %}
 **Attenzione**: la procedura può essere completata anche a livello manuale, ma si consiglia di evitare tale sistema a meno che non si conosca approfonditamente il procedimento di installazione gestito da OpenSTAManager.
@@ -184,7 +250,7 @@ modulo.zip
 └── MODULE
 ```
 
-Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example) (download effettuabile da [qui](http://openstamanager.com/download/plugin\_di\_esempio.zip)).
+Alcuni esempi sulla struttura dei moduli personalizzati sono disponibili nella repository [https://github.com/devcode-it/example](https://github.com/devcode-it/example).
 
 #### update/VERSIONE.sql
 

@@ -8,7 +8,7 @@ description: Come gestire i Preventivi in OpenSTAManager
 Il modulo **Preventivi** permette di gestire le informazioni relative ai preventivi dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (67) (1) (2).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (976).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -16,38 +16,54 @@ Per creare un nuovo Preventivo si dovrà cliccare sul tasto (+).
 
 Andranno qui inserite le informazioni relative al nuovo Preventivo:
 
-![](<../../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1).png>)
+* Nome
+* Cliente
+* Sede
+* Data bozza
+* Sezionale
+* Tipo di Attività
+* Stato
+
+<figure><img src="../../../../.gitbook/assets/immagine (977).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
 * Numero
-* Nome
+* Date  di bozza, accettazione, conclusione e rifiuto
 * Cliente
 * Sede
-* Agente
 * Referente
-* Tempi di consegna
-* Validità (in giorni)
+* Agente
+* Nome
 * Metodo di pagamento
-* Date di bozza, accettazione, conclusione e rifiuto
 * Stato
+* Validità offerta
 * Tipo di attività
+* Tempi di consegna
 * Esclusioni
 * Garanzia
 * Descrizione
 * Condizioni generali di fornitura
+* Note interne
 
 {% hint style="warning" %}
 E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/1 (1).jpeg>)
+![](../../../../.gitbook/assets/1.jpeg)
 
 Nelle sezioni successive è invece possibile modificare le righe da inserire a preventivo e gli allegati.
 
-![](<../../../../.gitbook/assets/image (55) (1) (1) (2) (1) (1).png>)
+Le righe possono includere:
+
+* Articolo
+* Riga generica
+* Descrizione
+* Sconto/maggiorazione
+
+<figure><img src="../../../../.gitbook/assets/immagine (898).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 
@@ -77,8 +93,8 @@ Nelle sezioni successive è invece possibile modificare le righe da inserire a p
 [plugin](plugin/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../../guide/esempi/sconto-combinato.md" %}
-[sconto-combinato.md](../../../../guide/esempi/sconto-combinato.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../../../../guide/videoguide/preventivo-consuntivo.md" %}

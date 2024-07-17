@@ -51,10 +51,12 @@ Nella sezione dedicata al gestionale si possono trovare:
 * **Configurazione**: informazioni fondamentali sulle procedure di installazione, configurazione e aggiornamento del gestionale;
 * **Interfaccia**: guida all'interfaccia;
 * **Moduli**: presentazione dei moduli base e guida alle loro funzionalità;
+* **APP tecnici:** guida alla configurazione dell'app tecnici.
 
 Nella sezione dedicata alle guide per funzioni specifiche si possono trovare:
 
 * **Come si fa?**: guide alle principali funzionalità del gestionale studiate su misura per rispondere alle domande più frequenti dei nostri utenti;
+* **Strumenti esterni:** guide all'utilizzo di strumenti esterni utili al supporto tecnico;
 * **Videoguide**: guide semplici e veloci per poter sfruttare al meglio le potenzialità del gestionale;
 * **F.A.Q.**: Frequently Asked Questions, le domande piu diffuse tra i nostri utenti
 
@@ -68,6 +70,7 @@ Nella sezione dedicata ai moduli premium (ottenibili previo acquisto del modulo 
 * **Email ticketing**: presentazione del modulo che permette la gestione delle richieste dei clienti via email, con la possibilità di generare attività da esse.
 * **Import FE**: presentazione del modulo che permette di importare le fatture elettroniche relative alle attività;
 * **Registrazione movimenti bancari**: presentazione del modulo che permette di importare i movimenti bancari e registrarli in prima nota.
+* **Riordino fornitori:** presentazione del modulo che permette di creare ordini a fornitore in modo rapido tenendo conto dei tempi di consegna, prezzi e quantità minime.
 * **Scheda accettazione**: presentazione del modulo che permette la rapida registrazione della presa in carico di interventi.
 * **Vendita al banco**: presentazione del modulo che permette la vendita al banco di prodotti con o senza codice a barre;
 

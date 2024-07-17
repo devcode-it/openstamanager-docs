@@ -1,5 +1,4 @@
 ---
-title: Categorie articoli
 description: Come gestire le categorie articoli in OpenSTAManager
 ---
 
@@ -9,7 +8,7 @@ description: Come gestire le categorie articoli in OpenSTAManager
 Il modulo **Categorie articoli** permette di creare e modificare le categorie articolo presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (82) (1).png>)
+![](<../../../../.gitbook/assets/image (143).png>)
 
 ## ➕ Creazione
 
@@ -21,7 +20,7 @@ Andranno qui inserite le informazioni relative alla nuova categoria articoli da 
 * Colore
 * Nota
 
-![](<../../../../.gitbook/assets/image (86).png>)
+![](<../../../../.gitbook/assets/image (569).png>)
 
 ## 🖌️ Modifica
 
@@ -32,8 +31,8 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Nota
 * Sottocategorie
 
-![](<../../../../.gitbook/assets/image (66).png>)
+![](<../../../../.gitbook/assets/image (542).png>)
 
 Per aggiungere una nuova sottocategoria si dovrà cliccare su (+ Sottocategoria) e inserire Nome e Colore.
 
-![](<../../../../.gitbook/assets/image (84) (1).png>)
+![](<../../../../.gitbook/assets/image (577).png>)

@@ -10,7 +10,7 @@ Il modulo **Tipi documento** permette di creare e modificare  i tipi di document
 
 
 
-![](<../../../../.gitbook/assets/image (103) (1).png>)
+![](<../../../../.gitbook/assets/image (309).png>)
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative al nuovo evento da creare:
 * Direzione
 * Codice tipo documento FE
 
-![](<../../../../.gitbook/assets/image (54).png>)
+![](<../../../../.gitbook/assets/image (466).png>)
 
 ## 🖌️ Modifica
 
@@ -35,4 +35,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Scegliere se attivare
 * Reversed
 
-![](<../../../../.gitbook/assets/image (104) (1).png>)
+![](<../../../../.gitbook/assets/image (200).png>)

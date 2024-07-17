@@ -12,7 +12,7 @@ Il modulo **Strumenti** permette di configurare le impostazioni del gestionale.
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Strumenti**.
 
-![](<../../../.gitbook/assets/image (88) (1) (2).png>)
+![](<../../../.gitbook/assets/image (599).png>)
 
 ## 🖥️ Interfaccia
 
@@ -31,7 +31,7 @@ Nel menu a tendina è possibile trovare i seguenti moduli:
 * Backup
 * Aggiornamenti
 
-&#x20;                                                                <img src="../../../.gitbook/assets/image (85).png" alt="" data-size="original">
+&#x20;                                                                <img src="../../../.gitbook/assets/image (490).png" alt="" data-size="original">
 
 ## 🔽 Informazioni aggiuntive
 
@@ -59,8 +59,8 @@ Nel menu a tendina è possibile trovare i seguenti moduli:
 [segmenti.md](segmenti.md)
 {% endcontent-ref %}
 
-{% content-ref url="import.md" %}
-[import.md](import.md)
+{% content-ref url="import/" %}
+[import](import/)
 {% endcontent-ref %}
 
 {% content-ref url="stampe.md" %}

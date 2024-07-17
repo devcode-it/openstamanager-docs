@@ -8,15 +8,41 @@ description: Guida alle azioni aggiuntive del modulo Anagrafiche in OpenSTAManag
 
 Il modulo Anagrafiche permette di esportare massivamente le anagrafiche selezionandone le checkbox a inizio riga e cliccando su Azioni di gruppo.
 
-### 📤 Esportazione Anagrafica
+### 👥 Esportazione Anagrafica
 
 Una volta selezionati i record interessati è possibile esportare massivamente le anagrafiche cliccando su Azioni di gruppo/Esporta selezionati.
 
-![](<../../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2).png>)
+<figure><img src="../../../.gitbook/assets/immagine (129).png" alt=""><figcaption></figcaption></figure>
 
 Il gestionale chiederà quindi la conferma di procedere all'esportazione in formato CSV delle anagrafiche selezionate. Cliccando su procedi si confermerà l'operazione.
 
-![](<../../../.gitbook/assets/image (92) (1) (2) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (130).png" alt=""><figcaption></figcaption></figure>
+
+### 👥 Cambia relazione
+
+E' qui possibile cambiare la relazione delle anagrafiche selezionate:
+
+<figure><img src="../../../.gitbook/assets/immagine (131).png" alt=""><figcaption></figcaption></figure>
+
+### 👩‍🦰 Aggiorna listino cliente
+
+E' qui possibile associare o modificare il listino associato alle anagrafiche selezionate
+
+<figure><img src="../../../.gitbook/assets/immagine (132).png" alt=""><figcaption></figcaption></figure>
+
+### 👥 Elimina selezionati
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+### 👥 Ricerca coordinate
+
+{% hint style="warning" %}
+Questa funzionalità è in beta, disponibile solo con $debug impostato a True nel file config.inc.php
+{% endhint %}
+
+Questa funzionalità permette la ricerca massiva delle coordinate in base all'indirizzo impostato in anagrafica (con OpenStreetMaps).
 
 ## 👤 Dal dettaglio Anagrafica
 
@@ -27,28 +53,29 @@ Da qui, nella sezione superiore della pagina, è possibile trovare le funzioni:
 * Invia email da template
 * Crea...
 
-### 🖨️ Stampa dettaglio Anagrafica
+### 🖨️ Stampa&#x20;
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla stampa di:
 
 * Dettaglio anagrafica
 * Dati aziendali
+* Provvigioni
 
-![](<../../../.gitbook/assets/image (42) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (133).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sul tipo di stampa scelto sarà possibile visualizzare la stampa del documento.
 
-![](<../../../.gitbook/assets/image (95) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (150).png>)
 
 ### 📧 Invia email da template
 
 Dalla schermata di dettaglio di un'anagrafica è possibile procedere a inviare una[ mail da template](../email/template.md) preimpostato.
 
-![](<../../../.gitbook/assets/image (36) (1) (1) (1) (1) (1) (2).png>)
+![](<../../../.gitbook/assets/image (536).png>)
 
 Cliccando sul tasto "Invia (nome template)", si verrà indirizzati al template email e la mail potrà essere inviata cliccando su Invia.
 
-![](<../../../.gitbook/assets/image (70) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (582).png>)
 
 ### ➕ Crea...
 
@@ -62,8 +89,8 @@ Dalla schermata di dettaglio di un'anagrafica è possibile procedere alla creazi
 * Nuova fattura di vendita
 * Nuova registrazione contabile (cliente)
 
-![](<../../../.gitbook/assets/image (81) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (134).png" alt=""><figcaption></figcaption></figure>
 
 Cliccando sul tipo di azione da svolgere si verrà indirizzati alla schermata di creazione del tipo di documento selezionato, dove andare a definirne le specifiche.
 
-![](<../../../.gitbook/assets/image (44) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (135).png" alt=""><figcaption></figcaption></figure>

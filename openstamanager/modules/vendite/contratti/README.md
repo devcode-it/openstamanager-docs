@@ -8,7 +8,7 @@ description: Come gestire i Contratti in OpenSTAManager
 Il modulo **Contratti** permette di gestire le informazioni relative ai contratti dell'azienda.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (39) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -19,43 +19,55 @@ Andranno qui inserite le informazioni relative al nuovo contratto:
 * Nome
 * Cliente
 * Stato
+* Sezionale
 * Data accettazione
 * Data conclusione
 * Validità contratto
+* Informazioni per rinnovo
+  * Rinnovabile
+  * Rinnovo automatico
+  * Preavviso per rinnovo
+  * Ore rimanenti rinnovo
 
-![](<../../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
 * Numero
-* Nome
+* Date di bozza, accettazione, conclusione e rifiuto
 * Cliente
 * Sede
-* Agente
 * Referente
-* Validità
+* Agente
+* Nome
 * Metodo di pagamento
-* Date di bozza, accettazione, conclusione e rifiuto
 * Stato
+* Validità contratto
 * Impianti
 * Esclusioni
 * Descrizione
+* Condizioni generali di fornitura
+* Note interne
 
 {% hint style="warning" %}
 E' inoltre supportata la gestione dello _Sconto in fattura_ sul netto a pagare del contratto inserendo un valore nel campo **Sconto in fattura** in fase di modifica del documento.
 {% endhint %}
 
-![](../../../../.gitbook/assets/1.jpeg)
+<figure><img src="../../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 Nelle sezioni successive è invece possibile modificare:
 
 * costi unitari in base al tipo di attività
-* le righe da inserire da contratto
+* le righe da inserire da contratto, che possono essere del tipo:
+  * Articolo
+  * Riga generica
+  * Descrizione
+  * Sconto/maggiorazione
 * gli allegati
 
-![](<../../../../.gitbook/assets/2 (1).jpeg>)
+<figure><img src="../../../../.gitbook/assets/immagine (1065).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔧 Plugin
 

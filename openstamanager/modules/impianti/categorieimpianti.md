@@ -10,7 +10,7 @@ description: Come gestire le Categorie di impianti in OpenSTAManager
 Il modulo **Categorie impianti** permette di raggruppare impianti per _categoria_.
 {% endhint %}
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FVn7XM0PjOBsGf238k8XT%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/immagine (252).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -22,7 +22,7 @@ Andranno qui inserite le informazioni relative alla nuova categoria impianti:
 * Colore
 * Note
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](<../../../.gitbook/assets/image (375).png>)
 
 ## 🖌️ Modifica
 
@@ -30,7 +30,33 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 
 * Nome
 * Colore
-* Note
+* Nota
+* Impostare delle sottocategorie
 
-![](<../../../.gitbook/assets/image (53) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (253).png" alt=""><figcaption></figcaption></figure>
 
+## ✨ Sottocategorie impianti
+
+All'interno di ogni categoria impianto è possibile definire delle sottocategorie, cliccando su **(+) Sottocategoria**
+
+Si aprirà ora un form di aggiunta sottocategoria, cliccando su **Aggiungi** la sottocategoria sarà disponibile nei menu sottocategorie in Impianti, una volta selezionata la categoria corrente.
+
+<figure><img src="../../../.gitbook/assets/immagine (254).png" alt=""><figcaption></figcaption></figure>
+
+## ✅ Checklist
+
+E' possibile definire una checklist predefinita per la categoria di impianti:
+
+<figure><img src="../../../.gitbook/assets/immagine (244).png" alt=""><figcaption></figcaption></figure>
+
+Negli impianti appartenenti a questa categoria sarà ora possibile importare la checklist predefinita cliccando sull'apposito tasto **Importa checklist categoria**:
+
+<figure><img src="../../../.gitbook/assets/immagine (245).png" alt=""><figcaption></figcaption></figure>
+
+Dal plugin checklist dell'impianto sarà ora possibile visualizzare la checklist:
+
+<figure><img src="../../../.gitbook/assets/immagine (246).png" alt=""><figcaption></figcaption></figure>
+
+Andando ora a creare un'attività collegata all'impianto, sarà possibile visualizzare la checklist appena inserita dal plugin **Impianti** dell'attività**:**
+
+<figure><img src="../../../.gitbook/assets/immagine (945).png" alt=""><figcaption></figcaption></figure>

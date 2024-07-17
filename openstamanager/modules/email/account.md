@@ -1,9 +1,8 @@
 ---
-title: Account email
 description: Come configurare un account email in OpenSTAManager
 ---
 
-# ✉ Account email
+# ✉️ Account email
 
 {% hint style="info" %}
 Il modulo **Account email** permette all’azienda di gestire tutte le informazioni riguardanti gli account email utilizzati da OpenSTAManager per l'eventuale invio di email con contenuti specifici dei diversi moduli.
@@ -13,7 +12,7 @@ Questo modulo è complementare a [**Template email**](template.md), che si occup
 
 Il modulo si presenta con la seguente schermata:
 
-![](<../../../.gitbook/assets/image (23) (1) (1) (1) (1) (2).png>)
+<figure><img src="../../../.gitbook/assets/immagine (57).png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -25,7 +24,7 @@ Viene quindi data la possibilità di completare le informazioni di base del nuov
 * Nome visualizzato nelle email
 * Indirizzo email
 
-![Screenshot creazione Account email](../../../.gitbook/assets/CreazioneAccountEmail.PNG)
+<figure><img src="../../../.gitbook/assets/immagine (58).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -39,7 +38,7 @@ In particolare, vengono resi disponibili i seguenti campi relativi alla gestione
 * Username SMTP
 * Password SMTP
 
-![](<../../../.gitbook/assets/image (34) (1) (1) (1) (1) (1) (1) (2) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (59).png" alt=""><figcaption></figcaption></figure>
 
 Viene inoltre permessa l'impostazione di un qualsiasi account email come predefinito per la creazione di nuovi template e la segnalazione di eventuali bug.
 
@@ -57,20 +56,19 @@ Come configurare correttamente OpenSTAManager con il servizio di hosting:
 
 ### 📘 Aruba
 
-{% hint style="info" %}
-Per configurare correttamente un account email Aruba all'interno di OpenSTAManager è necessario inserire le seguenti informazioni nel modulo [Account email](account.md):
-{% endhint %}
+Per configurare correttamente un account email Aruba all'interno di OpenSTAManager è necessario inserire le seguenti informazioni:
 
-* _Server SMTP_: `smtp.miodominio.ext`
-* _Username SMTP_: indirizzo email (example@miodominio.ext, oppure example@miodominio.ext)
-* _Porta SMTP_: `25`
-* _Sicurezza SMTP_: `Nessuna`
+* **Server SMTP:**
+  * per caselle dominio: `smtps.aruba.it`
+  * per caselle @aruba.it o @technet.it: `smtp.aruba.it`
+* **Porta SMTP**: `465`
+* **Non verificare il certificato SSL**: `Disattivato`
+* **Sicurezza SMTP**: `SSL`
+* **Email mittente**: `email-esempio@aruba.it`
+* **Username SMTP**: `Nome-utente-da-visualizzare`
+* **Password SMTP**: `password`
 
-![](<../../../.gitbook/assets/image (52) (1) (1) (1) (1) (1).png>)
-
-{% hint style="warning" %}
-Nel caso in cui si continui a verificare l'errore: `PHPMailer: SMTP Error: Could not connect to SMTP host`, provare a disabilitare l'estensione PHP `openssl`.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/immagine (60).png" alt=""><figcaption></figcaption></figure>
 
 ### 📗 Gmail
 
@@ -83,7 +81,7 @@ Per configurare correttamente un account email Gmail all'interno di OpenSTAManag
 * _Porta SMTP_: `587`
 * _Sicurezza SMTP_: `TLS`
 
-![](<../../../.gitbook/assets/image (94) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (61).png" alt=""><figcaption></figcaption></figure>
 
 L'account appena configurato può avere abilitata l'autenticazione a due fattori:
 
@@ -93,23 +91,27 @@ Se l'autenticazione a due fattori è abilitata, è necessario creare una chiave 
 
 Sarà necessario selezionare il valore `Altra` del campo _Seleziona app_.
 
-![](<../../../.gitbook/assets/image (73) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (104).png>)
 
 Verrà quindi reso disponibile un campo per la denominazione della nuova chiave. Una volta compilato il nome, cliccare sul pulsante GENERA.
 
-![](<../../../.gitbook/assets/image (49) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (561).png>)
 
 Comparirà quindi un messaggio di avvertenza relativo all'utilizzo della nuova chiave, che sarà copiabile dal testo evidenziato in giallo.
 
-![](<../../../.gitbook/assets/image (31) (1) (1) (1) (1) (1) (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (203).png>)
+
+{% hint style="warning" %}
+A partire dal 30 settembre 2024, le app meno sicure, le app di terze parti o i dispositivi che richiedono l'accesso solo con nome utente e password non saranno più supportati per gli account Google Workspace. Per conoscere le date esatte, consulta la pagina degli Aggiornamenti di Google Workspace. Per continuare a utilizzare un'app specifica con il tuo Account Google, dovrai utilizzare un tipo di accesso più sicuro che non condivide i dati delle password. Scopri come utilizzare Accedi con Google.
+{% endhint %}
 
 ### 📂 App meno sicure
 
-Nel caso **non** sia abilitata l'autenticazione a due fattori, è necessario procedere ad abilitare l'accesso da applicazioni meno sicure attraverso le impostazioni dell'account Google: [https://myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
+{% hint style="danger" %}
+DEPRECATA dal 30/05/22: [https://support.google.com/accounts/answer/6010255?hl=it](https://support.google.com/accounts/answer/6010255?hl=it)
+{% endhint %}
 
-![](<../../../.gitbook/assets/image (88) (1) (1) (1) (1).png>)
-
-E' quindi necessario inserire nel campo _Password SMTP_ dell'account del gestionale la password originale dell'account Gmail.
+Per account Gmail che non abbiano abilitato questa impostazione prima che venisse dismessa, è necessraio abilitare l'autenticazione a due fattori per la configurazione dell'account nel gestionale.
 
 ## 📨Invio
 
@@ -121,7 +123,7 @@ Il sistema è accessibile all'interno di ogni _record_ dei moduli che possiedono
 
 Una volta cliccato sul pulsante relativo al template email da inviare, apparirà la seguente schermata:
 
-![](<../../../.gitbook/assets/image (50) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (62).png" alt=""><figcaption></figcaption></figure>
 
 Viene quindi reso possibile modificare alcuni valori predefiniti del template, quali:
 

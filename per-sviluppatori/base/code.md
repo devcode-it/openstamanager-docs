@@ -1,11 +1,8 @@
 ---
-title: Codice
-sidebar:
-  nav: docs-sidebar
 description: Come modificare il codice di OpenSTAManager
 ---
 
-# 🕹 Codice
+# 🕹️ Codice
 
 OpenSTAManager presenta una struttura nativamente predisposta alla personalizzazione delle funzioni principali: di seguito verranno fornite le specifiche tecniche per modificare il codice dove previsto.
 

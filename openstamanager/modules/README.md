@@ -38,8 +38,8 @@ Nel gestionale sono presenti i seguenti moduli:
 [contabilita](contabilita/)
 {% endcontent-ref %}
 
-{% content-ref url="../../guide/esempi/magazzino.md" %}
-[magazzino.md](../../guide/esempi/magazzino.md)
+{% content-ref url="magazzino/" %}
+[magazzino](magazzino/)
 {% endcontent-ref %}
 
 {% content-ref url="impianti/" %}
@@ -48,6 +48,10 @@ Nel gestionale sono presenti i seguenti moduli:
 
 {% content-ref url="statistiche.md" %}
 [statistiche.md](statistiche.md)
+{% endcontent-ref %}
+
+{% content-ref url="mappa.md" %}
+[mappa.md](mappa.md)
 {% endcontent-ref %}
 
 {% content-ref url="strumenti/" %}

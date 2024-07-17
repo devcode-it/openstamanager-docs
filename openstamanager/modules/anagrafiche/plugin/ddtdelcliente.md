@@ -1,5 +1,4 @@
 ---
-title: Plugin Ddt del cliente
 description: Guida al plugin Ddt del cliente in OpenSTAManager
 ---
 
@@ -15,4 +14,4 @@ Il plugin **Ddt del cliente** è una componente del modulo **Anagrafiche** dedic
 
 La schermata che si visualizzerà sarà questa:
 
-![](<../../../../.gitbook/assets/image (88) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (85).png" alt=""><figcaption></figcaption></figure>

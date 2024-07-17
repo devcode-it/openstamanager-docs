@@ -1,11 +1,8 @@
 ---
-title: Framework
-sidebar:
-  nav: docs-sidebar
 description: Come utilizzare i framework per personalizzare OpenSTAManager
 ---
 
-# 🖥 Framework
+# 🖥️ Framework
 
 > Un framework, termine della lingua inglese che può essere tradotto come intelaiatura o struttura, in informatica e specificatamente nello sviluppo software, è un'architettura logica di supporto (spesso un'implementazione logica di un particolare design pattern) su cui un software può essere progettato e realizzato, spesso facilitandone lo sviluppo da parte del programmatore.
 >

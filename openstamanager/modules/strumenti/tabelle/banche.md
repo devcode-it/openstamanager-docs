@@ -1,5 +1,4 @@
 ---
-title: Banche
 description: Come gestire le banche in OpenSTAManager
 ---
 
@@ -9,7 +8,7 @@ description: Come gestire le banche in OpenSTAManager
 Il modulo **Banche** permette di creare e modificare le banche presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (88).png>)
+![](<../../../../.gitbook/assets/image (573).png>)
 
 ## ➕ Creazione
 
@@ -25,7 +24,7 @@ Andranno qui inserite le informazioni relative alla nuova banca da inserire:
 * Codice banca nazionale (ABI)
 * Codice filiare (CAB)
 
-![](<../../../../.gitbook/assets/image (64).png>)
+![](<../../../../.gitbook/assets/image (572).png>)
 
 ## 🖌️ Modifica
 
@@ -42,4 +41,8 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Codice SIA azienda
 * Note
 
-![](<../../../../.gitbook/assets/image (77).png>)
+![](<../../../../.gitbook/assets/image (460).png>)
+
+{% content-ref url="../../../../guide/esempi/banca-predefinita-anagrafica.md" %}
+[banca-predefinita-anagrafica.md](../../../../guide/esempi/banca-predefinita-anagrafica.md)
+{% endcontent-ref %}

@@ -12,7 +12,7 @@ Il modulo Magazzino permette di gestire gli articoli e i loro movimenti fino all
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link Magazzino.
 
-![](<../../../.gitbook/assets/image (24) (1).png>)
+![](<../../../.gitbook/assets/image (526).png>)
 
 ## 🖥️ Interfaccia
 
@@ -28,7 +28,7 @@ Nel menu a tendina è possibile trovare i moduli:
 * Attributi combinazioni
 * Combinazioni
 
-&#x20;                                                                 <img src="../../../.gitbook/assets/image (61) (1).png" alt="" data-size="original">
+&#x20;                                                                 <img src="../../../.gitbook/assets/image (662).png" alt="" data-size="original">
 
 ### 🔧 Plugin <a href="#plugin" id="plugin"></a>
 
@@ -48,8 +48,8 @@ Ogni modulo della sezione Magazzino presenta plugin specifici legati alle sue fu
 [piani-di-sconto-rincaro.md](piani-di-sconto-rincaro.md)
 {% endcontent-ref %}
 
-{% content-ref url="listini/" %}
-[listini](listini/)
+{% content-ref url="listini.md" %}
+[listini.md](listini.md)
 {% endcontent-ref %}
 
 {% content-ref url="ddtinuscita/" %}

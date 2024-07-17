@@ -1,9 +1,8 @@
 ---
-title: Modifica impianto
 description: Come modificare un impianto in OpenSTAManager
 ---
 
-# 🖌 Modifica
+# 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
@@ -11,12 +10,13 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Matricola
 * Nome
 * Cliente
+* Tecnico predefinito
 * Categoria
-* Tecnico assegnato
+* Sottocategoria
 * Data di installazione
 * Sede
-* Descrizione
 * Proprietario
+* Descrizione
 * Ubicazione
 * Palazzo
 * Scala
@@ -25,5 +25,5 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Occupante
 * Allegati
 
-![](<../../../.gitbook/assets/image (77) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (251).png" alt=""><figcaption></figcaption></figure>
 

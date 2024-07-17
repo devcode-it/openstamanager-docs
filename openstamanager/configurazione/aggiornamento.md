@@ -1,12 +1,4 @@
 ---
-title: Aggiornamento
-update:
-  - path: update.png
-    alt: Schermata di aggiornamento
-    title: Aggiornamento del database disponibile
-  - path: updated.png
-    alt: Schermata di aggiornamento (concluso)
-    title: Aggiornamento del database completato
 description: Come aggiornare OpenSTAManager
 ---
 
@@ -23,19 +15,17 @@ Dopo il caricamento dell'aggiornamento, potrebbe richiedere richiesto anche l'ag
 
 In questo caso, ogni utente presente all'interno del gestionale verrà automaticamente reindirizzato verso il logout e sarà possibile aggiornare il database come richiesto attraverso delle apposite schermate e il pulsante ![](../../.gitbook/assets/Aggiorna.PNG) .
 
+<figure><img src="../../.gitbook/assets/immagine (193).png" alt=""><figcaption></figcaption></figure>
+
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
-![Aggiornamento del database completato](../../.gitbook/assets/updated.png)
+<figure><img src="../../.gitbook/assets/immagine (194).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚠️ Errori di aggiornamento
 
 La procedura di aggiornamento, come ogni componente software, è soggetta a possibili errori.
 
-![Errore aggiornamento](../../.gitbook/assets/error.png)
-
-Nel caso questi si verifichino, l'utente dovrebbe riuscire a visualizzare il seguente messaggio informativo:
-
-![Errore aggiornamento](../../.gitbook/assets/already-updating.png)
+<figure><img src="../../.gitbook/assets/immagine (195).png" alt=""><figcaption></figcaption></figure>
 
 In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consultare il [forum ufficiale](https://www.openstamanager.com/forum/) per eventuali segnalazioni simili.
 
@@ -51,7 +41,7 @@ Nel caso la procedura rimanga persistente per un periodo molto prolungato di tem
 
 In alcuni casi particolari, può essere necessario riprendere forzatamente l'esecuzione di un aggiornamento andato in errore.
 
-Questo viene reso possibile visitando l'URL a cui è possibile accedere a OpenSTAManager con l'aggiunta del testo `?force`.
+Questo viene reso possibile visitando l'URL a cui è possibile accedere a OpenSTAManager con l'aggiunta del testo `?force=1`.&#x20;
 
 {% hint style="warning" %}
 **Attenzione**: quest'azione è sconsigliata a utenti non esperti.

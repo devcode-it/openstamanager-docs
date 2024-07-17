@@ -2,13 +2,13 @@
 description: Come gestire le stampe in OpenSTAManager
 ---
 
-# 🖨 Stampe
+# 🖨️ Stampe
 
 {% hint style="info" %}
 Il modulo Stampe permette di personalizzare i modelli predefiniti di stampa.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (105) (1).png>)
+![](<../../../.gitbook/assets/image (535).png>)
 
 ## 🖌️ Modifica
 
@@ -22,4 +22,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se predefinita
 * Opzioni
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](<../../../.gitbook/assets/image (470).png>)

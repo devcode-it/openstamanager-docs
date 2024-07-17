@@ -1,5 +1,4 @@
 ---
-title: Ddt in uscita
 description: Come gestire i DDT in uscita con OpenSTAManager
 ---
 
@@ -21,7 +20,7 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Destinatario
 * Causale di trasporto
 
-![](<../../../../.gitbook/assets/image (87) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/immagine (763).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
@@ -49,8 +48,22 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Modifica volume
 * Sconto in fattura
 * Note
+* Note aggiuntive
 
-![](<../../../../.gitbook/assets/image (33).png>)
+![](<../../../../.gitbook/assets/image (671).png>)
+
+E' inoltre possibile modificare le righe e gli allegati.
+
+Nelle righe è possibile inserire:
+
+* Articolo
+* Riga generica
+* Descrizione
+* Sconto/maggiorazione
+* DDT
+* Ordine
+
+<figure><img src="../../../../.gitbook/assets/immagine (883).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

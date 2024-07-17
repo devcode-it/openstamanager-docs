@@ -1,15 +1,16 @@
 ---
-title: Inizializzazione
 description: Come inizializzare OpenSTAManager
 ---
 
-# ▶ Inizializzazione
+# ▶️ Inizializzazione
 
 {% hint style="info" %}
 Una volta completata l'installazione del gestionale, ed in alcuni casi a seguito di un aggiornamento, verrà caricata la schermata di inizializzazione del software.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (55) (1).png>)
+<figure><img src="../../.gitbook/assets/immagine (190).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/immagine (191).png" alt=""><figcaption></figcaption></figure>
 
 Andranno qui immesse le informazioni base dell'azienda per effettuare il primo accesso, suddivise in:
 
@@ -31,17 +32,13 @@ E' in particolare possibile definire:
 * Password dell'account
 * Email collegata
 
-![](<../../.gitbook/assets/immagine (51) (1).png>)
-
 ### 👤 Azienda predefinita
 
 {% hint style="info" %}
 La sezione **Azienda predefinita** richiede il completamento delle informazioni relative all'azienda destinata ad utilizzare il gestionale.
 {% endhint %}
 
-In particolare, è possibile definire la _ragione sociale_ e una serie di dati anagrafici di base. E' inoltre possibile caricare il _logo aziendale_, che verrà successivamente implementato nelle stampe del gestionale.
-
-![](<../../.gitbook/assets/immagine (67).png>)
+In particolare, è possibile definire la _ragione sociale_ e una serie di dati anagrafici di base.&#x20;
 
 ### 📗 Impostazioni di base
 
@@ -49,14 +46,14 @@ In particolare, è possibile definire la _ragione sociale_ e una serie di dati a
 Infine, la sezione **Impostazioni di base** prevede la compilazione di alcune opzioni di OpenSTAManager obbligatorie per il funzionamento di diverse componenti, quali per esempio la contabilità e la fatturazione elettronica.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (14) (1) (1) (2).png>)
-
 ## ✅ Salvataggio
 
 {% hint style="info" %}
 Una volta completate correttamente le informazioni richieste dalle sezioni precedenti, è possibile procedere al salvataggio delle stesse e al successivo utilizzo del software cliccando sul pulsante **Configura**.
 {% endhint %}
 
-![](<../../.gitbook/assets/immagine (58) (1) (1).png>)
+Si aprirà quindi ora il gestionale sul modulo Dashboard:
 
-Sarà possibile accedere fin da subito con le credenziali di amministrazione immesse in precedenza.
+
+
+<figure><img src="../../.gitbook/assets/immagine (192).png" alt=""><figcaption></figcaption></figure>

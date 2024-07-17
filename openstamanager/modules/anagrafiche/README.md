@@ -8,8 +8,6 @@ description: Guida al modulo Anagrafiche di OpenSTAManager
 Il modulo **Anagrafiche** permette all’azienda di archiviare tutte le informazioni riguardanti gli individui e gli enti con cui si instaura una relazione lavorativa.
 {% endhint %}
 
-![Screenshot Anagrafiche](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FL9jxnCVWCwJY2W1pjbm0%2Ffile.png?alt=media)
-
 Sono disponibili cinque principali tipologie di anagrafiche:
 
 * Agenti
@@ -22,28 +20,34 @@ Il gestionale permette inoltre di memorizzare le informazioni relative ai refere
 
 ## ⛵ Navigazione
 
-Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Anagrafiche**.
+Il modulo è raggiungibile dal menu laterale del gestionale, alla voce **Anagrafiche**.
 
-![](https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LZJeLg23eVDvrCv74U7-887967055%2Fuploads%2FLs4k5TwrOATHMnBZcMjX%2Ffile.png?alt=media)
+<figure><img src="../../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
-Aprendo il menu a tendina è possibile trovare i moduli Tipi di anagrafiche, Relazioni e Zone.
+Aprendo il menu a tendina è possibile trovare i moduli:
 
-![](<../../../.gitbook/assets/image (69) (1) (1).png>)
+* Tipi di anagrafiche
+* Relazioni
+* Zone
+* Provenienze clienti
+* Settori merceologici
+
+&#x20;                                                      ![](<../../../.gitbook/assets/immagine (148).png>)
 
 ### 👾 Widget
 
 La schermata principale del modulo è strutturata secondo la tabella generale predefinita, e presenta 6 widget per il filtraggio automatico delle anagrafiche per tipo:
 
-* Agenti
 * Clienti
-* Fornitori
 * Tecnici
+* Fornitori
+* Agenti
 * Vettori
 * Tutti
 
-![](../../../.gitbook/assets/widgetanagrafiche.PNG)
+<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 
@@ -51,7 +55,7 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 
 * [Impianti del cliente](plugin/impianti-del-cliente.md)
 * [Referenti](plugin/referenti.md)
-* [Sedi](plugin/sedi.md)
+* [Sedi aggiuntive](plugin/sedi.md)
 * [Statistiche](plugin/statistiche.md)
 * [Ddt del cliente](plugin/ddtdelcliente.md)
 * [Dichiarazioni d'intento](plugin/dichiarazioni-dintento.md)
@@ -60,6 +64,7 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 * [Contratti del cliente](plugin/contratti-del-cliente.md)
 * [Movimenti contabili](plugin/movimenti-contabili.md)
 * [Regole pagamenti](plugin/regole-pagamenti.md)
+* Assicurazione crediti
 * [Note interne](plugin/note-interne.md)
 * [Info](plugin/info.md)
 
@@ -97,6 +102,6 @@ Inoltre, l'eventuale eliminazione dei _record_ viene effettuata a livello logico
 [plugin](plugin/)
 {% endcontent-ref %}
 
-{% content-ref url="import-anagrafiche.md" %}
-[import-anagrafiche.md](import-anagrafiche.md)
+{% content-ref url="../strumenti/import/import-anagrafiche.md" %}
+[import-anagrafiche.md](../strumenti/import/import-anagrafiche.md)
 {% endcontent-ref %}

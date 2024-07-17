@@ -2,10 +2,10 @@
 description: Guida al plugin Piani di sconto/maggiorazioni di OpenSTAManager
 ---
 
-# ✂ Piani di sconto/magg.
+# ✂️ Piani di sconto/magg.
 
 {% hint style="info" %}
 Il plugin Piani di sconto/magg. serve a visualizzare il prezzo dell'articolo secondo i diversi piani di sconto o maggiorazione.
 {% endhint %}
 
-![](<../../../../../.gitbook/assets/image (78) (2) (1) (1).png>)
+![](<../../../../../.gitbook/assets/image (40).png>)

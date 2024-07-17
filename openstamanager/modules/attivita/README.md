@@ -14,13 +14,13 @@ Questa sezione si contraddistingue, in particolare, per la possibilità di fissa
 
 Il modulo è raggiungibile dal menu laterale del gestionale, sotto il link **Attività**.
 
-![](<../../../.gitbook/assets/image (55) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## 🖥️ Interfaccia
 
 Nel menu a tendina è possibile trovare i moduli Tipi di attività, Fasce orarie, Stati di attività, Tecnici e tariffe, Voci di servizio.
 
-![](<../../../.gitbook/assets/image (64) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/immagine (1056).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔧 Plugin
 
@@ -57,8 +57,8 @@ Selezionando uno specifico record si può accedere a diversi plugin:
 [tecnicietariffe.md](tecnicietariffe.md)
 {% endcontent-ref %}
 
-{% content-ref url="voci-di-servizio.md" %}
-[voci-di-servizio.md](voci-di-servizio.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="azioni-aggiuntive.md" %}

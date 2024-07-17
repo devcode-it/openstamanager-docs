@@ -1,5 +1,4 @@
 ---
-title: IVA
 description: Come gestire l'IVA in OpenSTAManager
 ---
 
@@ -9,7 +8,7 @@ description: Come gestire l'IVA in OpenSTAManager
 Il modulo **IVA** consente di creare e modificare le aliquote IVA presenti nel gestionale.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../../.gitbook/assets/image (208).png>)
 
 ## ➕ Creazione
 
@@ -25,7 +24,7 @@ Andranno qui inserite le informazioni relative alla nuova aliquota IVA da creare
 * Indetraibile
 * Esigibilità (fatturazione elettronica)
 
-![](<../../../../.gitbook/assets/image (90) (2).png>)
+![](<../../../../.gitbook/assets/image (674).png>)
 
 ## 🖌️ Modifica
 
@@ -40,4 +39,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Esigibilità (fatturazione elettronica)
 * Dicitura fissa in fattura
 
-![](<../../../../.gitbook/assets/image (83) (1) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/image (371).png>)

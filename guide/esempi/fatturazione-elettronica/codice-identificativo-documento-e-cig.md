@@ -2,7 +2,7 @@
 description: Guida al Codice identificativo documento e CIG in OpenSTAManager
 ---
 
-# 🏷 Codice identificativo documento e CIG
+# 🏷️ Codice identificativo documento e CIG
 
 {% hint style="info" %}
 Quando si vuole emettere una fattura verso le PA è necessario riportare il **CIG** e il **Codice identificativo documento**. Come inserire questi due parametri in **OpenSTAManager**?
@@ -26,7 +26,7 @@ I **Dati appalto** verranno visualizzati quando si aggiunge un **Contratto** ad 
 
 Un' ulteriore verifica della presenza o meno dei **Dati appalto** è disponibile nell'anteprima della fattura, visualizzabile tramite il pulsante **Visualizza** in **Fatturazione elettronica:**
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (332).png>)
 
 ![](../../../.gitbook/assets/VisualizzaCIGeCodiceIdentificavoDocumento.png)
 

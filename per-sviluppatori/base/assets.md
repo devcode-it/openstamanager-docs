@@ -1,7 +1,4 @@
 ---
-title: Assets
-sidebar:
-  nav: docs-sidebar
 description: Come personalizzare OpenSTAManager tramite l'utilizzo di assets
 ---
 
@@ -33,7 +30,27 @@ La personalizzazione dello stile del gestionale può essere effettuata a partire
 
 Una volta eseguita la task automatica di compilazione, il nuovo file varrà aggiunto in `themes.min.css` di `assets/css`.
 
-Per modificare lo stile utilizzato dal gestionale, vedere la variabile `$theme` in `config.inc.php`.
+Per modificare lo stile utilizzato dal gestionale, si deve modificare la variabile `$theme` in `config.inc.php.`
+
+```
+// Tema selezionato per il front-end
+$theme = 'default';
+```
+
+Da gestionale sono previsti i temi:
+
+* blu
+* blu-light
+* black
+* black-light
+* green
+* green-light
+* red
+* red-light
+* yellow
+* yellow-light
+* purple
+* purple-light
 
 ### 🖌️ Aggiornamento e installazione pacchetti
 
