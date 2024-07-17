@@ -8,7 +8,7 @@ description: >-
 
 Da Strumenti/Impostazioni/Scadenzario è possibile configurare l'invio dei solleciti in automatico:&#x20;
 
-<figure><img src="../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
 
 Attivando l'impostazione **Invio solleciti in automatico,** essa verrà eseguita una volta al giorno, in base all'impostazione del task.
 
