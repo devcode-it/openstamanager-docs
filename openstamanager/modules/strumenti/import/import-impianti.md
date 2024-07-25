@@ -20,6 +20,12 @@ A questo punto si può iniziare a creare il file CSV per l'importazione degli im
 Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
 {% endhint %}
 
+{% hint style="danger" %}
+La ricerca dell'anagrafica da collegare all'attività avviene sulla base della partita iva o del codice fiscale mappato.&#x20;
+
+Per procedere all'importazione dell'attività è pertanto necessario che almeno uno dei due valori siano censito in anagrafica.&#x20;
+{% endhint %}
+
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
 
 <figure><img src="../../../../.gitbook/assets/immagine (241).png" alt=""><figcaption></figcaption></figure>
@@ -32,8 +38,8 @@ I campi mappabili a database sono:
 * immagine
 * import immagine \*
 * nome
-* cliente
-* telefono
+* partita iva cliente
+* codice fiscale cliente
 * categoria
 * sottocategoria
 * sede
@@ -59,9 +65,5 @@ E' presente in fase di importazione un automatismo che genera automaticamente i 
 
 {% hint style="warning" %}
 In caso di impianto esistente, in fase di import TUTTI i campi mappati andranno a sovrascrivere i campi presenti anche se nel file CSV la colonna è vuota, è necessario quindi non mappare le colonne da non sovrascrivere.
-{% endhint %}
-
-{% hint style="danger" %}
-La ricerca dell'anagrafica da collegare all'attività avviene sulla base del numero di telefono mappato, per procedere all'importazione dell'attività è pertanto necessario che il numero di telefono indicato sia censito in anagrafica. Procedere quindi prima all'importazione delle anagrafiche.
 {% endhint %}
 
