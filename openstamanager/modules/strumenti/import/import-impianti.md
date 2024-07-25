@@ -21,9 +21,9 @@ Nel file CSV va utilizzato come separatore il carattere _;_ (punto e virgola).
 {% endhint %}
 
 {% hint style="danger" %}
-La ricerca dell'anagrafica da collegare all'attività avviene sulla base della partita iva o del codice fiscale mappato.&#x20;
+La ricerca dell'anagrafica da collegare all'impianto avviene sulla base della partita iva o del codice fiscale mappato.&#x20;
 
-Per procedere all'importazione dell'attività è pertanto necessario che almeno uno dei due valori siano censito in anagrafica.&#x20;
+Per procedere all'importazione dell'impianto è pertanto necessario che almeno uno dei due valori siano censito in anagrafica.&#x20;
 {% endhint %}
 
 Una volta completato il file si può procedere al suo caricamento, andando a selezionarlo da Sfoglia e cliccando poi su Aggiungi.
