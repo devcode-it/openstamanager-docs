@@ -9,7 +9,15 @@ Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del
 {% endhint %}
 
 {% hint style="warning" %}
-La sincronizzazione **delle categorie articolo** è attualmente gestita con provider PrestaShop, WooCommerce e Shopify.
+La **sincronizzazione** è attualmente gestita con provider PrestaShop, WooCommerce e Shopify, in questo modo:
+{% endhint %}
+
+<table><thead><tr><th width="350">Importazione da ecommerce a OSM</th><th width="174" data-type="checkbox">Categorie/Articoli</th><th width="82" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Woocommerce</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
+
+<table><thead><tr><th width="350">Esportazione da OSM a ecommerce</th><th width="171" data-type="checkbox">Categorie/Articoli</th><th width="88" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Woocommerce</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+
+{% hint style="warning" %}
+Le funzionalità non selezionate sono ancora in sviluppo o in Beta.
 {% endhint %}
 
 {% hint style="success" %}
@@ -29,10 +37,6 @@ A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** appar
 * **Gestione locale delle immagini articolo**: se attivata, in fase di importazione articoli aggiorna l'immagine dell'articolo su OSM
 * **importazione in OpenSTAManager**: permette l'importazione degli articoli dal provider a OpenSTAmanager
 * **esportazione da OpenSTAManager**: permette l'esportazione degli articoli da OpenSTAManager al provider
-
-{% hint style="warning" %}
-La sincronizzazione di ordini e anagrafiche è ancora in fase di sviluppo.
-{% endhint %}
 
 {% hint style="info" %}
 Ogni modifica effettuata nella sezione **Impostazioni** viene aggiornata premendo il pulsante **Salva** presente in alto a destra nella schermata.
