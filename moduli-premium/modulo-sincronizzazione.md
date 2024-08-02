@@ -9,7 +9,7 @@ Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del
 {% endhint %}
 
 {% hint style="warning" %}
-La sincronizzazione è attualmente gestita con provider PrestaShop, mentre con WooCommerce la funzionalità è ancora in sviluppo.
+La sincronizzazione **delle categorie articolo** è attualmente gestita con provider PrestaShop, WooCommerce e Shopify.
 {% endhint %}
 
 {% hint style="success" %}
@@ -31,7 +31,7 @@ A seguito dell'installazione del modulo, cliccando su **Sincronizzazione** appar
 * **esportazione da OpenSTAManager**: permette l'esportazione degli articoli da OpenSTAManager al provider
 
 {% hint style="warning" %}
-La sincronizzazione di ordini e anagrafiche è ancora in Beta.
+La sincronizzazione di ordini e anagrafiche è ancora in fase di sviluppo.
 {% endhint %}
 
 {% hint style="info" %}
