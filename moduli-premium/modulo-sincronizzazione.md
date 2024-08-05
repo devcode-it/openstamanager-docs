@@ -12,9 +12,9 @@ Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del
 La **sincronizzazione** è attualmente gestita con provider PrestaShop, WooCommerce e Shopify, in questo modo:
 {% endhint %}
 
-<table><thead><tr><th width="350">Importazione da ecommerce a OSM</th><th width="174" data-type="checkbox">Categorie/Articoli</th><th width="82" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Woocommerce</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="347">Importazione da ecommerce a OSM</th><th width="89" data-type="checkbox">Articoli</th><th width="100" data-type="checkbox">Quantità </th><th width="83" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Woocommerce</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>false</td><td>true</td><td>false</td><td>true</td></tr></tbody></table>
 
-<table><thead><tr><th width="350">Esportazione da OSM a ecommerce</th><th width="171" data-type="checkbox">Categorie/Articoli</th><th width="88" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Woocommerce</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="350">Esportazione da OSM a ecommerce</th><th width="91" data-type="checkbox">Articoli</th><th width="100" data-type="checkbox">Quantità</th><th width="83" data-type="checkbox">Ordini</th><th data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Woocommerce</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>true</td><td>true</td><td>true</td><td>true</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Le funzionalità non selezionate sono ancora in sviluppo o in Beta.
