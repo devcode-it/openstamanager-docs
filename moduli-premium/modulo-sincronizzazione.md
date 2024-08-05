@@ -17,7 +17,7 @@ La **sincronizzazione** è attualmente gestita con provider PrestaShop, WooComme
 <table><thead><tr><th width="270">Esportazione da OSM</th><th>Versione</th><th width="89" data-type="checkbox">Articoli</th><th width="99" data-type="checkbox">Quantità</th><th width="77" data-type="checkbox">Ordini</th><th width="126" data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop </td><td>>= 1.7.0</td><td>true</td><td>true</td><td>false</td><td>false</td></tr><tr><td>Woocommerce</td><td>>= 7.0</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>>= 2.0</td><td>false</td><td>true</td><td>false</td><td>false</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Le funzionalità non selezionate sono ancora in sviluppo o in Beta.
+La sincronizzazione delle marche, combinazioni articolo e delle funzionalità non selezionate nella tabella sono ancora in via di sviluppo.
 {% endhint %}
 
 {% hint style="success" %}
