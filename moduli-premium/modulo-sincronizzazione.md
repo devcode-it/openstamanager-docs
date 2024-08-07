@@ -20,6 +20,10 @@ La **sincronizzazione** è attualmente gestita con provider PrestaShop, WooComme
 La sincronizzazione delle marche, combinazioni articolo e delle funzionalità non selezionate nella tabella sono ancora in via di sviluppo.
 {% endhint %}
 
+{% hint style="info" %}
+Il modulo è stato testato con la sincronizzazione di circa 1000 records per ciascuna risorsa (anagrafiche, articoli e ordini).
+{% endhint %}
+
 {% hint style="success" %}
 [Clicca qui](https://shop.openstamanager.com/prodotto/e-commerce/) per procedere all'acquisto
 {% endhint %}
