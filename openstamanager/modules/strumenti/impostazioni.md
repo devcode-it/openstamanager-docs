@@ -14,6 +14,8 @@ Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale,
 
 <figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
+**Abilita canale pre-release per aggiornamenti:** Consente di visualizzare l'uscita di nuove release Beta del gestionale.
+
 ### 🔨 Anagrafiche
 
 **Formato codice anagrafica:** Viene qui impostata la maschera applicata alla numerazione delle anagrafiche. Ogni "#" in fase di aggiunta di una nuova anagrafica verrà valorizzato, si può quindi impostare il numero di cifre che verranno mostrate e valorizzate come codice anagrafica.&#x20;
@@ -26,27 +28,33 @@ esempio: #### verrà valorizzato con 0001 alla creazione della prima anagrafica.
 
 esempio: la lunghezza pagine impostata è 200 e sono presenti 1000 risultati, verranno visualizzati suddivisi in 5 pagine.
 
-**Google Maps API key:** E' qui possibile inserire l'API key di Google Maps, per poter visualizzare le mappe nei moduli Mappe, Anagrafiche e Attività.
+**apilayer API key for VAT number:** API key per il servizio di validazione della Partita IVA.
 
 ### 🔨 Applicazione
 
 **Google Maps API key per Tecnici:** API key di Google dove confluiranno le richieste effettuate da utenti appartenenti al gruppo Tecnici, effettuate tramite l'app tecnici.
 
-**Mostra prezzi:** Abilitare la visualizzazione dei prezzi ai tecnici nell'app.
+**Mostra prezzi\*:** Abilitare la visualizzazione dei prezzi ai tecnici nell'app.
 
-**Sincronizza solo i Clienti per cui il Tecnico ha lavorato in passato:** Abilita la sincronizzazione nell'app delle sole anagrafiche cliente per le quali il tecnico ha delle sessioni nelle attività di cui queste anagrafiche sono impostate come cliente.&#x20;
+**Sincronizza solo i Clienti per cui il Tecnico ha lavorato in passato\*:** Abilita la sincronizzazione nell'app delle sole anagrafiche cliente per le quali il tecnico ha delle sessioni nelle attività di cui queste anagrafiche sono impostate come cliente.&#x20;
 
-**Mesi per lo storico attività:** Numero di mesi precedenti alla data odierna di cui conservare le attività sincronizzate nell'app.
+**Mesi per lo storico attività\*:** Numero di mesi precedenti alla data odierna di cui conservare le attività sincronizzate nell'app.
+
+**Stato dell'attività alla chiusura\*:** Stato in cui impostare l'attività al momento della sua chiusura.
+
+**Abilita la modifica di altri tecnici\*:** Permette la modifica delle attività degli altri tecnici da app, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
+
+**Visualizza promemoria\*:** Se disabilitato non permette la sincronizzazione dei promemoria in app.
+
+**Visualizza solo promemoria assegnati\*:**  Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
+
+**Permetti l'accesso agli amministratori\*:** Se questa impostazione è abilitata, l'accesso all'app è consentita agli amministratori.
+
+**Limita la visualizzazione degli impianti a quelli gestiti dal tecnico\*:** Verranno sincronizzati in app unicamente gli impianti in cui il tecnico è assegnato.
 
 {% hint style="info" %}
-Per rendere effettiva la modifica di queste impostazioni è necessario effettuare il reset dell'applicazione ed effettuare nuovamente la sincronizzazione.
+\*Per rendere effettiva la modifica di queste impostazioni è necessario effettuare il reset dell'applicazione ed effettuare nuovamente la sincronizzazione
 {% endhint %}
-
-**Abilita la modifica di altri tecnici:** Permette la modifica delle attività degli altri tecnici da app, incluso l'inserimento di sessioni di altri utenti del tipo tecnico.
-
-**Visualizza promemoria:** Se disabilitato non permette la sincronizzazione dei promemoria in app.
-
-**Visualizza solo promemoria assegnati:**  Permette ai tecnici di visualizzare solo le attività senza nessuna sessione, in cui sono stati assegnati come Tecnici assegnato.
 
 {% content-ref url="../../app-tecnici/v3.0.30.md" %}
 [v3.0.30.md](../../app-tecnici/v3.0.30.md)
@@ -67,8 +75,6 @@ Per rendere effettiva la modifica di queste impostazioni è necessario effettuar
 **Notifica al tecnico l'aggiunta della sessione nell'attività:** Invia automaticamente un'email al tecnico per notificare l'inserimento di nuove sessioni di lavoro che gli sono state assegnate (nell'anagrafica del tecnico deve essere stata specificata un email).
 
 **Notifica al tecnico la rimozione della sessione dall'attività:** Invia automaticamente un'email al tecnico per notificare la rimozione di sessioni di lavoro che erano assegnate a lui e sono successivamente state rimosse (nell'anagrafica del tecnico deve essere stata specificata un email).
-
-**Stato dell'attività alla chiusura:** Stato da impostare all'attività al momento della sua chiusura.
 
 **Stato dell'attività dopo la firma:** Stato da impostare all'attività a seguito della firma del cliente.
 
@@ -96,6 +102,8 @@ Per non visualizzare falsi avvisi è consigliato impostare una maschera nell'app
 
 **Stato predefinito dell'attività:** Definisce lo stato che l'attività assumerà al momento della sua creazione dal modulo Attività.
 
+**Numero di minuti di avanzamento delle sessioni delle attività:** Specifica di quanti minuti aumentare e diminuire le sessioni di lavoro in modifica sessione nelle attività.
+
 ### 🔨 Backup
 
 **Numero di backup da mantenere:** E' qui possibile definire il numero di backup da salvare, verrà eliminato il backup più vecchio alla creazione di ogni nuovo backup.
@@ -114,6 +122,10 @@ E' necessario tenere sotto controllo lo spazio disponibile perchè alla creazion
 
 
 <figure><img src="../../../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
+
+**Crea contratto rinnovabile di default:** Se abilitata, alla creazione di un nuovo contratto, esso sarà impostato come rinnovabile.
+
+**Giorni di preavviso di default:** Se abilitata, definisce il numero di giorni di preavviso rinnovo che verranno impostati alla creazione di una nuova attività
 
 ### 🔨 Dashboard
 
@@ -169,10 +181,6 @@ Queste due impostazioni non influenzano gli orari in cui è possibile inserire a
 
 **Ritenuta previdenziale predefinita:** Viene qui definita la ritenuta previdenziale predefinita.
 
-**Addebita marca da bollo al cliente:** Se abilitato, l'importo della marca da bollo verrà sommato in fattura, al contrario, non graverà sul cliente.
-
-**Iva da applicare su marca da bollo:** Specificare qui l'aliquota iva da utilizzare sulla marca da bollo.
-
 **Descrizione addebito bollo:** Nome del bollo da applicare al documento.
 
 **Conto predefinito per la marca da bollo:** Conto predefinito selezionato per risolvere la marca da bollo in fase di registrazione in prima nota del pagamento del documento.
@@ -209,6 +217,10 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 
 **Permetti fatturazione delle attività collegate a preventivi:** Permette di fatturare le attività anche se sono collegate a un preventivo.
 
+**Data inizio verifica contatore fattura di vendita:** Definisce la data a partire dalla quale verificare la progressività di numerazione delle fatture di vendita.
+
+**Raggruppa attività per tipologia in fattura:** Raggruppa le attività in base alla loro tipologia in fattura di vendita.
+
 ### 🔨 Fatturazione elettronica
 
 **Allega stampa per fattura verso Privati:** Se abilitato, allega una copia di cortesia della fattura all'XML della fattura di vendita, per clienti di tipologia Privato.
@@ -231,7 +243,7 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 
 **Terzo intermediario:** Può essere specificato un intermediario incaricato dell'invio delle fatture elettroniche.
 
-**RIferimento dei documenti in Fattura Elettronica:** Se abilitato nelle righe vengono riportati i riferimenti ai documenti da cui sono state importate le righe, specificando quindi se provengono da ordini, preventivi o contratti.
+**Riferimento dei documenti in Fattura Elettronica:** Se abilitato nelle righe vengono riportati i riferimenti ai documenti da cui sono state importate le righe, specificando quindi se provengono da ordini, preventivi o contratti.
 
 **OSMCloud Services API URL:** Indirizzo per contattare services, necessario per l'invio e ricezione di fatture elettroniche.
 
@@ -242,6 +254,10 @@ Questa impostazione influirà sul calcolo della maggiorazione 1% in fase di stam
 **Movimenta magazzino da fatture di acquisto:** E' possibile scegliere se movimentare il magazzino con l'inserimento/importazione di fatture di acquisto.
 
 **Rimuovi avviso fatture estere:** Abilitare per rimuovere gli avvisi relativi a ritardo nell'invio di fatture elettroniche di vendita verso anagrafiche estere. Da attivare nel caso non vengano inviate le fatture elettroniche estere.
+
+**Creazione seriali in import FE:** Determina il valore predefinito dell'impostazione Creazione seriali in fase di importazione delle fatture di acquisto.
+
+**Giorni validità fattura scartata:** Numero di giorni a disposizione per poter correggere una fattura scartata dallo SDI prima di non poter più utilizzare il suo numero di fatturazione. Una volta superati i giorni indicati, è necessario emettere una nuova fattura e questa passa in stato Non valida.
 
 ### 🔨 Generali
 
@@ -287,7 +303,7 @@ Questa impostazione non influenza nessuna funzionalità delle azioni di gruppo.
 
 **Valuta:** La valuta da utilizzare nel gestionale.
 
-**Riferimento dei documenti nelle stampe:** Da qui si può scegliere se visualizzare i riferimenti ai contratti, preventivi, ordini, ddt collegati alle righe presenti nei documenti, in fase di stampa.
+**Visualizza riferimento su ogni riga in stampa:** Se disabilitato, raggruppa il riferimento ai documenti collegati in un'unica riga, se abilitato riporta i riferimenti ai documenti in ogni riga.
 
 **Lunghezza in pagine del buffer Datatables:** E' qui possibile stabilire il numero di risultati da esportare in fase di esportazione e stampa, a numeri più elevati corrispondono maggiori tempi di risposta per il caricamento di un numero di record maggiori.
 
@@ -302,8 +318,6 @@ Questa impostazione non influenza nessuna funzionalità delle azioni di gruppo.
 **Attiva scorciatoie da tastiera:** E' possibile abilitare o disabilitare le scorciatoie da tastiera visualizzate nell'help.
 
 **Modifica Viste di default:** Se abilitato permette la modifica delle viste di default nel modulo Viste.
-
-**Abilita canale pre-release per aggiornamenti:** Consente di recuperare dal canale di pre-release gli aggiornamenti NON stabili del gestionale.
 
 **Totali delle tabelle ristretti alla selezione:** Nei vari moduli, i totali a fondo pagina delle tabelle assumono il valore dei record selezionati, in caso ci sia almeno una riga selezionata.
 
@@ -337,11 +351,33 @@ Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, v
 
 **Posizione del simbolo valuta:** E' Possibile scegliere se visualizzare il simbolo valuta prima o dopo il numero.
 
+**Tile server OpenStreetMap:** Imposta il tile server per la visualizzazione di OpenStreetMap, per modificare la visualizzazione delle mappe.
+
+**Sistema di firma:** E' qui possibile scegliere se firmare le attività tramite il metodo di firma classico o tramite tavoletta Wacom.
+
+**Tipo di sconto predefinito:** Definisce il tipo di sconto predefinito tra unitario e percentuale.
+
+**Cifre decimali per importi in stampa:** Definisci il numero di decimali che presenteranno gli importi nelle stampe.
+
+**Cifre decimali per quantità in stampa:** Definisci il numero di decimali che presenteranno le quantità nelle stampe.
+
+**Cifre decimali per totali in stampa:** Definisci il numero di decimali che presenteranno i totali nelle stampe.
+
+**Listino cliente predefinito:** In fase di creazione di una nuova anagrafica cliente, definisce il listino cliente da associarvi di default.
+
+**Lingua:** Definisce la lingua in cui impostare il gestionale.
+
+**Ridimensiona automaticamente le immagini caricate:** Se abilitato, gli allegati caricati verranno ridimensionati per ottimizzare lo spazio.
+
+**Larghezza per ridimensionamento immagini:** Definisce la larghezza delle immagini che verranno ridimensionate.
+
 ### 🔨 Magazzino
 
 **Movimenta il magazzino durante l'inserimento o eliminazione dei lotti/serial number:** Se abilitato, all'inserimento di seriali in una scheda articolo, viene aggiunto il corrispondente numero di articoli alla giacenza.
 
 **Serial number abilitato di default:** Se abilitato ogni nuovo articolo creato in Magazzino e da importazione di fattura di acquisto avrà il serial number abilitato.
+
+**Magazzino cespiti:** Magazzino cespiti per la stampa dei cespiti nel modulo Articoli,  è possibile scegliere tra le sedi collegate all'azienda.
 
 ### 🔨 Mail
 
@@ -360,6 +396,8 @@ Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, v
 **Conferma automaticamente le quantità negli ordini cliente:** Le quantità degli articoli presenti nelle righe degli ordini cliente vengono confermate automaticamente.
 
 **Conferma automaticamente le quantità negli ordini fornitore:** Le quantità degli articoli presenti nelle righe degli ordini fornitore vengono confermate automaticamente.
+
+**Visualizza numero ordine cliente:** Se abilitata, utilizza nei documenti il numero d'ordine del cliente al posto del numero interno dell'ordine.
 
 ### 🔨 Piano dei conti
 
@@ -395,12 +433,44 @@ Ricordando che bootstrap prevede un numero di celle totali pari a 12 per riga, v
 
 **Conferma automaticamente le quantità nei preventivi:**  Le quantità degli articoli presenti nelle righe dei preventivi vengono confermate automaticamente.
 
+**Esclusioni default preventivi:** E' qui possibile definire il testo inserito di default tra le esclusioni dei preventivi.
+
 ### 🔨 Scadenzario
 
 **Invio solleciti in automatico:** Invia automaticamente delle email di sollecito secondo le tempistiche definite nelle impostazioni
 
-**Template email invio sollecito:** Template dell'email di sollecito da inviare ai clienti.
+**Template email primo sollecito:** Template email utilizzato per il primo sollecito di pagamento di una rata scaduta.
 
-**Ritardo in giorni della scadenza della fattura per invio sollecito pagamento:** Numero di giorni superat i i quali inviare un email di sollecito per il pagamento delle fatture.
+**Ritardo in giorni della scadenza della fattura per invio sollecito pagamento:** Numero di giorni dopo i quali verrà inviato il primo sollecito di pagamento, utilizzando il template selezionato nell'impostazione precedente.
 
-**Ritardo in giorni dall'ultima email per invio sollecito pagamento:** Intervallo di tempo tra un'email di sollecito inviata e la successiva.
+**Ritardo in giorni dall'ultima email per invio sollecito pagamento:** Numero di giorni a partire dalla data di invio del sollecito precedente, allo scadere dei quali verranno inviati il secondo e terzo sollecito e la notifica di mancato pagamento.
+
+**Template email secondo sollecito:** Template email utilizzato per il secondo sollecito di pagamento di una rata scaduta.
+
+**Template email terzo sollecito:** Template email utilizzato per il terzo sollecito di pagamento di una rata scaduta.
+
+**Template email mancato pagamento dopo i solleciti:** Template email utilizzato per la notifica di mancato pagamento a seguito dell'invio di 3 solleciti, all'indirizzo selezionato nell'impostazione successiva.
+
+**Indirizzo email mancato pagamento dopo i solleciti:** Indirizzo email sul quale verrà notificato il mancato pagamento a seguito dell'invio di 3 solleciti al cliente, allo scadere dei giorni previsti per la notifica scadenza se l'incasso del pagamento non viene registrato.
+
+**Template email promemoria scadenza:** Template email utilizzato per la notifica dell'imminente scadenza con giorni di anticipo definiti nell'impostazione successiva.
+
+**Intervallo di giorni in anticipo per invio promemoria scadenza:** Specifica il numero di giorni alla scadenza in cui inviare un promemoria di pagamento notificando la scadenza imminente
+
+### 🔨 Tavoletta Wacom
+
+**Licenza Wacom SDK - Key:** Chiave di licenza per l'utilizzo della tavoletta grafica Wacom.
+
+**Sfondo firma tavoletta Wacom:** Colore di sfondo impostato per la firma nella tavoletta grafica Wacom.
+
+**Luminosità firma Wacom:** Luminosità impostata di default per la tavoletta grafica Wacom.
+
+**Contrasto firma Wacom:** Contrasto impostato di default per la tavoletta grafica Wacom.
+
+**Secondi timeout tavoletta Wacom:** E' qui possibile impostare i secondi di default prima dello spegnimento automatico della tavoletta Wacom.
+
+**Licenza Wacom SDK - Secret:** E' qui possibile impostare il secret generato con la generazione della licenza.
+
+{% content-ref url="../../../guide/esempi/generazione-di-una-chiave-di-licenza-wacom.md" %}
+[generazione-di-una-chiave-di-licenza-wacom.md](../../../guide/esempi/generazione-di-una-chiave-di-licenza-wacom.md)
+{% endcontent-ref %}
