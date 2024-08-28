@@ -4,16 +4,17 @@ description: Come aggiornare OpenSTAManager
 
 # 🆙 Aggiornamento
 
-**OpenSTAManager** supporta due procedure distinte per il caricamento degli aggiornamenti:
+{% hint style="info" %}
+Con il passaggio da OSM 2.4.54 a OSM 2.5.3 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5.3 è pertanto necessario effettuare l'aggiornamento via file.
+{% endhint %}
 
-* Automatici tramite caricamento del file ZIP nel modulo Aggiornamenti
-* Manuali tramite la scompattazione del file ZIP
+La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 
-Per un approfondimento su entrambe queste tipologie, siete pregati di visitare la sezione sui [Dettagli tecnici](aggiornamento.md#dettagli-tecnici).
-
-Dopo il caricamento dell'aggiornamento, potrebbe richiedere richiesto anche l'aggiornamento del database.
-
-In questo caso, ogni utente presente all'interno del gestionale verrà automaticamente reindirizzato verso il logout e sarà possibile aggiornare il database come richiesto attraverso delle apposite schermate e il pulsante ![](../../.gitbook/assets/Aggiorna.PNG) .
+* eseguire i controlli di integrità del database e correggere ogni errore segnalato, in modo da evitare che le query diano errore in fase di aggiornamento: [https://docs.openstamanager.com/v/2.5.4/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database](https://docs.openstamanager.com/v/2.5.4/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database)
+* **effettuare un backup del gestionale**
+* cambiare versione di php in php>=8.1
+* estrarre lo zip della release all'interno della root del gestionale
+* seguire la procedura guidata dell'aggiornamento, cliccando sul tasto Aggiorna!
 
 <figure><img src="../../.gitbook/assets/immagine (198).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,32 +47,3 @@ Questo viene reso possibile visitando l'URL a cui è possibile accedere a OpenST
 {% hint style="warning" %}
 **Attenzione**: quest'azione è sconsigliata a utenti non esperti.
 {% endhint %}
-
-### ⏺️ Aggiornamento semplificato
-
-La procedura di aggiornamento semplificato ha l'obiettivo di fornire un sistema di facile utilizzo per favorire l'aggiornamento, e migliorare in questo modo l'interazione con l'utente finale.
-
-L'utilizzo di questa procedura è però sottoposto alla seguenti condizioni nelle impostazioni PHP:
-
-* `upload_max_filesize` >= 16MB
-* `post_max_size` >= 16MB
-
-Di seguito la procedura:
-
-1. Accedere con un account amministrativo
-2. Entrare nel modulo **Aggiornamenti** (disponibile nel menu principale a sinistra, eventualmente sotto la dicitura **Strumenti**)
-3. Selezionare il file _.zip_ della release attraverso l'apposita sezione "Carica un aggiornamento" e cliccare sul pulsante "Carica"
-
-Dopo l'esecuzione di queste azioni, il gestionale effettuerà automaticamente il logout di tutti gli utenti connessi e renderà disponibile l'interfaccia di aggiornamento.
-
-### ⏹️ Aggiornamento manuale
-
-La procedura di aggiornamento manuale è resa disponibile per ovviare ai problemi relativi al caricamento del file _.zip_ (in alcuni casi il file non viene correttamente rilevato, non sono disponibili i permessi per caricare file oppure la dimensione del file eccede il limite di upload sul server).
-
-Di seguito la procedura:
-
-1. De-comprimere il contenuto del file _.zip_ in una cartella temporanea
-2. Rinominare il file `VERSION` dell'installazione corrente in `VERSION.old` (rispettando minuscole e maiuscole) \[facoltativo a partire dalla versione 2.3]
-3. Copiare i file della nuova versione dalla cartella temporanea alla cartella del server, in modo che le cartelle principali (`files`, `modules`, `templates`, ...) vengano sovrascritte
-
-Dopo l'esecuzione di queste azioni, il gestionale effettuerà automaticamente il logout di tutti gli utenti connessi e renderà disponibile l'interfaccia di aggiornamento.
