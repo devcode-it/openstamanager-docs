@@ -5,7 +5,7 @@ description: Come aggiornare OpenSTAManager
 # 🆙 Aggiornamento
 
 {% hint style="info" %}
-Con il passaggio da OSM 2.4.54 a OSM 2.5.3 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5.3 è pertanto necessario effettuare l'aggiornamento via file.
+Con il passaggio da OSM 2.4.54 a OSM 2.5.3 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5.3 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
 {% endhint %}
 
 La procedura corretta per installare i nuovi aggiornamenti di OSM è:
@@ -21,6 +21,10 @@ La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 Al termine dell'aggiornamento si presenterà la seguente schermata.​
 
 <figure><img src="../../.gitbook/assets/immagine (199).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Nel caso di aggiornamento da vecchie versioni consigliamo di cancellare il file config.inc.php e di ricrearlo tramite procedura guidata, che si avvierà automaticamente al primo accesso al gestionale.
+{% endhint %}
 
 ## ⚠️ Errori di aggiornamento
 
