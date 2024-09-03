@@ -9,7 +9,7 @@ Il modulo è dedicato alla **gestione delle operazioni di sincronizzazione** del
 {% endhint %}
 
 {% hint style="warning" %}
-La **sincronizzazione** è attualmente gestita con provider PrestaShop, WooCommerce e Shopify, in questo modo:
+La **sincronizzazione** è attualmente gestita con le piattaforme di e-commerce PrestaShop, WooCommerce e Shopify, in questo modo:
 {% endhint %}
 
 <table><thead><tr><th width="265">Importazione da ecommerce</th><th>Versione</th><th width="86" data-type="checkbox">Articoli</th><th width="102" data-type="checkbox">Quantità </th><th width="79" data-type="checkbox">Ordini</th><th width="125" data-type="checkbox">Anagrafiche</th></tr></thead><tbody><tr><td>Prestashop </td><td>>= 1.7.0</td><td>false</td><td>true</td><td>true</td><td>true</td></tr><tr><td>Woocommerce </td><td>>= 7.0</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>Shopify</td><td>>= 2.0</td><td>true</td><td>true</td><td>true</td><td>true</td></tr></tbody></table>
