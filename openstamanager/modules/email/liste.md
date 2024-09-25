@@ -40,18 +40,16 @@ Questo è uno strumento avanzato, è infatti necessario sapere come formulare le
 
 Ad esempio, volendo creare una lista contenente tutti i clienti che non hanno fatto ordini negli ultimi 6 mesi si dovrà compilare il campo **Query dinamica** in questo modo:
 
-```bash
-SELECT
-    an_anagrafiche.idanagrafica as id,
-    'Modules\\Anagrafiche\\Anagrafica' as tipo
+<pre class="language-bash"><code class="lang-bash">SELECT
+    an_anagrafiche.idanagrafica AS id,
+    'Modules\\Anagrafiche\\Anagrafica' AS tipo
 FROM
     an_anagrafiche
-    INNER JOIN an_tipianagrafiche_anagrafiche ON an_tipianagrafiche_anagrafiche.idanagrafica = an_anagrafiche.idanagrafica
-    INNER JOIN an_tipianagrafiche ON an_tipianagrafiche.id = an_tipianagrafiche_anagrafiche.idtipoanagrafica
-    LEFT JOIN or_ordini ON or_ordini.idanagrafica = an_anagrafiche.idanagrafica
+<strong>    INNER JOIN an_tipianagrafiche_anagrafiche ON an_anagrafiche.idanagrafica = an_tipianagrafiche_anagrafiche.idanagrafica
+</strong>    INNER JOIN an_tipianagrafiche ON an_tipianagrafiche_anagrafiche.idtipoanagrafica = an_tipianagrafiche.id
+    LEFT JOIN an_tipianagrafiche_lang ON (an_tipianagrafiche_lang.id_record = an_tipianagrafiche.id AND an_tipianagrafiche_lang.id_lang = 1)
 WHERE
-    deleted_at IS NULL AND (or_ordini.id NOT IN (SELECT or_ordini.id FROM or_ordini WHERE MONTH(or_ordini.data) > (MONTH(NOW()) - 6)) OR or_ordini.data IS NULL)
-    AND an_tipianagrafiche.name = 'Cliente';
-```
+    deleted_at IS NULL AND an_tipianagrafiche_lang.title = "Cliente"
+</code></pre>
 
 <figure><img src="../../../.gitbook/assets/immagine (56).png" alt=""><figcaption></figcaption></figure>
