@@ -73,6 +73,8 @@ Cliccando su modifica riga si accederà alla seguente schermata, dove sarà poss
 
 Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e da qui sarà possibile chiudere il documento, procedere al pagamento e stamparne lo scontrino.
 
+Cliccando il pulsante **Chiusura** sarà inoltre possibile selezionare il registratore di cassa da cui stampare lo scontrino, tramite l'apposito menu a tendina. Come valore di default viene selezionato il registratore collegato alla sede dell'utente che ha effettuato l'accesso nel caso in cui si tratti della prima vendita, dalla seconda vendita in poi viene invece selezionato automaticamente sempre l'ultimo registratore di cassa utilizzato.
+
 Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
 
 <figure><img src="../.gitbook/assets/immagine (216).png" alt=""><figcaption></figcaption></figure>
