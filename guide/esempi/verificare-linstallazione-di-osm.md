@@ -15,8 +15,6 @@ L'installazione del gestionale richiede la presenza di un web server Apache con 
 | 8.3 | 23/11/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.2 | 08/12/2025 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.1 | 25/11/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 8.0 | 26/11/2023 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
-| 7.4 | 28/11/2022 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
 
 
 
@@ -26,10 +24,8 @@ L'installazione del gestionale richiede la presenza di un web server Apache con 
 | 8.2   | 31/01/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.1   | 25/10/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.0   | 01/04/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 5.7   | 21/10/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 5.6   | 05/02/2021 |         <img src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png" alt="x" data-size="line">        |
 
-Le versioni di PHP supportate sono dalla 7.3 alla 8.0, mentre quelle di MySQL dalla 5.7 alla 8.0.
+Le versioni di PHP supportate sono dalla 8.1 alla 8.3, mentre quelle di MySQL dalla 8.0 alla 8.3.
 
 {% hint style="warning" %}
 Il gestionale non è compatibile con MariaDB.
