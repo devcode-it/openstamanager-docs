@@ -1,53 +1,45 @@
 ---
-description: Elenco delle principali novità introdotte con la release 2.5.5.
+description: Elenco delle principali novità introdotte con la release 2.5.6.
 ---
 
 # 📣 Novità
 
-Di seguito le principali novità della versione 2.5.5, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
+Di seguito le principali novità della versione 2.5.6, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-➡️  Aggiunta la geolocalizzazione automatica per anagrafiche e sedi
+➡️  Migliorato il footer con evidenziazione dell'importo da pagare, e corretta la generazione delle righe vuote nella stampa delle fatture di vendita.
 
-➡️  Aggiunta vista satellite su mappa
+<figure><img src=".gitbook/assets/immagine (1112).png" alt=""><figcaption></figcaption></figure>
+
+➡️  Miglioria modulo Articoli con aggiunta dell'header:
+
+<figure><img src=".gitbook/assets/immagine (1113).png" alt=""><figcaption></figcaption></figure>
 
 #### Bugfix per bug noti&#x20;
 
-➡️  Corretta l'aggiunta dei filtri dei moduli nelle Viste
+➡️  Corretta la generazione delle scadenze
 
-➡️  Corretti i riferimenti ai documenti nelle Attività
+➡️ Corretta la modifica delle sottocategorie di impianti e articoli
 
-➡️  Corretti i dati cliente/fornitore nei documenti
+➡️  Corretta l'importazione della fattura di acquisto quando il nodo ImportoTotaleDocumento non è valorizzato
 
-➡️  Corretti i controlli per le impostazioni non previste
+➡️  Corretto l'aggiornamento di impianti collegati a contratti
 
-➡️  Corretto l'upload dei file
+➡️  Corretto il caricamento di immagini in campo di testo
 
-➡️  Corretta la vista Utenti e permessi
+➡️  Corretta la movimentazione e creazione articoli fra sedi abilitate
 
-➡️  Corretta la visualizzazione delle variazioni di quantità
+➡️  Corretta la creazione di utenti senza sede e l'avviso di creazione sede senza accesso
 
-➡️  Corretta l'importazione delle fatture di acquisto
+➡️  Corretta l'impostazione della sede di partenza in fatture e interventi
 
-➡️  Corretta l'importazione delle anagrafiche
+➡️  Corretta l'autenticazione con Microsoft
 
-➡️  Corretta l'impostazione dell'immagine utente
+➡️ Corretta l'indicazione della scadenza da pagare in Fatture
 
-➡️  Corretta l'eliminazione degli utenti
+➡️  Corretta la creazione di una nota di debito
 
-➡️  Corretta la sovrascrittura del campo nome in Importazione impianti
+➡️  Corretto il controllo su stati contratti omonimi al salvataggio
 
-➡️  Corretta la creazione di una fattura accompagnatoria
+➡️  Corrette le api dell'applicazione
 
-➡️  Corretto il modulo Mappa
-
-➡️  Corretta la visualizzazione della descrizione articolo in presenza di apici
-
-➡️  Corretta la stampa partitario mastrino
-
-➡️  Corretta la creazione di backup automatici
-
-➡️  Corretti i requisiti di php
-
-➡️  Corretta la visualizzazione di anagrafiche senza tipo
-
-➡️  Corretta la visualizzazione degli ultimi movimenti in prima nota
+➡️  Corretti gli arrotondamenti automatici in fase di importazione fatture di acquisto
