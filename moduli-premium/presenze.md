@@ -8,19 +8,25 @@ description: Guida al modulo aggiuntivo Presenze di OpenSTAManager
 
 A seguito dell'installazione del modulo, prima di poter iniziare ad utilizzarlo è necessario effettuare alcune configurazioni:
 
-1. Impostare il tipo di anagrafica Cliente, oltre ad Azienda, per l'anagrafica azienda:
+1. **Impostare il tipo di anagrafica Cliente, oltre ad Azienda, per l'anagrafica azienda:**
 
 Si dovrà quindi andare in Anagrafiche, accedere all'anagrafica azienda e aggiungere il tipo **Cliente** se non è già presente per l'anagrafica. Questo servirà per il punto 2
 
 <figure><img src="../.gitbook/assets/immagine (1125).png" alt=""><figcaption></figcaption></figure>
 
-2. Creare un'attività fittizia associata all'anagrafica azienda:
+2. **Creare un'attività fittizia associata all'anagrafica azienda:**
 
 Si dovrà andare in Attività, e aggiungere una nuova attività impostando come cliente l'anagrafica azienda. Questa attività servirà nella modifica delle impostazioni.
 
 <figure><img src="../.gitbook/assets/immagine (1126).png" alt=""><figcaption></figcaption></figure>
 
-3. Configurare le impostazioni:
+3. **Creare dei tipi di attività, a cui associare le varie tariffe orarie**
+
+Da Attività/Tipi di attività è necessario configurare le varie tariffe da impostare in base al tipo di attività selezionata:
+
+<figure><img src="../.gitbook/assets/immagine (1133).png" alt=""><figcaption></figcaption></figure>
+
+3. **Configurare le impostazioni:**
 
 Andando ora in Strumenti/Impostazioni sarà possibile visualizzare un pannello denominato **Presenze**, da qui sarà necessario configurare:
 
@@ -41,10 +47,12 @@ Cliccando sulla freccetta del tasto Sessione ordinaria è possibile aggiungere u
 
 Dopo aver aggiunto la sessione possiamo vedere che la riga si è colorata di verde, avendo impostato il numero di ore per completare la giornata a 7.
 
-Cliccando sulle ore è possibile apportarvi modifiche, nell'esempio andremo ad impostare una sessione da 4 ore:
+<figure><img src="../.gitbook/assets/immagine (1134).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (1131).png" alt=""><figcaption></figcaption></figure>
+Cliccando sulle ore nella colonna **Totale** è possibile apportarvi modifiche, nell'esempio andremo ad impostare una sessione da 4 ore:
+
+<figure><img src="../.gitbook/assets/immagine (1135).png" alt=""><figcaption></figcaption></figure>
 
 Dopo aver chiuso la popup, potremo visualizzare quindi che le ore totali sono diventate 4, e che la riga è tornata grigia, essendo possibile l'inserimento di altre sessioni.
 
-<figure><img src="../.gitbook/assets/immagine (1132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1136).png" alt=""><figcaption></figcaption></figure>
