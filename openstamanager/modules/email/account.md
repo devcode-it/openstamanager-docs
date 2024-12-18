@@ -111,7 +111,9 @@ A partire dal 30 settembre 2024, le app meno sicure, le app di terze parti o i d
 DEPRECATA dal 30/05/22: [https://support.google.com/accounts/answer/6010255?hl=it](https://support.google.com/accounts/answer/6010255?hl=it)
 {% endhint %}
 
-Per account Gmail che non abbiano abilitato questa impostazione prima che venisse dismessa, è necessraio abilitare l'autenticazione a due fattori per la configurazione dell'account nel gestionale.
+{% hint style="danger" %}
+Per account Gmail che non abbiano abilitato questa impostazione prima che venisse dismessa, è necessario abilitare l'autenticazione a due fattori per la configurazione dell'account nel gestionale.
+{% endhint %}
 
 ## 📨Invio
 
