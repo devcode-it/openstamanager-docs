@@ -20,8 +20,6 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Mittente
 * Causale di trasporto
 
-
-
 <figure><img src="../../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
@@ -46,6 +44,8 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Note
 * Note aggiuntive
 
+
+
 <figure><img src="../../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 E' inoltre possibile modificare le righe e gli allegati.
@@ -59,7 +59,7 @@ Le righe possono includere:
 * DDT
 * Ordine
 
-<figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (1149).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 

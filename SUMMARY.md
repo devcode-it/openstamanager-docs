@@ -97,7 +97,7 @@
       * [🔧 Plugin](openstamanager/modules/acquisti/fatturediacquisto/plugin.md)
   * [⚖️ Contabilità](openstamanager/modules/contabilita/README.md)
     * [🖨️ Stampe contabili](openstamanager/modules/contabilita/stampecontabili.md)
-    * [1️⃣ Prima nota](openstamanager/modules/contabilita/primanota.md)
+    * [1️⃣ 1️⃣ Prima nota](openstamanager/modules/contabilita/primanota.md)
     * [📖 Piano dei conti](openstamanager/modules/contabilita/pianodeiconti.md)
     * [⏳ Scadenzario](openstamanager/modules/contabilita/scadenzario/README.md)
       * [💳 Presentazioni bancarie](openstamanager/modules/contabilita/scadenzario/presentazioni-bancarie.md)
@@ -180,8 +180,8 @@
     * [🔝 Aggiornamenti](openstamanager/modules/strumenti/aggiornamenti.md)
     * [Adattatori di archiviazione](openstamanager/modules/strumenti/adattatori-di-archiviazione.md)
 * [📱 APP Tecnici](openstamanager/app-tecnici/README.md)
-  * [3️⃣ v3.0.41](openstamanager/app-tecnici/v3.0.41.md)
-  * [3️⃣ v3.0.30](openstamanager/app-tecnici/v3.0.30.md)
+  * [3️⃣ 3️⃣ v3.0.41](openstamanager/app-tecnici/v3.0.41.md)
+  * [3️⃣ 3️⃣ v3.0.30](openstamanager/app-tecnici/v3.0.30.md)
 
 ## guide
 
