@@ -8,7 +8,7 @@ description: Come gestire i DDT in entrata con OpenSTAManager
 Il modulo **DDT in Entrata** permette di registrare un documento di trasporto per la merce in entrata.
 {% endhint %}
 
-![](<../../../../.gitbook/assets/image (229).png>)
+<figure><img src="../../../../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
 
 ## ➕ Creazione
 
@@ -20,44 +20,46 @@ Andranno qui inserite le informazioni relative al nuovo DDT:
 * Mittente
 * Causale di trasporto
 
-<figure><img src="../../../../.gitbook/assets/immagine (897).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 🖌️ Modifica
 
 Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui sarà possibile modificare:
 
-* Numero secondario
-* Data
-* Stato
 * Mittente
 * Referente
-* Partenza merce (con possibilità di [creare una sede al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
-* Destinazione merce
-* Aspetto beni (con possibilità di[ crearlo al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
-* Causale trasporto (con possibilità di [crearla al volo](https://docs.openstamanager.com/modules/attivita/creazione#creazione-di-record-al-volo))
+* Numero secondario
+* Data
+* Sede partenza
+* Sede destinazione
+* Pagamento
+* Sconto in fattura
+* Aspetto beni
+* Causale trasporto
 * Tipo di spedizione
 * Num. colli
-* Pagamento
 * Porto
 * Vettore
-* Data e ora trasporto
+* Data ora trasporto
 * Note
 * Note aggiuntive
 
-<figure><img src="../../../../.gitbook/assets/immagine (467).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
 
 E' inoltre possibile modificare le righe e gli allegati.
 
 Le righe possono includere:
 
 * Articolo
-* Riga generica
+* Riga manuale
 * Descrizione
 * Sconto/maggiorazione
 * DDT
 * Ordine
 
-<figure><img src="../../../../.gitbook/assets/immagine (618).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 🔽 Informazioni aggiuntive
 
