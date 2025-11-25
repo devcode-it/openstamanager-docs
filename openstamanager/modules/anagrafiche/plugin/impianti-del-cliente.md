@@ -1,0 +1,22 @@
+---
+description: Guida al plugin Impianti del cliente in OpenSTAManager
+icon: plug
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/WkbGuoumAhr6AzXH9lzV/openstamanager/modules/anagrafiche/plugin/impianti-del-cliente
+---
+
+# Impianti del cliente
+
+{% hint style="warning" %}
+Plugin disponibile solo da un'anagrafica di tipo Cliente.
+{% endhint %}
+
+{% hint style="info" %}
+Il plugin **Impianti del cliente** è una componente del modulo **Anagrafiche** che permette di visualizzare gli impianti collegati all'anagrafica di tipo cliente.
+{% endhint %}
+
+È possibile creare e collegare un impianto ad un'anagrafica di tipo cliente dal modulo [Impianti](../../impianti/).
+
+<figure><img src="../../../../.gitbook/assets/immagine (221).png" alt=""><figcaption></figcaption></figure>
