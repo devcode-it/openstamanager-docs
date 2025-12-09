@@ -1,5 +1,5 @@
 ---
-description: Elenco delle principali novità introdotte con la release 2.9.6
+description: Elenco delle principali novità introdotte con la release 2.9.7
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/UK4SVx7wuArwVldJWR1I/
@@ -7,24 +7,18 @@ metaLinks:
 
 # 📣 Novità
 
-Di seguito le principali novità della versione 2.9.6, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
-
-#### Migliorie
-
-✨ Miglioria grafica controlli gestionale in Aggiornamenti
-
-✨ Miglioria gestione immagini impianto, articolo e firme allegati
-
-✨ Rimozione blocco generazione autofatture a 0
+Di seguito le principali novità della versione 2.9.7, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
 #### Bugfix per bug noti&#x20;
 
-🔧  Corretto calcolo spazio occupato
+🔧 Corretti i riferimenti nella registrazione contabile da azioni di gruppo
 
-🔧 Corretta lettura informazioni su services
+🔧 Corretta l'aggiunta di ordini in Attività
 
-🔧  Corretta stampa inventario con filtri
+🔧 Corretto il controllo sull'IBAN
 
-🔧  Corretta visualizzazione highlight righe documenti alla modifica
+🔧 Corretto il caricamento di allegati
 
-🔧  Corretta salvataggio categorie contratti
+🔧 Corretta l'importazione delle fatture da ZIP
+
+🔧 Corretto il salvataggio della firma da app
