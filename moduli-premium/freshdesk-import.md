@@ -8,7 +8,9 @@ description: Guida al modulo Freshdesk Import in OpenSTAManager
 Freshdesk import è un modulo che permette di importare i ticket da Freshdesk in OpenSTAManager, associandoli alle attività.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/immagine (1434).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/img.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Funzionalità
 
