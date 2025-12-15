@@ -256,6 +256,7 @@
 * [📗 E-commerce](moduli-premium/modulo-sincronizzazione.md)
 * [📗 Email ticketing](moduli-premium/email-ticketing.md)
 * [📗 Fatturazione programmata contratti](moduli-premium/fatturazione-programmata-contratti.md)
+* [📗 Freshdesk Import](moduli-premium/freshdesk-import.md)
 * [📗 Gestione SMS](moduli-premium/gestione-sms.md)
 * [📗 Integrazione con 3CX](moduli-premium/integrazione-con-3cx.md)
 * [📗 Produzione](moduli-premium/produzione/README.md)
