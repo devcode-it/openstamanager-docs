@@ -11,11 +11,11 @@ metaLinks:
 
 Dal modulo categorie file è possibile gestire le categorie associate ai file allegati.
 
-E' possibile creare una nuova categoria di file cliccando sul tasto ![](<../../../../.gitbook/assets/immagine (4).png>)
+E' possibile creare una nuova categoria di file cliccando sul tasto ![](<../../../../.gitbook/assets/immagine (4) (1).png>)
 
 Sarà da qui possibile definire una descrizione e cliccare su Aggiungi
 
-<figure><img src="../../../../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Questa categoria sarà ora selezionabile al momento del caricamento di allegati.
 

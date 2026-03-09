@@ -13,7 +13,7 @@ Da questo modulo è possibile aggiungere e modificare gli stati selezionabili pe
 
 Per aggiungere un nuovo stato è necessario cliccare sul tasto ![](<../../../../.gitbook/assets/immagine (11).png>)
 
-<figure><img src="../../../../.gitbook/assets/immagine (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Da qui sarà possibile definire:
 
@@ -25,7 +25,7 @@ Da qui sarà possibile definire:
 
 Dopo aver cliccato su Aggiungi, sarà possibile modificare tutti i valori tranne la descrizione
 
-<figure><img src="../../../../.gitbook/assets/immagine (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

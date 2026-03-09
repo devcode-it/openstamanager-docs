@@ -9,7 +9,7 @@ metaLinks:
 
 # Descrizioni predefinite
 
-E' possibile creare una nuova descrizione predefinita cliccando sul tasto ![](<../../../../.gitbook/assets/immagine (1).png>)
+E' possibile creare una nuova descrizione predefinita cliccando sul tasto ![](<../../../../.gitbook/assets/immagine (1) (1).png>)
 
 Da qui è possibile valorizzare:
 
@@ -18,10 +18,10 @@ Da qui è possibile valorizzare:
 * Descrizione
 * Note
 
-<figure><img src="../../../../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dopo aver cliccato su aggiungi, verrà creata la nuova descrizione predefinita.
 
 Navigando ora al modulo Fatture di vendita (selezionato al momento della creazione), sarà possibile aggiungere una nuova fattura, e andare a selezionare questa descrizione predefinita al momento dell'inserimento di una nuova riga
 
-<figure><img src="../../../../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
