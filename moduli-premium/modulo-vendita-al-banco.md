@@ -8,109 +8,241 @@ metaLinks:
 
 # 📗 Vendita al banco
 
-**Vendita al banco** è uno dei diversi moduli acquistabili da **OpenSTAManager.** Il modulo permette la vendita al banco di prodotti con o senza codice a barre.
+Vendita al banco è uno dei diversi moduli acquistabili da OpenSTAManager. Il modulo permette la vendita al banco di prodotti con o senza codice a barre, offrendo un'interfaccia intuitiva per la gestione delle vendite in negozio.
 
-{% hint style="info" %}
-[Clicca qui](https://shop.openstamanager.com/prodotto/vendita-al-banco/) per procedere all'acquisto
-{% endhint %}
+Per procedere all'acquisto del modulo, visitare la pagina ufficiale di OpenSTAManager.
 
-Di seguito sono elencati i parametri consigliati per il registratore di cassa:
-
-* PARAMETRI COMUNICAZIONE PROTOCOLLO: **XON/XOFF**
-* BAUNDRATE: **9600**
-* BIT NUMBER: **\[8,NONE,1]**
-* XON-XOFF TX FOOTER: **\[DISABILITATO]**
-* XON-XOFF TX ECO: **\[DISABILITATO]**
-* HANDSHAKE: **\[XON/XOFF]**
-* MODO FPU: **\[DISABILITATO]**
-* CANALE PC: **\[Ethernet]**
-* VIRGOLA INCLUSA: **SI**
-* ECHO FULL: **NO**
+***
 
 ### Requisiti
 
-Compatibile con stampanti fiscali che supportano il protocollo xon-xoff e lavorano in rete.
+Il modulo Vendita al banco è compatibile con stampanti fiscali che supportano il protocollo XON/XOFF e lavorano in rete.
 
-## Vendita al banco
+#### Requisiti Hardware
 
-A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la seguente schermata:
+* Stampante fiscale con supporto protocollo XON/XOFF
+* Connessione di rete per la stampante
+* Lettore di codice a barre (opzionale ma consigliato)
 
-<figure><img src="../.gitbook/assets/immagine (1365).png" alt=""><figcaption></figcaption></figure>
+***
 
-### Creazione
+### Configurazione Registratore di Cassa
 
-Per creare una vendita al banco in OpenSTAManager si dovrà cliccare sul tasto (+).
+Di seguito sono elencati i parametri consigliati per la configurazione del registratore di cassa:
 
-La schermata che si presenterà sarà questa, dove sarà possibile inserire:
+#### Parametri Comunicazione
 
-* Stato
-* Magazzino
-* Pagamento
-* Cliente
-* Agente
-* Registratore di cassa
-* Importo pagato
-* Note
-* Righe
+| Parametro              | Valore          |
+| ---------------------- | --------------- |
+| **Protocollo**         | XON/XOFF        |
+| **Baudrate**           | 9600            |
+| **Bit Number**         | \[8, NONE, 1]   |
+| **XON-XOFF TX Footer** | \[DISABILITATO] |
+| **XON-XOFF TX ECO**    | \[DISABILITATO] |
+| **Handshake**          | \[XON/XOFF]     |
+| **Modo FPU**           | \[DISABILITATO] |
+| **Canale PC**          | Ethernet        |
+| **Virgola inclusa**    | SI              |
+| **Echo Full**          | NO              |
 
-<figure><img src="../.gitbook/assets/immagine (351).png" alt=""><figcaption></figcaption></figure>
+***
 
-Dopo aver inserito le righe interessate si dovrà cliccare su Chiudi vendita per concludere la vendita e registrare il pagamento.
+### Vendita al Banco
 
-### Modifica
+A seguito dell'installazione del modulo, cliccando su **Vendita al banco** apparirà la schermata principale del modulo.
 
-Per poter modificare una vendita al banco chiusa, sarà necessario entrare nella vendita interessata e cliccare su Riapri vendita. Da qui sarà possibile apportare le modifiche necessarie.
+<figure><img src="../.gitbook/assets/immagine (1443).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (352).png" alt=""><figcaption></figcaption></figure>
+#### Creazione
 
-## Easy vendita
+Per creare una vendita al banco in OpenSTAManager:
 
-Dal modulo Easy vendita invece si avrà l'interfaccia di un registratore di cassa, da cui sarà possibile movimentare i prodotti mediante scansione del codice a barre o selezionandoli dalle categorie presenti in magazzino.
+1. Cliccare sul tasto **(+)** nella schermata principale
+2. Compilare i seguenti campi:
 
-I prodotti così inseriti si vedranno nella colonna di destra, dove sarà possibile modificarne le quantità, modificare la riga o toglierli dal carrello.
+**Campi Disponibili**
 
-<figure><img src="../.gitbook/assets/immagine (355).png" alt=""><figcaption></figcaption></figure>
+* **Stato**: Definisce lo stato della vendita (aperta/chiusa)
+* **Magazzino**: Seleziona il magazzino di riferimento per la vendita
+* **Pagamento**: Specifica la modalità di pagamento utilizzata
+* **Cliente**: Associa la vendita a un cliente specifico
+* **Agente**: Seleziona l'agente che ha effettuato la vendita
+* **Registratore di cassa**: Sceglie il registratore di cassa da utilizzare
+* **Importo pagato**: Indica l'importo effettivamente pagato dal cliente
+* **Note**: Campo libero per eventuali annotazioni
+* **Righe**: Sezione dedicata all'inserimento dei prodotti venduti
 
-Cliccando su modifica riga si accederà alla seguente schermata, dove sarà possibile applicare uno sconto, cambiare l'aliquota IVA, il prezzo di acquisto e di vendita.
+3. Inserire le righe con i prodotti venduti
+4. Cliccare su **Chiudi vendita** per concludere la vendita e registrare il pagamento
 
-<figure><img src="../.gitbook/assets/immagine (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1445).png" alt=""><figcaption></figcaption></figure>
 
-Una volta inseriti tutti i prodotti, sarà sufficiente cliccare il tasto PAGA e da qui sarà possibile chiudere il documento, procedere al pagamento e stamparne lo scontrino.
+#### Modifica
 
-Cliccando il pulsante **Chiusura** sarà inoltre possibile selezionare il registratore di cassa da cui stampare lo scontrino, tramite l'apposito menu a tendina. Come valore di default viene selezionato il registratore collegato alla sede dell'utente che ha effettuato l'accesso nel caso in cui si tratti della prima vendita, dalla seconda vendita in poi viene invece selezionato automaticamente sempre l'ultimo registratore di cassa utilizzato.
+Per poter modificare una vendita al banco chiusa:
 
-Per modificare la vendita appena conclusa sarà necessario cliccare su Riapertura. Da qui sarà possibile apportare le modifiche necessarie.
+1. Entrare nella vendita interessata
+2. Cliccare su **Riapri vendita**
+3. Apportare le modifiche necessarie
+4. Chiudere nuovamente la vendita
 
-<figure><img src="../.gitbook/assets/immagine (357).png" alt=""><figcaption></figcaption></figure>
+***
 
-## Tipologia pagamenti
+### Easy Vendita
 
-Nel modulo **Tipologia pagamenti** è possibile specificare che tipologia di pagamento associare a una tipologia pagamenti corrispondente a un determinato codice configurato come da impostazioni del proprio registratore di cassa.
+Il modulo **Easy vendita** offre un'interfaccia simile a quella di un registratore di cassa tradizionale, ottimizzata per la vendita rapida.
 
-<figure><img src="../.gitbook/assets/immagine (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1446).png" alt=""><figcaption></figcaption></figure>
 
-## Reparti
+#### Funzionalità Principali
 
-Nel modulo **Reparti** è possibile specificare i codici reparto da associare ai vari reparti, configurandoli come da impostazioni del proprio registratore di cassa.
+**Inserimento Prodotti**
 
-<figure><img src="../.gitbook/assets/immagine (359).png" alt=""><figcaption></figcaption></figure>
+È possibile movimentare i prodotti mediante:
 
-## Statistiche vendite
+* **Scansione del codice a barre**: Utilizzando un lettore di codice a barre
+* **Selezione dalle categorie**: Scegliendo i prodotti dalle categorie presenti in magazzino
 
-In questo modulo è possibile visualizzare le statistiche delle vendite al banco effettuate, con l'esploso delle righe.
+I prodotti inseriti vengono visualizzati nella colonna di destra, dove è possibile:
 
-<figure><img src="../.gitbook/assets/immagine (360).png" alt=""><figcaption></figcaption></figure>
+* Modificare le quantità
+* Modificare la riga
+* Rimuovere i prodotti dal carrello
 
-## Registratori di cassa
+**Modifica Riga**
 
-Da questo modulo è possibile configurare i registratori di cassa da associare al gestionale, per utilizzarli durante la vendita al banco.
+Cliccando su **modifica riga** si accede alla schermata di dettaglio, dove è possibile:
 
-<figure><img src="../.gitbook/assets/immagine (361).png" alt=""><figcaption></figcaption></figure>
+* Applicare uno sconto
+* Cambiare l'aliquota IVA
+* Modificare il prezzo di acquisto
+* Modificare il prezzo di vendita
 
-## Plugin Reparto
+**Chiusura della Vendita**
 
-In Strumenti/Tabelle/Categorie è possibile trovare il plugin Reparto, dal quale è possibile impostare massivamente un reparto a tutti gli articoli presenti associati a una determinata categoria, e alle relative sottocategorie.
+Una volta inseriti tutti i prodotti:
 
-<figure><img src="../.gitbook/assets/immagine (1366).png" alt=""><figcaption></figcaption></figure>
+1. Cliccare il tasto **PAGA**
+2. Chiudere il documento
+3. Procedere al pagamento
+4. Stampare lo scontrino
 
-Questa modifica non influenza eventuali articoli inseriti in un secondo momento alla categoria, ma solo quelli attualmente presenti nel gestionale.
+**Selezione Registratore di Cassa**
+
+Cliccando il pulsante **Chiusura** è possibile selezionare il registratore di cassa da cui stampare lo scontrino, tramite l'apposito menu a tendina.
+
+**Comportamento automatico:**
+
+* **Prima vendita**: Viene selezionato il registratore collegato alla sede dell'utente che ha effettuato l'accesso
+* **Vendite successive**: Viene selezionato automaticamente l'ultimo registratore di cassa utilizzato
+
+**Riapertura della Vendita**
+
+Per modificare una vendita appena conclusa:
+
+1. Cliccare su **Riapertura**
+2. Apportare le modifiche necessarie
+3. Chiudere nuovamente la vendita
+
+***
+
+### Tipologia Pagamenti
+
+Il modulo **Tipologia pagamenti** permette di configurare le modalità di pagamento utilizzabili durante la vendita al banco.
+
+#### Funzionalità
+
+È possibile specificare quale tipologia di pagamento associare a una tipologia pagamenti corrispondente a un determinato codice configurato come da impostazioni del proprio registratore di cassa.
+
+#### Utilizzo
+
+1. Accedere al modulo Tipologia pagamenti
+2. Creare o modificare una tipologia di pagamento
+3. Associare il codice corrispondente alla configurazione del registratore di cassa
+4. Salvare le modifiche
+
+***
+
+### Reparti
+
+Il modulo **Reparti** permette di organizzare i prodotti in reparti, facilitando la gestione e la categorizzazione delle vendite.
+
+#### Funzionalità
+
+È possibile specificare i codici reparto da associare ai vari reparti, configurandoli come da impostazioni del proprio registratore di cassa.
+
+#### Utilizzo
+
+1. Accedere al modulo Reparti
+2. Creare un nuovo reparto
+3. Inserire il codice reparto secondo le specifiche del registratore di cassa
+4. Salvare le modifiche
+
+***
+
+### Statistiche Vendite
+
+Il modulo **Statistiche vendite** fornisce una visione dettagliata delle vendite al banco effettuate.
+
+#### Funzionalità
+
+* Visualizzazione delle statistiche delle vendite al banco
+* Esploso delle righe di vendita
+* Analisi dettagliata dei prodotti venduti
+* Monitoraggio delle performance di vendita
+
+#### Utilizzo
+
+1. Accedere al modulo Statistiche vendite
+2. Selezionare il periodo di interesse
+3. Visualizzare i dati statistici
+4. Esportare i report se necessario
+
+***
+
+### Registratori di Cassa
+
+Il modulo **Registratori di cassa** permette di configurare e gestire i registratori di cassa associati al gestionale.
+
+#### Funzionalità
+
+* Configurazione dei registratori di cassa
+* Associazione alle sedi dell'azienda
+* Gestione dei parametri di connessione
+* Test di connessione con le stampanti fiscali
+
+#### Utilizzo
+
+1. Accedere al modulo Registratori di cassa
+2. Cliccare su **(+)** per aggiungere un nuovo registratore
+3. Compilare i campi di configurazione:
+   * Nome
+   * Sede di riferimento
+   * Parametri di connessione
+   * Altre impostazioni specifiche
+4. Salvare la configurazione
+5. Testare la connessione con la stampante fiscale
+
+***
+
+### Plugin Reparto
+
+Il **Plugin Reparto** è disponibile in **Strumenti > Tabelle > Categorie** e permette di gestire l'associazione massiva dei reparti alle categorie.
+
+#### Funzionalità
+
+È possibile impostare massivamente un reparto a tutti gli articoli presenti associati a una determinata categoria, e alle relative sottocategorie.
+
+#### Utilizzo
+
+1. Navigare in **Strumenti > Tabelle > Categorie**
+2. Selezionare la categoria di interesse
+3. Cliccare sul plugin **Reparto**
+4. Selezionare il reparto da associare
+5. Confermare l'operazione
+
+#### Note Importanti
+
+⚠️ **Attenzione**: Questa modifica influenza solo gli articoli attualmente presenti nel gestionale. Non influenza eventuali articoli inseriti in un secondo momento alla categoria.
+
+Per applicare il reparto ai nuovi articoli, sarà necessario ripetere l'operazione o associare manualmente il reparto a ogni nuovo articolo.
