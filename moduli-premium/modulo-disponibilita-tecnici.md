@@ -550,11 +550,3 @@ Il plugin permette di abilitare o disabilitare la visualizzazione del tecnico ne
 
 * Versione iniziale
 * Funzionalità base
-
-***
-
-### Conclusione
-
-Il modulo "Disponibilità tecnici" è uno strumento potente e flessibile per la gestione delle attività dei tecnici in OpenSTAManager. Con le sue funzionalità avanzate di visualizzazione, pianificazione e gestione, permette di ottimizzare il lavoro dei tecnici e migliorare l'efficienza operativa.
-
-Per ulteriori informazioni o supporto, consultare la documentazione ufficiale di OpenSTAManager o contattare il supporto tecnico.

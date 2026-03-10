@@ -247,3 +247,67 @@ Per confrontare il widget del fatturato o degli acquisti con i ricavi o i costi:
 * **Sottrarre dal budget** tutti i movimenti di prima nota che non sono stati generati automaticamente all'emissione della fattura
 * **Verificare la corrispondenza** delle date tra fattura e competenza
 * **Controllare** che non ci siano movimenti con data diversa dalla data di competenza della fattura
+
+***
+
+## Changelog
+
+### 6.0 (2026-02-19)
+
+#### Aggiunto (Added)
+
+* Allineamento modulo a OSM 2.10
+* Aggiunta generazione file per controllo integrità
+
+#### Modificato (Changed)
+
+* Ottimizzazione e refactoring del codice per migliorare la manutenibilità
+* Miglioramenti generali all'interfaccia utente
+
+### 5.0 (2025-07-24)
+
+#### Modificato (Changed)
+
+* Miglioramenti grafici generali dell'interfaccia
+* Miglioramenti grafici dei grafici del budget
+* Miglioramenti grafici delle tabelle del modulo Budget
+* Miglioramenti grafici del modulo Sorgenti Esterne
+* Miglioramenti grafici del modulo Previsionale
+* Modifiche al sistema di gestione dei periodi previsionali
+
+#### Corretto (Fixed)
+
+* Correzione bug modulo Budget
+* Correzione errore division by zero
+* Correzione inizializzazione select
+* Correzione gestione previsionale
+
+### 3.1 (2024-06-13)
+
+#### Aggiunto (Added)
+
+* Diminuzione dei costi previsionali del budget per conto: man mano che nel mese in corso si vanno a registrare costi in un conto dove c'è una previsione, la previsione diminuirà, per evitare che il costo reale più il costo previsionale generino un costo doppio nel mese in corso
+
+### 3.0 (2024-06-05)
+
+#### Aggiunto (Added)
+
+* Aggiunto php-cs-fix
+* Aggiunto rector
+
+#### Modificato (Changed)
+
+* Ottimizzato per php8.3
+* Allineato con OSM 2.5.2
+
+### 2.0 (2024-04-16)
+
+#### Modificato (Changed)
+
+* Allineato per php8.1
+
+### 1.1 (2024-01-16)
+
+#### Aggiunto (Added)
+
+* Aggiunto php-cs-fixer
