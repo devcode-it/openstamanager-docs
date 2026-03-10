@@ -12,7 +12,7 @@ metaLinks:
 
 Il modulo permette di visualizzare e gestire le attività dei tecnici in un calendario interattivo, offrendo una visione chiara e immediata della disponibilità dei tecnici in base a diversi intervalli temporali: mese, settimana o giorno.
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Vantaggi principali
 
@@ -119,7 +119,7 @@ Posizionato nella parte superiore, permette di:
 * Mantenere la selezione tra le sessioni
 * Aggiungere nuovi tecnici direttamente dal filtro
 
-<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Calendario Disponibilità Tecnici**
 
@@ -130,7 +130,7 @@ La sezione centrale mostra il calendario interattivo con:
 * Eventi colorati in base allo stato e al tecnico
 * Indicatore della data/ora corrente
 
-<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3. Promemoria da Pianificare**
 
@@ -141,7 +141,7 @@ Se presenti, questa sezione mostra:
 * Selettore per mese
 * Eventi trascinabili nel calendario
 
-<figure><img src="../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -151,7 +151,7 @@ Il modulo offre tre tipi di visualizzazione principali:
 
 #### Visualizzazione Mese
 
-<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Caratteristiche:**
 
@@ -175,7 +175,7 @@ Il modulo offre tre tipi di visualizzazione principali:
 
 #### Visualizzazione Settimana
 
-<figure><img src="../.gitbook/assets/immagine (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Caratteristiche:**
 
