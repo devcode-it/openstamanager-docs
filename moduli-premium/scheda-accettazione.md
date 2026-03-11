@@ -102,7 +102,7 @@ Per creare una nuova scheda di accettazione:
     * **Cellulare**: Numero di cellulare
     * **Sede**: Selezionare la sede (se presente)
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 **Dati Prodotto:**
 
@@ -119,19 +119,19 @@ Per creare una nuova scheda di accettazione:
 
 * **Tecnici**: Selezionare uno o più tecnici da assegnare all'intervento
 
-<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.  **Creazione attività**
 
     Cliccare su "Aggiungi firma" per far firmare la scheda di accettazione
 
-<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cliccare su "Crea attività" per procedere con la generazione della scheda di accettazione.
 
-<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Gestione Post-Creazione
 
