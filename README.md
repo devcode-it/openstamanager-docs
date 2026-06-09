@@ -1,27 +1,27 @@
 ---
-description: Elenco delle principali novità introdotte con la release 2.10.4
+description: Elenco delle principali novità introdotte con la release 2.11
 ---
 
 # 📣 Novità
 
-Di seguito le principali novità della versione 2.10.4, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
+Di seguito le principali novità della versione 2.11, per maggiori dettagli visitare [GitHub](https://github.com/devcode-it/openstamanager).
 
-#### Ottimizzazione dell'importazione delle anagrafiche
+#### **Introdotte azioni di gruppo sui documenti**
 
-Ottimizzazione del processo di importazione delle anagrafiche a blocchi per prevenire la creazione di record duplicati. Questa migliora l'affidabilità del processo di importazione massiva, garantendo l'integrità dei dati e riducendo i rischi di duplicazioni indesiderate nel database.
+E' ora possibile duplicare massivamente i documenti, sono state aggiunte le colonne Data insoluto, Data pagamento rate e Validità nelle fatture di vendita. E' ora possibile creare contratti a partire dagli ordini, importare gli ordini nelle attività e rinnovare contratti con ore residue
 
-#### Correzioni sulla fatturazione
+#### **Nuove funzionalità commerciali**
 
-Correzione sull'importazione di fatture di acquisto con split payment e sull'addebito automatico delle spese di incasso. Queste correzioni garantiscono una gestione più accurata e conforme alle normative fiscali dei documenti contabili.
+E' stata introdotta la gestione delle varianti direttamente a partire dalla scheda articolo, la gestione degli stati impianto con relativo modulo, e l'imputazione di commissioni per riba insolute in fase di registrazione insoluto.
 
-#### Miglioramento gestione delle email e degli allegati
+#### **Miglioramenti operativi e di gestione**
 
-Risoluzione di problemi nell'invio di email con allegati, inclusa la correzione della duplicazione degli allegati e del completamento dei suggerimenti email dei referenti. Migliora anche la gestione dei permessi per l'invio di email, consentendo agli utenti autorizzati di inviare allegati anche senza permessi specifici sul modulo Coda di invio.
+E' ora gestita la pausa nelle sessioni, vengono registrate le informazioni relative al Token sessione/Ultimo login nell'utente, è stata aggiunta la selezione della sede destinazione in fase di importazione delle fatture elettroniche, ed è stato aggiunto un modulo Link navbar per aggiungere collegamenti personalizzabili al menu superiore
 
-#### Correzione sulla gestione dei riferimenti dei documenti collegati
+#### **Sicurezza e integrazioni**
 
-Correzioni varie sui documenti e template di stampa: corretta l'impostazione dei riferimenti tra documenti collegati, il template di stampa DDT, e la visualizzazione delle banche per fatture con metodo di pagamento SEPA. Questi miglioramenti garantiscono una coerenza maggiore tra i documenti e una corretta visualizzazione delle informazioni bancarie.
+Adeguamento al tracciato SDI 1.9.1, gestione login OAuth2 con Keycloak, firma GDPR con selezione condizioni, stampa GDPR in anagrafica ed estesa compatibilità a php8.5, MySQL8.4 e MariaDB12.2
 
-#### Migliorie generali e sulla sicurezza
+#### **Ottimizzazioni e refactoring**
 
-Correzioni generali che includono la correzione dell'autenticazione OAuth2, l'upload degli allegati nell'editor CKEditor per moduli senza permessi, la selezione dei segmenti predefiniti. Queste correzioni migliorano la sicurezza, l'usabilità complessiva del sistema e l'esperienza utente in vari moduli.
+Conversione naming tabelle/colonne in snake\_case, allineamento query MariaDB, tour guidato per moduli principali, ottimizzazione importazioni e invio fatture elettroniche con tracking fallite
