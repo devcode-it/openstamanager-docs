@@ -8,11 +8,15 @@ description: Come aggiornare OpenSTAManager
 Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
 {% endhint %}
 
+{% hint style="info" %}
+A partire dalla versione 2.11, le versioni di php < php8.3 non sono piu supportate, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
+{% endhint %}
+
 La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 
-* eseguire i controlli di integrità del database e correggere ogni errore segnalato, in modo da evitare che le query diano errore in fase di aggiornamento: [https://docs.openstamanager.com/v/2.8.1/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database](https://docs.openstamanager.com/v/2.5.4/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database)
+* eseguire i controlli di integrità del database e correggere ogni errore segnalato, in modo da evitare che le query diano errore in fase di aggiornamento: [https://docs.openstamanager.com/v/2.11/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database](https://docs.openstamanager.com/v/2.11/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-databaseverificare)
 * **effettuare un backup del gestionale**
-* cambiare versione di php in php>=8.1
+* cambiare versione di php in php>=8.3
 * estrarre lo zip della release all'interno della root del gestionale
 * seguire la procedura guidata dell'aggiornamento, cliccando sul tasto Aggiorna!
 
