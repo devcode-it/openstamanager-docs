@@ -9,15 +9,15 @@ description: Come aggiornare OpenSTAManager
 ### Aggiornamento da versione <= 2.4.54
 
 {% hint style="info" %}
-Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale, è ora richiesta una versione minima di php8.1, massima di php8.3.
+Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale, è ora richiesta una **versione minima di php8.1, massima di php8.3**.
 
-Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
+Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento **estraendo manualmente lo zip della release all'interno della directory** in cui si trova il gestionale.
 {% endhint %}
 
 ### Aggiornamento da versione <= 2.7.x
 
 {% hint style="info" %}
-Con l'aggiornamento di alcune librerie di composer nella versione 2.8, per poter aggiornare il gestionale potrebbe essere necessario cancellare la cartella vendor ed estrarre manualmente i file presenti nella release nella root del gestionale. Questo perchè vecchi file presenti in vendor danno errore in fase di aggiornamento. A partire dalla versione 2.8.1 la sovrascrittura completa della cartella vendor è stata gestita.
+Con l'aggiornamento di alcune librerie di composer nella versione 2.8, per poter aggiornare il gestionale potrebbe essere necessario **cancellare la cartella vendor ed estrarre manualmente i file** presenti nella release nella root del gestionale. Questo perchè vecchi file presenti in vendor danno errore in fase di aggiornamento. A partire dalla versione 2.8.1 la sovrascrittura completa della cartella vendor è stata gestita.
 {% endhint %}
 
 ### Aggiornamento da versione <= 2.9.x
@@ -31,13 +31,13 @@ Questo non comporta alcun tipo di problema nell'utilizzo del gestionale, è unic
 ### Aggiornamento da versione <= 2.10.x
 
 {% hint style="info" %}
-A partire dalla versione 2.11, le versioni di php < php8.3 non sono più supportate, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
+A partire dalla versione 2.11, le versioni di **php < php8.3 non sono più supportate**, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
 
-La compatibilità con MySQL è stata invece estesa alla versione 8.4, ed è stata introdotta la compatibilità con MariaDB >= 10.5
+La compatibilità con **MySQL è stata invece estesa alla versione 8.4**, ed è stata introdotta la compatibilità con **MariaDB >= 10.5**
 {% endhint %}
 
-{% hint style="info" %}
-Inoltre, in questa versione sono stati introdotti importanti cambi strutturali del database, consigliamo di verificare dal modulo Aggiornamenti che non ci siano incongruenze a livello di database, altrimenti non trovando corrispondenza le query in fase di aggiornamento daranno errore.
+{% hint style="warning" %}
+Inoltre, in questa versione sono stati introdotti importanti cambi strutturali del database, consigliamo di **verificare dal modulo Aggiornamenti che non ci siano incongruenze a livello di database, altrimenti non trovando corrispondenza le query in fase di aggiornamento daranno errore.**
 
 A seguito di questo aggiornamento si renderà quindi necessario aggiornare tutte le eventuali viste custom presenti, e ogni personalizzazione o modifica rispetto alla versione Community edition del gestionale, oltre che aggiornare eventuali moduli premium del gestionale, pertanto consigliamo di verificare **prima** dell'aggiornamento, con lo staff di assistenza, la loro disponibilità.
 {% endhint %}
