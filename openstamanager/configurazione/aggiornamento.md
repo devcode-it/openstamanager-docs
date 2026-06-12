@@ -4,6 +4,8 @@ description: Come aggiornare OpenSTAManager
 
 # 🆙 Aggiornamento
 
+## Guida all'installazione da versioni precedenti:
+
 ### Aggiornamento da versione <= 2.4.54
 
 {% hint style="info" %}
@@ -36,7 +38,7 @@ Inoltre, in questa versione sono stati introdotti importanti cambi strutturali d
 A seguito di questo aggiornamento si renderà quindi necessario aggiornare tutte le eventuali viste custom presenti, e ogni personalizzazione o modifica rispetto alla versione Community edition del gestionale, oltre che aggiornare eventuali moduli premium del gestionale, pertanto consigliamo di verificare **prima** dell'aggiornamento, con lo staff di assistenza, la loro disponibilità.
 {% endhint %}
 
-### Come aggiornare
+## Come aggiornare
 
 La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 
@@ -50,7 +52,7 @@ La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 Nel caso di aggiornamento da vecchie versioni consigliamo di cancellare il file config.inc.php e di ricrearlo tramite procedura guidata, che si avvierà automaticamente al primo accesso al gestionale.
 {% endhint %}
 
-## Errori di aggiornamento
+### Errori di aggiornamento
 
 La procedura di aggiornamento, come ogni componente software, è soggetta a possibili errori.
 
@@ -58,7 +60,7 @@ La procedura di aggiornamento, come ogni componente software, è soggetta a poss
 
 In questi casi, si consiglia di contattare gli sviluppatori ufficiali e di consultare il [forum ufficiale](https://www.openstamanager.com/forum/) per eventuali segnalazioni simili.
 
-## Aggiornamento in corso
+### Aggiornamento in corso
 
 {% hint style="info" %}
 Mentre l'aggiornamento è in esecuzione, il gestionale rimarrà bloccato per tutti gli utenti ad eccezione di quello responsabile dell'inizio della procedura di aggiornamento.
