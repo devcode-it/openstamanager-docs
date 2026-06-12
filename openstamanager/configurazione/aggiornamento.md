@@ -4,28 +4,50 @@ description: Come aggiornare OpenSTAManager
 
 # 🆙 Aggiornamento
 
+### Aggiornamento da versione <= 2.4.54
+
 {% hint style="info" %}
 Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
 {% endhint %}
+
+### Aggiornamento da versione <= 2.7.x
+
+{% hint style="info" %}
+Con l'aggiornamento di alcune librerie di composer nella versione 2.8, per poter aggiornare il gestionale potrebbe essere necessario cancellare la cartella vendor ed estrarre manualmente i file presenti nella release nella root del gestionale. Questo perchè vecchi file presenti in vendor danno errore in fase di aggiornamento. A partire dalla versione 2.8.1 la sovrascrittura completa della cartella vendor è stata gestita.
+{% endhint %}
+
+### Aggiornamento da versione <= 2.9.x
+
+{% hint style="info" %}
+A causa di una nuova funzione introdotta nella versione 2.10 (GetWidgets), l'aggiornamento darà errore e sarà necessario aggiornare la pagina per procedere all'aggiornamento del database. A questo punto partirà l'aggiornamento database ma darà errore per lo stesso motivo, si rende necessario **procedere all'aggiornamento aggiungendo all'url ?force=1.**
+
+Questo non comporta alcun tipo di problema nell'utilizzo del gestionale, è unicamente un'aggiunta di funzione non gestita, gestita a partire dalla versione 2.10.
+{% endhint %}
+
+### Aggiornamento da versione <= 2.10.x
 
 {% hint style="info" %}
 A partire dalla versione 2.11, le versioni di php < php8.3 non sono piu supportate, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
 {% endhint %}
 
+{% hint style="info" %}
+Inoltre, in questa versione sono stati introdotti importanti cambi strutturali del database, consigliamo di verificare dal modulo Aggiornamenti che non ci siano incongruenze a livello di database, altrimenti non trovando corrispondenza le query in fase di aggiornamento daranno errore.
+
+A seguito di questo aggiornamento si renderà quindi necessario aggiornare tutte le eventuali viste custom presenti, e ogni personalizzazione o modifica rispetto alla versione Community edition del gestionale, oltre che aggiornare eventuali moduli premium del gestionale, pertanto consigliamo di verificare **prima** dell'aggiornamento, con lo staff di assistenza, la loro disponibilità.
+{% endhint %}
+
+### Come aggiornare
+
 La procedura corretta per installare i nuovi aggiornamenti di OSM è:
 
 * eseguire i controlli di integrità del database e correggere ogni errore segnalato, in modo da evitare che le query diano errore in fase di aggiornamento: [https://docs.openstamanager.com/v/2.11/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-database](https://docs.openstamanager.com/v/2.11/guide/esempi/verificare-linstallazione-di-osm#controllo-sul-databaseverificare)
 * **effettuare un backup del gestionale**
-* cambiare versione di php in php>=8.3
+* cambiare versione di php se necessario, con una versione compatibile
 * estrarre lo zip della release all'interno della root del gestionale
 * seguire la procedura guidata dell'aggiornamento, cliccando sul tasto Aggiorna!
 
 {% hint style="info" %}
 Nel caso di aggiornamento da vecchie versioni consigliamo di cancellare il file config.inc.php e di ricrearlo tramite procedura guidata, che si avvierà automaticamente al primo accesso al gestionale.
-{% endhint %}
-
-{% hint style="info" %}
-Con l'aggiornamento di alcune librerie di composer nella versione 2.8, per poter aggiornare il gestionale potrebbe essere necessario cancellare la cartella vendor ed estrarre manualmente i file presenti nella release nella root del gestionale. Questo perchè vecchi file presenti in vendor danno errore in fase di aggiornamento. A partire dalla versione 2.8.1 la sovrascrittura completa della cartella vendor è stata gestita.
 {% endhint %}
 
 ## Errori di aggiornamento
