@@ -9,7 +9,9 @@ description: Come aggiornare OpenSTAManager
 ### Aggiornamento da versione <= 2.4.54
 
 {% hint style="info" %}
-Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale. Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
+Con il passaggio da OSM 2.4.54 a OSM 2.5 sono cambiati i requisiti di php del gestionale, è ora richiesta una versione minima di php8.1, massima di php8.3.
+
+Per poter utilizzare le versioni a partire dalla 2.5 è pertanto necessario effettuare l'aggiornamento estraendo manualmente lo zip della release all'interno della directory in cui si trova il gestionale.
 {% endhint %}
 
 ### Aggiornamento da versione <= 2.7.x
@@ -29,7 +31,9 @@ Questo non comporta alcun tipo di problema nell'utilizzo del gestionale, è unic
 ### Aggiornamento da versione <= 2.10.x
 
 {% hint style="info" %}
-A partire dalla versione 2.11, le versioni di php < php8.3 non sono piu supportate, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
+A partire dalla versione 2.11, le versioni di php < php8.3 non sono più supportate, consigliamo pertanto di verificare di poter impostare questa versione di php sul server PRIMA di effettuare l'aggiornamento.
+
+La compatibilità con MySQL è stata invece estesa alla versione 8.4, ed è stata introdotta la compatibilità con MariaDB >= 10.5
 {% endhint %}
 
 {% hint style="info" %}
