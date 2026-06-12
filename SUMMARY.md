@@ -139,6 +139,7 @@
   * [📊 Statistiche](openstamanager/modules/statistiche.md)
   * [🗺️ Mappa](openstamanager/modules/mappa.md)
   * [🔨 Strumenti](openstamanager/modules/strumenti/README.md)
+    * [Link navbar](openstamanager/modules/strumenti/link-navbar.md)
     * [Gestione accessi](openstamanager/modules/strumenti/gestione-accessi/README.md)
       * [Accesso con Token/OTP](openstamanager/modules/strumenti/gestione-accessi/accesso-con-token-otp.md)
       * [Utenti e permessi](openstamanager/modules/strumenti/gestione-accessi/utentiepermessi.md)

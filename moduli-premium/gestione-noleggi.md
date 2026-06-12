@@ -6,9 +6,9 @@ description: Guida al modulo Gestione noleggi in OpenSTAMAanager
 
 Il modulo **Gestione Noleggi** è un'estensione per **OpenSTAManager** che permette di gestire in modo completo e integrato il noleggio di impianti e attrezzature. Il modulo offre funzionalità avanzate per tracciare lo stato dei noleggi, associare contratti e clienti, e mantenere uno storico dettagliato di tutte le operazioni.
 
-<figure><img src="../.gitbook/assets/immagine (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Caratteristiche Principali
 

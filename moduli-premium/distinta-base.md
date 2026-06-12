@@ -29,9 +29,9 @@ Il plugin Distinta Base offre le seguenti funzionalità principali:
 
 Dopo l'installazione, il plugin sarà disponibile nella sezione **Magazzino → Articoli**. Cliccando su un articolo, apparirà alla destra la sezione dei plugin con l'opzione "Distinta base".
 
-<figure><img src="../.gitbook/assets/immagine (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/immagine (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Creazione di una Distinta Base
 
@@ -40,7 +40,7 @@ Dopo l'installazione, il plugin sarà disponibile nella sezione **Magazzino → 
 3. Cliccare sul plugin "Distinta base" nella colonna destra
 4. Utilizzare il pulsante **+** per aggiungere componenti alla distinta
 
-<figure><img src="../.gitbook/assets/immagine (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Configurazione dell'Articolo Padre
 
