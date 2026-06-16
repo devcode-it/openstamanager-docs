@@ -177,4 +177,4 @@ L'operazione di correzione
 
 #### File .htaccess di sistema
 
-Verifica che il file .htaccess non sia stato modificato.
+Verifica la presenza di tutti i file .htaccess previsi a sistema e li rigenera in caso siano assenti. Se magari sono stati eliminati per sbaglio o non sono stati riportati nell'installazione, ripristina quelli che erano stati previsti dallo zip della release.
