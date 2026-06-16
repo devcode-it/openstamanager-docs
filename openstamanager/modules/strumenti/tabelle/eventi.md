@@ -9,7 +9,7 @@ icon: circle
 Il modulo **Eventi** permette di creare e modificare gli eventi presenti nel gestionale.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Creazione
 

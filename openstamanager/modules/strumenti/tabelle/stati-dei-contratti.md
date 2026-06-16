@@ -9,7 +9,7 @@ icon: circle
 Il modulo **Stati degli ordini** permette di creare e modificare gli stati degli ordini presenti nel gestionale.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Creazione
 
@@ -24,7 +24,7 @@ Andranno qui inserite le informazioni relative al nuovo stato da creare:
 * Se Fatturabile
 * Icona
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Modifica
 
@@ -37,4 +37,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Se impegnato
 * Se fatturabile
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

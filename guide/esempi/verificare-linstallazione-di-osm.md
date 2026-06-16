@@ -4,7 +4,7 @@ description: Come verificare la corretta installazione e configurazione di OpenS
 
 # 🔨 Verificare l'installazione di OSM
 
-### Verificare che i requisiti di OSM siano rispettati
+## Verificare che i requisiti di OSM siano rispettati
 
 L'installazione del gestionale richiede la presenza di un web server Apache con abilitato il [DBMS MySQL](https://www.mysql.com) e il linguaggio di programmazione [PHP](https://php.net).
 
@@ -12,88 +12,85 @@ L'installazione del gestionale richiede la presenza di un web server Apache con 
 
 | PHP | EOL        |                                                        Supportato                                                       |
 | --- | ---------- | :---------------------------------------------------------------------------------------------------------------------: |
+| 8.5 | 20/11/2025 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.4 | 21/11/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.3 | 23/11/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 8.2 | 08/12/2025 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 8.1 | 25/11/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 
 
 
 | MYSQL | EOL        |                                                        Supportato                                                       |
 | ----- | ---------- | :---------------------------------------------------------------------------------------------------------------------: |
-| 8.3   | 30/04/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 8.2   | 31/01/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.4   | 30/04/2032 |                           <img src="../../.gitbook/assets/image.png" alt="" data-size="line">                           |
+| 8.3   | 10/04/2024 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.2   | 14/12/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 | 8.1   | 25/10/2023 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
-| 8.0   | 01/04/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
+| 8.0   | 30/04/2026 | <img src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" alt="heavy_check_mark" data-size="line"> |
 
-Le versioni di PHP supportate sono dalla 8.1 alla 8.3, mentre quelle di MySQL dalla 8.0 alla 8.3.
+Le versioni di PHP supportate sono dalla 8.3 alla 8.5, mentre quelle di MySQL dalla 8.0 alla 8.4.
 
 {% hint style="warning" %}
-Il gestionale non è compatibile con MariaDB.
+Stiamo introducendo la compatibilità con MariaDB
 {% endhint %}
 
 Si può verificare se i requisiti vengono rispettati da Strumenti/Aggiornamenti, nella sezione evidenziata.
 
-<figure><img src="../../.gitbook/assets/immagine (1258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### Eseguire i controlli sull'integrità dell'installazione
+### Incongruenze file e database
 
-#### Controllo sui file
+In questa sezione è possibile identificare incongruenze tra i valori attesi a database e quelli effettivamente presenti nel software, dovuti a personalizzazioni, aggiornamenti interrotti, o query che possono aver dato errore in fase di aggiornamento.
 
-Il controllo dei file si può effettuare da Strumenti/Aggiornamenti cliccando su Controlla file.
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (1259).png" alt=""><figcaption></figcaption></figure>
+#### File personalizzati
 
-Qui verranno elencati tutti i file che presentano modifiche rispetto a quelli registrati nella versione ufficiale.
+In questa sezione vengono riportati i file che sono stati modificati rispetto al checksum presente nello zip della release:
 
-{% hint style="warning" %}
-Questa funzionalità potrebbe presentare dei risultati falsamente positivi, sulla base del contenuto del file checksum.json
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (898).png" alt=""><figcaption></figcaption></figure>
+#### Tabelle non previste
 
-#### Controllo sul database
+In questa sezione vengono elencate le tabelle non previste nella versione community edition del gestionale, che possono derivare da interventi dell'utente, personalizzazioni o vecchie tabelle che le query di aggiornamento non sono riuscite a rinominare o rimuovere
 
-Il controllo del database può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla database.
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (1260).png" alt=""><figcaption></figcaption></figure>
+#### Viste personalizzate
 
-Qui verranno elencate le tabelle del database che presentano una struttura diversa rispetto a quella prevista nella versione ufficiale del gestionale.
+In questa sezione vengono indicate le viste personalizzate dal modulo Viste, indicando il valore atteso (in verde) e quello presente nel gestionale (in rosso), la modifica di questi valori può causare la rottura della query relativa alla vista del modulo. Consigliamo di verificare e allineare le viste personalizzate a seguito di ogni aggiornamento.
 
-{% hint style="warning" %}
-Questa funzionalità può presentare dei risultati falsamente positivi, sulla base del contenuto del file database.json o nel caso di aggiornamento del database alla versione 8.0.30 di MySQL.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (445).png" alt=""><figcaption></figcaption></figure>
+#### Moduli personalizzati
 
-#### Controllo sul gestionale
+In questa sezione vengono indicate le query dei moduli personalizzati dal modulo Viste, sia dove è stata aggiunta una query custom nel campo options2:
 
-Il controllo sul gestionale può essere effettuato da Strumenti/Aggiornamenti cliccando su Controlla gestionale, e a seguito su Avvia controlli.
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/immagine (1261).png" alt=""><figcaption></figcaption></figure>
+sia quando la query originale non corrisponde a quella prevista, a causa di un errore di aggiornamento o una modifica utente:
 
-Qui verranno effettuati 3 controlli:
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-1. Se ogni voce del piano dei conti è correttamente collegato a un'anagrafica
-2. Se gli importi degli XML delle fatture elettroniche hanno corrispondenza con gli importi delle fatture di vendita
-3. Se sono presenti colonne duplicate per le Viste
+#### Campi personalizzati
 
-<figure><img src="../../.gitbook/assets/immagine (1262).png" alt=""><figcaption></figcaption></figure>
+In questa sezione vengono evidenziati i campi mancanti a database, i campi modificati, le chiavi esterne assenti e quelle modificate
 
-### Verificare la presenza di personalizzazioni
+<figure><img src="../../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
 
-Nel caso siano presenti personalizzazioni, esse verranno elencate nella parte superione della pagina in Strumenti/Aggiornamenti.
+#### Impostazioni personalizzate
 
-<figure><img src="../../.gitbook/assets/immagine (572).png" alt=""><figcaption></figcaption></figure>
+In questa sezione vengono indicate le impostazioni che hanno a database un valore del campo tipo diverso da quello atteso:
 
-{% hint style="warning" %}
-Le personalizzazioni possono essere effettuate sul modulo o sul database, e in caso siano presenti l'aggiornamento del gestionale senza il supporto dell'assistenza ufficiale è altamente sconsigliato.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
 
-Sotto la tabella contenente le personalizzazioni è possibile trovare l'elenco dei moduli modificati:
+#### Widgets personalizzati
 
-<figure><img src="../../.gitbook/assets/immagine (1011).png" alt=""><figcaption></figcaption></figure>
+In questa sezione vengono elencati i widgets che hanno a database una query diversa da quella prevista, e potrebbero quindi non essere allineati, ed eventuali widgets personalizzati:
 
-{% hint style="info" %}
-Nel caso in cui queste verifiche vengano superate e non si sia riusciti a risalire alla causa del problema, vi invitiamo a contattare l'assistenza.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (896).png" alt=""><figcaption></figcaption></figure>
+
+### Controlli di integrità
+
+E' possibile effettuare i controlli di integrità sul gestionale in questa apposita sezione:
+
+<figure><img src="../../.gitbook/assets/image (897).png" alt=""><figcaption></figcaption></figure>
 

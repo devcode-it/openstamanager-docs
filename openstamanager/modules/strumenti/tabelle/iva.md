@@ -9,7 +9,7 @@ icon: circle
 Il modulo **IVA** consente di creare e modificare le aliquote IVA presenti nel gestionale.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Creazione
 
@@ -25,7 +25,7 @@ Andranno qui inserite le informazioni relative alla nuova aliquota IVA da creare
 * Indetraibile
 * Esigibilità (fatturazione elettronica)
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Modifica
 
@@ -40,4 +40,4 @@ Cliccando sul record da modificare si aprirà la schermata di dettaglio, da cui 
 * Esigibilità (fatturazione elettronica)
 * Dicitura fissa in fattura
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
