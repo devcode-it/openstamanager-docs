@@ -94,3 +94,87 @@ E' possibile effettuare i controlli di integrità sul gestionale in questa appos
 
 <figure><img src="../../.gitbook/assets/image (897).png" alt=""><figcaption></figcaption></figure>
 
+Si aprirà quindi una modale con tutti i cotrolli del gestionale disponibili:
+
+<figure><img src="../../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
+
+#### Piano dei conti collegato alle anagrafiche
+
+Verifica che le anagrafiche del tipo Cliente e Fornitore abbiano il relativo conto del piano dei conti associato, e permette eventualmente di crearlo
+
+L'operazione di correzione:
+
+* Creerà automaticamente i conti mancanti per le anagrafiche Cliente e Fornitore
+* Assegnerà i conti appropriati alle anagrafiche interessate
+
+<figure><img src="../../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+
+#### Conti collegati alle anagrafiche non corrispondenti alle ragioni sociali
+
+Verifica che i conti collegati alle anagrafiche abbiano una descrizione che corrisponde a quella della ragione sociale, o se, in caso di anagrafiche rinominate, i due valori non sono allineati.
+
+L'operazione di correzione:
+
+* Creerà nuovi conti per le anagrafiche con conflitti multipli
+* Aggiornerà i movimenti contabili collegati
+* Eliminerà i conti vuoti non più utilizzati
+
+<figure><img src="../../.gitbook/assets/image (899).png" alt=""><figcaption></figcaption></figure>
+
+#### Anagrafiche con codici R.E.A. non validi
+
+Verifica che il formato inserito nel campo codice R.E.A. dell'anagrafica sia corretto
+
+<figure><img src="../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+
+#### Corrispondenze XML FE e Documenti di vendita
+
+Verifica che gli importi della fattura e i dati relativi all'anagrafica associata abbiano corrispondenza:
+
+<figure><img src="../../.gitbook/assets/image (902).png" alt=""><figcaption></figcaption></figure>
+
+#### Colonne duplicate per le Viste
+
+Verifica che non ci siano colonne duplicate per le viste, che darebbero quindi errore nella vista del modulo.
+
+La procedura di correzione:
+
+* Eliminerà i record duplicati nelle tabelle zz\_views e zz\_views\_lang
+* Manterrà sempre il record più recente (con ID maggiore) ed eliminerà gli altri
+
+<figure><img src="../../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
+
+#### Plugin duplicati per i Moduli
+
+Verifica che non ci siano plugin duplicati per i moduli, che darebbero quindi errore alla vista.
+
+La procedura di correzione:
+
+* Eliminerà i record duplicati nelle tabelle zz\_plugins e zz\_plugins\_lang
+* Manterrà sempre il record più recente (con ID maggiore) ed eliminerà gli altri
+
+<figure><img src="../../.gitbook/assets/image (904).png" alt=""><figcaption></figcaption></figure>
+
+#### Integrità tabelle multilingua
+
+Verifica che i record delle tabelle abbiano propria corrispondenza nella relativa tabella \_lang
+
+L'operazione di correzione inserirà i record mancanti nelle tabelle \_lang per tutte le lingue disponibili
+
+<figure><img src="../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
+
+#### Integrità file allegati
+
+Verifica che non ci siano file orfani nel sistema o nel database nella tabella zz\_files.
+
+L'operazione di correzione
+
+* RIMOZIONE FILE ORFANI: Rimuoverà definitivamente tutti i file presenti nel filesystem ma non registrati nel database
+* RIMOZIONE RECORD ORFANI: Rimuoverà dal database tutti i record che puntano a file fisici inesistenti
+* Libererà spazio su disco e pulirà il database da riferimenti non validi
+
+<figure><img src="../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
+
+#### File .htaccess di sistema
+
+Verifica che il file .htaccess non sia stato modificato.
