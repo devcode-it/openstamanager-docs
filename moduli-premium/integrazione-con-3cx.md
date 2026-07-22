@@ -12,11 +12,11 @@ Sono disponibili due moduli distinti:
 
 * **Centralino 3CX** gestisce la registrazione delle chiamate e la visualizzazione dello storico;
 
-<figure><img src="../.gitbook/assets/immagine (1239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1472).png" alt=""><figcaption></figcaption></figure>
 
 * **Operatori 3CX** permette l'assegnazione di anagrafiche Tecnico a uno specifico interno di chiamata, con gestione del relativo storico delle assegnazioni.
 
-<figure><img src="../.gitbook/assets/immagine (1238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1473).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [Clicca qui ](https://shop.openstamanager.com/prodotto/3cx/)per procedere all'acquisto
@@ -34,7 +34,7 @@ Una volta aperti i dettagli della chiamata, è possibile procedere alla creazion
 **Attenzione**: le chiamate in uscita non generano mai una notifica, ma sono accessibili dall'elenco principale del modulo Centralino 3CX.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/immagine (1240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/immagine (1474).png" alt=""><figcaption></figcaption></figure>
 
 ### Caratteristiche principali
 
