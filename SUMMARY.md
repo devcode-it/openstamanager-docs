@@ -128,7 +128,7 @@
     * [Giacenze sedi](openstamanager/modules/magazzino/giacenze-sedi.md)
     * [Combinazioni](openstamanager/modules/magazzino/combinazioni.md)
     * [Attributi combinazioni](openstamanager/modules/magazzino/attributi-combinazioni.md)
-    * [Automezzi](openstamanager/modules/magazzino/automezzi.md)
+    * [Automezzi](openstamanager/modules/magazzino/giacenze-sedi-1.md)
   * [🪝 Impianti](openstamanager/modules/impianti/README.md)
     * [Creazione](openstamanager/modules/impianti/creazione.md)
     * [Modifica](openstamanager/modules/impianti/modifica.md)

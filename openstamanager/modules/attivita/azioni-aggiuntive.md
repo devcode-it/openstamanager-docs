@@ -151,7 +151,7 @@ Con questa funzionalità è possibile eliminare massivamente gli interventi
 
 Con OpenSTAManager è possibile sincronizzare le attività con il calendario del proprio telefono tramite l'apposita App.
 
-![](<../../../.gitbook/assets/image (580).png>)
+<img src="../../../.gitbook/assets/image (580).png" alt="" width="375">
 
 Per i dettagli su come configurare l'App tecnici consultare l'[apposita guida](../../../guide/esempi/calendario-su-telefono.md).
 
