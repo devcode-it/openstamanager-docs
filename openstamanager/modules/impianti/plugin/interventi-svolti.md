@@ -10,7 +10,7 @@ metaLinks:
 # Interventi svolti
 
 {% hint style="info" %}
-Il plugin **interventi svolti** restituisce il numero di interventi effettuati con relativa _Descrizione_ e _Costo totale_.
+Il plugin **Interventi svolti** restituisce il numero di interventi effettuati con relativa _Descrizione_ e _Costo totale_.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>

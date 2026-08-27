@@ -9,7 +9,7 @@ metaLinks:
 # 💰 Vendite
 
 {% hint style="info" %}
-Il modulo Vendite permette di gestire i documenti in uscita (Preventivi, Contratti, Ordini cliente e Fatture di vendita) e i contratti verso clienti dell'azienda.
+Il modulo **Vendite** permette di gestire i documenti in uscita (Preventivi, Contratti, Ordini cliente e Fatture di vendita) e i contratti verso clienti dell'azienda.
 {% endhint %}
 
 ## ⛵ Navigazione

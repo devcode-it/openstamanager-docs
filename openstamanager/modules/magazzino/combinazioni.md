@@ -10,7 +10,7 @@ metaLinks:
 # Combinazioni
 
 {% hint style="info" %}
-Il modulo Combinazioni permette di creare una combinazione a cui associare un determinato Attributo e un articolo di magazzino per ogni suo valore.
+Il modulo **Combinazioni** permette di creare una combinazione a cui associare un determinato Attributo e un articolo di magazzino per ogni suo valore.
 {% endhint %}
 
 ## Creazione

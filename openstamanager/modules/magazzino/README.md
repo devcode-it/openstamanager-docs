@@ -9,7 +9,7 @@ metaLinks:
 # 📦 Magazzino
 
 {% hint style="info" %}
-Il modulo Magazzino permette di gestire gli articoli e i loro movimenti fino alla loro uscita dall'azienda.
+Il modulo **Magazzino** permette di gestire gli articoli e i loro movimenti fino alla loro uscita dall'azienda.
 {% endhint %}
 
 ## Navigazione

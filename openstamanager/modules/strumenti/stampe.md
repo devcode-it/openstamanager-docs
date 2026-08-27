@@ -10,7 +10,7 @@ metaLinks:
 # Stampe
 
 {% hint style="info" %}
-Il modulo Stampe permette di personalizzare i modelli predefiniti di stampa.
+Il modulo **Stampe** permette di personalizzare i modelli predefiniti di stampa.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (613).png>)

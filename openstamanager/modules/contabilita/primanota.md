@@ -10,7 +10,7 @@ metaLinks:
 # Prima nota
 
 {% hint style="info" %}
-Il modulo **prima nota** è uno strumento che viene utilizzato per registrare movimenti contabili di un'attività. I movimenti sono visualizzabili nel [piano dei conti](pianodeiconti.md).
+Il modulo **Prima nota** è uno strumento che viene utilizzato per registrare movimenti contabili di un'attività. I movimenti sono visualizzabili nel [piano dei conti](pianodeiconti.md).
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@ metaLinks:
 # Fatturazione elettronica
 
 {% hint style="info" %}
-Dal plugin Fatturazione elettronica è possibile gestire la fatturazione elettronica di un documento.
+Dal plugin **Fatturazione elettronica** è possibile gestire la fatturazione elettronica di un documento.
 {% endhint %}
 
 La schermata si presenta così, permettendo di:

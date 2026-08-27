@@ -9,7 +9,7 @@ metaLinks:
 # 🗺️ Mappa
 
 {% hint style="info" %}
-Il modulo Mappa permette di localizzare le attività sulla mappa, in base agli indirizzi dell'anagrafica del cliente collegato.
+Il modulo **Mappa** permette di localizzare le attività sulla mappa, in base agli indirizzi dell'anagrafica del cliente collegato.
 {% endhint %}
 
 ## Navigazione
