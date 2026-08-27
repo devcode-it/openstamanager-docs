@@ -5,7 +5,7 @@ description: Guida al modulo Gestione documentale di OpenSTAManager
 # 📖 Gestione documentale
 
 {% hint style="info" %}
-Il modulo **gestione documentale** permette di creare un elenco di _documenti_ gestibili per categoria.
+Il modulo **Gestione documentale** permette di creare un elenco di _documenti_ gestibili per categoria.
 {% endhint %}
 
 ## Navigazione

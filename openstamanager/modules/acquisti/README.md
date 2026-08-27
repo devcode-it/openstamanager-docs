@@ -5,7 +5,7 @@ description: Guida al modulo Acquisti in OpenSTAManager
 # 💵 Acquisti
 
 {% hint style="info" %}
-Il modulo Acquisti permette di gestire i documenti in entrata (Ordini fornitore e Fatture di acquisto).
+Il modulo **Acquisti** permette di gestire i documenti in entrata (Ordini fornitore e Fatture di acquisto).
 {% endhint %}
 
 ## Navigazione

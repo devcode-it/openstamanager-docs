@@ -5,7 +5,7 @@ description: Guida al modulo Magazzino in OpenSTAManager
 # 📦 Magazzino
 
 {% hint style="info" %}
-Il modulo Magazzino permette di gestire gli articoli e i loro movimenti fino alla loro uscita dall'azienda.
+Il modulo **Magazzino** permette di gestire gli articoli e i loro movimenti fino alla loro uscita dall'azienda.
 {% endhint %}
 
 ## Navigazione

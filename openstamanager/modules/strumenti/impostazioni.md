@@ -5,7 +5,7 @@ icon: sliders-up
 
 # Impostazioni
 
-Il modulo **impostazioni** presenta tutte le impostazioni presenti a gestionale, suddivise per moduli:
+Il modulo **Impostazioni** presenta tutte le impostazioni presenti a gestionale, suddivise per moduli:
 
 <figure><img src="../../../.gitbook/assets/image (884).png" alt=""><figcaption></figcaption></figure>
 

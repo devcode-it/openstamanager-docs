@@ -6,7 +6,7 @@ icon: circle
 # Casse previdenziali
 
 {% hint style="info" %}
-Il modulo Casse previdenziali permette di creare e modificare le casse previdenziali presenti nel gestionale.
+Il modulo **Casse previdenziali** permette di creare e modificare le casse previdenziali presenti nel gestionale.
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/immagine (41).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@ icon: circle
 # Attributi combinazioni
 
 {% hint style="info" %}
-Il modulo Attributi combinazioni permette di definire gli attributi per classificare le combinazioni di varianti degli articoli di magazzino.
+Il modulo **Attributi combinazioni** permette di definire gli attributi per classificare le combinazioni di varianti degli articoli di magazzino.
 {% endhint %}
 
 ## Creazione
