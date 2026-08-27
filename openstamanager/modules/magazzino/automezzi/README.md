@@ -78,3 +78,17 @@ Per poter assegnare un Tecnico ad un viaggio, deve prima essere stato assegnato 
 E' inoltre possibile firmare il registro di viaggio tramite il pulsante disponibile sotto la voce **Firma**.
 
 <figure><img src="../../../../.gitbook/assets/image (900).png" alt=""><figcaption></figcaption></figure>
+
+## Plugin
+
+Selezionando uno specifico record si può accedere a diversi plugin nella barra laterale della pagina:
+
+* Manutenzioni
+* Scadenze
+* Danni
+
+## Informazioni aggiuntive
+
+{% content-ref url="plugin/" %}
+[plugin](plugin/)
+{% endcontent-ref %}
