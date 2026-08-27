@@ -135,6 +135,7 @@
         * [Manutenzioni](openstamanager/modules/magazzino/automezzi/plugin/manutenzioni.md)
         * [Scadenze](openstamanager/modules/magazzino/automezzi/plugin/scadenze.md)
         * [Danni](openstamanager/modules/magazzino/automezzi/plugin/danni.md)
+      * [Tipi carburante](openstamanager/modules/magazzino/automezzi/tipi-carburante.md)
   * [🪝 Impianti](openstamanager/modules/impianti/README.md)
     * [Creazione](openstamanager/modules/impianti/creazione.md)
     * [Modifica](openstamanager/modules/impianti/modifica.md)
